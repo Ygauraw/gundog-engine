@@ -5,7 +5,7 @@ A 3D game engine and online tower defense game for Android and the desktop.
 
 ## About
 
-I wrote this code without access to the internet while I was deployed in Afghanistan.  Prior to this, I had no experience developing Android applications.  Nor had I written a single line of OpenGL (or any 3D graphics) code.  All I had to help was a MyTouch 3G, an old Eclipse install with the Android sdk, and two books I purchased from Amazon.  This project began as a series of hacks to learn both Android, OpenGL, and game development.  Most of the code is disgusting and makes me cringe when I look at it now.  That being said, there are still some interesting things that others may find useful in the code, which is why I took the time to open source it.
+I wrote this code without access to the internet while I was deployed in Afghanistan.  Prior to this I had not programmed for almost three years, I had no experience developing Android applications, nor had I written a single line of OpenGL (or any 3D graphics) code.  All I had to help was a MyTouch 3G, an old Eclipse install with the Android sdk, and two books I purchased from Amazon.  This project began as a series of hacks to learn both Android, OpenGL, and game development.  Most of the code is disgusting and makes me cringe when I look at it now.  That being said, there are still some interesting things that others may find useful in the code, which is why I took the time to open source it.
 
 ## Key features
 
