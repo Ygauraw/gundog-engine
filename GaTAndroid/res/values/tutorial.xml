@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_intro">Welcome to the tutorial level. Here we will teach you how to use all of the features in Gods and Towers.  You will notice a scrollbar on the right side of some of these popups as the tutorial progresses.  Do not forget to scroll down to get all of the information.</string>
+    <string name="tutorial_game_area">What you see now is your board, drag your finger around the board to move it around.  You will notice obstacles such as rocks and trees that prevent you from building towers.  You will also notice a sparkling blue area, this is where creatures spawn.  At some other point on the map there will be a sparkling red area, this is where creatures are trying to move too.  If they reach the red area, you lose a life, when your life reaches 0, the game is over.  Take some time to view the board and identify each of the key features now.</string>
+    <string name="tutorial_top_menu">At the top of the screen there is key information that lets you know your current life, how much money you have on hand, how many waves have passed, how much income you will receive on the next wave, and also the time remaining until the next wave.</string>
+    <string name="tutorial_top_menu_life">This is how much life you have remaining.  When it reaches 0, you lose.</string>
+    <string name="tutorial_top_menu_gold">This is how much gold you have to purchase towers and creatures.</string>
+    <string name="tutorial_top_menu_income">On the right side this is how much income you will receive on the next wave, along with the time until the next wave.</string>
+    <string name="tutorial_bottom_menu">At the bottom of the screen you will notice several buttons.  These buttons allow you to buy towers, buy creatures, use specials, change options, enable attacking, and pause/resume the game.</string>
+    <string name="tutorial_bottom_menu_tower">This brings up the Towers menu.  It shows you all the towers you can use, along with towers you have not yet unlocked.</string>
+    <string name="tutorial_bottom_menu_creature">This brings up the Creatures menu.  It shows you all the creatures you can use, along with creatures you have not yet unlocked.</string>
+    <string name="tutorial_bottom_menu_special">This brings up the Specials menu.  It shows you all the Specials you can use.</string>
+    <string name="tutorial_bottom_menu_option">This brings up the Options menu.  You can turn off music and change the view of the game from here.</string>
+    <string name="tutorial_bottom_menu_attacking">This enables attacking, we will discuss this more later.</string>
+    <string name="tutorial_bottom_menu_pause">This allows you to pause the game and resume it when you are ready.</string>
+    <string name="tutorial_buying_tower">The enemy summoned creatures, so we should build some towers to defend ourselves.  Click on the tower button and select a tower to build.</string>
+    <string name="tutorial_buying_tower_pick">Click on the picture of the tower you want to purchase.  You will see the cost of the tower next to its picture.  In the bottom right of the screen the towers damage and attack speed appear when you select it.</string>
+    <string name="tutorial_buying_tower_selected">Now that you have selected a tower you must pick a location on the screen to build it.  You will notice that the tower appears on the screen and has a blue range aura that shows you how far the tower can attack.  If you place a tower at a spot you do not want it, just click on the tower again and it will disappear.  When you are ready to purchase the tower, select the purchase button on the bottom left corner of the screen.  To cancel building towers, press the cancel button.</string>
+    <string name="tutorial_buying_tower_purchase">This button is used to confirm purchases and will build all the towers you placed on the screen.  Towers that are placed at invalid locations such as on rocks, trees, or creatures will not be built.  If you try and build a tower to block the path of the creatures, it will not be built.</string>
+    <string name="tutorial_buying_tower_cancel">If you decide you no longer want to purchase towers, press this button.  All pending towers on the board will be removed.</string>
+    <string name="tutorial_build_maze">Great job, now as more creatures come, we will need more towers.  Build 10 more towers now.  Make sure you place them in the path of creatures to slow their movement to the exit point.  Constructing a maze will enable your towers to attack creatures more than once, and increase the distance that creatures need to travel.</string>
+    <string name="tutorial_upgrade_tower">As the game progresses you will run out of places to put towers, creatures however will continue to come, and will get stronger.  At this point you should start upgrading your towers.  Select a tower to bring up the upgrade menu.</string>
+    <string name="tutorial_upgrade_tower_selected">Great, now in this menu you will see a picture of the tower and also a button to sell the tower.</string>
+    <string name="tutorial_upgrade_tower_purchase">Click on the tower icon to purchase the upgrade.  The cost is displayed next to the tower.</string>
+    <string name="tutorial_upgrade_tower_sell">Clicking on this button will sell the tower, removing it from the map.</string>
+    <string name="tutorial_upgrade_tower_cancel">If you decide you no longer want to upgrade or sell the tower click on this button at the bottom left corner of the screen.</string>
+    <string name="tutorial_upgrade_tower_long_press">Long press the tower icon to upgrade the tower as many times as your money allows.</string>
+    <string name="tutorial_side_buttons">When playing in Battle or Online mode, you will see buttons on the side of the screen.  These allow you to view the enemies board.  This can be useful when deciding which creatures to purchase.  The game will tell you what board you are looking at with a brief popup at the bottom center of the screen.  You cannot build towers on the enemies board.  Take some time to view the enemies board.</string>
+    <string name="tutorial_side_buttons_pic">This is a side button that will take you to see the enemies board.</string>
+    <string name="tutorial_buying_creature">You will notice the enemy has not purchased any towers, this is because you have not summoned any creatures to attack yet.  Press the creature button to bring up your creature menu.  Clicking on a creature summons it if you have enough money.  Go ahead and summon some creatures and watch them appear on the enemies board.</string>
+    <string name="tutorial_buying_creature_purchase">Click on the creature icon to purchase it.  Next to the creature you will see how much it costs.  Also at the bottom right corner of the screen you will see the creatures health and movement speed after you select it.</string>
+    <string name="tutorial_buying_creature_cancel">If you no longer want to purchase creatures, select the cancel button at the bottom left corner of the screen.</string>
+    <string name="tutorial_buying_creature_long_press">Long press the creature icon to enable/disable auto-purchase.  With auto-purchase enabled you will purchase the creature every second if you have enough gold.</string>
+    <string name="tutorial_attacking">There may be times when the enemy has constructed a difficult maze that your creatures are unable to move through.  This is when attacking may be useful.  With attacking enabled creatures will attempt to move to the exit and will attack any towers in their path.  Remember that when you turn on attacking, you slowly lose gold, if you run out of money, attacking will automatically be disabled.  Try turning on attacking now.</string>
+    <string name="tutorial_attacking_button">Select this to enable attacking.</string>
+    <string name="tutorial_attacking_move">Select this to disable attacking.</string>
+    <string name="tutorial_specials">Sometimes your towers are not enough to stop the enemy creatures, or your creatures cannot seem to make it through the enemy towers.  Using specials provides a boost to help you win.  Try using a special now.</string>
+    <string name="tutorial_specials_damage">This special damages all creatures on your board</string>
+    <string name="tutorial_specials_heal">This special heals all your creatures on the enemies board</string>
+    <string name="tutorial_specials_kill">This special kills several random creatures on your board</string>
+    <string name="tutorial_specials_slow">This special slows all creatures on your board for a short time</string>
+    <string name="tutorial_specials_speed">This special speeds up your creatures for a short time</string>
+    <string name="tutorial_specials_stun">This special stuns all the creatures on your board for a short time</string>
+    <string name="tutorial_options_menu">Now lets look at the options menu.  You will notice several buttons that allow you to alter the game view, play/pause the music, and return the game view to the default settings.</string>
+    <string name="tutorial_options_menu_zoomin">Use this to zoom in</string>
+    <string name="tutorial_options_menu_zoomout">Use this to zoom out</string>
+    <string name="tutorial_options_menu_rotateup">Use this to rotate the view up</string>
+    <string name="tutorial_options_menu_rotatedown">Use this to rotate the view down</string>
+    <string name="tutorial_options_menu_default">Use this to return the view to its default location</string>
+    <string name="tutorial_options_menu_play">Use this to enable music</string>
+    <string name="tutorial_options_menu_pause">Use this to disable music</string>
+    <string name="tutorial_upgrading">As you play Gods and Towers you will earn experience, this experience can be used to upgrade your starting Life/Gold, Race bonuses, Creature abilities, and Tower abilities.  Each race has special bonuses that apply to all creatures and towers of that race, upgrading them benefits all creatures/towers of that type. Tower/Creature upgrades only affect the tower/creature and increase their power for every game you play.  If you forget what a stat is just long-press the stat icon in the upgrade menu and it will tell you.</string>
+    <string name="tutorial_completion">Congratulations, you have completed the tutorial.  Play the campaign to unlock more creatures and towers.  Complete achievements to earn extra experience and gain specials to use in game.  The more achievements you unlock, the more experience you get from playing.</string>
+    <string name="tutorial_continue">Continue…</string>
+
+</resources>

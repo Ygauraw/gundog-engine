@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Ice катапульта"</string>
+	<string name="water_pillar">"Вода компонент"</string>
+	<string name="water_emitter">"Вода эмитента"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Молния Cannon"</string>
+	<string name="griffin_statue">"Гриффин Статуя"</string>
+	<string name="lightning_pillar">"Молния компонент"</string>
+	<string name="lightning_emitter">"Молния эмитента"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Рок-пушка"</string>
+	<string name="stone_catapult">"Камень катапульта"</string>
+	<string name="earth_pillar">"Земля компонент"</string>
+	<string name="dirt_emitter">"Грязь эмитента"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flame Cannon"</string>
+	<string name="flame_catapult">"Пламя катапульта"</string>
+	<string name="fire_pillar">"Пожар компонент"</string>
+	<string name="fire_emitter">"Пожар эмитента"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Энергия Cannon"</string>
+	<string name="angel_statue">"Статуя ангела"</string>
+	<string name="life_pillar">"Жизнь компонент"</string>
+	<string name="holy_water_emitter">"Святая вода эмитента"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Яд Cannon"</string>
+	<string name="gargoyle_statue">"Горгулья Статуя"</string>
+	<string name="undead_pillar">"Нежить компонент"</string>
+	<string name="toxic_gas_emitter">"Токсичный газ эмитента"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Flame Whip"</string>
+	<string name="water_whip">"Вода Whip"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"Пламя Кристаллизатор"</string>
+	<string name="ice_crystallizer">"Ice Кристаллизатор"</string>
+	<string name="earth_crystallizer">"Земля Кристаллизатор"</string>
+	<string name="lightning_blade">"Лезвие молний"</string>
+	<string name="ice_blade">"Ледяной Клинок"</string>
+	<string name="flame_blade">"Пламя лезвия"</string>
+	<string name="earth_ballista">"Земля Баллиста"</string>
+	<string name="ice_ballista">"Ice Баллиста"</string>
+	<string name="flame_ballista">"Пламя Баллиста"</string>
+	
+</resources>

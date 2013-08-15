@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Witamy na poziomie samouczka. Tutaj będziemy uczyć, jak korzystać ze wszystkich funkcji w Bogów i wieżami. Można zauważyć, pasek przewijania z prawej strony niektórych z tych pop-upów, jak postępuje samouczka. Nie zapomnij, aby przewinąć w dół, aby uzyskać wszystkie informacje."</string>
+    <string name="tutorial_game_area">"To, co widzisz teraz jest deska, przeciągnij palcem wokół planszy, aby przenieść go wokół. Można zauważyć przeszkody, takie jak skały i drzewa, które uniemożliwiają budowę wież. Możesz również zauważyć musujące niebieski obszar, to gdzie stwory tarło. W jakimś innym miejscu na mapie będzie musujące czerwony obszar, to gdzie stwory próbują przenieść też. Jeśli dotrą w czerwonym polu, można stracić życie, gdy twoje życie osiągnie 0, gra jest skończona. Poświęć trochę czasu, aby wyświetlić planszę i tożsamości każdej z głównych cech teraz."</string>
+    <string name="tutorial_top_menu">"Na górze ekranu znajduje się kluczowe informacje, które pozwala wiedzieć bieżącego życia, ile masz pieniędzy w kasie, ile fale minęło, ile dochód otrzymasz na następnej fali, a także czas pozostały do Kolejna fala."</string>
+    <string name="tutorial_top_menu_life">"Jest to, jak bardzo życie już pozostały. Gdy osiągnie 0, można stracić."</string>
+    <string name="tutorial_top_menu_gold">"To, ile złota trzeba kupić wieże i stworzeń."</string>
+    <string name="tutorial_top_menu_income">"Po prawej stronie jest to, ile dochód otrzymasz na następnej fali, wraz z czasem, aż do następnej fali."</string>
+    <string name="tutorial_bottom_menu">"Na dole ekranu można zauważyć kilka przycisków. Przyciski te pozwalają kupić wieże, stwory kupna, promocje użytkowania, opcje i umożliwiają atakowanie i wstrzymywanie / wznawianie gry."</string>
+    <string name="tutorial_bottom_menu_tower">"Pojawi się menu Towers. To pokazuje wszystkie wieże można używać wraz z wieżami jeszcze nie odblokowany."</string>
+    <string name="tutorial_bottom_menu_creature">"Pojawi się menu Stworzenia. To pokazuje wszystkie potwory można używać wraz z istot jeszcze nie odblokowany."</string>
+    <string name="tutorial_bottom_menu_special">"Pojawi się menu specjalne. To pokazuje wszystkie promocje można użyć."</string>
+    <string name="tutorial_bottom_menu_option">"Pojawi się menu Opcje. Można wyłączyć muzykę i zmienić widok w grze tutaj."</string>
+    <string name="tutorial_bottom_menu_attacking">"Dzięki temu atakujący, omówimy to później."</string>
+    <string name="tutorial_bottom_menu_pause">"To pozwala wstrzymać grę i wznowić go, gdy jesteś gotowy."</string>
+    <string name="tutorial_buying_tower">"Wróg przywołane istoty, więc powinniśmy budować kilka wież się bronić. Kliknij przycisk wieży i wybierz wieżę zbudować."</string>
+    <string name="tutorial_buying_tower_pick">"Kliknij na zdjęcie wieży, którą chcesz zakupić. Pojawi się koszty wieży obok jego zdjęcia. W prawym dolnym rogu ekranu uszkodzenia wież i szybkość ataku pojawiają się po wybraniu go."</string>
+    <string name="tutorial_buying_tower_selected">"Teraz, gdy wybrano wieżę trzeba wybrać miejsce na ekranie do jego budowy. Można zauważyć, że wieża pojawia się na ekranie i ma niebieską aurę zasięgu, które pokazują, jak daleko wieża może atakować. Jeśli umieścisz wieżę na miejscu nie chcesz, po prostu kliknij na wieży ponownie i to zniknie. Gdy jesteś gotowy do zakupu wieży, wybierz przycisk kupna na lewym dolnym rogu ekranu. Aby anulować wieże budowlanych, należy nacisnąć przycisk Anuluj."</string>
+    <string name="tutorial_buying_tower_purchase">"Ten przycisk służy do potwierdzenia zakupu i zbuduje wszystkie wież umieszczonych na ekranie. Towers, które są umieszczone w nieprawidłowych miejscach, takich jak na skałach, drzewach, czy stworów nie zostanie zbudowany. Jeśli spróbujesz i zbudować wieżę, aby zablokować ścieżkę stworzeń, nie zostanie zbudowany."</string>
+    <string name="tutorial_buying_tower_cancel">"Jeśli zdecydujesz, że nie chce już kupić wieże, naciśnij ten przycisk. Wszystkie toczące wieże na planszy będą usuwane."</string>
+    <string name="tutorial_build_maze">"Świetna robota, teraz im więcej stworzeń przyjdzie, musimy więcej wież. Zbuduj 10 więcej wież teraz. Upewnij się, czy umieścić je w drodze stworzeń zwolnić swój ruch do punktu wyjścia. Budowa labiryntu pozwoli wieże do ataku istot więcej niż raz, a zwiększenie odległości, że stworzeni potrzebę podróżowania."</string>
+    <string name="tutorial_upgrade_tower">"W trakcie gry będziesz zabraknie miejsc do wprowadzonych wieże, istoty jednak nadal są i będą się silniejszy. W tym momencie powinieneś zacząć modernizacja swoje wieże. Wybierz wieżę, aby wywołać menu aktualizacji."</string>
+    <string name="tutorial_upgrade_tower_selected">"Świetnie, teraz w tym menu można zobaczyć zdjęcie wieży i również przycisk do sprzedania wieżę."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Kliknij na wieży ikonę na zakup aktualizacji. Koszt jest wyświetlany obok wieży."</string>
+    <string name="tutorial_upgrade_tower_sell">"Kliknięcie tego przycisku spowoduje sprzedać wieżę, usuwając go z mapy."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Jeśli zdecydujesz, że nie chcesz uaktualnić lub sprzedać wieżę kliknij na ten przycisk w lewym dolnym rogu ekranu."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Długie naciśnięcie ikony wieża uaktualnić wieżę tyle razy, ile pieniądze pozwala."</string>
+    <string name="tutorial_side_buttons">"Podczas gry w bitwie lub w trybie Online, pojawi się przycisk z boku ekranu. To pozwoli Ci zobaczyć tablicę wrogów. Może to być przydatne przy podejmowaniu decyzji co do istoty zakup. Gra będzie powiedzieć, co płyta patrzysz z krótkim Popup w środku dolnej części ekranu. Nie można budować wieże na planszy wrogów. Poświęć trochę czasu, aby wyświetlić planszę wrogów."</string>
+    <string name="tutorial_side_buttons_pic">"To jest przycisk boczny, który zabierze Cię zobaczyć tablicę wrogów."</string>
+    <string name="tutorial_buying_creature">"Zauważysz, że wróg nie nabyła żadnych wież, to dlatego, że nie wezwał wszelkie stwory do ataku jeszcze. Naciśnij przycisk istota aby wychować swoje menu istoty. Kliknięcie na stworzeniu przyzywa go, jeśli masz wystarczająco dużo pieniędzy. Śmiało i wezwać niektórych stworzeń i oglądać je pojawiają się na planszy wrogów."</string>
+    <string name="tutorial_buying_creature_purchase">"Kliknij na rysunek istoty go kupić. Obok stworzenia zobaczysz ile kosztuje. Również na prawym dolnym rogu ekranu pojawi się stan zdrowia stworzeń i szybkość poruszania się po wybraniu go."</string>
+    <string name="tutorial_buying_creature_cancel">"Jeśli nie chcesz kupić stworzeń, wybierz przycisk Anuluj w lewym dolnym rogu ekranu."</string>
+    <string name="tutorial_buying_creature_long_press">"Długie naciśnięcie ikony istota, aby włączyć / wyłączyć automatyczne zakupu. Z auto-kupno włączona będzie zakup stworzenia każda sekunda, jeśli masz dość złota."</string>
+    <string name="tutorial_attacking">"Może się zdarzyć, gdy wróg zbudowane trudny labirynt, że twoje stwory nie są w stanie poruszać się. To podczas ataku może być przydatne. Z atakując włączone stworzeń będzie próbował przenieść się do wyjścia i będą atakować wszystkie wieże na ich drodze. Pamiętaj, że po włączeniu atakować, powoli tracić złoto, jeśli zabraknie pieniędzy, atakując zostanie automatycznie wyłączone. Spróbuj na atakowaniu teraz."</string>
+    <string name="tutorial_attacking_button">"Wybierz, aby atakować."</string>
+    <string name="tutorial_attacking_move">"Wybierz tę opcję, aby wyłączyć ataku."</string>
+    <string name="tutorial_specials">"Czasem wieże nie są wystarczające do zatrzymania stworów przeciwnika, lub Twoje stwory nie wydaje się zrobić to przez wieże wroga. Korzystanie specjały stanowi impuls, aby pomóc Ci wygrać. Spróbuj użyć specjalnego teraz."</string>
+    <string name="tutorial_specials_damage">"Ten specjalny uszkadza wszystkie stworzenia na swoim pokładzie"</string>
+    <string name="tutorial_specials_heal">"Ten specjalny leczy wszystkie stwory na planszy wrogów"</string>
+    <string name="tutorial_specials_kill">"Ten specjalny zabija kilka przypadkowych stworzeń na pokładzie"</string>
+    <string name="tutorial_specials_slow">"Ten specjalny spowalnia wszystkie stworzenia na swoim pokładzie przez krótki czas"</string>
+    <string name="tutorial_specials_speed">"Ten specjalny przyspiesza swoich stworzeń na krótki czas"</string>
+    <string name="tutorial_specials_stun">"Ten specjalny ogłusza wszystkich stworzeń na swoim pokładzie przez krótki czas"</string>
+    <string name="tutorial_options_menu">"Teraz popatrzmy na menu opcji. Można zauważyć kilka przycisków, które pozwalają na zmianę widoku gry, odtwarzanie / pauza muzyki i powrót widok gry do ustawień domyślnych."</string>
+    <string name="tutorial_options_menu_zoomin">"Służy do powiększania"</string>
+    <string name="tutorial_options_menu_zoomout">"Użyj tego, aby pomniejszyć"</string>
+    <string name="tutorial_options_menu_rotateup">"Użyj tego, aby obrócić widok w górę"</string>
+    <string name="tutorial_options_menu_rotatedown">"Użyj tego, aby obrócić widok w dół"</string>
+    <string name="tutorial_options_menu_default">"Użyj tego, aby powrócić do widoku w domyślnej lokalizacji"</string>
+    <string name="tutorial_options_menu_play">"Użyj tego, aby umożliwić muzykę"</string>
+    <string name="tutorial_options_menu_pause">"Użyj tego, aby wyłączyć muzykę"</string>
+    <string name="tutorial_upgrading">"Jak grasz Bogów i wieże otrzymasz doświadczenie, to doświadczenie może być używany do aktualizacji startu w życie / złoty, premie Race, zdolności stworzenie i umiejętności wieży. Każda rasa posiada specjalne bonusy, które mają zastosowanie do wszystkich stworzeń i wieże tej rasy, podnoszenie ich korzyść wszystkich stworzeń / wieże tego typu. Wieża / Creature aktualizacje dotyczą tylko wieżę / istota i zwiększyć ich moc do każdego z gier. Jeśli zapomnisz, co stat jest tak długo nacisnąć ikonę stat w menu aktualizacji i będzie to powiem."</string>
+    <string name="tutorial_completion">"Gratulacje, ukończył kurs. Zagraj w tę kampanię, aby odblokować więcej stworzeń i wieże. Wypełnij osiągnięcia, aby zdobyć dodatkowe doświadczenie i zyskać specjały do ​​wykorzystania w grze. Im więcej osiągnięć można odblokować, tym więcej doświadczenia dostaniesz od gry."</string>
+    <string name="tutorial_continue">"&amp;Kontynuuj"</string>
+
+</resources>

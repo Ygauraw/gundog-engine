@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RatingBar
+        android:id="@+id/bronzeRatingBar"
+        style="@style/bronzeRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="0"
+        android:visibility="gone" />
+
+    <RatingBar
+        android:id="@+id/silverRatingBar"
+        style="@style/silverRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="0"
+        android:visibility="gone" />
+
+    <RatingBar
+        android:id="@+id/goldRatingBar"
+        style="@style/goldRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="0"
+        android:visibility="gone" />
+
+    <RatingBar
+        android:id="@+id/platinumRatingBar"
+        style="@style/platinumRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:isIndicator="true"
+        android:numStars="5"
+        android:rating="0"
+        android:visibility="gone" />
+
+</LinearLayout>

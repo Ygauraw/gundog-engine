@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"Mi van, ha minden történet, amit valaha hallottam, igaz? \n\n A gyermekek történeteit. Rémálmok. Mitológiák. A vallások. Lehet, hogy mind valódi? \n\n Egy bizonyos tudományág úgy véli, hogy ha az emberi elme képes elképzelni valamit, akkor kell lennie egy időben létezett. \n\n A szkeptikusok tagadni fogja azt a fantáziadús gügyögésem az őrült. Az igazi hívő tagadják is, mert tudják, hogy az igazság sokkal, sokkal csúnyább. Sokkal rosszabb, mint az egyszerű mese a jó vs gonosz. \n\n Csak most tartunk felfedezni a végtelen számú párhuzamos univerzumok a meglévő mellett a miénk, minden alkalommal leágazó számtalan más irányban. Minden történet, amit valaha hallottam valahol igaz. Ez a történet az egyik ilyen univerzumok, ahol az ember léte lóg egy szál. \n\n Szörnyek valósak. Seregei őket, az istenek vezetnek, mindegyik ugyanazt a célt: hazatérnek. Megfeketedett, csavart szív, keresi a bosszút, ami csak azokat a békét. Pusztítsd el az összes versenytárs. Kövesse az Isten a szívébe csata győztesen, és márciusban vissza a pokolba, hogy szült nekik. Vissza. Haza. \n\n A harc az életben maradásért lesz napi csatát. A gyenge lesz hamarabb elfelejteni ezekben a napokban. Gods and Monsters, démonok és élőhalottak, és az eszközök a háború, az egyetlen valóság. Ez nagyon is valós … ez Tower Defense Wars! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"Ő tette a jég, azt mondják, az istennő a téli, Skaði, a sértett felesége Njörðr vezetője, a fagyasztott seregei skandináv harcosok. Egy időben, ő keresett bosszút, de most arra törekszik, csak otthon. Apja, Þjazi, megölték kereshetik meg a forma-váltás Loki. A roham igaz harag, eljött az istenek, karddal a kezében. De placated őt. Ők nyugtatott haragját. Adtak neki hatalmat. Van egy üres űr belül Skaði, hogy napról-napra nő a rosszat követtek el a házát. Ez a feketeség üldözés fény. A kilenc világok skandináv mitológia, csak Niflhel, pokoli, fagyott pusztaságot, tartalmazhat ez a feketeség a nyelési Creation. Van neki hadsereg menetel. 
+"</string>
+    <string name="almanac_frozen_soldier">"Csapdában a befagyasztott börtönben évszázadok, az Ice vikingek hozták vissza az életbe, amikor támadás Skaði alá került. Szüksége volt megidézni egy hadsereg, és megfordult, hogy a tömegsír a követői elhunyt apja, Þjazi. Az Ice vikingek már figyelmeztetett arra, hogy a szabadság ideiglenes: győzelem, és azt állítják, kedvelt helye Nifhel. Veszíts, és továbbra is harcol a fagyasztott és mindörökké.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"Mint a fagyott katonák menetelnek örökre gyalog, fagyasztott Horsemen van cooly kiszámításakor. Különböznek a híresen gyors lábú Tünde, Skaði a hadsereg ló mozog lassan és módszeresen. Bár technikailag alkalmas a lelkes vágta, a Frozen Lovas nagyobb valószínűséggel kimeríti az ellensége, mint üldözik őt. Tudva, hogy nincs sarka a föld túl hideg, túl sötét, vagy túl barátságtalan, akkor kövesse a zsákmányt. Ő soha nem fogja megállítani. Ő soha nem fog pihenni. Nem, amíg ellenségei lemondott végső kapálózása haldoklik.
+"</string>
+    <string name="almanac_polar_bear">"Ezek a vad állatokat nem ismertek intelligencia, belátás, és az alkalmazkodóképesség. Ezek ismert ördögi erő. Erős, húsos mancsait és borotvaéles körmök, sok katona találkozott sorsuk megkopasztott hogy a földön csak a találkozás a telhetetlen fogak. Ezek a kések feküdt várakozás belsejében egy állkapcsot, amely összetöri fagyott gránit olyan könnyen, mint a húst, így menekülési rendkívül ritka.  
+"</string>
+    <string name="almanac_ice_golem">"Anyaga jég sűrűbb, mint bármi megtalálható a modern Földön, az Ice Golem ökle is olyan nehéz, mint fagyott szikla. Ez lélek, ha valaha is volt egy, már rég jeges felett, és csak az él, hogy szolgálja Skaði kegyetlen licitálás. Két lehetőség van a találkozás 1 Ice Golem: küzdenek a halál, vagy a futás. És ha valaki úgy dönt, hogy fuss, fuss gyorsan jobbat.  
+"</string>
+    <string name="almanac_drake">"Képes támadás ijesztően nagy távolságból, a Drake szó légvétel jeges úszó jégtábla a jégeső, uralkodó terror a gyengébb, kevésbé mobil lények. Földi jégverés már ismert, hogy elpusztítsa az erdők, az egész csomag tizedelik a vadon élő állatok, és még Dent acél. Képzeld el, mi a Drake képes.  
+"</string>
+    <string name="almanac_water_cannon">"Ez a nagy teljesítményű ágyú kihasználja a Föld egyik legalapvetőbb eleme, a víz, és kiderül, hogy a kés éle végtelenül megújuló fegyver.
+"</string>
+    <string name="almanac_water_catapult">"A víz egyszerre végtelenül alakítható és meglepően nehéz. Mindkét tények által kitermelt víz a halálos Catapault.
+"</string>
+    <string name="almanac_water_pillar">"Lassan, szinte módszeresen, hatalmas elegendő mennyiségű víz kiváló megduzzadnak körül a síkságot, és végül megfullad bármi az útjába kerül.
+"</string>
+    <string name="almanac_water_emitter">"Furcsa, hogy valami ismert az élet oly ügyesen működik a gép a halál, de ez a víz Emitter. Mint ismert, a kínzás egyes kultúrák, a víz lassan, de biztosan Emitter megfojtja ellenfelét egy egyszerű vízsugár. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"Előtt volt eső, még mielőtt a hó, nem volt szél, sodródó mentén a földet, amely a Föld egy takaró változás. Van, aki irányítja a szél, és ezáltal vezérli a mozgását, a homok, a magokat, és az évszakok. A neve Quetzalcoatl. A szárnyas kígyó több mint egy isten: ő egy szövetségese, egy barát, egy tormenter, és a marker a hely. Quetzalcoatl a különbség a Föld és Ég. Ő azon kevesek egyike, amely képes utazni Xibalba, a maja alvilág, és küldje vissza anélkül, hogy a halál illata róla. Xibalba az a hely, a félelem, hogy milyen üzleti Quetzalcoatl van még nehéz megmondani. De ő emelt hadsereget, hogy kövessék őt. Ő felébredt a szél.
+"</string>
+    <string name="almanac_human_archer">"Jóval azelőtt, hogy a pisztoly, az íjász volt, talán a legfélelmetesebb harcoló a középkorban. Most a robotoló Quetzacoatl, aki megígérte nekik a támogatást egy dühös szél, ezek a mozgékony harcosok képesek támadni a hosszú sor. A nyílhegy csomagolva egy rozsdás acél díszmárna apró horgok, Aki volt olyan szerencsés, hogy túlélje a találkozást egy csapat íjász, akik közül néhány ismert a történelem lesz, amely mély nyomot hagyott az egész életüket.
+"</string>
+    <string name="almanac_human_archer_horseman">"Ha az íjász van gyenge pontja, és sokan azzal érvelnek, hogy nem, akkor hogy kell állítani, és célja, hagyja őket viszonylag téve. Írja be a lovasíjász, képzett irányítani egy vadállat lesz továbbra is fenntartja a halálos pontossággal. Egy találkozás egy csapat lovas íjászok fogják hagyni az ég elfeketedett, több ezer nyilak, minden küldötte a halál megjövendölt, esik le a magasból. 
+"</string>
+    <string name="almanac_panda_bear">"Bár gyakran imádta számára csinos megjelenés, az óriás panda egy hevesen területi vadállat, vastag állcsontok és a kés-szerű karmok. Míg alkalmazkodott elég mozgásszegény életmód, az óriás panda a ingerlékeny és rendkívül védekező saját nemében. Ennek tudatában, Quetzalcoatl ösztöke a óriáspandák hogy nincs vége, elválasztó anya kölyök, és elkülönítette az medveféle harcosok anyanyelvi haza. Ő feldühítette őket, és közben jutott el hozzánk, a harag lesz edzése a vér.
+"</string>
+    <string name="almanac_lightning_golem">"Az ősi maják Chaac imádták, az eső kígyó azt mondta, hogy ellenőrizzék a villám az égen, gyakran neki fölött a szárnyas kígyó Quetzalcoatl. Quetzalcoatl, jól tudva a Chaac hatalma, mosott az egek és a poklok keresve a Lightning Gólem. Miután megtalálták, és miután biztosította az ő hűségét, a Lightning Gólem fogja szolgálni, mint az eső Quetzalcoatl szolgálja a felhők: rendíthetetlenül, ami a halál, mint a felhő létrehoz egy pocsolya. 
+"</string>
+    <string name="almanac_dragon">"Talán egyetlen teremtmény részesült, mint sokat az új mester, mint a sárkány. Már egy vadállat ismert az egész korosztály alatt Quetzalcoatl, a sárkány még félelmetes, mert megtudták, minden kellemetlen a kavargó szél a szárnyas Liege. A sárkány tüzes kígyót a riasztó képességét. 
+"</string>
+    <string name="almanac_lightning_cannon">"Mivel az emberiség hajnalán, kisebb lények remélte, hogy ellenőrizzék az ég, és vele együtt a hatalom Zeusz villámok. Most igen.
+"</string>
+    <string name="almanac_griffin_statue">"Bár fenséges alakjában, és királyi saját arcát, ne keressen tovább, mint a karmok, hogy megértsük valódi természetét Griffin.
+"</string>
+    <string name="almanac_lightning_pillar">"Az oszlop hihetetlen természetes energia, ez a pillér egyaránt mágnesként vonzzák a hatalom, és egy projektor képes a páratlan rombolás.
+"</string>
+    <string name="almanac_lightning_emitter">"Képes működni rövid burts szélsőséges látásélesség, a Lightning Emitter egy sokkoló erővel íme messziről, közelebb, persze, nem egy show, hanem egy halálos ítélettel.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"Teremtett ember vallási leírni Istent. Isten megteremtette az embert, hogy tükrözze annak képét. De Gaia, Gaia Anya hozta létre az istenek. Gaia, a Föld létrehozója, ez a betűtípus, ahonnan a folyó élet folyik. Ő a lélek és a lét harmóniáját. A görögök nézett Gaia útmutatást a többi fölé. Úgy ragyogott rájuk. És van rá, részeg a bort szőlőből készült ő, feltéve, részegen a hatalmat az élet, de ő csak megengedett. Szóval, ő fogja vezetni őket a Tartarosz. Ő megmutatja nekik, mi a fájdalom. Tartarosz, a mélységbe, a sötét lyuk a közepén, hogy az alvilág of the Damned. Tartarosz, a pihenő és a nevét az Isten, aki ott nyugszik. Tartarosz lesz a sorsa; Gaia vezet ő seregében, hogy a sorsukat, és aztán majd mossa kezeit a koszos, megátalkodott hiba. 
+"</string>
+    <string name="almanac_elvish_archer">"A tündék, hogy egy íjász nem munka, ez egy életforma. Tanulás a hosszú íj időpontjától kezdve megtanulnak járni, egy tünde fejleszti a lelkes hatodik érzék az íjászat, mintha ezek az eszközök a háború kiterjesztése az ő nagyon lenni. Bár nem mindig a legnagyobb és legerősebb faj, elfek használhatják kiváló látást, ravasz, és meghajolt készség, hogy könnyen legyőzni ellenfelei bérbeadónak, amelyben felszólította Gaia, a Föld istennője, idején nagy szükség. Menj át őket a saját felelősségére. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"Kevés építészek a háború, legyen az ember vagy gép, lehet találni olyan gyorsan és határozottan, mint a tünde íjász lovas. Híres a szinte spirituális kapcsolat a lovas és a ló, a tündék, akik birkózni mind az íj és a szörnyeteg megtiszteltetés számunkra, a tünde kultúra, és egységesen félt kívül. Ez jó okkal. A rövid orr, amely lehetővé teszi a teljes körű mozgás, a mobil gyilkosok végig a horizonton, válassza ki a célokat, és a sztrájk riasztó vidámság.
+"</string>
+    <string name="almanac_grizzly_bear">"A természetben kialakult gyilkos, és a vitathatatlan királya, s erdős haza, a Grizzly sétál lassan, mert csak tud. Mégis teljes sprint, a medve gyorsabb, mint minden, de a fleetest az állatok, és elég erősek, hogy rip csontok a foglalat. Ha az élezett fogak és karmok nem megölni az áldozatát, akkor alkalmanként pusztítani ellenfelek tompa, nyers erő és a kalapács fisted mancsok. 
+"</string>
+    <string name="almanac_earth_golem">"Felállt a földkéreg a Föld Golem egy komplex fenevad, a gyűjtemény a mikroorganizmusok, gázok, és a kő, tartja össze a sár és ingovány egyedülálló fókusz: visszatér a földbe, ahonnan jött. Nem harcolni az ellenfelek annyira lenyeli őket, és eggyé válik velük, párolgó nyomát, amit korábban ott állt előtte, mint sár ömlik egy elhaladó patak. 
+"</string>
+    <string name="almanac_eagle">"A modern idők jelképe a szabadság és az igazságosság, az ősi sas egy hatalmas ragadozó madár, támadó gyorsan és meglepő erő. Karmai tépni a húst, így a szúrt sebeket okozó lassú és fájdalmas halált. A legjobb, a Sas fogja emelni az ellenfelet, és helyezze el egy hosszú őszi és egy sokkal gyorsabb és biztosabb kimúlását. Félreértés ne essék: ez egy átkozott madár született elkárhozott lélek.
+"</string>
+    <string name="almanac_rock_cannon">"Nem ismert az anyag olyan bőséges, mint az állandó, zúzó ereje rock, és nem ágyúval, mint a könyörtelen. 
+"</string>
+    <string name="almanac_stone_catapult">"Az eső a kövek úgy hangzik, mint egy bibliai csapás, de a kő Catapault képes előállítani, mint a düh egy pillanatra felmondással.
+"</string>
+    <string name="almanac_earth_pillar">"Kevéssé ismert bizonyos körökben, de a Föld áll, sokkal több, mint puszta piszok, rock, és a víz. Van egy belső energia, az élet-erő, amely összeköti ezeket az elemeket együtt. Akár hasznosítani a jó vagy rossz, ez a kimondhatatlan energia van egy erő, ez tagadhatatlan. 
+"</string>
+    <string name="almanac_dirt_emitter">"Sem technológiailag fejlett, sem a varázslatosan egyedi, a Dirt Emitter egy egyszerű, brutális létrehozását. Azonban a veszély nem zárható ki. Csak kérdezze senki, aki valaha is élve eltemették. Azaz, ha találsz egy túlélő. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"A hindu vallás sok isten, Indra és Soma, Vishnu és Rudra. És ott van Agni, a tűz és Isten elfogadó áldozatot. Agni a Messenger, a csatorna ég és föld között, a kapcsolat az emberek és az istenségek. Agni haragszik. Az emberek istenek mutatta az utat a bölcsességet, de elhagyták azt. Ezeket meg kell tanítani újra. Ők lesznek követni az utat. Agni fog vezetni őket Naraka, a hindu alvilág. Naraka a gyötrelem helye, örök földje szenvedés által rettegett a buddhisták és a Jainists egyaránt. Agni nem tesz különbséget. Ő fog pihenni a kezét a vállára az átkozott, és megalapoz szíven bármilyen agresszort. Agni halhatatlan. Ő hadsereg élőhalott. Együtt visszatérnek a világ természetes állapota: szenvedés. 
+"</string>
+    <string name="almanac_mummy">"Mint egy férfi megbotlott egy égő épületben, a Múmia lassú és zavarodott. De nem keresi a menekülés az élet felé. Inkább azt reméli, hogy húzza másokat a tetszhalott világ nyomor. A múmia nem erős, nem gyors, és nem okos. De több, mint bármely ismert lény, nem fog megállni harcok. Ez soha nem fogja abbahagyni a harcot: meggyötört, törött, és a sérült.  
+"</string>
+    <string name="almanac_mummy_horseman">"Az Undead Rider rendelkezik azonos mániás megoldani, mint a Múmia, de megoldja a Múmia legnagyobb gyengesége: a lassú mozgás. Képes megtalálni egy pillanat értesítést, az Undead Rider tökéletes kombinációja a puszta sebesség, ügyesség fürge, és egy brutális vágy, hogy leverjék a saját akaratát ellenfelei egyaránt közel és távol. 
+"</string>
+    <string name="almanac_fiery_bear">"Hasonló közös fekete medve épít, a mosott Naraka Agni, a tüzes alvilág, egy élőhalott támadó hasonló méretű, a sebességet és erőt. Nem talál megfelelő meccs, ő alkotta meg a Burning Medvék, kovácsolt egy állat áldozatát ártatlan emberi lények, és elkárhozott lelkek. A Burning Bear intelligens ahhoz, hogy a tönk zsákmányt, fáradhatatlan, és teljesen érzéketlen még a legintenzívebb formája a hő. Továbbá, Agni már átitatott minden a tüzes düh és egy megzavarodott hajlam. A Burning medvék kiszámíthatatlan, makacs, és megbízhatóan halálos.
+"</string>
+    <string name="almanac_fire_golem">"A megfelelő alkalmazás az idő és a nyomás létre fog hozni egy gyémánt. A megfelelő alkalmazás létrehoz egy pokol Spawn, egy halálos keveréke olvadt láva és zúzott Földet. Akár forrázás ellenfelét annak tűzforró ököllel, vagy porítás majd a szüntelen, módszeres mozgalmak, a Hell Spawn egyetlen célja, hogy a nyomort okoznak a világra, elfogadva minden áldozatot az oltáron saját elégedetlenkedő.
+"</string>
+    <string name="almanac_falcon">"Nincs egyetlen állat, mint egyet a sebesség, mint a Falcon, és következésképpen nem állat képes volt csapást mérni olyan gyorsan és hatékonyan. Búvárkodás felé áldozatát a fennkölt magasságokban, a Falcon gyakran megütötte a halálos csapás előtt ellenfelünk még látta, hogy jön, megfeszítése után az edzett csőrét a koponya a betolakodó. Agni mosolyog, amikor a Falcon támad a gyanútlan áldozatát. 
+"</string>
+    <string name="almanac_flame_cannon">"Hő támadja jellegét lény sejtjeit, és kevés, ha egyáltalán tud felállni, hogy a tomboló infermo a Flame Cannon.
+"</string>
+    <string name="almanac_flame_catapult">"Az egyetlen dolog, ami hiányzik az a tűz képes meglepni. A túl világos és túl sok meleg elkapni ki őr. Legalábbis addig, amíg a láng Catapault belép a csatát.
+"</string>
+    <string name="almanac_fire_pillar">"Környező tűz pillér is, a tánc a biztos halált, gyönyörű a maga fürge utat, a tűz a hajlítás alakját a szél, mielőtt elnyel a zsákmányát egy bográcsban hőt. 
+"</string>
+    <string name="almanac_fire_emitter">"Mint a kovács kemencék használt kovácsolni a hideg acél, amely meghódította a középkori Európában, a Tűz Emitter sugároz intenzív hő mozgásképtelenné minden, de a legtöbb kövér-szívű, hogy jöjjön a közelébe.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"Ahhoz, hogy cannonised, hogy legyen a Szent, az egyik legnagyobb szentelik életüket, hogy az oka a keresztények és a megváltás a férfi társaik. Néhány keresik az üdvösség Könyv, mások keresztül a kard. Hugues de Payens alapítója és nagymestere a templomos lovagok, volt egy harcos szent, a Crusader, és katonai vezetője, az igazi finomság és nem gyakori zseni. De Payens, mint minden a nagymesterek, hogy követi őt, elfogadta a helyzetben az élet, megesküdött, hogy megvédjék a keresztet. Csak a halálban is 1 végre pihenni. Az ő életében, de Payens sokakat megölt egy lélek a nagyobb jó érdekében. Bűneiért, várnia kell a pokol, ősi tárháza a gonoszok. Egyszer ott, ő is megtalálja az ő sorsa nem várni Purgatórium. Vagy ő is szenvedni az örökkévalóságig. Ez nem az ő sokat tudni. Tudja, hogy csak ott vár rá a válasz, mert várja a lelkes követői. 
+"</string>
+    <string name="almanac_zealot">"A Zealot vak, hogy valami igazság, hogy nem felel meg az álláspontot képviseli. Mint egy élő gép, az ő köre szűkült. A lovagok már ezeket a hamis hit harcosai megtévesztés, és nem harcolnak a harag vagy az irigység, de az érzelmi mélység messze meghaladó hogy a világ triviális. A buzgalom lehetetlen elérni a halandók, és ez a buzgó fókusz, ellenségek hamar rájönnek, hogy igazi Zealot semmi nem állítja meg, gyakran legyőzte ellenfeleit sokszor a mérete és ereje.
+"</string>
+    <string name="almanac_zealot_horseman">"Egyszer egy nemes erény mintaképe és a lovagiasság, a lovag is volt magasan képzett gyilkos, ötvözve a kardforgatás és a lovaglás az egyik halálos harcos. Korábban, egy lovag szigorú betartása erkölcsi kódex tartotta őt a gonosz küzd. De most, ezzel a kóddal rég nem látott, ezek a zsoldosok elkezdtek harcolni a legmagasabb ajánlatot tevő, keresek, hogy visszatérjen a pokol, és az ellenség kegyetlenül kínozzák az örökkévalóságban.  
+"</string>
+    <string name="almanac_seraphim">"A Seraphim is fáradhatatlanul aktív, odaadó imára határos téboly. Gyakran előfordul, hogy úgy gondolják, az égő, tüzes így van igényük a vallási állásfoglalás. A Hugues de Payens, hogy találtak egy vezető egyedülállóan alkalmas arra, hogy üzembe iparuk jó célra használjuk, hogy elküldi nekik egy végtelen sorozata a halál kötött küldetések, mindig megígérte, hogy hamarosan ő biztosítja számukra a nyugodt úgy kétségbeesetten keresik. 
+"</string>
+    <string name="almanac_life_golem">"Folklór tartja, hogy a Rabbi Judah Loew ben Bezalel létre az első Gólem, hogy megvédje a prágai zsidókat a gettó ellen, pogromok. Felismerve, hogy már létrehozott egy szörny, amit nem lehet ellenőrizni, Rabbi Loew kénytelen volt letenni a Gólem előtt egyre erőszakosabb kitörése fenyegette további ártatlanok halálát nem zsidó. Az ilyen hatalom, és az ilyen öncélú pusztítás népe, nem veszett el a Hugues de Payens. Ő feltámadt a zsidó Gólem az ő templomos lovagok, megteremtve a Gólem Crusader: homályos észjárású, erkölcstelen, és gyakorlatilag megállíthatatlan.
+"</string>
+    <string name="almanac_angel">"Széles szárnyú, és eltöltötte a hatalom Egyesek úgy vélik, erősebb, mint bármely más, isteni jog, Angyalok rendelkeznek emberfeletti erőt és szűklátókörűen: nem fog habozni, hogy megszabaduljon ezektől az útjába állnak egy újraegyesülés azok igaz Istent. Természetesen, aki \"elállja az utat\" akár saját értelmezését, és sok ártatlan, mint bukott a kezében ilyen szárnyas harcosok.
+"</string>
+    <string name="almanac_energy_cannon">"Az Energia ágyú lő fordulóban a tiszta energia, még elemi, mint a villamosenergia, csökkentve semmit élő vagy halott egy tömeges élettelen anyag hulladék. 
+"</string>
+    <string name="almanac_angel_statue">"Íme, a hatalom az Angel: erő jelképe, ünnepélyesség, és az engedelmesség.
+"</string>
+    <string name="almanac_life_pillar">"Vannak lények a Földön képes boldogulni caldronous hőt. Vannak sejtek, hogy szükség van a fény és a sötétség amelyek vágynak Vannak növények, szívják a gázt más állatok kilégzést. Ilyen az élet pillér, egy élet kútfője felhasznált energia, hogy a halálról. 
+"</string>
+    <string name="almanac_holy_water_emitter">"Mint oly sok harci fegyvereiket, az igazán szent, semmi félni a Szent Víz Emitter. Mint oly sok háborút, ez nem lesz faught a Szent.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"A haiti Voodou a veve egy rituális szimbólumot használják, hogy képviselje az erős lelkek, az úgynevezett Loa. A legfontosabb Loa, Damballa, a Sky Isten és minden élet teremtője, képviseli két kígyó. Mint egy kígyó, Damballa nem tud beszélni. Azt fejezi ki magát, beszél a láng. Bondyè, a megismerhetetlen alkotója minden, nem beszélt. Azt fejezi ki magát a Damballa. De mint Damalla útjai rejtély az ember, Bondyè útjai rejtély Damballa. Amikor az ő követője kínálata nem felelnek meg neki, Damballa ég egész falvakat. Amikor Damballa nem illik Bondyè, nem lehet tudni a következményeket. Amennyiben ez a megismerhetetlen lény úgy, hogy Pokol a Földre, nincs erő az univerzumban lesz képes megállítani őt. A halott növekedni fog, és megtesz minden tőle licitálás. Rejtély váltja fel vakító igazság.   
+"</string>
+    <string name="almanac_zombie">"A Zombie, már halott, él anélkül, hogy a boldogság vagy a félelem. Ő az élet a cél. Öröklét, kér mindenkit Ponce de Leon a nyugati, a Papok, a Kelet, a Curse of the Zombie, örökké bolyongó egy szüntelen ciklus kibírhatatlan fájdalom. Ő Damballa báb, tartalmát csak a pokol a Földön, hogy azért jött, hogy haza. 
+"</string>
+    <string name="almanac_zombie_horseman">"Mint egy fejnélküli lovas elszabadult arra az éjszakára, a Zombie Rider fáradhatatlanul mozgatja át a repedezett talaj a felperzselt föld. Benne nincsenek gondolatok, nincsenek álmok. Nincs még egy felhívást bosszú. Élete sokkal egyszerűbb. Mint a növény eléri a nap felé, a Zombie Rider járja a bolygó akarta elpusztítani mindent, ami útjába kerül, hogy ő is egy nap vissza kell állítani. 
+"</string>
+    <string name="almanac_succubus">"Ellentétben sok a gonosz lények hozták ide a háborúba, a Succubus jelenhetnek meg, mintha egy finom szépséget. Mire ő házasulandó formában már megfeketedett a néző szemében, már túl késő. Akkor azt fogja látni az igazi formáját egy pillanatra, a hüllő bőre lelketlen eszköz, amelynek öröm a fájdalom keletkezik, és akkor meg kell szüntetni. 
+"</string>
+    <string name="almanac_undead_golem">"A összetétele minden, ami csúnya a világ, minden, ami megkínzott és hólyagos, az Undead Gólem egyesíti a leghaszontalanabb, legmérgezőbb, leginkább elnyomott, és a legtöbb hulladék szidalmazták az egyik, hogy újjáélednek. Mint egy élő Voodoo baba, Damballa hozott létre különböző alkatrészeket és azokat az Undead Gólem. Alig érző, de mélységesen romboló, az Undead Gólem árulkodik csak merő nyoma ellenőrzés az alkotó. Azon túl, hogy ez egy gép, hozta életre, hogy megöli, és csak megölni.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels éltek ringatva egy takaró határtalan szeretet és az örök nyugalom. És ők elutasították azt, emésztette a vágy a hatalom. Hosszú óta űzte ki a Mennyei Királyság, Bukott angyalok pontos gyors igazságszolgáltatás minden lény annak megakadályozása, hogy a felemelkedés Throne of Earth kudarcra ítélt - különösen a bolond, hogy hasonlítsa össze őket az Isten, amikor azok a saját esküdt ellensége.  
+"</string>
+    <string name="almanac_poison_cannon">"A Poison Cannon spews a káros effluvia szét a világba, végtelen kémény a káros gázok és a hulladékolajok, hogy kevesen tudnak ellenállni. A levegő ég fekete, míg a Poison Cannon működik. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Éber és készen áll, egy Gargoyal marad ülve, mindig lóg a széle a repülés és a harc.
+"</string>
+    <string name="almanac_undead_pillar">"Van valami a szív belsejében a tetszhalott, vagy azon belül mi marad a lelkük, hogy álló helyzetben tartja őket, és mozog, de nem él. Bármi is ez az erő az, hogy erőteljesen átalakító, és valószínű, hogy bármilyen élőlény mérgezni érintkeznek vele.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"Vannak olyan anyagok, így ellentétes az élet, hogy mérgező átlép mindenféle lény és minden világa eredetű. A mérgező gáz szabadul fel Emitter ilyen anyagok az ellenségre.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"A tüzes inda emelkedik ki a Flame Korbács, mint egy égő Lasso, szúró ellenfelek egy ostor a láng, vagy körülveszi őket a Ring Of Fire.
+"</string>
+    <string name="almanac_water_whip">"A Víz Whip létezik valahol a folyékony és szilárd. Bár a folyadék mozgását, azok sújtotta a csettintgetett, erőszakos sztrájk biztosan marad az a hegesedés emlékét szilárd állapotában. Újabb bizonyíték, hogy a felszínén folyékony víz, mint acél adni a megfelelő körülmények. 
+"</string>
+    <string name="almanac_tentical_whip">"Mint egy óriás polip, vagy teljesen megvalósított változata a mitológiai Kraken, a Whip Tentical rendelkezik egy vastag, izmos kötél egy tentical, amely képes megtalálni a zsákmányt, miért meglepő pontossággal és páratlan sebességgel.
+"</string>
+    <string name="almanac_flame_crystallizer">"A láng egyszerűen egy dákó látható, hogy a tűz. Ez egy trükk a fény, egy szellem távolítani a lényeget. A Flame kristályosító kihasználja tűz melegét, azt idézi, hogy a semmiből, nem láng szükséges.
+"</string>
+    <string name="almanac_ice_crystallizer">"Föld levegő keveréke, sok mindent, de még a legkeményebb sivatagi van nyoma a nedvességet. Az Ice kristályosító megragadja ennek a nedvesség és megteremti az azonnali jég. Ez nem hangzik feasome, amíg az egyik képeket alkotó jég belülről kifelé, vénák, artériák, és a szervek nem kizárt. 
+"</string>
+    <string name="almanac_earth_crystallizer">"A ragyogó fények az ég, a pokol legsötétebb sarkába van a mágia fogalma szilárd talajt, a létezés. Honnan származik? Hogyan ez az anyag jön létre? A Föld nem ad választ kristályosító, de ez biztosan elég egy tárgyat.
+"</string>
+    <string name="almanac_lightning_blade">"Villám vág át az égen, levágva az éjszaka két részre, elválasztva egy fehér forró zenekar romboló villamos energiát. A Lightning Penge úgy, hogy a villamosenergia-és tartalmazza a hatalmát a penge a kard. Tartalmazza az erejét, de meddig?
+"</string>
+    <string name="almanac_ice_blade">"A vágott húst RIP keresztül egy csavar a forró fájdalom, könnyezés izom közel csont. A penge a jég nem csökkenti a fájdalmat. A hűtött mag nem fogja megakadályozni a háború nyomait. Az Ice Blade a legrosszabb két világ ütközik, és a legjobb ellenség is felfigyelt rá. 
+"</string>
+    <string name="almanac_flame_blade">"A Flame Penge harcol az azonos hő, amelyek szerint egyszer kiemelkedett a kovácsműhely. Ragyogó meleg, egy perzselő él tud olvadni, még a legerősebb páncél, a Láng Penge hatékonysága korlátozott, csak ha foglalkozó lények a legnagyobb ellenállás az ég.
+"</string>
+    <string name="almanac_earth_ballista">"Időtlen fegyver, a ballista már ismét felhasználható, a Gaia az ostrom még csak most jön. A rakéták kifejezetten ellenáll a legerősebb harcosok, a Föld Ballista épül a technológia használatára az ókori görögök és rómaiak, de az anyag Isten. 
+"</string>
+    <string name="almanac_ice_ballista">"Az Ice Ballista tart lassú, inert a jég és a hajtóművet, hogy óriási sebességgel. Párosul pontosan megtervezett tartózkodás és rugók, a csavarokat tüzelt az Ice Ballista megvédjék a pár.
+"</string>
+    <string name="almanac_flame_ballista">"Sok ősi városa elesett egy támadás a ballista hadtest. Agni felkérte a híres fegyver, mert olyan könnyen alátámasztható azzal a kiegészítéssel, a tűz. A Flame Ballista ötvözi erő lüktetett a pusztító láng fegyver a korok.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"A nemes Wizards már régóta küzdöttem, hogy a világ a harmónia, a bölcsesség segítségével (és egy csipetnyi egészséges mágia), hogy elnyomja a teremtmények, hogy ezt testvéreik kárt. Bár általában békés, és nem valószínű, hogy indul összecsapások, varázslók ismertek a keserűséget, haragot néhány holding, amelyek nemzedékeken át tartott a férfiak. Beépített törékeny és enyhe, egy varázsló, mint egy okos felrázni, egy trójai formájú férfi. Bár nem tud birkózni még egy kisgyerek a földre, egy erős varázsló lehetett kényszeríteni egy egész várost fel térdre az egy szempillantás alatt.
+"</string>
+    <string name="almanac_human_mage">"Az egyik legerősebb mágikus felhasználók ismert ember vagy állat, Mages ellenőrzik a varázslatokat, amelyek halandó emberek csak álmodnak. Ellentétben a varázslók, akik kötelesek az esküt, és egy kódot, Mages szabadon felhasználhatják hatásköreiket, eladják szolgáltatásokat a legmagasabb árat, illetve áthúzása saját fosztogatni megérteni a gazdagság és ellenőrzéséért a világ fordult ellenük. Mágusok epe-és csavart, de nem zárható ki: ezek rendkívül veszélyes a felhasználók a sötét művészetek és már régen elfelejtették a szó jelentése félelem.
+"</string>
+    <string name="almanac_human_necromancer">"Biztosítja a legközvetlenebb kapcsolatot a föld az élet és a föld a halottak, nekromanták ugyanolyan képzett, mint azok kínozták, börtönbe zárják a tudást nagyon töltötték életüket hónolás. Nem sikerült maradéktalanul sem él világban, nekromanták létezik egy kétségbeesett szakadást, és a lények, varázslatok varázsolni egy reménytelen kísérlet arra, hogy harcolni ki mind a rájuk leselkedő démonokat nélkül, és a démonok előttük belül. Az élet szeretete. A többi halott. De a Nekromanta nem jelenti sem, lassan syphoning le az utolsó fájdalmas légvétel egy csavart Mortal Coil. 
+"</string>
+    <string name="almanac_troll">"A természet egy csodálatos művész, alakítja a teremtményeket, hogy tükrözze mind a helyüket a világban, és azok valószínű eszközökkel való interakció is. Mivel ez igaz, a troll nyomorult, beesett arc, ragyás bőr, és görbe tüskéi tükrözi állomás: kapuőrök és az alsó-lakók, élhetetlen, gyáva, és lelkifurdalás nélkül. A jól nevelt Troll fogja tanulni, hogyan kell nem csak az élő eek el a hátán a többiek, de kidolgoz egy rejtélyes értelme a pillanat, amikor a hatalom megragadása egyenlegek borravalót valaha egy kissé. Undorító, hogy íme, olfactious, és sunyi, használni fognak minden rendelkezésre álló eszközt, hogy megszerezzék, amit akarnak, akár ragadozó ellenérzés, mint mások a létüket.
+"</string>
+    <string name="almanac_dwarf">"Kevesen vannak, akik tisztában vannak, mint a testük, mint a dallam és annak használatát, mint egy fegyver, mely egyszerre erős és gyenge pontjait, mint a harcias törpe klánok. Squatly törpék építették, és bár nagy a méretük, nem olyan erős, mint az állatok és azok ellenfeleit rutinszerűen feladást. Szakértők a közelharcban, és nem fél, hogy csökkentsék a csata a legkisebb közös nevező, a törpe nem valószínű, hogy visszavonuljon, ha tudja, hogy fáradhatatlan iparág valószínűleg készíteni ölni. Kibírják a nagy változásokat hozott mind a hő és hideg, rugalmas, és rendelkezett a nagy állóképességet, a férfi, aki a törpék \"kis termetű enyhén lehet, hogy nem egy ember, legalább 1 élő, sokáig. 
+"</string>
+    <string name="almanac_halfling">"Kapcsolódóan az ősi ember, Halfings alakult, mint egy ravasz faj tolvajok, sarlatánok, és megtévesztően képzett harcosok. Bár korlátozott ereje, és nem ismertek a leplezetlen sebesség, félszerzet gyorsan, ravasz és gonosz segítségével az apró termetű, hogy elrejtse az árnyak előtt feltűnő a halálos gyorsaságukat. Félszerzet könnyedén legyőzte a tisztességes küzdelem. Következésképpen, félszerzetek ritkán harcolni korrekt. 
+"</string>
+    <string name="almanac_kobold">"Egy elfelejtett ág az evolúciós létra, a Kobold része az emberi, részben gyík, mégis megtartja nem köti sem faj. Kobolds ismert csapdákat építeni, rajtaütésekkel, és egyéb kisgépek háborús annak érdekében, hogy felerősítse a fölényes intellektus lények ellen nagyobb méretben és erejét. Ritkán látható, kobolds úgy gondolják, hogy sok láthatatlan. Míg ez igaz lehet, hogy csomós izmok, rövid szúró kés, és gonoszul komplex alkotások tanúsítják létezésüket.
+"</string>
+    <string name="almanac_gnome">"Talán a legkisebb az összes teremtmény, sokkal kevesebbet tudunk, mint a többi földi gnómok lakók. Ellentétben a mágia felhasználók és az élőhalott, a gnómok nem élnek idegen világokat, vagy elrejteni a jelen segítségével trükköket és varázslatokat. Ezek szakértő barlang lakói, a Rangers, és meglepően jó úszók. Élnek a hegyoldalak és a fák koronája. A mérnöki készségek kialakítása, valamint az apró, tökéletes gép a legenda. Ők a végső túlélők. Gnómok ritkán láthatók, és nem idézik aura veszély körüli mozgásuk. De nem keresztezheti, ha nincs válasz: hogyan ütsz egy ellenfelet, hogy nem lehet találni? Hogyan lehet harcolni egy ellenség, ami megnyerte a csatát, mielőtt még elkezdődött van?
+"</string>
+    <string name="almanac_ghoul">"Az egyik gonosz lények az éjszaka, vámpírok az utolsó nyoma egy földi lélek fordult át a Land of the Dead. Mint a memória egy rémálom, egy Ghoul jelen van, és igazi, nekiütközhet bénító félelem az ember szívében. És mégis, egy pillanat, ez a memória sodródik, vittek egy másik helyen és időben, mint a homok a szélvihar. A Ghoul nem köti az ugyanebben az értelemben a másodpercek, percek és évek, amely érinti leginkább, hogy kárt tenne: ez egy olyan elképzelés, hogy létezik-e túl triviális aggodalmak érintő ív az az idő, a lélekharang, hogy a gyűrűk, de Mindegy \" echo t. 
+"</string>
+    <string name="almanac_human_witch">"Egy olyan világban, mágikus lények, boszorkányok elfoglalni egy alázatos állomást, rég eladja egy részét a világi lelkek cserébe egy csöppnyi természetfeletti hatalom. Bár nem olyan tehetséges, mint más teremtmények, sem különösen erős fizikai vagy mágikus, boszorkányok kevés vesztenivalója, és kénytelenek harcolni egy erőteljes vonzerőt: ez a furcsa, hogy boszorkány, nincs vele rögzíteni kell, és egyszer csatolni, ő szinte nem gondolok semmi másra. Óvakodjon a boszorkányok, mivel csak a halál szoríthatja őket a furcsa küldetést.
+"</string>
+    <string name="almanac_female_necromancer">"Biztosítja a legközvetlenebb kapcsolatot a föld az élet és a föld a halottak, nekromanták ugyanolyan képzett, mint azok kínozták, börtönbe zárják a tudást nagyon töltötték életüket hónolás. Nem sikerült maradéktalanul sem él világban, nekromanták létezik egy kétségbeesett szakadást, és a lények, varázslatok varázsolni egy reménytelen kísérlet arra, hogy harcolni ki mind a rájuk leselkedő démonokat nélkül, és a démonok előttük belül. Az élet szeretete. A többi halott. De a Nekromanta nem jelenti sem, lassan syphoning le az utolsó fájdalmas légvétel egy csavart Mortal Coil. 
+"</string>
+    <string name="almanac_female_elf_mage">"Az egyik legerősebb mágikus felhasználók ismert ember vagy állat, Mages ellenőrzik a varázslatokat, amelyek halandó emberek csak álmodnak. Ellentétben a varázslók, akik kötelesek az esküt, és egy kódot, Mages szabadon felhasználhatják hatásköreiket, eladják szolgáltatásokat a legmagasabb árat, illetve áthúzása saját fosztogatni megérteni a gazdagság és ellenőrzéséért a világ fordult ellenük. Mágusok epe-és csavart, de nem zárható ki: ezek rendkívül veszélyes a felhasználók a sötét művészetek és már régen elfelejtették a szó jelentése félelem.
+"</string>
+
+</resources>

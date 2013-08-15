@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">2 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_water_catapult">4 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_polar_bear">6 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_ice_golem">8 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_water_pillar">10 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_drake">12 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_water_emitter">16 wins as Skaði\'s Frozen Savages unlocks</string>
+    <string name="achievement_race_ice">Unlock all Skaði\'s Frozen Savages creatures and towers</string>
+    <string name="achievement_campaign_race_ice_10">5 Stars in all Campaign levels on Easy as Skaði\'s Frozen Savages</string>
+    <string name="achievement_campaign_race_ice_100">5 Stars in all Campaign levels on Medium as Skaði\'s Frozen Savages</string>
+    <string name="achievement_campaign_race_ice_1000">5 Stars in all Campaign levels on Hard as Skaði\'s Frozen Savages</string>
+    <string name="achievement_campaign_race_ice_10000">5 Stars in all Campaign levels on Expert as Skaði\'s Frozen Savages</string>
+    <string name="achievement_battle_race_ice_5">5 wins in Battle Mode as Skaði\'s Frozen Savages</string>
+    <string name="achievement_battle_race_ice_25">25 wins in Battle Mode as Skaði\'s Frozen Savages</string>
+    <string name="achievement_battle_race_ice_100">100 wins in Battle Mode as Skaði\'s Frozen Savages</string>
+    <string name="achievement_battle_race_ice_1000">1000 wins in Battle Mode as Skaði\'s Frozen Savages</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">2 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_griffin_statue">4 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_panda_bear">6 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_lightning_golem">8 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_lightning_pillar">10 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_dragon">12 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_lightning_emitter">16 wins as Quetzalcoatl\'s Warrior Tribe unlocks</string>
+    <string name="achievement_race_wind">Unlock all Quetzalcoatl\'s Warrior Tribe creatures and towers</string>
+    <string name="achievement_campaign_race_wind_10">5 Stars in all Campaign levels on Easy as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_campaign_race_wind_100">5 Stars in all Campaign levels on Medium as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_campaign_race_wind_1000">5 Stars in all Campaign levels on Hard as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_campaign_race_wind_10000">5 Stars in all Campaign levels on Expert as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_battle_race_wind_5">5 wins in Battle Mode as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_battle_race_wind_25">25 wins in Battle Mode as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_battle_race_wind_100">100 wins in Battle Mode as Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="achievement_battle_race_wind_1000">1000 wins in Battle Mode as Quetzalcoatl\'s Warrior Tribe</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">2 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_stone_catapult">4 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_grizzly_bear">6 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_earth_golem">8 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_earth_pillar">10 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_eagle">12 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_dirt_emitter">16 wins as Gaia\'s Lot of Noble Soldiers unlocks</string>
+    <string name="achievement_race_earth">Unlock all Gaia\'s Lot of Noble Soldiers creatures and towers</string>
+    <string name="achievement_campaign_race_earth_10">5 Stars in all Campaign levels on Easy as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_campaign_race_earth_100">5 Stars in all Campaign levels on Medium as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_campaign_race_earth_1000">5 Stars in all Campaign levels on Hard as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_campaign_race_earth_10000">5 Stars in all Campaign levels on Expert as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_battle_race_earth_5">5 wins in Battle Mode as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_battle_race_earth_25">25 wins in Battle Mode as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_battle_race_earth_100">100 wins in Battle Mode as Gaia\'s Lot of Noble Soldiers</string>
+    <string name="achievement_battle_race_earth_1000">1000 wins in Battle Mode as Gaia\'s Lot of Noble Soldiers</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">2 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_flame_catapult">4 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_fiery_bear">6 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_fire_golem">8 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_fire_pillar">10 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_falcon">12 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_fire_emitter">16 wins as Agni\'s Legion of the Sacrificed unlocks</string>
+    <string name="achievement_race_fire">Unlock all Agni\'s Legion of the Sacrificed creatures and towers</string>
+    <string name="achievement_campaign_race_fire_10">5 Stars in all Campaign levels on Easy as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_campaign_race_fire_100">5 Stars in all Campaign levels on Medium as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_campaign_race_fire_1000">5 Stars in all Campaign levels on Hard as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_campaign_race_fire_10000">5 Stars in all Campaign levels on Expert as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_battle_race_fire_5">5 wins in Battle Mode as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_battle_race_fire_25">25 wins in Battle Mode as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_battle_race_fire_100">100 wins in Battle Mode as Agni\'s Legion of the Sacrificed</string>
+    <string name="achievement_battle_race_fire_1000">1000 wins in Battle Mode as Agni\'s Legion of the Sacrificed</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">2 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_angel_statue">4 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_seraphim">6 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_life_golem">8 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_life_pillar">10 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_angel">12 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_holy_water_emitter">16 wins as Hugues de Payens\' Holy Knights Templar unlocks</string>
+    <string name="achievement_race_life">Unlock all Hugues de Payens\' Holy Knights Templar creatures and towers</string>
+    <string name="achievement_campaign_race_life_10">5 Stars in all Campaign levels on Easy as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_campaign_race_life_100">5 Stars in all Campaign levels on Medium as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_campaign_race_life_1000">5 Stars in all Campaign levels on Hard as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_campaign_race_life_10000">5 Stars in all Campaign levels on Expert as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_battle_race_life_5">5 wins in Battle Mode as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_battle_race_life_25">25 wins in Battle Mode as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_battle_race_life_100">100 wins in Battle Mode as Hugues de Payens\' Holy Knights Templar</string>
+    <string name="achievement_battle_race_life_1000">1000 wins in Battle Mode as Hugues de Payens\' Holy Knights Templar</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">2 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_gargoyle_statue">4 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_succubus">6 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_undead_golem">8 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_undead_pillar">10 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_fallen_angel">12 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_toxic_gas_emitter">16 wins as Damballa\'s Army of the Damned unlocks</string>
+    <string name="achievement_race_death">Unlock all Damballa\'s Army of the Damned creatures and towers</string>
+    <string name="achievement_campaign_race_death_10">5 Stars in all Campaign levels on Easy as Damballa\'s Army of the Damned</string>
+    <string name="achievement_campaign_race_death_100">5 Stars in all Campaign levels on Medium as Damballa\'s Army of the Damned</string>
+    <string name="achievement_campaign_race_death_1000">5 Stars in all Campaign levels on Hard as Damballa\'s Army of the Damned</string>
+    <string name="achievement_campaign_race_death_10000">5 Stars in all Campaign levels on Expert as Damballa\'s Army of the Damned</string>
+    <string name="achievement_battle_race_death_5">5 wins in Battle Mode as Damballa\'s Army of the Damned</string>
+    <string name="achievement_battle_race_death_25">25 wins in Battle Mode as Damballa\'s Army of the Damned</string>
+    <string name="achievement_battle_race_death_100">100 wins in Battle Mode as Damballa\'s Army of the Damned</string>
+    <string name="achievement_battle_race_death_1000">1000 wins in Battle Mode as Damballa\'s Army of the Damned</string>
+
+</resources>

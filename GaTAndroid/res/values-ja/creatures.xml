@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"バイキング凍結"</string>
+    <string name="frozen_soldier_horseman">"凍結ソルジャーホースマン"</string>
+    <string name="polar_bear">"北極グリズリー"</string>
+    <string name="ice_golem">"アイスゴーレム"</string>
+    <string name="drake">"雹を伴う嵐ドレイク"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"アーチャー"</string>
+    <string name="human_archer_horseman">"マウントされたアーチャー"</string>
+    <string name="panda_bear">"ジャイアントパンダ"</string>
+    <string name="lightning_golem">"ライトニングゴーレム"</string>
+    <string name="dragon">"ドラゴン"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"エルフのアーチャー"</string>
+    <string name="elvish_archer_horseman">"エルフのアーチャーの騎士"</string>
+    <string name="grizzly_bear">"グリズリー·ベア"</string>
+    <string name="earth_golem">"アースゴーレム"</string>
+    <string name="eagle">"戦争イーグル"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"ミイラ"</string>
+    <string name="mummy_horseman">"アンデッドライダー"</string>
+    <string name="fiery_bear">"ベアバーニング"</string>
+    <string name="fire_golem">"地獄スポーン"</string>
+    <string name="falcon">"ファルコン"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"宗教的な盲信者"</string>
+    <string name="zealot_horseman">"傭兵騎士"</string>
+    <string name="seraphim">"セラフィム"</string>
+    <string name="life_golem">"ゴーレムクルセイダー"</string>
+    <string name="angel">"無邪気"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"ゾンビ"</string>
+    <string name="zombie_horseman">"ゾンビライダー"</string>
+    <string name="succubus">"サキュバス"</string>
+    <string name="undead_golem">"アンデッドゴーレム"</string>
+    <string name="fallen_angel">"堕天使"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"エルフ·ウィザード"</string>
+    <string name="human_mage">"ヒューマンメイジ"</string>
+    <string name="human_necromancer">"人間のネクロマンサー"</string>
+    <string name="troll">"いないらしい。トロール。"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"ホビット"</string>
+    <string name="kobold">"コボルド"</string>
+    <string name="gnome">"ノーム"</string>
+    <string name="ghoul">"グール"</string>
+    <string name="human_witch">"人間の魔女"</string>
+    <string name="female_necromancer">"女性のネクロマンサー"</string>
+    <string name="female_elf_mage">"女性エルフメイジ"</string>
+
+</resources>

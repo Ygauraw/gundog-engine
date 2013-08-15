@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"아이스 캐논"</string>
+	<string name="water_catapult">"얼음 투석기"</string>
+	<string name="water_pillar">"워터 기둥"</string>
+	<string name="water_emitter">"워터 에미터"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"번개 캐논"</string>
+	<string name="griffin_statue">"그리핀 동상"</string>
+	<string name="lightning_pillar">"번개 기둥"</string>
+	<string name="lightning_emitter">"번개 방출기"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"록 캐논"</string>
+	<string name="stone_catapult">"돌 쇠뇌"</string>
+	<string name="earth_pillar">"지구의 기둥"</string>
+	<string name="dirt_emitter">"먼지 방출"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"화염 대포"</string>
+	<string name="flame_catapult">"화염 투석기"</string>
+	<string name="fire_pillar">"파이어 필라"</string>
+	<string name="fire_emitter">"소방 에미터"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"에너지 캐논"</string>
+	<string name="angel_statue">"천사의 동상"</string>
+	<string name="life_pillar">"삶의 기둥"</string>
+	<string name="holy_water_emitter">"성수 방출기"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"독 발포"</string>
+	<string name="gargoyle_statue">"가고 일로 동상"</string>
+	<string name="undead_pillar">"언데드 기둥"</string>
+	<string name="toxic_gas_emitter">"유독 가스 방출"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"화염 채찍"</string>
+	<string name="water_whip">"워터 채찍"</string>
+	<string name="tentical_whip">"Tentical 채찍"</string>
+	<string name="flame_crystallizer">"화염 Crystallizer"</string>
+	<string name="ice_crystallizer">"얼음 Crystallizer"</string>
+	<string name="earth_crystallizer">"지구 Crystallizer"</string>
+	<string name="lightning_blade">"라이트닝 블레이드"</string>
+	<string name="ice_blade">"아이스 블레이드"</string>
+	<string name="flame_blade">"화염 블레이드"</string>
+	<string name="earth_ballista">"지구 Ballista"</string>
+	<string name="ice_ballista">""</string>
+	<string name="flame_ballista">"화염 Ballista"</string>
+	
+</resources>

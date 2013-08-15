@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"Hva om hver historie du noen gang hørt var sant? \n\n barnebøker. Nightmares. Mytologier. Religioner. Kan de alle være ekte? \n\n En viss gren av vitenskapen mener at dersom det menneskelige sinn kan forestille seg noe, må det ha på en gang eksisterte. \n\n Skeptikere vil benekte det som fantasifulle ravings av gal. De sanne troende vil benekte det, også, fordi de vet at sannheten er langt, langt styggere. Det er mye verre enn de enkle fortellingene om gode vs onde. \n\n Først nå er vi oppdager uendelig antall parallelle universer eksisterende langs vår, hele tiden branching off i utallige andre retninger. Hver historie vi har hørt er sant eller annet sted. Dette er historien om en av disse universene, der mannen er veldig eksistens henger på i en tynn tråd. \n\n Monsters er reelle. Hærer av dem, ledet av gudene, alle med samme mål: vende hjem. Svertet, vridde hjerter, på jakt etter den eneste hevn som vil bringe dem fred. Ødelegg alle konkurrenter. Følg deres Gud inn i hjertet av kampen, seirende, og marsjere tilbake til helvete som gyter dem. Tilbake. Hjem. \n\n Kampen for å holde seg i live vil være en daglig kamp. Den svake vil før glemme disse dagene. Guder og monstre, demoner og Undead, og verktøyene med krig, er den eneste virkeligheten. Dette er altfor virkelig … dette er Tower Defense Wars! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"Hun er laget av is, sier de, gudinnen av Winter, Skadi, krenket kone Njörðr, leder av de frosne hærstyrker norrøne krigere. På et tidspunkt forsøkte hun hevn, men nå er hun søker bare hjem. Hennes far, Þjazi, ble drept oppsøke den form-skiftende Loke. I et anfall av rettferdig sinne, kom hun til gudene, sverd i hånd. Men de placated henne. De beroliget henne sinne. De ga henne makt. Det er en tom ugyldig inne Skadi som vokser daglig med urett begått på huset hennes. Det er en svarthet jakte lys. Av de ni verdener i norrøn mytologi, kan bare Niflhel, en helvetes, frossen ødemark, inneholder denne svarthet fra svelge Creation. Det hennes hær marsjer. 
+"</string>
+    <string name="almanac_frozen_soldier">"Fanget i en frossen fengsel i århundrer, ble isen vikingene brakt tilbake til livet når Skadi kom under angrep. Hun trengte å kalle en hær, og snudde til massegraver av tilhengerne av hennes avdøde far, Þjazi. The Ice Vikingene har blitt advart om at deres frihet er midlertidig: seier, og kreve et yndet sted i Nifhel. Taper, og forblir frosset og slåss evig.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"I likhet med de frosne soldatene alltid marsjerende til fots, er Frozen Horsemen Cooly beregning. Avviker fra den berømte flåten-footed alviske, beveger Skadi er hestens hær langsomt og metodisk. Selv teknisk stand en livlig galopp, er en Frozen Horseman mer sannsynlig å utmatte fienden enn jage ham. Å vite at ingen hjørne av jorden er for kald, for mørkt, eller for ugjestmild, vil han bare følge sitt bytte. Han vil aldri slutte. Han vil aldri hvile. Ikke før hans fiender har avstått sine siste døende gisp.
+"</string>
+    <string name="almanac_polar_bear">"Disse voldsomme dyr er ikke kjent for sin intelligens, innsikt, eller tilpasningsevne. De er kjent for ondskapsfull styrke. Med kraftige, kjøttfulle poter og sylskarpe negler, har mang en soldat møtte sin skjebne blir plukket fra bakken bare for å møte sine umettelige tenner. Disse knivene lå på lur inne i en kjeve som knuser frossen granitt like enkelt som kjøtt, noe som gjør rømning svært sjelden.  
+"</string>
+    <string name="almanac_ice_golem">"Laget av en is mer tett enn noe som finnes på moderne Jorden, er Ice Golem neve så hardt frossen rock. Det er sjelen, hvis den noen gang hatt en, har for lengst islagt, og det lever bare for å tjene Skadi grusomme budgivning. Det er to alternativer på møte en Ice Golem: kjempe til døden, eller løp. Og hvis man velger å kjøre, en bedre kjøre fort.  
+"</string>
+    <string name="almanac_drake">"Stand til å angripe fra skremmende langt avstander, Drake bokstavelig åndedrag en iskald isflak av hagl, regjerende terror på svakere, mindre mobile skapninger. Jordiske haglstormer har vært kjent for å ødelegge skog, desimere hele pakker av ville dyr, og selv bulke stål. Tenk hva Drake er i stand til.  
+"</string>
+    <string name="almanac_water_cannon">"Denne kraftige kanon utnytter en av jordens mest grunnleggende elementene, vann, og skrur den inn i kniven kanten av en uendelig fornybar våpen.
+"</string>
+    <string name="almanac_water_catapult">"Vann er både uendelig formbare og overraskende tung. Begge fakta blir utnyttet av den dødelige Water Catapault.
+"</string>
+    <string name="almanac_water_pillar">"Beveger seg sakte, nesten metodisk, kan en stor nok mengde vann svelle høy, surround lavlandet, og til slutt kvele alt i sin vei.
+"</string>
+    <string name="almanac_water_emitter">"Merkelig at noe kjent for å gi liv kan så behendig fungere som en maskin for døden, men slik er vannet Emitter. I likhet med torturen kjent for noen kulturer, the Water Emitter sakte men sikkert kveler sine motstandere med en enkel strøm av vann. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"Før var det regn, før det snø, var det vind, drivende langs land, som dekker jorden i et teppe av endring. Det er en som styrer vinden, og på den måten styrer bevegelsen av sanden, frøene, og årstidene. Hans navn er Quetzalcoatl. Den bevingede Slangen er mer enn en Gud: Han er en alliert, en venn, en tormenter, og en markør av sted. Quetzalcoatl er gapet mellom jord og himmel. Han er en av de få som kan reise til Xibalba, Maya underverden, og returnere uten lukten av død om ham. Xibalba er et sted av frykt; hva virksomheten Quetzalcoatl har det er vanskelig å si. Men han har reist en hær for å følge ham. Han vekket vinden.
+"</string>
+    <string name="almanac_human_archer">"Lenge før pistolen, var det bueskytter, kanskje den mest fryktede stridende av middelalderen. Nå sliter for Quetzacoatl, som har lovet dem i ryggen en rasende vind, disse smidige jagerfly er i stand til å angripe på lang avstand. Bruke en pilspiss innpakket i en rusten brodd av små stål kroker, noen heldig nok til å overleve et møte med en gruppe av bueskyttere, som det er få kjente til historien, dukke opp vil arrete for resten av sine dager.
+"</string>
+    <string name="almanac_human_archer_horseman">"Dersom Archer har en svakhet, og mange vil hevde at det ikke gjør det, er det at deres behov for å sette og sikte forlater dem relativt eksponert. Angi montert Archer, trent til å kontrollere et vilt dyr vil fortsatt opprettholde dødelig nøyaktighet. Et møte med en gruppe av monterte Archers vil forlate himmelen formørket, tusenvis av piler, hver en utsending av en død forutsagt, regner ned fra oven. 
+"</string>
+    <string name="almanac_panda_bear">"Selv ofte elsket for sine comely utseende, er kjempepandaen en voldsomt territoriale dyr, med tykke underkjever og kniv-lignende klør. Mens tilpasset en ganske stillesittende liv, de gigantiske pandaer er irritabel og ekstremt defensive av sin egen art. Å vite dette, prods Quetzalcoatl de gigantiske pandaer å ingen ende, skiller mor fra cub, og isolere ursine krigerne fra sitt eget hjemland. Han har sint dem, og mens forlagt, vil deres sinne slokne i blodet.
+"</string>
+    <string name="almanac_lightning_golem">"De gamle Mayaene tilba Chaac, sa en regn slange å kontrollere lyn på himmelen, ofte plasserer ham over den bevingede slange Quetzalcoatl. Quetzalcoatl, vel vitende om Chaac makt, avfettet himmelen og Hells i søk av Lyn Golem. Etter å ha funnet ham, og etter å ha sikret sin lojalitet, vil Lyn Golem tjene Quetzalcoatl som regnet serverer skyene: trål, skaper døden som skyen skaper en dam. 
+"</string>
+    <string name="almanac_dragon">"Kanskje ingen enkelt skapning har dratt så mye fra deres nye herre som Dragon. Allerede ett dyr er kjent gjennom tidene, under Quetzalcoatl, er Dragon enda mer fryktinngytende, etter å ha lært alle ordensforstyrrelser av churning vinden fra dens vinger Liege. Dragen er en brennende slange alarmerende evne. 
+"</string>
+    <string name="almanac_lightning_cannon">"Siden begynnelsen av menneskeheten, har mindre skapninger håpet å kontrollere himmelen, og med det, kraften av Zevs 'lyn. Nå kan de.
+"</string>
+    <string name="almanac_griffin_statue">"Selv majestetisk i sin form, og kongelig i ansiktet sitt, ser ikke lenger enn sine klør for å forstå den sanne natur Griffin.
+"</string>
+    <string name="almanac_lightning_pillar">"En kolonne av utrolig naturlig energi, er dette pilar både en magnet for kraft, og en dyktig projektor av makeløse ødeleggelse.
+"</string>
+    <string name="almanac_lightning_emitter">"Stand til å fungere i korte burts ekstrem skarphet, er det Lyn Emitter en sjokkerende kraft til skue fra langt borte, nærmere, selvfølgelig, er ikke et show, men en dødsdom.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"Man skapte religion for å beskrive Gud. Gud skapte mennesket til å reflektere hans bilde. Men Gaia, moder Gaia, skapt gudene. Gaia, jordens Skaper, er skriften som livets elv strømmer. Hun er ånd og harmoni i tilværelsen. Grekerne så til Gaia for veiledning over alle andre. Hun lyste på dem. Og de slått på henne, beruset på vin de laget av druene hun gitt, beruset på strømmen over et liv hun, men bare tillatt. Så vil hun lede dem til Tartaros. Hun vil vise dem hva smerte er. Tartaros, avgrunnen, det mørke hullet i midten av å være, underverdenen i de fordømte. Tartaros, en rasteplass og navnet på den Gud som hviler der. Tartaros vil være deres skjebne; Gaia vil føre henne hæren til deres skjebne, og da vil hun vaske hendene av skitne, uomvendte svikt. 
+"</string>
+    <string name="almanac_elvish_archer">"For alvene, som er en bueskytter er ikke en jobb, er det en livsstil. Lære den lange baugen fra det tidspunkt de lærer å gå, utvikler en alv en ivrig sjette sans for bueskyting, som om disse verktøyene for krig var en forlengelse av hans vesen. Selv om ikke alltid den største og sterkeste rase, alver bruke sin overlegne syn, sluhet, og bue dyktighet enkelt beseire utleiers motstanderne, og oppfordret Gaia, Jorden gudinnen, i tider med stort behov. Kryss dem på egen risiko. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"Få arkitekter av krig, enten de er mann eller maskin, kan streike så raskt og besluttsomt som alviske Archer Horseman. Kjent for nesten åndelige forbindelsen mellom rytter og hest, er de alvene som behersker både baugen og dyret hedret i alviske kultur, og jevnt fryktet utenfor det. Dette er med god grunn. Ved hjelp av en kort bue som gjør det mulig for et komplett spekter av bevegelse, disse mobile snikmordere skanne horisonten, velger sine mål, og streiken med alarmerende alacrity.
+"</string>
+    <string name="almanac_grizzly_bear">"En naturlig utviklet seg morderen, og den ubestridte kongen av sin skog hjemland, går det Grizzly sakte fordi han kan. Likevel full sprint, er bjørnen raskere enn alle men fleetest av dyr, og sterk nok til å rippe bein fra sine sokler. Hvis sine skjerpet tenner og klør ikke drepe byttedyr, vil det tidvis ødelegge motstandere med sløv, brute force og hamre fisted poter. 
+"</string>
+    <string name="almanac_earth_golem">"Stiger fra jordskorpen er jorden Golem en kompleks dyr, en samling av mikroorganismer, gasser, og stein, holdt sammen med sump gjørme og en enestående fokus: retur til Jorden som den kom. Det betyr ikke sloss sine motstandere så mye som svelge dem og bli ett med dem, fordamper ethvert spor av det som tidligere hadde stått før det som søle flyter inn i en passerende strøm. 
+"</string>
+    <string name="almanac_eagle">"I moderne tid et symbol på frihet og rettferdighet, er den gamle Eagle en gigantisk rovfugl, angripe med fart og overraskende kraft. Dens klør river gjennom kjøttet, og etterlot sår etter som forårsaker en langsom og smertefull død. I beste fall vil Eagle løfte sin motstander og sette dem for en lang høst og en mye raskere og mer sikker død. Gjør ingen feil: dette er en forbannet fugl født av damned sjel.
+"</string>
+    <string name="almanac_rock_cannon">"Ingen substans kjent er like mange som det konstant, knusing kraft av stein, og ingen kanoner er like nådeløs. 
+"</string>
+    <string name="almanac_stone_catapult">"Et regn av steiner høres ut som en bibelsk pest, men Stone Catapault er i stand til å produsere et slikt raseri på et øyeblikks varsel.
+"</string>
+    <string name="almanac_earth_pillar">"Lite kjent i enkelte kretser, men jorden er sammensatt av langt mer enn bare skitt, rock, og vann. Det er en indre energi, en livskraft, som binder disse elementene sammen. Enten utnyttes for godt eller ondt, har dette uutsigelige energien en kraft som er ubestridelig. 
+"</string>
+    <string name="almanac_dirt_emitter">"Verken teknologisk avansert, og heller ikke på magisk unik, er den Dirt Emitter en enkel, brutal skaperverket. Imidlertid er det fare for ikke å være diskontert. Bare spør alle som noensinne har blitt begravd levende. Det vil si, hvis du finner en overlevende. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"The Hindu religion har mange guder, Indra og Soma, Vishnu og Rudra. Og så er Agni, Gud ild og akseptor av ofre. Agni er budbringeren, kanalen mellom himmel og jord, koblingen mellom mennesker og guder. Agni er sint. Gudene viste menneskene veien til visdom, men de har forlatt det. De vil måtte bli undervist igjen. De blir nødt til å følge stien. Agni vil føre dem til Naraka, den hinduistiske underverden. Naraka er et sted av pine, en evig land av lidelse fryktet av buddhister og Jainists likt. Agni gjør ingen distinksjoner. Han vil hvile hånden på skulderen til de fordømte, og fyke en sti gjennom hjertet av enhver aggressor. Agni er udødelig. Hans hær er vandøde. Sammen vil de returnere verden til sin naturlige tilstand: lidelse. 
+"</string>
+    <string name="almanac_mummy">"Som en mann snubler fra en brennende bygning, er det mamma langsom og desorientert. Men det varer ikke søker en flukt mot liv. Snarere det håper å dra andre inn i sin udødelige verden av elendighet. The Mummy er ikke sterk, er det ikke fort, og det er ikke smart. Men mer enn noen skapning kjent, vil det ikke stoppe kampene. Det vil aldri slutte å slåss: plaget, brutt, og mørbanket.  
+"</string>
+    <string name="almanac_mummy_horseman">"Den Undead Rider besitter den samme maniske løse som mamma, men løser Mummy største svakhet: en langsom bevegelse. Stand til å slå på et øyeblikks varsel, er den Undead Rider den perfekte kombinasjonen av ren fart, kvikk fingerferdighet, og en brutal ønske om å knuse viljen til sine motstandere både nær og fjern. 
+"</string>
+    <string name="almanac_fiery_bear">"Likner den felles svartbjørn i build, har Agni skures Naraka, brennende underverden, for en undead overfallsmannen lik i størrelse, hastighet og styrke. Kan ikke finne en passende match, skapte han Burning Bjørn, smidd i en dyreofringer av uskyldige skapninger og fordømte menneske brennevin. En Burning Bear er intelligent nok til å forfølge sitt bytte, utrettelig, og helt ugjennomtrengelig for selv de mest intense former for varme. Videre har Agni gjennomsyret hver med en flammende raseri og en sinnsforvirret disposisjon. The Burning Bjørner er uforutsigbare, vanskelige, og pålitelig dødelig.
+"</string>
+    <string name="almanac_fire_golem">"Retten anvendelse av tid og press vil skape en diamant. Feil søknad vil skape et helvete gyte, en dødelig blanding av smeltet lava og knust Jorden. Enten skålding sine motstandere med sine kokende nevene, eller pulverisere deretter med sine endeløse, metodisk bevegelser, er Hell Spawn eneste mål å påføre sin elendighet på verden, akseptere alle offer på alteret av sin egen misfornøydhet.
+"</string>
+    <string name="almanac_falcon">"Det er ingen enkelt dyr som synonymt med hastighet som Falcon, og følgelig ingen dyr i stand til å slå så raskt og effektivt. Dykking mot sitt bytte fra høye høyder, har Falcon ofte slo dødsstøtet før motstanderen selv så det komme, wedging sin herdet nebbet inn i skallen av inntrengeren. Agni smiler hver gang Falcon treffer sin uvitende byttedyr. 
+"</string>
+    <string name="almanac_flame_cannon">"Heat angriper selve innholdet av en skapning celler, og få, om noen, kan stå opp til rasende infermo of the Flame Cannon.
+"</string>
+    <string name="almanac_flame_catapult">"Det eneste som brann mangler er evnen til å overraske. Det er for lyst og for varmt til å fange mange av vakt. Minst til flammen Catapault kommer slaget.
+"</string>
+    <string name="almanac_fire_pillar">"Rundt en brann søyle er en dans med sikker død, vakker på sin egen kvikk måte brannen bøye til formen vinden, før engulfing sitt bytte i en gryte av varme. 
+"</string>
+    <string name="almanac_fire_emitter">"Som smeden ovner brukes til å forfalske den kalde stålet som erobret middelalderens Europa, utstråler Brann Emitter en intens varme immobilizing alt, men den mest-stout hearted å komme nær den.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"For å være cannonised, til å bli en hellig, en mest vie sitt liv til årsaken til de kristne, og til frelse for deres medmennesker. Noen søker frelse gjennom boken, andre gjennom sverdet. Hugues de Payens, grunnlegger og Grand Master of tempelridderne var en kriger helgen, en Crusader, og militær leder for True Grit og uvanlig geni. De Payens, som alle Stormesternes som fulgte ham, takket ja til stillingen for livet, sverget å forsvare korset. Bare i døden kunne man endelig hvile. I hans liv, drepte de Payens mang en sjel for det større gode. For hans forbrytelser, må han vente i Gehenna, en gammel depot for den ugudelige. Der kan han finne sin skjebne er ikke å vente Purgatory. Eller han kan lide i all evighet. Det er ikke hans mye å vite. Han vet bare at det svaret venter ham, så det venter hans ivrige tilhengere. 
+"</string>
+    <string name="almanac_zealot">"En seloten er blind for noen sannhet som ikke er i samsvar hans syn. Som en levende maskin, er hans omfang smalere. Ridderne har forfalsket disse krigerne i troen gjennom bedrag, og de kjemper ikke med sinne eller misunnelse, men med en følelsesmessig dybde langt overstiger det som er av den trivielle verden. Deres glød er umulig å oppnå med dødelige, og med denne nidkjære fokus, fiender snart innse at en ekte seloten vil stoppe på ingenting, ofte beseiret motstandere mange ganger sin størrelse og styrke.
+"</string>
+    <string name="almanac_zealot_horseman">"Når en edel Paragon av dyd og ridderlighet, var ridder også en meget dyktig morder, kombinerer sverdkunst og horsemanship inn en dødelig stridende. Tidligere holdt en ridders streng overholdelse av en moralsk kode ham fra å kjempe for det onde. Men nå, med denne koden lange tapt, har disse Mercenaries begynt å kjempe for høystbydende, som søker å komme tilbake til Gehenna og torturere sine fiender nådeløst for evigheten.  
+"</string>
+    <string name="almanac_seraphim">"Den Seraphim er utrettelig aktive, deres hengivenhet til bønn på grensen til galskap. Ofte er de tenkt som brenner, så flammende er deres behov for religiøse oppløsning. I Hugues de Payens, har de funnet en leder unikt tilpasset sette sin industri til god bruk, sende dem på en endeløs serie av død-bundet oppdrag, alltid lovet at han snart vil gi dem ro de så desperat søker. 
+"</string>
+    <string name="almanac_life_golem">"Folklore mener at rabbineren Judas Löw ben Bezalel opprettet den første Golem å forsvare jødene i Praha mot ghettoen pogromene. Innser at han hadde skapt et monster som ikke kunne kontrolleres, ble Rabbi Loew tvunget til å sette ned Golem før sin stadig voldelige utbrudd truet ytterligere død hedningen uskyldige. Slik makt, og slik hensynsløs ødeleggelse av hans folk, var ikke tapt på Hugues de Payens. Han oppreiste den jødiske Golem for hans tempelridderne, skaper Golem Crusader: dim vittigheter, umoralsk, og nesten ustoppelig.
+"</string>
+    <string name="almanac_angel">"Wide-bevinget og gjennomsyret med en kraft noen anser sterkere enn noen annen, Guds Ord, Angels besitter overmenneskelige krefter og et smalt fokus: de vil ikke nøle med å avhende dem som står i veien for en gjenforening med sin sanne Gud. Selvfølgelig, er som å \"stå i veien\" er opp til sin egen tolkning, og mange en uskyldig som falt i hendene på disse bevingede krigere.
+"</string>
+    <string name="almanac_energy_cannon">"The Energy Cannon avfyrer runder med ren energi, enda mer elementære enn elektrisitet, redusere noe levende eller døde i en masse av livløse materiale avfall. 
+"</string>
+    <string name="almanac_angel_statue">"Se kraften i Angel: et symbol styrke, alvor, og lydighet.
+"</string>
+    <string name="almanac_life_pillar">"Det er skapninger på jorden kan vokse og trives i caldronous varme. Det er celler som trenger lys og de som higer etter mørkets Det er planter som pusten i de gasser andre dyr puster ut. Slik er det Liv Pilar, brukte en oppkomme av livsenergi for å få til døden. 
+"</string>
+    <string name="almanac_holy_water_emitter">"Som så mange krigsvåpen, den virkelig hellige har ingenting å frykte fra den hellige Water Emitter. Som så mange kriger, vil dette ikke være faught ved den Hellige.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"I haitisk Voodou er veve et ritual symbol som brukes til å representere de mektige åndene, kjent som Loa. Den viktigste Loa, Damballa, Sky Gud og skaperen av alt liv, er representert med to slanger. Som en slange, kan Damballa ikke snakke. Han uttrykker seg ved å snakke gjennom flamme. Bondyè, det ukjennelige skaperen av alt, kan ikke bli snakket til. Han uttrykker seg gjennom Damballa. Men mye som Damalla veier er et mysterium for mannen, Bondyè veier er et mysterium for Damballa. Da hans følgerens tilbud ikke passer ham, brenner Damballa hele landsbyer. Når Damballa ikke passer Bondyè, det er ikke mulig å si hvilke konsekvenser. Skulle dette ukjennelige skapningen bestemmer seg for å bringe Helvete til Jorden, vil ingen kraft i universet kunne stoppe ham. Den døde vil stige og gjøre hans budgivning. Mystery vil bli erstattet av blendende sannhet.   
+"</string>
+    <string name="almanac_zombie">"The Zombie, allerede død, lever uten lykke eller frykt. Hans er et liv av formål. Evig eksistens, som etterspørres av alle, fra Ponce de Leon i vest, til brahminer i øst, er forbannelsen av Zombie, evig vandrende i en ustanselig syklus av utålelig smerte. Han er Damballa sin marionett, innhold bare i Hell on Earth som har kommet for å være hans hjem. 
+"</string>
+    <string name="almanac_zombie_horseman">"Som en hodeløs rytter sluppet løs på natten, flyttes Zombie Rider utrettelig over sprukne jord en Scorched Earth. Inne ham er det ingen tanker, ingen drømmer. Det er ikke engang en samtale for hevn. Hans liv er langt enklere. Som en plante når mot solen, roams Zombie Rider planeten, villet ødelegge alt i sin vei slik at han en dag kan bli gjenopprettet. 
+"</string>
+    <string name="almanac_succubus">"I motsetning til så mange av de skammelige skapninger brakt til krig her, kan de succubus synes som om en delikat skjønnhet. Ved den tiden hennes nubile skjema har svertet i øynene til betrakteren henne, er det for sent. De vil se henne sanne form for et øyeblikk, reptilian huden av en sjelløs instrument som glede oppstår i smerte, og deretter vil de bli eliminert. 
+"</string>
+    <string name="almanac_undead_golem">"En sammensetning av alt som er stygt i verden, alt som er plaget og blemmer, kombinerer Undead Golem den mest ubrukelige, mest giftige, mest undertrykte, og mest utskjelt avfall til en reanimated vesen. Som en levende Voodoo dukke, har Damballa tatt ulike deler og dannet dem i Undead Golem. Knapt sansende, men dypt ødeleggende, røper den Undead Golem bare de enkleste rest av kontroll til sin skaper. Utover det, er det en maskin, brakt inn i livet til å drepe, og bare for å drepe.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels gang bodde cradled i et teppe av grenseløs kjærlighet og evig ro. Og de avviste det, fortært med et ønske om makt. Lenge siden kastet ut av himmelriket, vil Fallen Angels eksakt rask rettferdighet på noen skapning hindre deres oppstigning til tronen av en fortapt Earth - særlig de tåpelig nok til å sammenligne dem med den Gud som de tar som sitt svoren fiende.  
+"</string>
+    <string name="almanac_poison_cannon">"The Poison Cannon spyr sin skadelige effluvia ut i verden, en endeløs smokestack av skadelige gasser og avfall oljer, som få kan motstå. Luften brenner svart, mens giften Cannon fungerer. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Vaktsom og klar, er fortsatt en Gargoyal perched, alltid henger på kanten av flukt og kamp.
+"</string>
+    <string name="almanac_undead_pillar">"Det er noe inne i hjertet av vandøde, eller inni restene av sin sjel, som holder dem oppreist og flytte, men ikke i live. Uansett denne styrken er, er den kraftig transformative, og sannsynligvis forgifte hva levende vesener kommer i kontakt med den.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"Det er noen stoffer slik antitetisk til liv at deres toksisitet krysser alle slags skapning og alle verdener av opprinnelse. Den giftige gassen Emitter frigir slike stoffer på fienden.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"En skummel tendril framgår av Flame Whip som en brennende lasso, stikking motstandere med en snert av ild, eller omringe dem i ring av ild.
+"</string>
+    <string name="almanac_water_whip">"The Water Whip eksisterer et sted mellom flytende og fast. Selv om væske i bevegelse, de rammet av sin snapping, voldelig streik vil sikkert av igjen med en arrdannelse minne av sin solid state. Videre bevis på at overflaten av flytende vann er som stål gitt de rette omstendighetene. 
+"</string>
+    <string name="almanac_tentical_whip">"Som en gigantisk blekksprut, eller en fullt realisert versjon av mytologiske Kraken, besitter Tentical Pisk en tykk, muskuløs tau av en tentical, stand til å slå sine byttedyr hvorfor overraskende nøyaktighet og unparalled hastighet.
+"</string>
+    <string name="almanac_flame_crystallizer">"En flamme er bare et synlig signal om at det er brann. Det er et triks av lyset, et spøkelse fjernet fra essense. The Flame Crystallizer utnytter ild sin varme, maner det det fra løse luften, uten flamme nødvendig.
+"</string>
+    <string name="almanac_ice_crystallizer">"Jordens luft er en blanding av mange ting, men selv i de tøffeste ørkenen, er det spor av fuktighet. The Ice Crystallizer tar tak i denne fuktigheten og skaper umiddelbar is. Dette høres kanskje ikke feasome før ett bilde danner seg is fra innsiden og ut, vener, arterier og organer ikke utelukkes. 
+"</string>
+    <string name="almanac_earth_crystallizer">"Fra de skinnende lysene på himmelen, til de mørkeste hjørnene av helvete, det er en magisk i selve begrepet fast grunn, av eksistens. Hvor kommer den fra? Hvordan dette materialet blitt til? Jorda Crystallizer gir ingen svar, men det er sikkert ganske objekt.
+"</string>
+    <string name="almanac_lightning_blade">"Lyn skjærer gjennom himmelen, spalte natten i to halvdeler, adskilt av en hvit hot band av ødeleggende elektrisitet. The Lightning Blade tar som elektrisitet og inneholder sin makt i bladet av et sverd. Inneholder sin makt, men hvor lenge?
+"</string>
+    <string name="almanac_ice_blade">"Et kutt river gjennom kjøttet med en bolt av varm smerte, tårer muskel nær bein. Et blad laget av is vil ikke redusere smerten. Dens avkjølte kjernen vil ikke forhindre arr av krig. The Ice Blade er den verste av to verdener kolliderer, og dens fiende beste ta varsel. 
+"</string>
+    <string name="almanac_flame_blade">"The Flame Blade kjemper i samme varme under der det en gang dukket opp fra smia. Glødende varm, med en sviende kant i stand til å smelte selv den sterkeste av rustning, er Flame Blade effektivitet begrenses bare når du arbeider med skapninger med den ytterste motstand til å brenne.
+"</string>
+    <string name="almanac_earth_ballista">"En tidløs våpen, har Ballista blitt repurposed av Gaia for beleiringer ennå framover. Med raketter spesielt designet for å tåle den sterkeste av stridende, er jorden Ballista bygget ved hjelp av teknologien av de gamle grekerne og romerne, men materialer av en Gud. 
+"</string>
+    <string name="almanac_ice_ballista">"The Ice Ballista tar sakte, inert is og driver det til enorme hastigheter. Sammen med nettopp konstruerte opphold og fjærer, er de boltene sparket av Ice Ballista forsvart av noen.
+"</string>
+    <string name="almanac_flame_ballista">"Mange en gammel by falt til et stormangrep fra Ballista korps. Agni har kalt på denne berømte våpenet fordi det er så lett styrket med tillegg av brannen. The Flame Ballista kombinerer pounding kraft med den destruktivitet av flammen i et våpen for tidene.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"De edle Wizards har lenge kjempet for å bringe verden inn i harmoni, ved hjelp av deres visdom (og en sunn dash av magi) å undertrykke de skapninger som ville gjøre deres brødre skade. Mens generelt fredsommelige og neppe å begynne konfrontasjoner, er Wizards kjent for sin bitterhet, noen holder nag som har vart for generasjoner av menn. Bygget skrøpelig og svak, er en veiviser som en smart vekke, en trojansk hest i form av en mann. Selv ikke kjempe enda et lite barn til bakken, kunne en sterk Wizard tvinge en hel by på sine knær i en håndvending.
+"</string>
+    <string name="almanac_human_mage">"En av de mektigste magiske brukerne kjent mann eller dyr, Mages kontrollere staver som dødelige menn bare kan drømme. I motsetning til Wizards, som er bundet til en ed og en kode, Mages bruke sine krefter fritt, selger sine tjenester til høystbydende eller slår ut på egen hånd å plyndre rikdom og forstå for kontroll av en verden snudde mot dem. Mages er bilious og vridd, men bør ikke utelukkes: de er ekstremt farlige brukere av de mørke kunst og har forlengst glemt betydningen av ordet frykt.
+"</string>
+    <string name="almanac_human_necromancer">"Gir den mest direkte koblingen mellom de levendes land og dødsriket, Necromancers er like dyktig som de blir torturert, fengslet med den svært kunnskapen de har tilbrakt sine liv honing. Kan ikke helt bebo enten verden, Necromancers eksisterer i en desperat skisma, conjuring staver og skapninger i et håpløst forsøk på å bekjempe både demonene de møter uten, og demonene de står overfor innenfor. Den levende kjærlighet. Den døde hvile. Men necromancer ikke verken, sakte syphoning av de siste lidende åndedrag av en vridd dødelig spiral. 
+"</string>
+    <string name="almanac_troll">"Naturen er en fantastisk artist, forme dens skapninger for å reflektere både sin plass i verden og deres sannsynlige midler til å kommunisere med den. Dette er sant, reflekterer trollet elendige, nedsunket ansikt, skjemmet hud, og skjeve ryggrader sin stasjon: gatekeeper-og bunn-bofastes, shiftless, Craven, og uten anger. Den veloppdragen Troll vil lære ikke bare hvordan du eek ut sin levende på ryggen av andre, men vil utvikle en uhyggelig følelse av øyeblikket, griper makten når de balanserer tipper aldri så litt. Ekkelt å se, olfactious, og upålitelig, vil de bruke alle tilgjengelige midler for å få det de ønsker, selv jakter på andres avsky som til deres eksistens.
+"</string>
+    <string name="almanac_dwarf">"Det er få som er like klar over sine organer, som i tråd med dens bruk som et våpen som har både styrker og svakheter, som stri Dwarf klaner. Er Dverger squatly bygget, og selv om kraftig for sin størrelse, er ikke så sterk som dyrene og motstandere de rutinemessig utsendelse. Eksperter i nærkamp, ​​og uredd for å redusere kampen til sitt laveste fellesnevner, er en dverg usannsynlig å trekke seg tilbake når det vet at utrettelige industrien vil trolig produsere et drepe. Stand til å tåle store endringer i både varme og kulde, spenstig, og hadde stor utholdenhet, mannen som tar dvergene \"liten vekst lett kanskje ikke en mann, minst en levende en, for lenge. 
+"</string>
+    <string name="almanac_halfling">"Relatert til de gamle mennesker, har Halfings utviklet seg som en durkdreven rase av tyver, sjarlataner og utrolig dyktige stridende. Selv begrenset i styrke, og ikke kjent for sin direkte hastighet, Halflings er rask, sluhet, og onde, bruker deres lille vekst å gjemme seg i skyggene før slående med dødelig agility. Halflings kan lett overmannet i en rettferdig kamp. Følgelig Halflings sjelden slåss rettferdig. 
+"</string>
+    <string name="almanac_kobold">"En glemt gren av den evolusjonære stigen, er den Kobold del menneskelige og del øgle, men holder ikke troskap med noen av artene. Kobolds er kjent for å bygge feller, overfall og andre små krigsmaskiner for å utnytte sin overlegne intellekt mot skapninger av større størrelse og styrke. Sjelden sett, er Kobolds antatt å være usynlig av mange. Selv om dette kan være sant, deres knyttede muskler, korte stikkende blader, og evilly komplekse kreasjoner bevitne deres eksistens.
+"</string>
+    <string name="almanac_gnome">"Kanskje den minste av alle skapninger, er langt mindre kjent om Gnomes enn andre jordiske beboere. I motsetning magiske brukere og vandøde, gjør Gnomes ikke bebo utenlandske verdener eller skjule i de nåværende bruker triks og magi. De er eksperter huleboere, Rangers og overraskende gode svømmere. De lever på fjellsider og i tretoppene. Deres tekniske ferdigheter og etablering av sine små, perfekte maskiner er legendarisk. De er de ultimate overlevende. Gnomes er sjelden, og skaper ingen aura av fare rundt sine bevegelser. Men ikke krysse dem med mindre du har svar: hvordan slår du en fiende som ikke finnes? Hvordan kjemper man en fiende som har vunnet før kampen er begynt?
+"</string>
+    <string name="almanac_ghoul">"En av de mest djevelske skapninger av natten, Ghouls er den siste rest av en jordisk sjel snu over til Land of the Dead. Som minnet om et mareritt, er en Ghoul til stede og ekte, stand til å slå lammende frykt i hjertene til mannen. Og likevel, i et øyeblikk, dette minnet fonner, fraktet til et annet sted og tid som sand i en vind storm. En Ghoul er ikke bundet av den samme følelsen av sekunder, minutter og år som berører de fleste som ville gjøre skade: det er en ide som eksisterer hinsides slike trivielle bekymringer, tangentiell til buen tid, en død knell som ringer, men doesn ' t ekko. 
+"</string>
+    <string name="almanac_human_witch">"I en verden av magiske skapninger, Witches okkupere en ydmyk stasjon, for lenge siden å selge en del av deres verdslige sjeler i retur for et minstemål av overnaturlig kraft. Selv om ikke så begavet som andre skapninger, verken spesielt sterk fysisk eller magisk, hekser har lite å tape, og blir tvunget til å kjempe gjennom en kraftig tiltrekning: det er rart heks som ikke har sin fiksering, og en gang festet, er hun nesten klarer å tenke på noe annet. Vær på vakt mot hekser, som bare døden kan løsne dem fra sine entall oppdrag.
+"</string>
+    <string name="almanac_female_necromancer">"Gir den mest direkte koblingen mellom de levendes land og dødsriket, Necromancers er like dyktig som de blir torturert, fengslet med den svært kunnskapen de har tilbrakt sine liv honing. Kan ikke helt bebo enten verden, Necromancers eksisterer i en desperat skisma, conjuring staver og skapninger i et håpløst forsøk på å bekjempe både demonene de møter uten, og demonene de står overfor innenfor. Den levende kjærlighet. Den døde hvile. Men necromancer ikke verken, sakte syphoning av de siste lidende åndedrag av en vridd dødelig spiral. 
+"</string>
+    <string name="almanac_female_elf_mage">"En av de mektigste magiske brukerne kjent mann eller dyr, Mages kontrollere staver som dødelige menn bare kan drømme. I motsetning til Wizards, som er bundet til en ed og en kode, Mages bruke sine krefter fritt, selger sine tjenester til høystbydende eller slår ut på egen hånd å plyndre rikdom og forstå for kontroll av en verden snudde mot dem. Mages er bilious og vridd, men bør ikke utelukkes: de er ekstremt farlige brukere av de mørke kunst og har forlengst glemt betydningen av ordet frykt.
+"</string>
+
+</resources>

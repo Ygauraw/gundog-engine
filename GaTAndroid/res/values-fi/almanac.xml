@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"Mitä jos jokainen tarina koskaan kuullut, oli totta? \n\n Lasten tarinoita. Nightmares. Mytologiat. Uskonnot. Voivatko ne kaikki olla totta? \n\n tietty tieteenala uskoo, että ihmisen mieli voi kuvitella jotain, sillä on oltava yhtä aikaa olemassa. \n\n Skeptikot tulee kieltää sen mielikuvituksellisia hourailu on hullu. Tosi uskovat kieltää sekin, koska he tietävät, että totuus on paljon, paljon rumempaa. Se on paljon pahempaa kuin pelkkä tarinat hyvä vs. paha. \n\n Vasta nyt olemme löytämässä ääretön määrä rinnakkaisia ​​maailmankaikkeuksia rinnakkaisuuden meidän, koko ajan haarautuu lukemattomiin muihin suuntiin. Jokainen tarina olemme koskaan kuullut on totta jossain. Tämä on tarina yhden tällaisen maailmankaikkeuksia, joissa mies on olemassaolo on ripustettu päälle säiettä. \n\n hirviöt ovat todellisia. Armeijat heistä näyttämään Gods, kaikki samaan päämäärään: paluu kotiin. Blackened, kierretty sydämiä, etsivät vain kostoa, joka tuo heille rauhaa. Tuhoa kaikki kilpailijat. Seuraa heidän Jumalansa ytimeen taistelun, voittavan, ja marssi takaisin helvettiin, joka poiki heille. Return. Home. \n\n taistelu pysyä hengissä on päivittäinen taistelu. Heikko ennemmin unohtaa näinä päivinä. Gods and Monsters, demonit ja Undead, sekä työkalut sodan, on ainoa todellisuus. Tämä on aivan liian todellinen … tämä on Tower Defense Wars! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"Hän on valmistettu jäästä, he sanovat, jumalatar Winter, Skadi, loukatulla vaimo Njörðr johtaja jäädytetty armeijoiden Norse sotureita. Yhteen aikaan hän pyrki kostoa, mutta nyt hän haluaa vain kotiin. Hänen isänsä, Þjazi kuoli hakeminen muotoaan muuttavia Loki. Sen istuvuus vanhurskaan vihan, hän tuli jumalia, miekka kädessä. Mutta he placated häntä. Ne rauhoitti hänen vihansa. He antoivat hänelle voimaa. On tyhjä mitätön sisällä Skadi, joka kasvaa päivittäin vääryyksistä hänen talo. On blackness pakotus valoa. Yhdeksästä maailmoissa viikinkien mytologiaan vain Niflhel, helvetillinen, jäädytetty joutomaa, voi olla tämä pimeys nielemisvaaraa Creation. Siellä hänen armeija marssii. 
+"</string>
+    <string name="almanac_frozen_soldier">"Trapped in jäädytetty vankilassa vuosisatojen Ice viikingit tuotiin takaisin eloon, kun Skadi joutui hyökkäyksen kohteeksi. Hän halusi kutsua armeijan ja kääntyi joukkohaudat seuraajien hänen kuolleen isänsä, Þjazi. Ice Viikingit on varoitettu, että heidän vapauttaan on tilapäistä: win, ja vaatia suosittu paikka Nifhel. Lose, ja edelleen jäädytetty ja taistelevat ikuisesti.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"Kuten jäädytetty sotilaat ikuisesti marssilla jalka, Frozen Horsemen ovat Cooly laskettaessa. Poiketen tunnetusti nopsajalkaisia ​​haltiakielen, Skadi n hevosen armeija liikkuu hitaasti ja suunnitelmallisesti. Vaikka tekniset valmiudet vilkas laukkaan, Frozen Ratsumies on todennäköisesti loppuun vihollistaan ​​kuin jahdata häntä. Tietäen ettei puolella maailmaa on liian kylmä, liian tumma tai liian kolkko, hän yksinkertaisesti seurata hänen saaliinsa. Hän ei koskaan lopeta. Hän ei koskaan lepää. Vasta hänen vihollisensa ovat luopuneet lopullista kuolemaa henkäisee.
+"</string>
+    <string name="almanac_polar_bear">"Nämä kovaa eläimiä ei tunneta niiden älykkyys, näkemystä ja sopeutumiskykyä. Ne ovat tunnettuja ankaraa lujuutta. Tehokkaiden, lihaisa tassut ja veitsenterävää kynnet, monet solider täyttää heidän kohtalonsa on kynittyinä maan ainoa kohdata heidän kyltymätön hampaat. Nämä veitset vaanivat sisällä leuan joka murskaa jäädytetyt graniitin yhtä helposti kuin lihaa, joten paeta äärimmäisen harvinaista.  
+"</string>
+    <string name="almanac_ice_golem">"Valmistettu jään tiheämpää kuin mitään löytyy modernin maan, Ice Golem nyrkin on yhtä kovaa kuin jäädytetty kivi. Se sielu, jos se koskaan ollut, on kauan sitten jäätyä, ja se elää vain palvella Skadi julman hinnoittelu. On kaksi vaihtoehtoa kohtaamisesta Ice Golem: taistelemaan kuolemaan, tai aikavälillä. Ja jos joku haluaa ajaa yksi parempi juosta nopeasti.  
+"</string>
+    <string name="almanac_drake">"Pystyy hyökätä pelottavan paljon matkoja, Drake kirjaimellisesti hengittää jäinen floe raekuurojen varalta, joka hallitsee terrorin on heikompi, vähemmän liikkuvia olentoja. Maallinen raekuurot ovat olleet tiedossa tuhota metsiä, harventaa koko pakkauksissa luonnonvaraisten eläinten ja jopa Dent terästä. Kuvittele, mitä Drake pystyy.  
+"</string>
+    <string name="almanac_water_cannon">"Tämä tehokas tykki valjastaa yksi maapallon eniten peruselementtiä, vesi, ja muuntaa sen veitsen reunaan loputtomasti uusia aseita.
+"</string>
+    <string name="almanac_water_catapult">"Vesi on niin äärettömän muovattavat ja yllättävän raskas. Molemmat seikat ovat hyödyntäneet tappava Water Catapault.
+"</string>
+    <string name="almanac_water_pillar">"Hitaasti, lähes järjestelmällisesti, valtava tarpeeksi määrä vettä voi turvota korkea, surround alangot, ja lopulta tukehtuvat mitään sen tiellä.
+"</string>
+    <string name="almanac_water_emitter">"Outoa että jotain tiedetään antaa elämän voi niin adroitly toimia kone kuolemaa, mutta näin Water lähetin. Kuten kidutusta tiedossa joissakin kulttuureissa, vesi Emitter hitaasti mutta varmasti tukehduttaa vastustajiaan yksinkertaisella virtaavassa vedessä. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"Ennen oli sade, ennen kuin lunta oli tuuli, ajelehtimassa pitkin maata, joka Maan vaipassa muutoksen. On yksi, joka hallitsee tuuli, ja näin, ohjaa liikettä hiekka, siemenet ja vuodenajat. Hänen nimensä on Quetzalcoatl. Siivekäs käärme on enemmän kuin Jumalaa: hän on liittolainen, ystävä, kiusaaja, ja merkki paikkaan. Quetzalcoatl on ero maan ja taivaan. Hän on yksi niistä harvoista, jotka voivat matkustaa Xibalba, Maya alamaailmaan, ja palauttaa ilman tuoksua kuoleman hänestä. Xibalba on paikka pelon, mitä yritysten Quetzalcoatl on on vaikea sanoa. Mutta hän nosti armeijaa seuraamaan häntä. Hän heräsi tuuli.
+"</string>
+    <string name="almanac_human_archer">"Kauan ennen ase oli jousiampuja, ehkä pelätyin taistelija ja keskiajasta. Nyt toiling for Quetzacoatl, joka on luvannut heille tuella raivoisa tuuli, nämä ketterät taistelijat voivat hyökätä milloin pitkän matkan. Käyttämällä nuolenkärki kääritty ruostunut piikki pieniä teräslenkit, joku onnekas hengissä kohtaamisesta ryhmä jousimiehiä, joita on muutama tiedossa historiaan, selviytyvät monenlaisia ​​jälkiä lopun päivää.
+"</string>
+    <string name="almanac_human_archer_horseman">"Jos Archer on heikkous, ja monet väittävät, että se ei, se että heidän tarve asettaa ja pyrkiä jättää ne melko alttiiksi. Anna Ratsastava Archer, koulutettu hallitsemaan villi peto silti säilyttäen tappava tarkkuutta. Kohtaaminen ryhmän auton Archers lähtee taivaan mustuneet, tuhansia nuolia jokaisen Lähettiläs kuoleman ennusti, sataa alas ylhäältä. 
+"</string>
+    <string name="almanac_panda_bear">"Vaikka usein ihaillut heidän hauskannäköinen näyttää, Giant Panda on voimakkaasti alueellinen peto, paksu mandibles ja veitsen kaltainen kynnet. Vaikka sovitettu melko istumista elämää, Giant Panda on ärtynyt ja erittäin puolustava omaa laatuaan. Tietäen tämän, Quetzalcoatl sauvoja Giant Panda ei ole loppua, erottamalla äiti poikanen, ja eristämällä ursine soturit äidinkielenään kotimaastaan. Hän on suututtanut heidät, ja vaikka väärä, heidän vihansa sammu veressä.
+"</string>
+    <string name="almanac_lightning_golem">"Muinaiset Mayat palvoivat Chaac, sade käärme sanoi hallita salama taivaalla, jäävät usein hänet yläpuolella siivekäs käärme Quetzalcoatl. Quetzalcoatl tietäen kaivo Chaac voiman, keitetty taivaat ja helvetit etsimään Lightning Golem. Todettuaan hänet, ja joka kiinnitetään uskollisuutensa, Lightning Golem palvelee Quetzalcoatl kuin sade palvelee pilvet: unflinchingly luoden kuolema kuin pilvi luo lätäkkö. 
+"</string>
+    <string name="almanac_dragon">"Ehkä yksikään luontokappale on saanut niin paljon uusia master kuin Dragon. Jo tunnettu peto kautta aikojen mukaisesti Quetzalcoatl, Dragon on vielä pelottavia, oppinut kaikki harmia myllertävä tuulen sen siivekäs Liege. Lohikäärme on tulikäärme hälyttäviä kyky. 
+"</string>
+    <string name="almanac_lightning_cannon">"Alkuajoista lähtien ihmiskunnan vähemmän olennot ovat toivoneet hallita taivaan, ja sen voima Zeuksen salamat. Nyt he voivat.
+"</string>
+    <string name="almanac_griffin_statue">"Vaikka majesteettinen sen muodon, ja kuninkaallinen sen olemus, katso enää kuin sen kynnet ymmärtää todellisen luonteen Griffin.
+"</string>
+    <string name="almanac_lightning_pillar">"Sarakkeessa uskomaton luonnon energiaa, tämä pilari on sekä magneetti vallasta ja pystyy projektori verrattoman tuhoa.
+"</string>
+    <string name="almanac_lightning_emitter">"Osaa toimia lyhyessä Burts äärimmäisen näöntarkkuuden, Lightning lähetin on järkyttävä voima katsella kaukaa, yhtään lähemmäksi, tietenkään, ei näytä, mutta kuolemantuomio.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"Ihminen on luotu uskonto kuvaamaan Jumalaa. Jumala loi ihmisen vastaamaan hänen kuvansa. Mutta Gaia, Äiti Maa, loi jumalat. Gaia, luoja Maan on fontti, josta joki elämän virtaa. Hän on henki ja harmonia olemassaolon. Kreikkalaiset katsoin Gaia ohjausta ylitse muiden. Hän loisti heille. Ja he kääntyivät hänen, humalassa viiniä he valmistettu rypäleistä hän edellyttäen, humalassa valtaa elämän hän vaan saa. Niin, hän johtaa heidät Tartarus. Hän näyttää heille, mitä kipu on. Tartarus, Abyss, tumma reikä keskellä olemisen alamaailman kirottujen. Tartarus, lepopaikka ja nimeä Jumalan, joka lepää siellä. Tartarus tulee heidän kohtalonsa, Gaia johtaa hänet armeija heidän kohtalonsa, ja sitten hän pesee kätensä ja saastainen, katumattomat vika. 
+"</string>
+    <string name="almanac_elvish_archer">"Jos tontut, on jousimies ei ole työtä, se on elämäntapa. Oppiminen pitkä keula lähtien kun he oppivat kävelemään, tonttu kehittää innokas kuudes aisti jousiammunta, ikään kuin nämä työkalut sota oli osa hänen olemukseensa. Vaikka ei aina suurin ja vahvin rotu, tontut käyttää erinomaisen näön, ovela, ja keula taito helposti voittaa vuokranantajalle vastustajat, kehottamalla Gaia, maapallon jumalatar aikoina suurta tarvetta. Cross niitä omalla vastuullasi. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"Harvat arkkitehdit sodan, niin mies tai kone voi iskeä nopeasti ja päättäväisesti kuin haltiakielen Archer Ratsumies. Tunnettu lähes hengellinen yhteys ratsastaja ja ratsu, haltiat, jotka hallitsevat sekä keula ja peto ovat kunniassa haltiakielen kulttuurin ja yhdenmukaisesti pelkäsi sen ulkopuolella. Tämä on hyvästä syystä. Käyttämällä lyhyt keula, joka mahdollistaa täyden valikoiman liike, liikkuvien murhaajat skannata horisontin, valitse tavoitteensa, ja lakko on hälyttävää auliisti.
+"</string>
+    <string name="almanac_grizzly_bear">"Luonnollisesti kehittynyt tappaja, ja kiistaton kuningas sen metsäinen kotimaa, Grizzly kävelee hitaasti, koska hän voi. Mutta täydellä sprintti, karhu on nopeampi kuin kaikki muut paitsi fleetest eläimiä, ja tarpeeksi vahva repimään luita kuopistaan. Jos sen teroittaa hampaat ja kynnet eivät tapa saalistaan, se joskus tuhota vastustajat tylppä, brute force-arvoon ja Amir käpälät. 
+"</string>
+    <string name="almanac_earth_golem">"Nousee maankuoren, Maa Golem on monimutkainen peto, kokoelma mikro-organismien, kaasut ja kivi, järjestetään yhdessä suo mutaa ja ainutlaatuinen painopiste: palaa maahan, josta se tuli. Se ei taistele sen vastustajia niin paljon kuin niellä niitä ja tulla yhdeksi niistä haihtuu jälkiä mitä oli aikaisemmin seisoi niin kuin mutaa virtaa kulkee virta. 
+"</string>
+    <string name="almanac_eagle">"Nykyaikana symboli vapauden ja oikeudenmukaisuuden, antiikin Eagle on jättimäinen petolintu, hyökkää nopeasti ja yllättävää voimaa. Sen kynnet repiä kautta lihaa, jolloin pistohaavoja joka aiheuttaa hitaan ja tuskallisen kuoleman. Parhaimmillaan Eagle kohottaa sen vastustajan ja tallettaa niitä pitkään syksyllä ja paljon nopeampaa ja varmempaa kuoleman. Älkää erehtykö: tämä on kirottu lintu syntynyt kirottujen sielun.
+"</string>
+    <string name="almanac_rock_cannon">"Ainetta ei tunnettu on yhtä runsaasti kuin jatkuva, murskaa kivestä, eikä tykki niin armoton. 
+"</string>
+    <string name="almanac_stone_catapult">"Sade kiviä kuulostaa raamatullinen rutto, mutta Stone Catapault pystyy tuottamaan tällaista raivo hetkessä varoitusajalla.
+"</string>
+    <string name="almanac_earth_pillar">"Vähän tunnettu tietyissä piireissä, mutta maa kuuluu paljon muutakin kuin pelkkää likaa, rock, ja vesi. On sisäinen energia, elämän voima, joka sitoo nämä yhdessä. Olipa valjastaa hyvään tai pahaan, se sanomaton energia on voima, joka on kiistaton. 
+"</string>
+    <string name="almanac_dirt_emitter">"Kumpikaan teknisesti kehittyneitä, eikä maagisesti ainutlaatuinen, Dirt lähetin on yksinkertainen, julma luomiseen. Kuitenkin sen vaaraa ei voida sulkea pois. Yksinkertaisesti kysyä jokainen, joka on haudattu elävältä. Eli jos löydät selviytyjä. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"Hindu uskonto on monia jumalia, Indra ja Soma, Vishnu ja Rudra. Ja sitten on Agni, Jumala tulen ja hyväksyjä uhrauksia. Agni on sanansaattaja, putken maan ja taivaan välillä, yhteys ihmisen ja jumalat. Agni on vihainen. Jumalat osoitti ihmisen tie viisautta, mutta he ovat hylänneet sen. Heidän on opetettava uudelleen. Ne saavat seurata polkua. Agni johtaa heidät Naraka, hindu alamaailmassa. Naraka on paikka piinan, ikuinen maa kärsimyksen pelkäämä buddhalaiset ja Jainists keskuudessa. Agni ei ole mitään eroa. Hän lepää hänen käsi olkapäähän kirottujen ja raivata reittiä läpi keskeinen osa hyökkääjän. Agni on kuolematon. Hänen armeija on epäkuolleita. Yhdessä he palaavat maailmaa luonnontilaan: kärsimystä. 
+"</string>
+    <string name="almanac_mummy">"Kuin mies kompuroi päässä palavasta rakennuksesta, äiti on hidasta ja eksyksissä. Mutta se ei pyri pakenemaan kohti elämää. Pikemminkin se haluaa vetää toiset huomioon sen undead maailman kurjuutta. Mummy ei ole voimakasta, se ei ole nopeasti, ja se ei ole älykäs. Mutta enemmän kuin mikään olento tiedossa, se ei lopettamaan taistelut. Se ei tule koskaan lopettamaan taistelut: kiusannut, rikki, ja mustelmilla.  
+"</string>
+    <string name="almanac_mummy_horseman">"Undead Rider hallussaan sama maaninen ratkaista kuin äiti, mutta ratkaisee Mummy suurin heikkous: sen hidasta liikettä. Pystyy iskeä hetkessä, Undead Rider on täydellinen yhdistelmä silkkaa nopeutta, ketterä näppäryyttä ja brutaali halu murskaamaan tahdon vastustajat sekä lähelle että kauas. 
+"</string>
+    <string name="almanac_fiery_bear">"Muistuttavassa yleinen mustan karhun rakentaa, Agni on keitetty Naraka, tulinen alamaailman varten undead hyökkääjän samankokoisia, nopeutta ja voimaa. Voitu löytää sopiva ottelu, hän loi Burning Bears, taottu eläinuhri viattomia olentoja ja pirun ihmisten henkiä. Burning Bear on riittävän älykkäitä väijyä saalistaan, väsymätöntä ja täysin immuuni jopa kaikkein intensiivistä muotoja lämpöä. Lisäksi Agni on inhottavasti jokaisella tulisen raivon ja unhinged disposition. Burning Karhut ovat arvaamattomia, hankala ja luotettavasti tappava.
+"</string>
+    <string name="almanac_fire_golem">"Oikeaan soveltaminen ja paine luo timantti. Väärä sovellus luo helvetin Spawn, tappava seos sulaa laavaa ja murskattua maa. Olipa tulikuuma vastustajansa kanssa kiehuvaan nyrkkiä tai jauhaminen sitten sen lakkaamaton systemaattiset liikkeet, Hell Spawn ainoa päämäärä on alistaa kurjuuteen kun maailma hyväksyen kaikki uhrit alttarille oman tyytymätön.
+"</string>
+    <string name="almanac_falcon">"Mikään yksittäinen eläin synonyyminä nopeudella Falcon, ja näin ollen yksikään eläin voi löytää niin nopeasti ja tehokkaasti. Sukellus kohti saalis vuodesta ylevä korkeuksissa, Falcon on usein iskenyt kuoliniskun ennen sen vastustaja edes nähnyt sen tulevan, kiilaamalla sen karkaistu nokan osaksi kallo uhkana. Agni hymyilee aina Falcon iskee sen tahattomasti saaliiksi. 
+"</string>
+    <string name="almanac_flame_cannon">"Lämpö hyökkää luonteen olentojen soluihin, ja vähän, jos ollenkaan, voi nousta raivoaa infermo of the Flame Cannon.
+"</string>
+    <string name="almanac_flame_catapult">"Ainoa asia joka tuli puuttuu on kyky yllättää. Se on liian kirkas ja liian kuuma kiinni moniin kenet. Ainakin kunnes liekki Catapault tulee taistelu.
+"</string>
+    <string name="almanac_fire_pillar">"Ympäröivät tuli pilari on tanssia varma kuolema, kaunis omalla ketterä tapa, tulen taivutus muoto tuulten ennen ympäröimä saaliinsa padassa lämpöä. 
+"</string>
+    <string name="almanac_fire_emitter">"Kuten sepän uuneja käytetään väärentää kylmä teräs valloitti keskiajan Euroopassa, tuli lähetin säteilee kuumuutta immobilisoimalla kaikki, mutta eniten stout sydämestä tulla lähelle sitä.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"Ollakseen cannonised, tulla Saint yksi kaikkein omistaa elämänsä syy kristittyjen ja pelastuksen heidän lähimmäisensä. Jotkut etsivät pelastusta Book, toiset kautta miekka. Hugues de Payens, perustaja ja suurmestari Knights Templar oli soturi pyhimys, Crusader, ja sotilaallinen johtaja True Grit ja harvinainen nero. De Payens, kuten kaikki Grand Masters, joka seurasi häntä, otti kantaa elämän, vannonut puolustaa ristin. Vain kuolema voisi jonain vihdoin levätä. Hänen elämänsä, de Payens tappoi monta sielua suurempi hyvä. Rikoksistaan, hänen täytyy odottaa Gehenna, muinainen säilössä jumalattomia. Siellä hän voi löytää hänen kohtalonsa ei odottaa Kiirastuli. Tai hän voi kärsiä ikuisuuden. Ei ole hänen paljon tietää. Hän tietää vain, että vastaus odottaa häntä, koska se odottaa hänen innokkaita seuraajia. 
+"</string>
+    <string name="almanac_zealot">"Zealot on sokea mitään totuutta, joka ei vastaa hänen näkemystään. Kuin elävä kone, sen soveltamisalaa kavennetaan. Ritarit ovat väärennettyjä nämä soturit uskon kautta petoksen, ja he taistelevat eikä vihaa tai kateutta, mutta emotionaalinen syvyys paljon suurempi kuin triviaalit maailman. Niiden kiihkeys on mahdotonta saavuttaa vuoteen kuolevaisille, ja tämä innokas keskittyä, vihollisia pian huomata, että todellinen Zealot ei pysäytä mikään, usein kukistamalla vastustajat moninkertaisesti koko ja vahvuus.
+"</string>
+    <string name="almanac_zealot_horseman">"Kun jalo esikuva hyve ja sankareiden, ritari oli myös erittäin taitava tappaja yhdistyvät miekkailun ja ratsastustaidot yhdeksi tappava taistelija. Aiemmin ritarin tiukka pitäytyminen moraalikoodin esti häntä taistelevat pahaa. Mutta nyt, tällä koodilla kauan kadoksissa, nämä palkkasoturit ovat alkaneet taistella eniten tarjoavalle, etsien palata Gehenna ja kiduttaa heidän vihollisensa armottomasti ikuisuuden.  
+"</string>
+    <string name="almanac_seraphim">"Seraphim on väsymättömästi aktiivisia, heidän omistautua rukoukseen raja hulluutta. Usein ne ovat ajatellut kuin polttaa, niin tulinen on tarve uskonnollisen päätöslauselmaa. Vuonna Hugues de Payens, he ovat löytäneet johtaja ainutlaatuisen sopivalta, sillä niiden teollisuuden hyvään käyttöön, lähettämällä ne loputtomat kuoleman sidottu tehtäviin, aina lupaavat, että pian hän antaa heille rauhallisesti he niin epätoivoisesti etsivät. 
+"</string>
+    <string name="almanac_life_golem">"Folklore katsoo, että rabbi Judah Loew ben Bezalel loi ensimmäisen Golem puolustaa juutalaisia ​​Prahan vastaan ​​ghetto pogromit. Huomattuaan, että hän oli luonut hirviön, jota ei voida kontrolloida, rabbi Loew oli pakko laittaa alas Golem ennen sen yhä väkivaltaisen mellakan uhkaa edelleen kuoleman Gentile viattomia. Tällainen harkintavalta, ja tällainen mielivaltainen hänen kansansa hävittämiseen, ei jäänyt Hugues de Payens. Hän kuolleista juutalaisten Golem hänen Temppeliritarit luoden Golem ristiretkeläisten: dim sanavalmis, moraalitonta, ja lähes pysäyttämätön.
+"</string>
+    <string name="almanac_angel">"Laaja-siivekäs ja täynnä virtaa joidenkin mielestä vahvempi kuin mikään muu, jumalallinen oikeus, Angels hallussaan yli-inhimilliset voimat ja kapea painopiste: he eivät epäröi myydä niitä, jotka estävät ja yhdistymisen kanssa tosi Jumala. Tietenkin, kuka on \"tiellä\" on jopa heidän omaa tulkintaansa, ja monet viattomat kuin pudonnut käsissä näitä siivekkäitä sotureita.
+"</string>
+    <string name="almanac_energy_cannon">"Energia Cannon ampuu kierroksella puhdasta energiaa, jopa enemmän alkuaine kuin sähköä, vähentää kaikkea elävä tai kuollut osaksi massaa eloton materiaali jätettä. 
+"</string>
+    <string name="almanac_angel_statue">"Katso teho Angel: symboli voimaa, juhlallisuus ja kuuliaisuus.
+"</string>
+    <string name="almanac_life_pillar">"On olentoja maapallolla, joka pystyy menestymään caldronous lämpöä. On olemassa soluja, jotka tarvitsevat valoa ja jotka halajavat pimeys olemassa kasveja, jotka hengittää kaasut muiden eläinten hengitä. Tällaista on elämä pilariin, alkulähde Life käytetty energia aikaan kuolemaa. 
+"</string>
+    <string name="almanac_holy_water_emitter">"Kuten niin monet sota-aseita, todella Pyhää ole mitään pelättävää Holy Water lähetin. Kuten niin monet sodat, tämä ei faught kuin Pyhän.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"Haitin Voodou, VEVE on rituaali symbolia käytetään kuvaamaan voimakkaita henkiä, eli Loa. Tärkein Loa, Damballa, Sky Jumala ja kaiken Luoja elämän esittää kaksi käärmeet. Kuin käärme, Damballa ei voi puhua. Hän ilmaisee itseään puhumalla läpi liekki. Bondyè, tuntematon kaiken luoja, ei puhunut. Hän ilmaisee itsensä läpi Damballa. Mutta jopa Damalla tiet ovat mysteeri mies Bondyè tiet ovat mysteeri Damballa. Kun hänen seuraaja: n tarjoukset eivät sovi hänelle, Damballa polttaa kokonaisia ​​kyliä. Kun Damballa ei sovi Bondyè, ei ole olemassa kertoo seurauksia. Jos tämä tuntematon olento päättää nostaa Hell on Earth, ei voima maailmankaikkeudessa voi pysäyttää hänet. Kuolleet nousevat ja tehdä hänen tahtonsa. Mystery korvataan sokaisevan totuus.   
+"</string>
+    <string name="almanac_zombie">"Zombie, jo kuollut, elää ilman onnea ja pelkoa. Hänen on elämän tarkoitus. Eternal olemassaolon, vaatinut kaikkien käyttäjien Ponce de Leon lännessä, jotta Bramiinit of East, on kirous Zombie, ikuisesti vaeltaa lakkaamaton sykli sietämätön kipu. Hän on Damballa n sätkynukke, sisältö vain Hell On Earth, joka on tullut olla kotiinsa. 
+"</string>
+    <string name="almanac_zombie_horseman">"Kuin päätön ratsumies valloilleen kun yön Zombie Rider etenee väsymättä päälle säröillä maaperän poltetun maan. Sisällä hän ei ole ajatuksia, ei unelmia. Ei ole edes vaativat kostoa. Hänen elämänsä on paljon yksinkertaisempaa. Kuin kasvi pääsee kohti aurinkoa, Zombie Rider roams planeetan, tahtoi tuhota kaiken tieltään niin että hän jonain päivänä palauttaa. 
+"</string>
+    <string name="almanac_succubus">"Toisin kuin niin monet inhottavan olentoja tuonut sotaa täällä, Succubus voi vaikuttaa siltä, ​​herkkä kauneus. Siinä vaiheessa hänen hemaiseva muoto on mustattu silmissä hänen katsojan, se on liian myöhäistä. He näkevät hänen oikea muoto hetken, matelijoiden iho sieluton väline, jonka ilo syntyy kipua, ja sitten ne poistetaan. 
+"</string>
+    <string name="almanac_undead_golem">"Koostumus kaikki on ruma maailmassa, kaikki on kiusannut ja rakkuloita, Undead Golem yhdistyvät kaikkein hyödytön, useimmat myrkyllinen, useimmat sorrettuja, ja useimmat herjasivat jätteiden yhdeksi reanimated toistaiseksi. Kuin elävä voodoo nukke, Damballa on ottanut erilaisia ​​osia ja muodostivat ne Undead Golem. Tuskin tuntevien, mutta syvästi tuhoisaa, Undead Golem paljastaa vain erittäin pieni jäänne valvontaa sen luoja. Sen lisäksi se on kone, tuoda elämään tappaa, ja vain tappaa.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels kerran asui kehtoa keinuttaa ja peiton rajattoman rakkauden ja ikuinen rauha. Ja he hylkäsivät sen, syödä vallanhalusta. Pitkät koska heittää ulos taivasten valtakunnan, Fallen Angels tarkka nopeasti oikeuden tahansa olennon estää niiden ylösnousemus valtaistuimelle tuomittu Earth - etenkin niin typeriä verrata niitä Jumalan jonka he ottavat heidän vannonut vihollinen.  
+"</string>
+    <string name="almanac_poison_cannon">"Poison Cannon spews haitallisia aineita effluvia ulos maailmaan, loputon piippu haitallisten kaasujen ja jäteöljyt, että harva kestää. Ilman polttaa mustaksi Poison Cannon toimii. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Valpas ja valmis, Gargoyal pysyy kyydissä aina roikkuu reunalla lennon ja taistelussa.
+"</string>
+    <string name="almanac_undead_pillar">"On jotain sisällä sydän undead tai sisällä, mikä on heidän sielunsa, joka pitää heidät pystyssä ja liikkuu, mutta ei elossa. Mitä tämä voima on, se on voimakkaasti transformatiivisia, ja todennäköisesti myrkyttää tahansa olennon koskettaa sitä.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"On joitakin aineita, niin vastakkaisia ​​elämän myrkyllisyytensä ylittää kaikenlaista olento ja kaikkien maailmojen alkuperää. Myrkyllistä kaasua lähetin luovuttaa tällaisten aineiden vihollisen.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"Tulinen Tendril ilmi liekki Whip kuin polttava lasso, kirvely vastustajat luimia liekki, tai kiertämällä ne kehässä tulen.
+"</string>
+    <string name="almanac_water_whip">"Veden Ruoska on jossakin välissä nestemäiset ja kiinteät. Vaikka nesteen liikettä, ne iski sen taitettava, väkivaltaisesta lakko varmasti mennessä jää arpia muisto kiinteässä olomuodossa. Muita todisteita siitä, että pinta nestemäisen veden on kuin teräs antaa oikeissa olosuhteissa. 
+"</string>
+    <string name="almanac_tentical_whip">"Kuin jättimäinen mustekala, tai täysin toteutunut versio mytologisia Kraken, Tentical Whip hänellä yksi paksu, lihaksikas köysi tentical, pystyy iskemään saaliinsa miksi yllättävää tarkkuutta ja ennennäkemättömän nopeasti.
+"</string>
+    <string name="almanac_flame_crystallizer">"Liekki on vain näkyvä cue, että tulipalo. Se on vain näköharha, aave poistettu essense. Liekki Kiteyttimen valjastaa tulen lämmön tuo mieleen sen tyhjästä, ilman liekkiä tarvita.
+"</string>
+    <string name="almanac_ice_crystallizer">"Maan ilma on sekoitus monia asioita, mutta ankarimmissakin erämaassa, on jälki kosteutta. Ice Kiteyttimen tarttuu tätä kosteutta ja luo hetkessä jään. Tämä ei ehkä kuulosta feasome kunnes yksi kuvia jäätymiseen sisältä ulos, laskimot, valtimot ja elimiä ei ole suljettu pois. 
+"</string>
+    <string name="almanac_earth_crystallizer">"Vuodesta loistavat valot taivaan, että tummin nurkkiin Hell on taikaa hyvin käsite vakaalla pohjalla olemassaolon. Mistä se tulee? Miten tätä materiaalia syntyä? Maa Kiteyttimen ei anna vastauksia, mutta se on varmasti melko esine.
+"</string>
+    <string name="almanac_lightning_blade">"Lightning leikkaa taivaan pilkkomalla yön kahtia, erotetaan jota valkoinen kuuma bändi tuhoisia sähköä. Lightning Blade vie että sähköä ja sisältää sen valtaa terä miekan. Sisältää valtansa, mutta kuinka kauan?
+"</string>
+    <string name="almanac_ice_blade">"Leikkaus repii läpi lihansa pultilla kuumaa kipua, vuotamista lihas lähellä luuhun. Terä jään ei vähennä, että kipua. Sen jäähtynyt ydin ei estä arvet sodan. Ice Blade on pahin kaksi maailmaa törmää, ja sen viholliset parasta tehdä ilmoitusta. 
+"</string>
+    <string name="almanac_flame_blade">"Flame Blade taistelee samalla lämpöä, jonka se kerran ilmeni takomo. Hehkuva kuuma, polttava reuna voi sulaa jopa vahvin panssari, Flame Blade tehokkuutta rajoittaa vain silloin, kun kyse olentoja äärimmäisen vastustuksen polttamiseen.
+"</string>
+    <string name="almanac_earth_ballista">"Ajaton ase, Ballista on repurposed Gaia on Piiritystilanteissa vielä edessä. Ohjuksilla suunniteltu kestämään vahvin taistelijoiden, Maa Ballista on rakennettu käyttäen teknologiaa antiikin kreikkalaiset ja roomalaiset, mutta materiaalit Jumalan. 
+"</string>
+    <string name="almanac_ice_ballista">"Jään Ballista vie hidas, inerttejä jään ja työntää sen valtava nopeuksilla. Yhdessä tarkasti suunniteltu oleskelu ja jouset, pultit potkut Ice Ballista puolustetaan vain harvat.
+"</string>
+    <string name="almanac_flame_ballista">"Moni muinainen kaupunki laski hyökkäystä Ballista corps. Agni on kehottanut tätä kuuluisaa ase, koska se on niin helposti vahvistunut lisäämällä tulipalon. Liekki Ballista yhdistää hakkaa voima tuhoisuudesta Liekin ase aikojen.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"Jalo Wizards ovat pitkään pohtineet tuoda maailman harmoniaan, käyttäen heidän viisautensa (ja terve ripaus taikuutta) tukahduttaa olentoja, jotka tekevät heidän veljensä haittaa. Vaikka yleisesti ottaen rauhallinen ja todennäköisesti alkavat yhteenottoja, Velhot tunnetaan katkeruutta, jotkut tilalla kaunoja jotka ovat kestäneet sukupolvien miesten. Rakennettu hauras ja heikko, Wizard on kuin älykäs Rouse, Troijan hevonen muotoinen mies. Vaikka voi painia edes pienen lapsen maahan, vahva Wizard voisi pakottaa koko kaupungin päälle polvilleen silmänräpäyksessä.
+"</string>
+    <string name="almanac_human_mage">"Yksi tehokkaimmista taika käyttäjille tiedetään mies tai peto, Mages valvoa jaksoja jolla kuolevainen miehet voivat vain uneksia. Toisin Wizards, jotka ovat sidottuja vala ja koodin, Mages käyttää valtaansa vapaasti, myyvät palvelujaan eniten tarjoaville tai yliviivaamalla omasta ryöstää rikkaudet ja tarttua hallinnasta maailma kääntyi heitä vastaan. Mages on kärttyinen ja kierretty, mutta ei pitäisi jättää: ne ovat erittäin vaarallisia käyttäjiä pimeyden voimia ja ovat kauan sitten unohtaneet sanan pelosta.
+"</string>
+    <string name="almanac_human_necromancer">"Tarjotaan suorin yhteys elävien maassa ja Land of the Dead, henkienmanaajat ovat ammattitaitoisia kuin heitä kidutetaan, vangitaan ja erittäin tiedon he ovat viettäneet elämänsä hoonauksesta. Pysty täysin asuttamaan joko maailman henkienmanaajat olemassa epätoivoinen skisma, taikomisvälineet loitsuja ja otuksia toivottomalta yrittää taistella sekä demonit he kohtaavat ilman ja demonit he kohtaavat sisällä. Elävä rakkaus. Kuollut loput. Mutta Necromancer ei ole, hitaasti syphoning pois viimeinen tuskainen hengitystä on kierretty kuolevainen kela. 
+"</string>
+    <string name="almanac_troll">"Luonto on loistava taiteilija, muotoiluun sen olennot vastaamaan sekä heidän paikkansa maailmassa ja niiden todennäköisiä keinoja vuorovaikutuksessa sen kanssa. Tämä on totta, Troll on kurja, upotettu kasvot, rokonarpinen iho ja kierot piikit kuvastaa heidän asema: portinvartijat ja alhaalta asukkaat, saamaton, Craven, ja ilman katumusta. Hyvin kasvatettu Troll oppivat paitsi miten eek ulos sen elävät muiden selän, vaan kehittää uskomaton tunne hetkellä takavarikoi virtaa, kun saldot kaatua hyvin hienoisesti. Inhottavaa nähdä, olfactious ja epäluotettava, he käyttävät kaikkia mahdollisia keinoja saadakseen haluamansa, vaikka saalisti toisen inhoa ​​kuin niiden olemassaoloa.
+"</string>
+    <string name="almanac_dwarf">"Vain harvat ovat tietoisia niiden elinten, kuten sopusoinnussa sen käyttö aseena, joka on sekä vahvuuksia ja heikkouksia, kuten riidanhaluinen Dwarf klaaneja. Kääpiöt ovat squatly rakennettu, ja vaikka voimakas niiden kokoa, eivät ole yhtä vahvoja kuin eläimiin ja vastustajat he rutiininomaisesti lähettämistä. Asiantuntijat lähitaisteluun, ja peloton vähentää taistelua sen pienimmän yhteisen nimittäjän, Dwarf tuskin pakenemaan, kun se tietää, että väsymätön teollisuus todennäköisesti tuottaa tappaa. Kestettävä suuria muutoksia sekä lämmön ja kylmän, joustava, sekä hallussaan suurta kestävyyttä, mies joka tekee kääpiöt \"pienikokoiset kevyesti ehkä ole ihminen, ainakin elävä, pitkään. 
+"</string>
+    <string name="almanac_halfling">"Liittyvät antiikin ihmisille, Halfings ovat kehittyneet niin ovela rodun varkaita, huijareita, ja petollisen ammattitaitoisia taistelijoita. Vaikka rajoitettu voimaa, eikä tunnettuja suoraan nopeuden, puolituiset ovat nopeita, ovela ja julma, käyttämällä pieni maine piiloutua varjoihin ennen selvät tappavia ketteryyttä. Puolituiset voidaan helposti kukistivat oikeudenmukaisesti taistelussa. Näin ollen puolituiset harvoin taistella oikeudenmukainen. 
+"</string>
+    <string name="almanac_kobold">"Unohdettu haara evoluution tikkaita, Kobold on osa ihmisen ja osa lisko, mutta pitää mitään uskollisuutta joko lajeja. Kobolds tiedetään rakentaa ansoja, väijytyksiä ja muut pienet koneet sodan voidakseen hyödyntää esimiehen järki vastaan ​​olentoja suurempi koko ja vahvuus. Harvoin nähty, kobolds arvellaan olevan näkymätön monet. Vaikka tämä voi olla totta, niiden solmitut lihakset, lyhyet puukotus terät ja ilkeästi monimutkainen luomukset todistavat niiden olemassaolon.
+"</string>
+    <string name="almanac_gnome">"Ehkä kaikkein pienin olentoja, paljon vähemmän tiedetään Tontut kuin muut maalliset asukkaat. Toisin kuin taikuutta käyttäjiä ja Undead, Tontut eivät asuvat ulkomaan maailmoja tai piilottaa tässä käyttäen temppuja ja loitsuja. Ne ovat asiantuntija luola asukkaat, Rangers, ja yllättävän hyviä uimareita. He elävät mountainsides ja puiden latvoissa. Heidän insinööritaitoa ja luoda niiden pieni, täydellinen koneiden tavaraa legenda. Ne ovat viime kädessä perhe. Tontut ovat harvoin, ja ei luoda aura vaaraa ympärillä liikkeitä. Mutta älä ylitä niitä, ellei sinulla ole vastausta: kuinka löytää vihollinen, jota ei löydy? Miten taistella vihollista, joka on voittanut ennen taistelun artistilta alkanut?
+"</string>
+    <string name="almanac_ghoul">"Yksi pirullisia olentoja yön Ghouls on viimeinen jäänne maallisen sielun kaatuminen ja Land of the Dead. Kuten muistoa painajainen, Ghoul on läsnä ja todellinen mahdollisuus iskeä lamauttava pelko sydämiin mies. Ja kuitenkin hetki, tämä muisti kinoksia, kuljetetaan toiseen paikkaan ja aikaan kuin hiekkaa myrsky. Ghoul eivät sido samat tunne sekunteja, minuutteja, ja vuosia, joka vaikuttaa eniten, että tekisi haittaa: se on ajatus, että on olemassa lisäksi tällaisia ​​triviaaleja koskee sivuavan kaaren ajan, kuolinisku, että renkaat mutta doesnt ' t kaiku. 
+"</string>
+    <string name="almanac_human_witch">"Kun maailma on maagisia olentoja, Witches miehittää vaatimaton asema, kauan sitten myymällä osan heidän maallisen sielunsa vastineeksi hiukkasen yliluonnollista voimaa. Vaikka ei niin lahjakas kuin muita olentoja, eikä erityisen vahva fyysisesti tai maagisesti, noidat on vähän menetettävää, ja on pakko taistella läpi voimakas vetovoima: On outoa noita, joka ei ole hänen kiinnitys, ja kerran kiinni, hän on käytännössä pysty ajattelemaan mitään muuta. Varo noitia, sillä vain kuolema voi irrottaa heitä heidän yksikkö tehtävänsä.
+"</string>
+    <string name="almanac_female_necromancer">"Tarjotaan suorin yhteys elävien maassa ja Land of the Dead, henkienmanaajat ovat ammattitaitoisia kuin heitä kidutetaan, vangitaan ja erittäin tiedon he ovat viettäneet elämänsä hoonauksesta. Pysty täysin asuttamaan joko maailman henkienmanaajat olemassa epätoivoinen skisma, taikomisvälineet loitsuja ja otuksia toivottomalta yrittää taistella sekä demonit he kohtaavat ilman ja demonit he kohtaavat sisällä. Elävä rakkaus. Kuollut loput. Mutta Necromancer ei ole, hitaasti syphoning pois viimeinen tuskainen hengitystä on kierretty kuolevainen kela. 
+"</string>
+    <string name="almanac_female_elf_mage">"Yksi tehokkaimmista taika käyttäjille tiedetään mies tai peto, Mages valvoa jaksoja jolla kuolevainen miehet voivat vain uneksia. Toisin Wizards, jotka ovat sidottuja vala ja koodin, Mages käyttää valtaansa vapaasti, myyvät palvelujaan eniten tarjoaville tai yliviivaamalla omasta ryöstää rikkaudet ja tarttua hallinnasta maailma kääntyi heitä vastaan. Mages on kärttyinen ja kierretty, mutta ei pitäisi jättää: ne ovat erittäin vaarallisia käyttäjiä pimeyden voimia ja ovat kauan sitten unohtaneet sanan pelosta.
+"</string>
+
+</resources>

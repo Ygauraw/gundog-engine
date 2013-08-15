@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 výhry jsou Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_water_catapult">"4 vítězství jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_polar_bear">"6 výher jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_ice_golem">"8 výher jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_water_pillar">"10 výher jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_drake">"12 výher jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_water_emitter">"16 výher jako Frozen divochů Skaði se odemkne"</string>
+    <string name="achievement_race_ice">"Odemknutí všech Skaði je zmrazené divošské zvířata a věže"</string>
+    <string name="achievement_campaign_race_ice_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako Frozen divochů Skaði je"</string>
+    <string name="achievement_campaign_race_ice_100">"5 hvězdičky ve všech úrovních kampaně na média jako je Frozen divochů Skaði"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako Frozen divochů Skaði je"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka Frozen divochů Skaði je"</string>
+    <string name="achievement_battle_race_ice_5">"5 vítězství v bitvě režimu jako Frozen divochů Skaði je"</string>
+    <string name="achievement_battle_race_ice_25">"25 vítězství v bitvě režimu jako Frozen divochů Skaði je"</string>
+    <string name="achievement_battle_race_ice_100">"100 vítězství v bitvě režimu jako Frozen divochů Skaði je"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 vyhrál v Battle módu, jak Frozen divochů Skaði je"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 výhry jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_griffin_statue">"4 vítězství v Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_panda_bear">"6 výher jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_lightning_golem">"8 výher jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_lightning_pillar">"10 výher jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_dragon">"12 výher jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_lightning_emitter">"16 výher jako Quetzalcoatl je bojovník Kmen odemkne"</string>
+    <string name="achievement_race_wind">"Odemknutí všech Quetzalcoatl je stvoření Warrior kmen a věže"</string>
+    <string name="achievement_campaign_race_wind_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_campaign_race_wind_100">"5 hvězdičky ve všech úrovních kampaně na média jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka bojovníka kmene Quetzalcoatl je"</string>
+    <string name="achievement_battle_race_wind_5">"5 vítězství v bitvě režimu jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_battle_race_wind_25">"25 vítězství v bitvě režimu jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_battle_race_wind_100">"100 vítězství v bitvě režimu jako bojovník kmene Quetzalcoatl je"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 vítězství v bitvě režimu jako bojovník kmene Quetzalcoatl je"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 vyhraje jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_stone_catapult">"4 vítězství, jak Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_grizzly_bear">"6 výher jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_earth_golem">"8 výher jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_earth_pillar">"10 výher jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_eagle">"12 výher jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_dirt_emitter">"16 výher jako Gaia Mnoho vojáků Noble odemkne"</string>
+    <string name="achievement_race_earth">"Odemknout všechny Gaia spoustu ušlechtilých tvorů Soldiers a věží"</string>
+    <string name="achievement_campaign_race_earth_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_campaign_race_earth_100">"5 hvězdičky ve všech úrovních kampaně na médium jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_battle_race_earth_5">"5 vítězství v bitvě režimu jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_battle_race_earth_25">"25 vítězství v bitvě režimu jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_battle_race_earth_100">"100 vítězství v bitvě režimu jako Gaia Lot ušlechtilých vojáků"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 vyhrál v Battle módu jako Gaia Lot ušlechtilých vojáků"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 výhry jsou legie Agni ze obětování odemkne"</string>
+    <string name="achievement_flame_catapult">"4 vítězství jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_fiery_bear">"6 výher jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_fire_golem">"8 výher jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_fire_pillar">"10 výher jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_falcon">"12 výher jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_fire_emitter">"16 výher jako legie Agni ze obětování odemkne"</string>
+    <string name="achievement_race_fire">"Odemknout všechny Agni legie z obětovaných zvířat a věže"</string>
+    <string name="achievement_campaign_race_fire_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako legie Agni ze obětovaná"</string>
+    <string name="achievement_campaign_race_fire_100">"5 hvězdičky ve všech úrovních kampaně na médium jako legie Agni ze obětovaná"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako legie Agni ze obětovaná"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka legie Agni ze obětovaná"</string>
+    <string name="achievement_battle_race_fire_5">"5 vítězství v bitvě režimu jako legie Agni ze obětovaná"</string>
+    <string name="achievement_battle_race_fire_25">"25 vítězství v bitvě režimu jako legie Agni ze obětovaná"</string>
+    <string name="achievement_battle_race_fire_100">"100 vítězství v bitvě režimu jako legie Agni ze obětovaná"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 vyhrál v Battle módu, jak legie Agni ze obětovaná"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 výhry v Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_angel_statue">"4 vítězství v Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_seraphim">"6 výher jako Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_life_golem">"8 výher jako Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_life_pillar">"10 výher jako Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_angel">"12 výher jako Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_holy_water_emitter">"16 výher jako Hugues de Payens \"Svatá Templáři odemkne"</string>
+    <string name="achievement_race_life">"Odemknutí všech Hugues de Payens \"Svatá Templářů zvířata a věže"</string>
+    <string name="achievement_campaign_race_life_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_campaign_race_life_100">"5 hvězdičky ve všech úrovních kampaně na médium jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_campaign_race_life_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_campaign_race_life_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka svatého Hugues de Payens To templářů"</string>
+    <string name="achievement_battle_race_life_5">"5 vítězství v bitvě režimu jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_battle_race_life_25">"25 vítězství v bitvě režimu jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_battle_race_life_100">"100 vítězství v bitvě režimu jako svaté Hugues de Payens To templářů"</string>
+    <string name="achievement_battle_race_life_1000">"1000 vyhrál v Battle módu jako Holy Hugues de Payens To templářů"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 výhry jsou armády Damballa of Damned odemkne"</string>
+    <string name="achievement_gargoyle_statue">"4 vítězství jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_succubus">"6 výher jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_undead_golem">"8 výher jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_undead_pillar">"10 výher jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_fallen_angel">"12 výher jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_toxic_gas_emitter">"16 výher jako armáda Damballa of Damned odemkne"</string>
+    <string name="achievement_race_death">"Odemknutí všech Damballa armádu the Damned tvorů a věže"</string>
+    <string name="achievement_campaign_race_death_10">"5 hvězdičky ve všech úrovních kampaně na snadné jako armáda Damballa of Damned"</string>
+    <string name="achievement_campaign_race_death_100">"5 hvězdičky ve všech úrovních kampaně na média jako je armáda Damballa of Damned"</string>
+    <string name="achievement_campaign_race_death_1000">"5 hvězdičky ve všech úrovních kampaně na pevný jako armáda Damballa of Damned"</string>
+    <string name="achievement_campaign_race_death_10000">"5 hvězdičky ve všech úrovních kampaně na odborníka armády Damballa of Damned"</string>
+    <string name="achievement_battle_race_death_5">"5 vítězství v bitvě režimu jako armáda Damballa of Damned"</string>
+    <string name="achievement_battle_race_death_25">"25 vítězství v bitvě režimu jako armáda Damballa of Damned"</string>
+    <string name="achievement_battle_race_death_100">"100 vítězství v bitvě režimu jako armáda Damballa of Damned"</string>
+    <string name="achievement_battle_race_death_1000">"1000 vyhrál v Battle módu, jak armáda Damballa of Damned"</string>
+
+</resources>

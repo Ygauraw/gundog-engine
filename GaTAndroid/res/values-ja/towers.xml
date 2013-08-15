@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"アイスキャノン"</string>
+	<string name="water_catapult">"氷のカタパルト"</string>
+	<string name="water_pillar">"水の柱"</string>
+	<string name="water_emitter">"水エミッタ"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"ライトニングキャノン"</string>
+	<string name="griffin_statue">"グリフィン像"</string>
+	<string name="lightning_pillar">"稲妻の柱"</string>
+	<string name="lightning_emitter">"ライトニングエミッタ"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"ロックキャノン"</string>
+	<string name="stone_catapult">"石のカタパルト"</string>
+	<string name="earth_pillar">"地球の柱"</string>
+	<string name="dirt_emitter">"ダート·エミッタ"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"火炎キャノン"</string>
+	<string name="flame_catapult">"フレイムカタパルト"</string>
+	<string name="fire_pillar">"火の柱"</string>
+	<string name="fire_emitter">"火災エミッタ"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"エネルギーキャノン"</string>
+	<string name="angel_statue">"天使の像"</string>
+	<string name="life_pillar">"人生の柱"</string>
+	<string name="holy_water_emitter">"聖なる水のエミッタ"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"ポイズン·キャノン"</string>
+	<string name="gargoyle_statue">"ガーゴイルの像"</string>
+	<string name="undead_pillar">"アンデッドの柱"</string>
+	<string name="toxic_gas_emitter">"有毒ガスエミッタ"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"炎の鞭"</string>
+	<string name="water_whip">"水の鞭"</string>
+	<string name="tentical_whip">"Tenticalホイップ"</string>
+	<string name="flame_crystallizer">"炎晶"</string>
+	<string name="ice_crystallizer">"氷晶"</string>
+	<string name="earth_crystallizer">"地球晶"</string>
+	<string name="lightning_blade">"ライトニングブレード"</string>
+	<string name="ice_blade">"氷の刃"</string>
+	<string name="flame_blade">"フレイムブレード"</string>
+	<string name="earth_ballista">"地球バリスタ"</string>
+	<string name="ice_ballista">"氷バリスタ"</string>
+	<string name="flame_ballista">"火炎バリスタ"</string>
+	
+</resources>

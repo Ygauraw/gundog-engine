@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"チュートリアルのレベルへようこそ。ここでは、どのように神々とタワーのすべての機能を使用する方法をお教えします。チュートリアルが進むにつれて、これらのポップアップの一部の右側にあるスクロールバーに気づくでしょう。すべての情報を取得するために下にスクロールすることを忘れないでください。"</string>
+    <string name="tutorial_game_area">"何が今見ると、あなたのボードであれば、それを周りに移動するボードの周りに指をドラッグします。このようなタワーを構築することを防ぐ岩や木などの障害物に気づくでしょう。また、輝くような青いエリアに気づくでしょう、これは生き物が産卵場所です。生き物も移動しようとしている場所の地図上のいくつかの他のポイントで輝く赤い部分があるでしょう、これは。彼らは赤の領域に到達した場合、あなたは命を失う、あなたの人生が0に達すると、ゲームオーバーです。ボードを表示し、現在の主要な機能のそれぞれを識別するためにいくつかの時間がかかる。"</string>
+    <string name="tutorial_top_menu">"画面の上部にあるあなたの現在の生活を知ることができ、キー情報が存在し、どのくらいのお金が手に持っているが、どのように多くの波が通過した、あなたは次の波、またまでの残り時間で表示されますどのくらいの収入次の波。"</string>
+    <string name="tutorial_top_menu_life">"これは、残っているどのくらいの寿命です。それが0に達すると、あなたは失われます。"</string>
+    <string name="tutorial_top_menu_gold">"これは、塔や生き物を購入する必要がありますどのくらいの金である。"</string>
+    <string name="tutorial_top_menu_income">"右側にこれは、あなたが次の波までの時間と一緒に、次の波で受信しますどのくらいの収入です。"</string>
+    <string name="tutorial_bottom_menu">"画面の下部には、いくつかのボタンに気づくでしょう。これらのボタンで、塔、購入の生き物、使用のスペシャル、変更オプションを購入することができ、攻撃、および一時停止/ゲームを再開できます。"</string>
+    <string name="tutorial_bottom_menu_tower">"これは、タワーズメニューが表示されます。それはあなたがまだ解除されていないの塔と一緒に、あなたが使用することができ、全ての塔を示しています。"</string>
+    <string name="tutorial_bottom_menu_creature">"これはクリーチャーのメニューが表示されます。それはあなたがまだ解除されていない生き物と一緒に、あなたが使用できるすべてのクリーチャーを示しています。"</string>
+    <string name="tutorial_bottom_menu_special">"これはスペシャルメニューが表示されます。それはあなたが使用できるすべてのスペシャルを示しています。"</string>
+    <string name="tutorial_bottom_menu_option">"これは、オプションメニューが表示されます。あなたは音楽をオフにして、ここからゲームのビューを変更することができます。"</string>
+    <string name="tutorial_bottom_menu_attacking">"これは攻撃ができ、我々はより後でこれを説明します。"</string>
+    <string name="tutorial_bottom_menu_pause">"これは、ゲームを一時停止することができ、準備ができたら、それを再開します。"</string>
+    <string name="tutorial_buying_tower">"敵はクリーチャーを召喚ので、我々は自分自身を守るために、いくつかの塔を構築する必要があります。塔のボタンをクリックして、構築するための塔を選択します。"</string>
+    <string name="tutorial_buying_tower_pick">"購入したいの塔の絵をクリックします。あなたはその絵の隣にある塔のコストが表示されます。あなたがそれを選択すると、画面の右下に塔のダメージと攻撃速度が表示されます。"</string>
+    <string name="tutorial_buying_tower_selected">"今は塔が選択されていることをあなたはそれを構築するための画面上の場所を選択する必要があります。あなたは、塔が画面に表示され、塔は攻撃することができますどのくらいを示しています青色の範囲のオーラを持っていることに気づくでしょう。あなたがそれを望んでいないスポットで塔を配置する場合は、もう一度塔をクリックすると、それは消えます。あなたが塔を購入する準備ができたら、画面の左下隅で購入ボタンを選択します。建物の塔をキャンセルするには、キャンセルボタンを押してください。"</string>
+    <string name="tutorial_buying_tower_purchase">"このボタンは購入を確認すると、画面上に配置されたすべての塔を構築するために使用されます。岩や樹木、生​​き物などの無効な位置に配置されている塔がビルドされません。あなたがしようとする生き物のパスをブロックするために塔を建てる場合は、ビルドされません。"</string>
+    <string name="tutorial_buying_tower_cancel">"あなたは、もはや塔を購入したくないことにした場合、このボタンを押してください。ボード上のすべての保留中の塔は削除されます。"</string>
+    <string name="tutorial_build_maze">"偉大な仕事は、今以上のクリーチャーが来るように、我々はより多くの塔が必要になります。現在10以上の塔を構築します。あなたが出口点に彼らの動きを遅くする生き物のパスに配置していることを確認します。迷路を構築すると、塔は一回以上のクリーチャーを攻撃するために有効にして、生き物が移動するために必要な距離を増加します。"</string>
+    <string name="tutorial_upgrade_tower">"ゲームは、塔を配置する場所が不足します進行するにつれて、生き物は、しかし来るし続ける、と強くなります。この時点で、あなたの塔のアップグレードを開始する必要があります。アップグレードメニューを表示するために塔を選択します。"</string>
+    <string name="tutorial_upgrade_tower_selected">"偉大な、今、このメニューには塔もタワーを売却するボタンの画像が表示されます。"</string>
+    <string name="tutorial_upgrade_tower_purchase">"アップグレードを購入する塔のアイコンをクリックします。コストは、塔の横に表示されます。"</string>
+    <string name="tutorial_upgrade_tower_sell">"このボタンをクリックすると、マップから削除し、塔を販売します。"</string>
+    <string name="tutorial_upgrade_tower_cancel">"あなたが判断した場合あなたは、もはや画面の左下隅にこのボタンをクリックして塔をアップグレードするか、販売したくない。"</string>
+    <string name="tutorial_upgrade_tower_long_press">"長い間あなたのお金が許す限り何回でも塔をアップグレードするには、塔のアイコンを押してください。"</string>
+    <string name="tutorial_side_buttons">"バトルやオンラインモードで再生するときは、画面の横にボタンが表示されます。これらは敵ボードを表示することができます。生き物を購入するかを決定する際にこれが役に立つ場合があります。ゲームは画面の下部中央に簡単にポップアップで見ているか、ボードを教えてくれます。あなたは敵の基板上に塔を構築することはできません。敵のボードを表示するには、いくつかの時間がかかる。"</string>
+    <string name="tutorial_side_buttons_pic">"これは敵のボードを見に行くことができますサイドボタンです。"</string>
+    <string name="tutorial_buying_creature">"敵は、任意のタワーを購入していないわかりますあなたがまだ攻撃するすべてのクリーチャーを召喚していないので、これは。あなたのクリーチャー·メニューを表示するために生き物ボタンを押します。あなたは十分なお金を持っている場合クリーチャーの上にクリックすると、それを召喚します。先に行くといくつかの生き物を召喚し、それらを敵ボードに表示されます監視します。"</string>
+    <string name="tutorial_buying_creature_purchase">"それを購入するクリーチャーのアイコンをクリックします。あなたはそれがコストをどれだけ表示されます。生き物の隣にあります。あなたはそれを選択した後も、画面の右下隅には、生き物の健康と移動速度が表示されます。"</string>
+    <string name="tutorial_buying_creature_cancel">"あなたは、もはや生き物を購入したくない場合は、画面の左下隅にキャンセルボタンを選択します。"</string>
+    <string name="tutorial_buying_creature_long_press">"長時間の自動購入を有効/無効にする生き物のアイコンを押してください。自動購入を有効にすると、十分な金がある場合には、生き物を毎秒購入します。"</string>
+    <string name="tutorial_attacking">"敵があなたのクリーチャーは、を介して移動することができないと難しい迷路を構築してきた回があるかもしれません。攻撃が有用である可能性がある場合です。有効になって生き物を攻撃すると出口に移動しようとすると、そのパス内の任意の塔を攻撃します。あなたはお金が不足した場合は攻撃をオンにするときは、ゆっくりと、金を失うことを覚えて、攻撃は自動的に無効になります。今攻撃をオンにしてみてください。"</string>
+    <string name="tutorial_attacking_button">"攻撃有効にするには、このオプションを選択します。"</string>
+    <string name="tutorial_attacking_move">"攻撃無効にするには、このオプションを選択します。"</string>
+    <string name="tutorial_specials">"時にはあなたの塔は、敵の生き物を停止するのに十分ではありませんか、あなたのクリーチャーは、敵の塔を介して行うように見えることはできません。スペシャルを使用すると、勝つのを助けるためにブーストを提供します。今特別なを使用してみてください。"</string>
+    <string name="tutorial_specials_damage">"この特別損害ボード上のすべての生き物"</string>
+    <string name="tutorial_specials_heal">"この特殊な敵ボード上のすべての生き物を癒す"</string>
+    <string name="tutorial_specials_kill">"この特別なあなたのボード上のいくつかのランダムな生き物を殺す"</string>
+    <string name="tutorial_specials_slow">"この特殊な短い時間のためにボード上のすべての生き物が遅くなります"</string>
+    <string name="tutorial_specials_speed">"短い時間のためにあなたのクリーチャーまで、この特殊な速度"</string>
+    <string name="tutorial_specials_stun">"この特殊な短い時間のためにボード上のすべてのクリーチャーをスタン"</string>
+    <string name="tutorial_options_menu">"現在のオプションメニューを見てすることができます。あなたは、ゲームビュー、再生/一時停止音楽を変更し、デフォルトの設定にゲームのビューを返すことができるようにいくつかのボタンに気づくでしょう。"</string>
+    <string name="tutorial_options_menu_zoomin">"に拡大するためにこれを使用する"</string>
+    <string name="tutorial_options_menu_zoomout">"ズームアウトするためにこれを使用する"</string>
+    <string name="tutorial_options_menu_rotateup">"ビューを回転させるためにこれを使用する"</string>
+    <string name="tutorial_options_menu_rotatedown">"ビューを回転させるためにこれを使用する"</string>
+    <string name="tutorial_options_menu_default">"デフォルトの場所にビューを返すためにこれを使用する"</string>
+    <string name="tutorial_options_menu_play">"音楽を有効にするには、これを使用する"</string>
+    <string name="tutorial_options_menu_pause">"音楽をディセーブルにするには、このを使用して、"</string>
+    <string name="tutorial_upgrading">"あなたが経験を獲得する神々とタワーをプレイする際に、この経験はあなたから始まるライフ/ゴールド、レースのボーナス、クリーチャーの能力、タワーの能力をアップグレードするために使用することができます。各レースは、そのレースのすべての生き物や塔に適用される特別なボーナスがあり、それらをアップグレードすると、その型のすべての生き物/塔に利益をもたらす。タワー/クリーチャーのアップグレードが唯一の塔/生き物に影響を与えるし、再生するすべてのゲームのために力を増加させる。あなたは、statとは何か忘れてしまった場合だけ、アップグレードメニュー内のstatのアイコンを長押し、それはあなたを教えてくれます。"</string>
+    <string name="tutorial_completion">"おめでとう、あなたはこのチュートリアルを完了しました。より多くの生き物や塔のロックを解除するキャンペーンを果たしています。余分な経験を獲得し、ゲームで使用するスペシャルを得るために成果を完了します。あなたがロックを解除するより多くの成果は、再生から得るより多くの経験。"</string>
+    <string name="tutorial_continue">"続行"</string>
+
+</resources>

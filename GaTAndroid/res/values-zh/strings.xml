@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"神和塔"</string>
+    <string name="app_description">"神塔，对AI或PVP的3D塔防游戏。"</string>
+    <string name="motto">"打赢！"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"恢复游戏"</string>
+    <string name="main_newGame">"新的游戏"</string>
+    <string name="main_store">"n.存储,储藏"</string>
+    <string name="main_upgrade">"升级"</string>
+    <string name="main_achievements">"已取得的成果"</string>
+    <string name="main_almanac">"n.天文年历"</string>
+    <string name="main_options">"选项"</string>
+    <string name="main_credits">"鸣谢"</string>
+    <string name="main_exit">"帮助"</string>
+    <string name="main_back">"上一步"</string>
+    <string name="main_retry">"重新登录"</string>
+    <string name="main_downloading">"下载游戏数据，请稍候..."</string>
+    <string name="main_download_failed">"下载所需的数据失败，请退出并重新启动游戏再次尝试从离开的地方。"</string>
+    <string name="main_external_storage">"请安装外部存储设备，使应用程序可以下载/使用所需的数据"</string>
+    <string name="main_latest_version">"一个神塔的新版本可用，或者您无法连接游戏服务器。"</string>
+    <string name="main_no_news">"没有新闻"</string>
+    <string name="main_news_server_down">"新闻服务器，或者是一个错误，获取最新的游戏新闻。"</string>
+    <string name="main_version">"版本"</string>
+    <string name="main_graphics">"有一个错误加载模型数据，由于使用过多的内存。降低图形设置和应用程序退出。请重新启动，并尝试运行降低纹理质量和/或网格品质的游戏，当你第一次启动游戏的选项菜单中可以设置。"</string>
+    <string name="main_rate_dialog">"如果你喜欢使用，%s，请花时间来评分。谢谢您的支持。"</string>
+    <string name="main_rate_now">"率 %s"</string>
+    <string name="main_rate_later">"稍后提醒我"</string>
+    <string name="main_rate_never">"不，谢谢"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$"</string>
+    <string name="purchase_purchase">"n.购买,购制"</string>
+    <string name="purchase_cancel">"取消"</string>
+    <string name="purchase_reduced_ads">"删除侵扰性的广告"</string>
+    <string name="purchase_reduced_ads_description">"消除了所有的菜单和游戏之前和之后的顶部广告。"</string>
+    <string name="purchase_all_races">"解锁所有种族"</string>
+    <string name="purchase_all_races_description">"开启所有的比赛，给你获得25个新生物和20个新塔。"</string>
+    <string name="purchase_multiple_races">"解开种族组合"</string>
+    <string name="purchase_multiple_races_description">"解锁的能力发挥在一次给你12个新生物和12个新塔作为一个种族以上。"</string>
+    <string name="purchase_special_100">"购买100每个特殊"</string>
+    <string name="purchase_special_100_description">"给你的每个赛马特价100"</string>
+    <string name="purchase_upgrade_abilities">"升级所有的球员和比赛能力"</string>
+    <string name="purchase_upgrade_abilities_description">"提升水平，所有的球员统计和种族统计1"</string>
+    <string name="purchase_upgrade_all">"升级所有种族的每个塔/生物"</string>
+    <string name="purchase_upgrade_all_description">"提升每个能力的水平，每一个生物/ 1塔"</string>
+    <string name="purchase_upgrade_onerace">"升级每塔/生物"</string>
+    <string name="purchase_upgrade_onerace_description">"每一个种族的塔/所有生物的能力水平提高了1"</string>
+    <string name="purchase_double_experience">"双击您的经验"</string>
+    <string name="purchase_double_experience_description">"即刻为您提供了2倍目前在每场比赛的经验水平。"</string>
+    <string name="purchase_billing_not_supported_title">"不能购买"</string>
+    <string name="purchase_billing_not_supported_message">"此时的市场计费服务不可用。你可以继续使用这个程序，但您将无法购买。"</string>
+    <string name="purchase_cannot_connect_title">"无法连接到计费服务"</string>
+    <string name="purchase_cannot_connect_message">"这个应用程序无法连接到计费服务。你可以继续使用这个程序，但您将无法进行采购。"</string>
+    <string name="purchase_restoring_transactions">"恢复交易"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"网站"</string>
+    <string name="credits_production">"产生"</string>
+    <string name="credits_production_name">"猎犬工作室"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"编程"</string>
+    <string name="credits_programming_name">"乔法"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"三维模型和纹理"</string>
+    <string name="credits_models_name">"tucho·费尔南德斯·卡洛"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"游戏年鉴"</string>
+    <string name="credits_story_name">"约迪克莱门特"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D像素艺术"</string>
+    <string name="credits_pixelart_name">"卡尔弗特"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V＃/"</string>
+    <string name="credits_music">"音乐"</string>
+    <string name="credits_music_name">"尼尔·约翰斯顿"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"网页设计"</string>
+    <string name="credits_website_name">"凯瑟琳·刘易斯"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"拖车"</string>
+    <string name="credits_trailer_name">"埃蒙Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"翻译"</string>
+    <string name="credits_translations_names">"升，李垠（韩国）"</string>
+    <string name="credits_special_thanks">"鸣谢"</string>
+    <string name="credits_special_thanks_names">"队真棒和第二排三角洲公司2-35IN"</string>
+    <string name="credits_inmemoryof">"凯文·怀特在内存中，警长。走了，但不会被遗忘。"</string>
+
+    <!-- InGame -->
+    <string name="game_you">"您"</string>
+    <string name="game_enemy">"n.敌人,敌国;n.敌人,敌舰"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"其中"</string>
+    <string name="game_seconds">"小号"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"升级到CREATURE水平"</string>
+    <string name="game_max_upgrade">"购买最大值提升"</string>
+    <string name="game_enable_auto_purchase">"使购车"</string>
+    <string name="game_disable_auto_purchase">"禁用购车"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"载入失败。"</string>
+    <string name="manager_playerReset">"播放器和游戏数据复位"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"你赢了"</string>
+    <string name="results_lost">"- 你迷路了吗？"</string>
+    <string name="results_disconnected">"- 脱开"</string>
+    <string name="results_you">"您"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"继续"</string>
+    <string name="results_length">"Le"</string>
+    <string name="results_waves">"Wave"</string>
+    <string name="results_base_xp">"基地XP中"</string>
+    <string name="results_total_xp">"共有XP的每场比赛"</string>
+    <string name="results_campaign">"单人模式"</string>
+    <string name="results_rewards">"奖励"</string>
+    <string name="results_main">"主"</string>
+    <string name="results_life">"生活"</string>
+    <string name="results_income">"收入总计"</string>
+    <string name="results_offense">"罪行"</string>
+    <string name="results_defense">"如何防范"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"成就奖励"</string>
+    <string name="results_win_bonus">"赢得奖金"</string>
+    <string name="results_length_bonus">"长度奖金"</string>
+    <string name="results_life_bonus">"生活奖金"</string>
+    <string name="results_multiple_race_factor">"多种族因素"</string>
+    <string name="results_free_version">"你不赚经验在神塔免费版本"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"你确定要重置所有球员数据吗？"</string>
+    <string name="options_assetClear">"你是否确定要清除所有下载的资产吗？"</string>
+    <string name="options_reset">"复位"</string>
+    <string name="options_assets">"删除游戏数据"</string>
+    <string name="options_clear">"清理"</string>
+    <string name="options_clearing">"所有下载的资产被删除，应用程序退出..."</string>
+    <string name="options_soundOn">"听起来论"</string>
+    <string name="options_soundOff">"关闭声音"</string>
+    <string name="options_cancel">"取消"</string>
+    <string name="options_textureQuality">"纹理质量"</string>
+    <string name="options_meshQuality">"网格质量"</string>
+    <string name="options_engineSpeed">"GameEngine速度"</string>
+    <string name="options_high">"高"</string>
+    <string name="options_medium">"Medium_Chinese"</string>
+    <string name="options_low">"低"</string>
+    <string name="options_fast">"快"</string>
+    <string name="options_normal">"正常"</string>
+    <string name="options_slow">"减速"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"对手水平"</string>
+    <string name="newgame_yourRace">"你的种族（S）"</string>
+    <string name="newgame_opponentsRace">"对手赛（S）"</string>
+    <string name="newgame_waves">"最大波"</string>
+    <string name="newgame_invalid_text">"无效的计算机水平或波计数，请把一个数&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"计算机水平必须至少"</string>
+    <string name="newgame_startGame">"开始游戏"</string>
+    <string name="newgame_minHumanRaces">"你必须为自己选择至少1比赛"</string>
+    <string name="newgame_minComputerRaces">"你必须选择至少1计算机比赛"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"快"</string>
+    <string name="newgame_normal">"正常"</string>
+    <string name="newgame_slow">"减速"</string>
+    <string name="newgame_difficulty">"难度"</string>
+    <string name="newgame_easy">"n.容易的,不费力的"</string>
+    <string name="newgame_medium">"介质"</string>
+    <string name="newgame_hard">"硬的"</string>
+    <string name="newgame_expert">"EXPERT"</string>
+    <string name="newgame_type">"游戏类型"</string>
+    <string name="newgame_tutorial">"教程"</string>
+    <string name="newgame_campaign">"单人模式"</string>
+    <string name="newgame_defense">"防守训练"</string>
+    <string name="newgame_battle">"战斗模式"</string>
+    <string name="newgame_online">"在线游戏"</string>
+    <string name="newgame_findGame">"找到游戏"</string>
+    <string name="newgame_searching">"探索心"</string>
+    <string name="newgame_random">"随机"</string>
+    <string name="newgame_onlineError">"您无法加入网络游戏"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"External Power 外接电源&lt;BR&gt;SWEDEWINGS AB 瑞典之翼航空公司"</string>
+    <string name="upgrade_creatures">"生物"</string>
+    <string name="upgrade_towers">"塔"</string>
+    <string name="upgrade_specials">"特价"</string>
+    <string name="upgrade_notEnoughXP">"你不会有足够的经验"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"烈火的牺牲的军团"</string>
+    <string name="race_ice">"斯卡迪的冷冻野人"</string>
+    <string name="race_earth">"盖亚的很多贵族的士兵"</string>
+    <string name="race_wind">"羽蛇神的战士部落"</string>
+    <string name="race_life">"雨果·Payens'圣骑士圣殿"</string>
+    <string name="race_death">"damballa的军队诅咒"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"External Power 外接电源&lt;BR&gt;SWEDEWINGS AB 瑞典之翼航空公司"</string>
+    <string name="achievements_longestGame">"最长的游戏"</string>
+    <string name="achievements_shortestGame">"最短的游戏"</string>
+    <string name="achievements_highestScore">"最高分"</string>
+    <string name="achievements_highestLevelBeaten">"最高水平殴打"</string>
+    <string name="achievements_wins">"战斗当家"</string>
+    <string name="achievements_losses">"战斗损失"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"启动金"</string>
+    <string name="stat_life">"开始生活"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"花费"</string>
+    <string name="stat_income">"收入总计"</string>
+    <string name="stat_air">"n.进气,供气;n.通风,空气干燥"</string>
+    <string name="stat_ground">"n.停飞的,接地的;n.停飞的,禁止飞行的"</string>
+    <string name="stat_attack_range">"攻击范围"</string>
+    <string name="stat_health">"健康"</string>
+    <string name="stat_speed">"n.加速"</string>
+    <string name="stat_defense">"如何防范"</string>
+    <string name="stat_damage">"损坏"</string>
+    <string name="stat_attack_rate">"罹患率"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"溅射伤害半径"</string>
+    <string name="stat_splash_strength_fade">"飞溅强度淡出"</string>
+    <string name="stat_creature_damage_modifier">"生物损伤的“奖励"</string>
+    <string name="stat_slow_duration">"缓慢的持续时间"</string>
+    <string name="stat_slow_factor">"速度缓慢"</string>
+    <string name="stat_creature_evade_percentage">"逃避机会"</string>
+    <string name="stat_stun_duration">"晕眩时间"</string>
+    <string name="stat_tower_attack_rate_modifier">"塔攻击速度加成"</string>
+    <string name="stat_creature_speed_modifier">"生物运动速度加成"</string>
+    <string name="stat_tower_damage_modifier">"塔的伤害加成"</string>
+    <string name="stat_tower_defense_modifier">"塔国防部奖金"</string>
+    <string name="stat_creature_defense_modifier">"“生物国防”奖励"</string>
+    <string name="stat_drain_duration">"排水时间"</string>
+    <string name="stat_drain_percentage">"流失的百分比"</string>
+    <string name="stat_heal_percentage">"治愈的百分比"</string>
+    <string name="stat_kill_percentage">"即时杀机会"</string>
+    <string name="stat_creature_health_modifier">"“怪物健康”奖励"</string>
+    <string name="stat_resurrect_percentage">"复活的机会"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"损坏的一切敌人的生物"</string>
+    <string name="special_heal">"医治你的一切生物。"</string>
+    <string name="special_kill">"杀死你的板子上的敌方生物的25％"</string>
+    <string name="special_slow">"放慢所有的敌人生物"</string>
+    <string name="special_speed">"加快你的生物"</string>
+    <string name="special_stun">"眩晕所有敌人的生物"</string>
+
+</resources>

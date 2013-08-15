@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"Co zrobić, jeśli każda historia kiedykolwiek słyszałeś to prawda? \n\n dzieci historyjki. Nightmares. Mitologie. Religie. Wszystkie mogą być prawdziwe? \n\n pewna gałąź nauki uważa, że ​​jeśli ludzki umysł może sobie wyobrazić coś, to musi mieć w jednym istniał czas. \n\n Sceptycy będą temu zaprzeczać, jak fantazyjne majaczenia szalony. Prawdziwie wierzący zaprzeczę temu, też, bo wiedzą, że prawda jest znacznie, znacznie brzydsze. Jest dużo gorzej niż proste opowieści o dobro vs zło. \n\n Dopiero teraz możemy odkryć nieskończoną ilość równoległych wszechświatów istniejących obok naszego, cały czas odgałęzienie w niezliczonych innych kierunkach. Każda historia, jaką kiedykolwiek słyszałem jest prawdą gdzieś. Jest to opowieść o jednym z tych wszechświatów, gdzie człowiek jest samo istnienie wisi na na włosku. \n\n Potwory są prawdziwe. Armie nich prowadzić przez Bogów, wszystkie z tego samego celu: powrotu do domu. Blackened, skręcone serca, szuka tylko zemsty, że przyniesie im pokój. Zniszcz wszystkich konkurentów. Śledź swego Boga w sercu bitwy zwycięsko, a marsz z powrotem do piekła, które wylęgła im. Return. Strona główna. \n\n walka pozostać przy życiu będzie codziennie bitwa. Słaby prędzej zapomnieć te dni. Bogowie i potwory, demony i Nieumarli, i narzędzia wojny, są jedyną rzeczywistością. To wszystko jest zbyt realne … to jest Tower Defense Wars! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"Ona jest zrobiona z lodu, mówią, bogini zimy, Skadi i poszkodowana żona Njörðr, lider z zamrożonych armii norweskiej wojowników. W pewnym momencie szukała zemsty, ale teraz szuka tylko w domu. Jej ojciec, Þjazi, zginął szukając kształtu-biegów Loki. W przypływie gniewu sprawiedliwego, podeszła do bogów, z mieczem w dłoni. Ale uspokajał ją. Oni uspokoić gniew. Dali jej moc. Jest pusta pustka wewnątrz Skadi że rośnie codziennie krzywd popełnionych na jej domu. Jest lekki chasing czerń. Z dziewięciu światów w mitologii nordyckiej, tylko Niflhel, piekielny, mrożone nieużytki, może zawierać ten mrok z połknięciem Creation. Tam jej marsze wojskowe. 
+"</string>
+    <string name="almanac_frozen_soldier">"Uwięziony w zamarzniętym więzieniu od wieków, Ice Wikingowie zostali sprowadzeni do życia, gdy Skadi zaatakowany. Musiała wezwać armię, i zwrócił się do masowych grobów zwolenników zmarłego ojca, Þjazi. Hokej Wikingowie zostali ostrzeżeni, że ich wolność jest tymczasowy: zwycięstwo, i domagać się uprzywilejowanego miejsca w Nifhel. Lose i pozostają zamrożone i walczyć zawsze.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"Jak zamrożonych żołnierzy maszerujących zawsze pieszo, mrożone Horsemen są chłodno obliczania. Różniące się od słynnej floty stąpający elfickiego, koni armia Skadi firmy porusza się powoli i metodycznie. Choć technicznie zdolna porywający galop, mrożone Jeździec jest bardziej prawdopodobne, aby wyczerpać swojego przeciwnika niż gonić go. Wiedząc, że nie zakątek ziemi jest zbyt zimno, zbyt ciemne lub zbyt niegościnne, on po prostu śledzić jego zdobycz. On nigdy nie przestanie. On nigdy nie spocznie. Dopiero jego wrogowie zrezygnowały ze swych ostatecznych wstrzymuje oddech umierających.
+"</string>
+    <string name="almanac_polar_bear">"Te dzikie zwierzęta nie są znane ze swojej inteligencji,, wglądu lub zdolności adaptacyjne. Znane są błędne siły. Z potężnych łap mięsiste i ostre jak brzytwa pazurami, wielu z żołnierzy spotkał ich los jest wyrwana z ziemi tylko spotkać ich nienasycone zęby. Noże te leżały w oczekiwaniu wewnątrz szczęki, która kruszy zamrożone granitu tak łatwo, jak ciało, co ucieczka niezmiernie rzadko.  
+"</string>
+    <string name="almanac_ice_golem">"Wykonane z lodu bardziej gęsty niż cokolwiek znaleźć na współczesnej Ziemi, pięść Ice Golem jest tak trudne, jak mrożone skale. To dusza, jeśli kiedykolwiek miał jeden, już dawno mrożona skończy, i żyje tylko służyć okrutne rozkazy Skadi firmy. Istnieją dwie opcje po napotkaniu na Golema Ice: walczyć do śmierci, lub uruchomić. A jeśli ktoś chce biegać, jeden lepiej szybko biegać.  
+"</string>
+    <string name="almanac_drake">"W stanie atakować z przerażająco dalekich dystansach, Drake dosłownie oddechów oblodzonym floe gradu, panującego terroru na słabszych, stworzeń mniej mobilnych. Ziemskie opadów gradu były znane zniszczyć lasy, zdziesiątkować całe sfory dzikich zwierząt, a nawet stali dent. Wyobraź sobie, co Drake jest zdolny.  
+"</string>
+    <string name="almanac_water_cannon">"Ta potężna armata wykorzystuje jeden z najbardziej podstawowych elementów ziemskich, wody i zamienia ją na krawędzi noża o broni nieskończoność odnawialnej.
+"</string>
+    <string name="almanac_water_catapult">"Woda jest zarówno nieskończenie plastyczna i zaskakująco ciężki. Oba fakty są wykorzystywane przez śmiercionośnego Woda Catapault.
+"</string>
+    <string name="almanac_water_pillar">"Porusza się powoli, prawie metodycznie, na tyle ogromna ilość wody może puchnąć wysokie, otaczają na nizinach, aw końcu dusić wszystko na swojej drodze.
+"</string>
+    <string name="almanac_water_emitter">"Dziwne, że coś wiadomo, aby dać życie może tak zręcznie funkcjonować jako maszyna śmierci, ale taka jest emiter wody. Podobnie jak tortury znanej niektórych kulturach, emiter Woda powoli dusi swoich przeciwników z prostym strumieniem wody. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"Zanim nie było deszczu, zanim śnieg, nie było wiatru, dryfuje po ziemi, obejmujący Ziemię w koc zmian. Jest ktoś, kto kontroluje wiatr, i w ten sposób kontroluje ruch piasków, nasiona i pór roku. Jego nazwisko jest Quetzalcoatl. Skrzydlaty wąż jest bardziej niż Boga: On jest sojusznikiem, przyjacielem, tormenter i markerem miejscu. Quetzalcoatl jest różnica między ziemią i niebem. Jest jednym z niewielu, które mogą podróżować do Xibalba, podziemia Maya i powrót bez zapachu śmierci o nim. Xibalba jest miejsce strachu, co firma ma Quetzalcoatl jest trudno powiedzieć. Ale on podniósł armię do pójścia za Nim. On obudził wiatr.
+"</string>
+    <string name="almanac_human_archer">"Na długo przed pistoletem, nie było łucznik, być może najbardziej przerażającym wojownikiem z okresu Średniowiecza. Teraz pracując na Quetzacoatl, który obiecał im poparcie rozwścieczonym wiatr, te zwinne myśliwce są w stanie atakować z dużej odległości. Korzystanie z grot owinięty w zardzewiałego kolec maleńkich haczyków stalowych, ktoś miał szczęście przeżyć spotkanie z grupy łuczników, z których istnieje niewiele znanych historii, pojawią się blizny do końca swoich dni.
+"</string>
+    <string name="almanac_human_archer_horseman">"Jeśli Archer ma słabość, a wielu będzie twierdzić, że nie jest to, że ich potrzeby ustawiania i dążyć pozostawia im dość widoczne. Wpisz zamontowanego Archer, przeszkolonego do sterowania bestia będzie zachowując śmiertelną dokładność. Spotkanie z grupą Łuczników montowanych opuści niebo sczerniałe, tysiące strzał, każdy wysłannika śmierci przepowiedział, spadają z góry. 
+"</string>
+    <string name="almanac_panda_bear">"Choć często uwielbiany za swoje nadobnych wygląd, Giant Panda jest zaciekle terytorialnej bestia, z grubymi żuwaczki i nóż pazurami. Dostosowana do życia dość siedzący tryb, wielkiej pandy drażliwy i bardzo defensywny własnej naturze. Wiedząc o tym, Quetzalcoatl poganiaczy gigantyczne Pandy bez końca, oddzielenie matki od cub, a izolowanie niedźwiedzi wojowników z ich ojczystym kraju. Był rozgniewany je, a jednocześnie zagubiona, ich gniew będzie zatrzymano we krwi.
+"</string>
+    <string name="almanac_lightning_golem">"Starożytni Majowie czcili Chaac, wąż deszcz powiedział kontrolować błyskawice na niebie, często umieszczając go ponad skrzydlatego węża Quetzalcoatla. Quetzalcoatl, dobrze wiedząc władzy Chaac firmy, prana niebo i piekieł w poszukiwaniu Golema Lightning. Po znalezieniu go, a po zapewnił sobie lojalność, Golem Błyskawica będzie służyć Quetzalcoatla jak deszcz służy chmury: niezachwianie, tworząc śmierć jak obłoku tworzy kałużę. 
+"</string>
+    <string name="almanac_dragon">"Być może żadna istota skorzystało jak najwięcej ze swojego nowego pana jako Dragon. Już bestia znana od wieków, pod Quetzalcoatla, Smok jest jeszcze bardziej przerażający, dowiedziawszy się co uciążliwości w ubijaniu wiatr z jego skrzydlatym Liege. Smok jest ognisty wąż zastraszającym zdolności. 
+"</string>
+    <string name="almanac_lightning_cannon">"Od zarania ludzkości, pomniejsze kreatury nadzieję kontrolować niebo, a wraz z nią moc śrub Zeusa pioruna. Teraz to możliwe.
+"</string>
+    <string name="almanac_griffin_statue">"Choć majestatyczny w swej formie i Regal w jego twarzy, nie patrzeć dalej niż szponach zrozumieć prawdziwą naturę Griffin.
+"</string>
+    <string name="almanac_lightning_pillar">"Kolumna z niesamowitej naturalnej energii, ten filar jest zarówno magnesem dla władzy, a może projektor z niezrównanym zniszczenia.
+"</string>
+    <string name="almanac_lightning_emitter">"W stanie funkcjonować w krótkich Burts skrajnej ostrości, emiter Lightning jest szokująca siła oto z daleka; bliżej, oczywiście, nie jest to show, ale wyrok śmierci.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"Człowiek stworzył religię opisać Boga. Bóg stworzył człowieka, aby odzwierciedlić swój wizerunek. Ale Gaia, Gaia Matka, stworzył bogów. Gaia, twórca Ziemi, jest czcionka, z których rzeka życia płynie. Ona jest duch i harmonia istnienia. Grecy spojrzał na Gai o przewodnictwo nad wszystkimi innymi. Ona świeciło na nich. I zwrócili na nią pijany na wino, produkowane z winogron ona pod warunkiem, pijany na moc ponad życie Ona ale tylko dozwolone. Tak, ona będzie prowadzić ich do Tartaru. Ona będzie pokazać im, co jest ból. Tartar, przepaść, ciemna dziura w centrum jest, podziemia z potępionych. Tartar, miejsce odpoczynku i imię Boga, który spoczywa tam. Tartar będzie ich los, Gaia będzie prowadzić swoją armię na ich przeznaczenie, a następnie będzie ona umyć ręce od brudnego, niewydolność zatwardziałego. 
+"</string>
+    <string name="almanac_elvish_archer">"Dla elfów, jako łucznik nie jest praca, to sposób na życie. Nauka długi łuk od czasu uczą się chodzić, elf rozwija żywe szósty zmysł do łucznictwa, jakby te narzędzia wojny było rozszerzenie jego istotę. Choć nie zawsze największym i najsilniejszym rasy, elfy używać ich doskonałą wizję, spryt i umiejętności łuk łatwo pokonać przeciwników finansującego, wzywając Gai, bogini Ziemi, w czasach wielkiej potrzebie. Krzyż im na własne ryzyko. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"Niewielu architektów wojny, czy to człowiek czy maszyna, może uderzyć jak szybko i zdecydowanie, jak elfickiego Archer Horseman. Znany prawie duchowego połączenia między jeźdźcem a rumaku, elfy, którzy opanowali zarówno łuk i Bestia są honorowane w elfickiej kultury i jednolicie obawiali poza nim. Jest to nie bez powodu. Korzystanie krótki łuk, który pozwala na pełen zakres ruchu, te telefony zabójcy skanowania horyzontu, wybierz swoje cele, a strajk w zastraszającym skwapliwie.
+"</string>
+    <string name="almanac_grizzly_bear">"Naturalnie ewoluował zabójcą i niekwestionowanym królem swojej zalesionym ojczyzny, Grizzly idzie powoli, bo mogą. Jednak przy pełnym sprincie, niedźwiedź jest szybsze niż wszystko, ale fleetest zwierząt, i wystarczająco silne, aby zgrać kości z ich gniazd. Jeśli jej zaostrzone zęby i pazury nie zabić swoją ofiarę, to od czasu do czasu niszczyć przeciwników z tępym i brutalnej siły i młota fisted łapy. 
+"</string>
+    <string name="almanac_earth_golem">"Rosnące od skorupy ziemskiej, Ziemia Golem to kompleks bestia, zbiór mikroorganizmów, gazów i kamienia, organizowane wspólnie z błota bagiennego i koncentracji pojedynczej: powrót do Ziemi, z którego pochodzą. Nie ma walki swoich przeciwników tak jak połknąć i się jeden z nich, odparowywanie żadnych śladów, co wcześniej stanął przed nim jak błoto płynie w strumieniu mijania. 
+"</string>
+    <string name="almanac_eagle">"W dzisiejszych czasach symbolem wolności i sprawiedliwości, starożytny Eagle jest gigantyczny ptak drapieżny, atakując z szybkością i siłą zaskakujące. Szponach oderwać przez ciało, pozostawiając rany kłute, które powodują powolną i bolesną śmierć. W najlepszym Eagle podniesie swojego przeciwnika i wpłacić je na długi spadek i upadek znacznie szybsze i pewniejsze. Nie popełnij błędu: to jest przeklęty ptak narodził się z przeklętej duszy.
+"</string>
+    <string name="almanac_rock_cannon">"Brak znanych substancji jest tak obfite jak stała, kruszenie siłę rocka i nie działo jest tak nieugięty. 
+"</string>
+    <string name="almanac_stone_catapult">"Deszcz kamieni brzmi jak biblijne plagi, ale Kamień Catapault jest w stanie wyprodukować taką furię w jednej chwili.
+"</string>
+    <string name="almanac_earth_pillar">"Mało znany w pewnych kręgach, ale Ziemia składa się z daleko więcej niż tylko brud, rocka i wody. Istnieje energia wewnętrzna, siła życiowa, która łączy te elementy. Czy wykorzystać na dobre i na złe, to niewypowiedziany energia ma moc, która jest niezaprzeczalne. 
+"</string>
+    <string name="almanac_dirt_emitter">"Ani zaawansowany technologicznie, ani magiczny wyjątkowy, emiter Dirt jest proste, brutalne stworzenie. Jednak jej niebezpieczeństwo nie może być dyskontowane. Wystarczy zapytać kogokolwiek, kto nigdy nie został pochowany żywcem. To jest, jeśli można znaleźć ocalałego. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"Hinduizm ma wielu bogów, Indra i Soma, Wisznu i Rudra. A potem jest Agni, bóg ognia i akceptorem poświęceń. Agni jest posłańcem, przewód między niebem a ziemią, związek między ludzi i bóstw. Agni jest zły. Bogowie pokazał ludziom drogę do mądrości, lecz opuścili ją. Będą musieli się nauczyć ponownie. Będą musieli podążać ścieżką. Agni doprowadzi ich do Naraka, podziemia Hindus. Naraka jest miejscem męki, wieczna kraina cierpienia obawiali przez buddystów i Jainists podobne. Agni nie udziela żadnych rozróżnień. On będzie odpoczywać rękę na ramieniu przeklęty i utorować drogę przez serce każdego agresora. Agni jest nieśmiertelna. Jego armia nieumarłych. Wspólnie wrócą do świata jego naturalnym stanie: cierpienia. 
+"</string>
+    <string name="almanac_mummy">"Jak człowiek hańby z płonącego budynku, Mumia jest powolny i zdezorientowany. Ale nie szuka ucieczki w kierunku życia. Raczej ma nadzieję przeciągnąć innych na swoją nieumarłych świecie nędzy. Mumia nie jest silny, to nie jest szybki, i nie jest mądry. Ale bardziej niż jakikolwiek znany stworzenia, to nie przestanie walczyć. Nigdy nie przestanie walczyć: dręczony, łamane, i posiniaczone.  
+"</string>
+    <string name="almanac_mummy_horseman">"Undead Rider posiada ten sam maniakalno rozwiązać jak Mumia, ale rozwiązuje mumii największą słabość: jego powolny ruch. W stanie uderzyć w jednej chwili, Rider Undead to idealne połączenie z czystej szybkości, zręczności zwinny i brutalną chęć zmiażdżyć wolę swych przeciwników zarówno blisko jak i daleko. 
+"</string>
+    <string name="almanac_fiery_bear">"Przypominający wspólnej czarnego niedźwiedzia w budowie, Agni jest prane Naraka, ognisty podziemi, na nieumarłych napastnika o podobnym rozmiarze, szybkości i wytrzymałości. Nie można znaleźć odpowiedni profil, stworzył płonące niedźwiedzie, kute w ofierze zwierząt niewinnych stworzeń i przeklętych duchów ludzkich. Płonący Bear jest wystarczająco inteligentny, aby łodygi swoim łupem, niestrudzony i całkowicie odporne na nawet najbardziej intensywne formy ciepła. Ponadto, Agni jest nasycony każdy z ognistym wściekłością i usposobienia zawiasów. The Bears Nagrywanie są nieprzewidywalne, trudny i niezawodnie śmiertelna.
+"</string>
+    <string name="almanac_fire_golem">"Prawo aplikacja czasu i ciśnienia stworzy diament. Źle aplikacja stworzy Spawn piekło, śmiertelna mieszanka roztopionej lawy i Ziemi pokruszony. Czy poparzenia swoich przeciwników z jej wrzenia pięściami gorących lub proszkowanie następnie z jego nieustannych, ruchów metodycznych, zaszczepiacza Hell 's jedynym celem jest zadawanie swoją nędzę na świecie, przyjmując wszystkie ofiary na ołtarzu własnej malkontent.
+"</string>
+    <string name="almanac_falcon">"Nie ma jednego zwierzęcia jako synonim szybkości jak sokół, aw konsekwencji, żadne zwierzę nie może uderzając tak szybko i sprawnie. Nurkowanie w kierunku swojej ofiary od wzniosłych wysokościach, Falcon często uderzył śmiertelny cios, zanim jego przeciwnik nawet widziałem jak to nadchodzi, zaklinowanie jej stwardniałe dziób w czaszkę z natręt. Agnieszka uśmiecha się za każdym razem Falcon uderza swoją nieświadomie zdobycz. 
+"</string>
+    <string name="almanac_flame_cannon">"Ciepło narusza samą naturę istoty stworzonej komórek i niewiele, jeśli w ogóle, może stanąć do szalejącej infermo w Cannon płomienia.
+"</string>
+    <string name="almanac_flame_catapult">"Jedyną rzeczą, która pożar brakuje jest możliwość zaskoczyć. Jest zbyt jasne i zbyt gorąca, aby złapać wielu z tropu. Przynajmniej dopóki Płomień Catapault wkracza do bitwy.
+"</string>
+    <string name="almanac_fire_pillar">"Otaczający słup ognia jest taniec z pewną śmierć, piękna na swój sposób zwinny, ogień gięcia do kształtu wiatrów, przed pochłaniając ofiarę w kotle ciepła. 
+"</string>
+    <string name="almanac_fire_emitter">"Podobnie jak w kowalskich piecach stosowanych do tworzenia zimnej stali, który podbił średniowiecznej Europie, emiter Pożar promieniuje intensywne ciepło unieruchomienie wszystkich, ale najbardziej tęgi sercem zbliżyć się nim.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"Aby cannonised, aby stać się świętym, jeden najbardziej poświęcić swoje życie dla sprawy chrześcijan, i dla zbawienia swoich bliźnich. Niektórzy szukają zbawienia poprzez książki, inni przez miecz. Hugues de Payens, założyciel i Wielki Mistrz templariuszy, był wojownikiem święty, Crusader i wojskowym przywódcą True Grit i geniuszu rzadkie. Payens de, podobnie jak wszystkich wielkich mistrzów, które nastąpiły po nim, przyjął pozycję do życia, pod przysięgą do obrony krzyża. Tylko śmierć może jeden w końcu odpocząć. W jego życiu, Payens de zabili wielu duszę dla większego dobra. Za swoje zbrodnie, musi czekać w Gehenny, starożytny repozytorium dla bezbożnych. Tam może on odnaleźć jego los nie jest czekać czyśćcu. Albo może on cierpieć na wieczność. To nie jego partia jest wiedzieć. Wie tylko, że odpowiedź czeka na niego, ponieważ czeka na swych gorliwych naśladowców. 
+"</string>
+    <string name="almanac_zealot">"Zealot jest ślepa jakiejkolwiek prawdy, że nie spełnia jego zdaniem. Jak maszyna życia, jego zakres jest zawężony. Rycerze zawarły wojowników wiary poprzez oszustwa, a nie walczyć ze złości lub zazdrości, ale z emocjonalnej głębi daleko przekraczającą z trywialnego świata. Ich zapał jest niemożliwe do osiągnięcia przez śmiertelników, a wraz z tym gorliwy ostrości, przeciwnicy szybko zdają sobie sprawę, że prawdziwe Zealot nie cofnie się przed niczym, często pokonanie przeciwnika wiele razy większą od ich wielkości i siły.
+"</string>
+    <string name="almanac_zealot_horseman">"Po szlachetnym wzorem cnoty i rycerskość, rycerz był również wysoko wykwalifikowanych zabójca, łącząc mieczem i Jeździectwa w jednym śmiertelnym bojownik. Wcześniej, ścisłe trzymanie danego rycerza do kodeksu moralnego trzymał go z walki o zło. Ale teraz, z tym kodem długo stracił te Mercenaries zaczęły walczyć o najwyższą cenę, starając się powrócić do Gehenna i torturować swoich wrogów bezlitośnie na wieczność.  
+"</string>
+    <string name="almanac_seraphim">"Serafini są niestrudzenie aktywne, ich oddanie do modlitwy graniczącej z szaleństwem. Często są one traktowane jako pieczenie, tak ognisty jest ich potrzeby religijne uchwały. W Hugues Payens de, znaleźli lider wyjątkowo nadaje się do wprowadzenia na ich przemysł do dobrego wykorzystania, wysyłając ich na niekończącą się serią zadań związanych śmierci, zawsze obiecując, że wkrótce będzie on zapewnić im spokój oni tak rozpaczliwie szukać. 
+"</string>
+    <string name="almanac_life_golem">"Folklor utrzymuje, że Rabin Juda Loew ben Bezalel stworzył pierwszą Golema do obrony Żydów w Pradze przed pogromami getta. Zdając sobie sprawę, że stworzył potwora, który nie może być kontrolowane, rabin Loew musiał odłożyć Golema przed jego coraz bardziej gwałtowny wybuch grozi dalszą śmierć niewinnych innowierców. Taka moc, a takie bezmyślne zniszczenie jego ludzi, nie zostało utracone na Hugues Payens de. On zmartwychwstał żydowskiego Golema dla jego templariuszy, tworząc Golem Crusader: dim nierozgarnięty, niemoralne, i praktycznie nie do powstrzymania.
+"</string>
+    <string name="almanac_angel">"Szeroki skrzydlate i nasycony o mocy Niektórzy uważają silniejszy niż jakikolwiek inny, prawem Bożym, Aniołowie posiadają nadludzką siłę i wąskie podejście: nie zawaha się pozbyć tych, które stoją na drodze zjednoczenia z ich prawdziwego Boga. Oczywiście, kto \"stoi na drodze\" jest do własnej interpretacji, a wiele niewinnych jak spadł z rąk tych skrzydlatych wojowników.
+"</string>
+    <string name="almanac_energy_cannon">"Cannon Energy strzela rund czystej energii, jeszcze bardziej elementarnych niż energii elektrycznej, zmniejszenie niczego żywego lub martwego w masie nieożywionej odpady. 
+"</string>
+    <string name="almanac_angel_statue">"Oto moc anioła: na siłę symboli, powagę i posłuszeństwa.
+"</string>
+    <string name="almanac_life_pillar">"Są stworzeniami na Ziemi zdolnych do dobrego funkcjonowania w caldronous ciepła. Są komórki, które potrzebują światła i te, które pragną ciemność Istnieją rośliny, które oddech w gazach zwierząt innych wydechu. Taka jest Filar Życie, tryska źródło energii życiowej stosowane w celu doprowadzenia do śmierci. 
+"</string>
+    <string name="almanac_holy_water_emitter">"Podobnie jak wiele broni wojny, prawdziwie święty ma się czego obawiać ze Świętego Emiter Wodnej. Jak wojen tak wielu, to jedno nie będzie faught przez Stolicę.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"W Haiti Voodou, veve jest symbolem rytuał używane do reprezentowania potężnych duchów, zwanych Loa. Najważniejszym Loa, Damballa, bóg nieba i twórcą całego życia, reprezentowany jest przez dwa węże. Jak wąż, Damballa nie można mówić. Wyraża się poprzez mówienie przez płomień. Bondyè, niepoznawalny twórca wszystkim, nie można mówić do. Wyraża się poprzez Damballa. Ale tak jak Damalla na drogi są tajemnicą dla człowieka, Bondyè na drogi są tajemnicą Damballa. Kiedy jego następcy jego ofiary nie pasują mu Damballa spala całe wsie. Kiedy Damballa nie wyczerpuje Bondyè, nie mówiąc konsekwencje. Jeśli to niepoznawalny stworzenie wnieść Piekło na Ziemi, żadna siła we wszechświecie będzie w stanie go powstrzymać. Umarli zmartwychwstają, i wykonywały jego polecenia. Tajemnica zostaną zastąpione przez oślepiające prawdy.   
+"</string>
+    <string name="almanac_zombie">"Zombie, już nie żyje, żyje bez radości i strachu. Jego jest życiem celu. Wieczne istnienie, poszukiwany przez wszystkich od Ponce de Leon na Zachodzie, do braminów Wschodu, jest przekleństwem zombie, wiecznie wędrujący w nieustannym cyklu nieznośny ból. On jest marionetką Damballa firmy, treść tylko w piekle na Ziemi, który stał się być jego domem. 
+"</string>
+    <string name="almanac_zombie_horseman">"Jak Headless Horseman rozpętanej po nocy, Rider Zombie przenosi niestrudzenie nad popękanej ziemi na spalonej ziemi. W nim nie ma żadnych myśli, żadnych marzeń. Nie ma nawet wezwanie do zemsty. Jego życie jest o wiele bardziej proste. Podobnie jak roślina osiągnie w kierunku słońca, Rider Zombie wędruje planetę, chciał zniszczyć wszystko na swojej drodze, tak że może on jeden dzień zostać przywrócone. 
+"</string>
+    <string name="almanac_succubus">"W przeciwieństwie do tak wielu podłych stworzeń wniesionych do wojny tutaj, że Succubus mogą pojawić się tak, jakby delikatnym pięknem. Do czasu jej dojrzały formularz zaciemnionym w oczach jej widza, jest już za późno. Będą widzieć swoją prawdziwą postać przez chwilę, gadów skóry bezdusznym instrumentu, którego przyjemność powstaje w bólach, a następnie zostaną one wyeliminowane. 
+"</string>
+    <string name="almanac_undead_golem">"Skład wszystko, co jest brzydkie w świecie, wszystko, co jest dręczony i pęcherze, Undead Golem łączy najbardziej bezużyteczny, najbardziej toksyczne, najbardziej uciskanych i najbardziej piętnowany odpadów w jednym zreanimowane samopoczucia. Jak żywa lalka voodoo Damballa podjęła odrębnych części i stworzył ich do Undead Golema. Ledwo czującą, lecz głęboko destrukcyjne, Golem Undead zdradza tylko prostaczkom ślad kontroli do jej twórcy. Poza tym, jest to maszyna, doprowadzone do życia zabić, a tylko zabić.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels mieszkał kiedyś trzymała w koc z bezgranicznej miłości i spokoju wiecznego. I odrzucił ją, pochłonięty pragnieniem władzy. Dawno wyrzucony z Królestwa Niebieskiego, upadli aniołowie będą dokładne swift sprawiedliwości na każdej istoty zapobieganie ich Wniebowstąpienie na tron ​​danego skazanego na zagładę Ziemi - zwłaszcza tych, na tyle głupi, aby porównać je do Boga, które podejmą się ich zaprzysięgłych wrogów.  
+"</string>
+    <string name="almanac_poison_cannon">"Cannon Poison wypluwa swoją szkodliwą wyziewy w świat, w niekończące Smokestack szkodliwych gazów i olejów odpadowych, że niewielu może wytrzymać. Powietrza spala czarny natomiast prace Cannon Poison. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Czujny i gotowy, Gargoyal pozostaje zawieszony, zawsze wisi na krawędzi lotu i walki.
+"</string>
+    <string name="almanac_undead_pillar">"Jest coś wewnątrz samym sercu nieumarłych, czy wewnątrz, co pozostało z ich duszy, który utrzymuje je w pozycji pionowej i ruchu, nie są jeszcze żywe. Cokolwiek to jest siła, jest silnie transformujące, i prawdopodobnie otruć, co żywe istoty stykają się z nim.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"Istnieją pewne substancje tak przeciwstawne do życia, że ​​ich toksyczność przechodzi wszelkiego rodzaju stworzeń i światów pochodzenia. Toksyczny gaz Nadajnik uwalnia takie substancje na wroga.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"Ognisty wąs wyłania się z bata Płomień jak lasso palenie, pieczenie przeciwników z batem płomieniem, lub okrążając je w pierścieniu ognia.
+"</string>
+    <string name="almanac_water_whip">"Bicz wodny istnieje gdzieś pomiędzy ciekłych i stałych. Choć płyn w ruchu ci, uderzył jego przyciąganie, strajku przemocy na pewno by pozostało w pamięci bliznowacenie stanie stałym. Kolejny dowód, że powierzchnia wody w stanie ciekłym jest jak stali w odpowiednich okolicznościach. 
+"</string>
+    <string name="almanac_tentical_whip">"Jak gigantyczna ośmiornica, lub w pełni realizowane wersji mitologicznej Krakena, Tentical Pejcz posiada jedną grubą, mięśni linę tentical, w stanie uderzyć swoją ofiarę dlaczego dziwi dokładności i niezrównane prędkości.
+"</string>
+    <string name="almanac_flame_crystallizer">"Płomień jest po prostu widoczny cue, że jest pożar. Jest to sztuczka światła, duch usunięty z Essense. Krystalizatora Płomień wykorzystuje ciepło Fire, to kojarzy go z powietrza, bez konieczności ognia.
+"</string>
+    <string name="almanac_ice_crystallizer">"Powietrze ziemska jest mieszaniną wielu rzeczy, ale nawet w najtrudniejszych pustyni, nie ma śladu wilgoci. Krystalizatora Hokej chwyta tym wilgoć i tworzy natychmiastowy lodu. To może nie brzmi feasome aż jeden lód zdjęcia tworząc od wewnątrz, nie żył, tętnic i narządy wykluczone. 
+"</string>
+    <string name="almanac_earth_crystallizer">"Od świateł lśniących nieba, do najciemniejszych zakamarków piekła, nie ma magii w samym pojęciu stałym gruncie, o egzystencji. Skąd to się bierze? W jaki sposób ten materiał powstać? Krystalizatora Ziemia nie daje żadnej odpowiedzi, ale to na pewno zupełnie obiekt.
+"</string>
+    <string name="almanac_lightning_blade">"Błyskawica przecina niebo, trwając w nocy na dwie części, rozdzielając je białym zespołu gorącej niszczącej energii elektrycznej. Blade Błyskawica bierze, że elektryczność i zawiera jego moc na ostrzu miecza. Zawiera jego moc, ale na jak długo?
+"</string>
+    <string name="almanac_ice_blade">"A cięte RIP poprzez ciało za pomocą śruby z gorącą ból, łzawienie mięśnie w pobliżu kości. Ostrze wykonane z lodu nie będzie zmniejszyć ten ból. Jej chłodzony rdzeń nie będzie sprzeciwiać się blizny wojny. Blade Ice jest najgorszym z dwóch światów zderzających się, a jego przeciwnik najlepiej zwracać uwagę. 
+"</string>
+    <string name="almanac_flame_blade">"Blade Płomień walczy w tym samym ciepło pod którym raz wyszła z kuźni. Świecące gorąco, z piekącym krawędzi zdolnych do stopić nawet najsilniejszy pancerz, tarcza Płomień na skuteczność jest ograniczona tylko wtedy, gdy do czynienia z istotami z najwyższą wytrzymałością na spalenie.
+"</string>
+    <string name="almanac_earth_ballista">"Ponadczasowy broń, balisty została repurposed przez Gaia oblężeń jeszcze przed nami. Z pocisków specjalnie zaprojektowane, aby wytrzymać najsilniejsze kombatantów, Ziemia Balista jest zbudowany w technologii starożytnych Greków i Rzymian, ale materiały z Boga. 
+"</string>
+    <string name="almanac_ice_ballista">"Hokej Balista trwa powolny, obojętny lodu i wyrzuca ją do ogromnych prędkości. W połączeniu z precyzyjnie zaprojektowanych pobytów i sprężyny, śruby wystrzeliwane przez Ice Ballista są bronione przez kilka.
+"</string>
+    <string name="almanac_flame_ballista">"Wielu starożytne miasto spadł do napaści przez Ballista korpusu. Agni wezwał tej słynnej broni, ponieważ jest tak łatwo nasilony z dodatkiem ognia. Płomień Balista łączy siły wali z destrukcyjności płomienia w broń na wieki.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"Szlachetne Wizards dawna zmagał się nad wprowadzeniem do harmonii, wykorzystując swoją wiedzę (i zdrowy szczypta magii) do tłumienia stworzeń, które zrobiłyby im krzywdy bracia. Choć na ogół spokojne i mało prawdopodobne, aby rozpocząć konfrontacje, Czarodzieje są znane ze swej goryczy, niektóre posiadające urazy, które trwały przez wiele pokoleń ludzi. Wbudowany wątły i słaby, Kreator jest jak sprytny Rouse, konia trojańskiego w kształcie człowieka. Choć nie można walczyć nawet małe dziecko na ziemię, silny Kreator może zmusić całe miasto na kolana w mgnieniu oka.
+"</string>
+    <string name="almanac_human_mage">"Jeden z najpotężniejszych użytkowników magicznych znanych ludzi lub zwierzęta, Magowie kontrolować czarów które śmiertelnicy mogą tylko pomarzyć. W przeciwieństwie do Wizards, którzy są zobowiązani do złożenia ślubowania i kod, Magowie swoje uprawnienia swobodnie, sprzedając swoje usługi na najwyższym oferentów lub uderzając na własną rękę do bogactwa plądrowania i chwycić za kontrolą świecie zwrócił przeciwko nim. Magowie są żółciowy i zakręcony, ale nie powinny być dyskontowane: są one bardzo niebezpieczne użytkownicy mrocznych sztuk i już dawno zapomnieli znaczenia strachu słowo.
+"</string>
+    <string name="almanac_human_necromancer">"Dostarczanie najbardziej bezpośredni związek między ziemi żyjących i krainy umarłych, Nekromanci są wykwalifikowani, ponieważ są torturowani, więzieni z samym wiedzą oni wydali swoje życie gładzenia. Nie można w pełni zamieszkują zarówno świat, Nekromanci istnieją w desperackiej schizmy, przywoływanie czary i potwory w beznadziejnej próbie odeprzeć zarówno demony oni twarz bez, a demony są narażeni w ciągu. Miłość życia. Martwy reszta. Ale nekromanta ma ani powoli syphoning off ostatnich bolesnych oddechy o skręconej cewki śmiertelnym. 
+"</string>
+    <string name="almanac_troll">"Natura jest wspaniałym artystą, kształtowania swoich stworzeń odzwierciedlać zarówno ich miejsce w świecie i ich prawdopodobnie oznacza interakcji z nim. To jest prawda, troll jest nieszczęśliwy, zatopiony twarz, cętkowaną skórę, a krzywe kręgosłupy odzwierciedla ich Station: odźwierni i dolny mieszkańcy i niezaradny, Craven, i bez wyrzutów sumienia. Dobrze wychowany Troll nauczą się nie tylko jak eek swoje życie na plecach innych, ale będzie rozwijać niesamowite poczucie chwili przejęcia władzy, gdy wskazówka wagi bardzo nieznacznie. Obrzydliwe oto, olfactious i cwany, użyją wszelkich dostępnych środków, aby uzyskać to, czego chcą, nawet żerujących na obrzydzeniem drugiej strony co do ich istnienia.
+"</string>
+    <string name="almanac_dwarf">"Mało kto są świadomi swoich ciał, jak w zgodzie z jego użycia jako broń, która ma zarówno mocne i słabe strony, jak zadziorny klanów krasnoludzkich. Krasnoludy squatly zbudowany, i choć potężny ich wielkości, nie są tak silne, jak zwierzęta i przeciwników są regularnie wysyłają. Eksperci w walce wręcz i nie boi się ograniczyć walkę do najniższego wspólnego mianownika, krasnolud jest mało prawdopodobne, aby wycofać się, gdy wie, że niestrudzony przemysł będzie prawdopodobnie produkować zabić. Wytrzymywać wielkie zmiany w ciepło i zimno, elastyczna, i posiadał wielką wytrzymałość, człowiek, który bierze mały przez krasnoludów postawę lekko nie może być człowiek, co najmniej jeden żywy, na długo. 
+"</string>
+    <string name="almanac_halfling">"Związane z dawnych ludzi, Halfings ewoluowały jako chytry wyścigu złodziei, szarlatanów, a kombatantami zwodniczo kwalifikacjach. Choć ograniczone w siłę, a nie znane ich wręcz prędkością, Niziołki są szybkie, przebiegłe i złośliwe, wykorzystując swoją małą posturę, aby ukryć się w cieniu przed trafieniem z śmiertelnej zręczności. Niziołki mogą być łatwo pokonani w uczciwej walce. W konsekwencji, Niziołki rzadko walczyć fair. 
+"</string>
+    <string name="almanac_kobold">"Zapomniałeś oddział ewolucyjnej drabiny, Kobold jest ludzka część i jaszczurka część, ale wciąż nie wierność z żadnego z gatunków. Koboldy są znane budować pułapki, zasadzki, i inne drobne maszyny wojenne, aby wykorzystać ich doskonałe intelektu przeciwko istotom większej wielkości i siły. Rzadko spotykane, Koboldy uważane są za niewidzialne przez wielu. Choć może to być prawdą, ich wiązane mięśnie, krótkie ostrza kłucia, i złowieszczo złożone kreacje świadczą o ich istnieniu.
+"</string>
+    <string name="almanac_gnome">"Prawdopodobnie najmniejsze ze wszystkich stworzeń, znacznie mniej wiadomo o Gnomów niż w innych ziemskich mieszkańców. W przeciwieństwie do użytkowników magii i nieumarłych, Gnomy nie mieszkają zagraniczne światy lub ukryć się w obecnych sztuczek z wykorzystaniem i czarów. Są mieszkańcy jaskini ekspertów, Rangers i zaskakująco dobrymi pływakami. Żyją w górskich i w koronach drzew. Ich umiejętności inżynieryjne i tworzenie ich malutkich, maszyn idealnych jest legendą. Są one ostateczne przeżyli. Gnomy są rzadko spotykane, a nie tworzą aurę zagrożenia wokół ich przemieszczania. Ale nie przekraczać ich, chyba że masz odpowiedzi: jak można uderzyć przeciwnika, że ​​nie można znaleźć? Jak walczyć z wrogiem, że zwyciężyła przed bitwa się jeszcze zaczęło?
+"</string>
+    <string name="almanac_ghoul">"Jednym z najbardziej szatański nocnych stworzeń, Ghule są ostatnią pozostałością ziemskiego duszy przewrócenia się do Krainy Umarłych. Podobnie jak wspomnienie koszmaru, Ghoul jest obecny i realny, w stanie uderzyć paraliżujący lęk w sercach ludzi. A jednak, w jednej chwili, to dryfuje pamięci, przeprowadza się do innego miejsca i czasu jak piasek w huraganem. Ghoul nie jest związany tym samym sensie, w sekundach, minutach i lata, które dotyczą najbardziej, że zrobi krzywdę: to idea, która istnieje poza takich błahych problemów, styczna do łuku czasu, dzwon pogrzebowy że dzwoni ale nie robi \" t echo. 
+"</string>
+    <string name="almanac_human_witch">"W świecie magicznych stworzeń, Czarownice zajmują skromne stacji, dawno temu wyprzedaje część swoich ziemskich dusz w zamian za odrobiny siły nadprzyrodzonej. Choć nie tak utalentowany jak innych stworzeń, ani szczególnie silny fizycznie lub magicznie, czarownice mają niewiele do stracenia, i są zmuszone do walki przez potężnego przyciągania: to dziwne, czarownica, która nie ma jej utrwalenie, a po załączeniu, jest praktycznie w stanie myśleć o niczym innym. Uważaj na czarownice, jak tylko śmierć może wyrwać ich z pojedynczych misjach.
+"</string>
+    <string name="almanac_female_necromancer">"Dostarczanie najbardziej bezpośredni związek między ziemi żyjących i krainy umarłych, Nekromanci są wykwalifikowani, ponieważ są torturowani, więzieni z samym wiedzą oni wydali swoje życie gładzenia. Nie można w pełni zamieszkują zarówno świat, Nekromanci istnieją w desperackiej schizmy, przywoływanie czary i potwory w beznadziejnej próbie odeprzeć zarówno demony oni twarz bez, a demony są narażeni w ciągu. Miłość życia. Martwy reszta. Ale nekromanta ma ani powoli syphoning off ostatnich bolesnych oddechy o skręconej cewki śmiertelnym. 
+"</string>
+    <string name="almanac_female_elf_mage">"Jeden z najpotężniejszych użytkowników magicznych znanych ludzi lub zwierzęta, Magowie kontrolować czarów które śmiertelnicy mogą tylko pomarzyć. W przeciwieństwie do Wizards, którzy są zobowiązani do złożenia ślubowania i kod, Magowie swoje uprawnienia swobodnie, sprzedając swoje usługi na najwyższym oferentów lub uderzając na własną rękę do bogactwa plądrowania i chwycić za kontrolą świecie zwrócił przeciwko nim. Magowie są żółciowy i zakręcony, ale nie powinny być dyskontowane: są one bardzo niebezpieczne użytkownicy mrocznych sztuk i już dawno zapomnieli znaczenia strachu słowo.
+"</string>
+
+</resources>

@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Gods and Towers"</string>
+    <string name="app_description">"Gods and Towers, 3D-torni puolustus peli vastaan ​​AI tai PVP."</string>
+    <string name="motto">"Fight To Win!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Jatka peliä"</string>
+    <string name="main_newGame">"Uusi peli"</string>
+    <string name="main_store">"Säilytä"</string>
+    <string name="main_upgrade">"Parantaa"</string>
+    <string name="main_achievements">"Saavutukset"</string>
+    <string name="main_almanac">"Kalenteri"</string>
+    <string name="main_options">"Asetukset"</string>
+    <string name="main_credits">"Laajuus"</string>
+    <string name="main_exit">"Uloskäynti"</string>
+    <string name="main_back">"Takaisin"</string>
+    <string name="main_retry">"Yritä uudelleen"</string>
+    <string name="main_downloading">"Lataaminen pelin tietoja, odota ..."</string>
+    <string name="main_download_failed">"Epäonnistui ladata tarvittavat tiedot, sulje ja käynnistä peli yrittää uudestaan, mihin se jäi."</string>
+    <string name="main_external_storage">"Ole hyvä ja asenna ulkoisia tallennuslaitteita, jotta sovellus voi ladata / käyttää haluttu tieto"</string>
+    <string name="main_latest_version">"Uusi versio Gods and Towers on käytettävissä tai et saa yhteyttä pelipalvelimelta."</string>
+    <string name="main_no_news">"Ei uutisia"</string>
+    <string name="main_news_server_down">"Uutiset palvelin on kaatunut, tai oli virhe haettaessa uusin peli uutiset."</string>
+    <string name="main_version">"Versio"</string>
+    <string name="main_graphics">"Oli virhe lastaus mallin tiedot johtuen liiallisesta muistin käytön. Grafiikka asetukset ovat pienemmät, ja sovellus on jännittävää. Ota uudelleen ja yrittää ajaa pelin liikuntarajoitteisten Texture Quality ja / tai Mesh laatu, jonka voit asettaa Asetukset-valikossa, kun ensimmäisen käynnistyksen peli."</string>
+    <string name="main_rate_dialog"> Jos nautit, %s, ota aikaa arvostella sitä. Kiitos tuesta. </string>
+    <string name="main_rate_now"> Arvostele %s</string>
+    <string name="main_rate_later"> Muistuta myöhemmin </string>
+    <string name="main_rate_never"> Ei kiitos </string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Ostos"</string>
+    <string name="purchase_cancel">"Peruuta"</string>
+    <string name="purchase_reduced_ads">"Poista häiritsevä ADS"</string>
+    <string name="purchase_reduced_ads_description">"Eliminoi ADS yläosassa kaikki valikoiden ja niitä ennen ja jälkeen pelit."</string>
+    <string name="purchase_all_races">"Avaa kaikki rodut"</string>
+    <string name="purchase_all_races_description">"Avaa kaikki rodut antaa sinulle pääsyn 25 uutta olentoja ja 20 uusia torneja."</string>
+    <string name="purchase_multiple_races">"Avaa Race yhdistelmät"</string>
+    <string name="purchase_multiple_races_description">"Lukituksen mahdollisuus pelata useampaa kuin yhtä rotua kerralla antaa sinulle pääsyn 12 uutta olentoja ja 12 uusia torneja."</string>
+    <string name="purchase_special_100">"Ostaa 100 jokaisesta erityisestä"</string>
+    <string name="purchase_special_100_description">"Antaa sinulle 100 kunkin rodun tarjouksesta"</string>
+    <string name="purchase_upgrade_abilities">"Päivitä kaikki soittimen ja rodun kyvyt"</string>
+    <string name="purchase_upgrade_abilities_description">"Nostaa tasolla 1 kaikkien pelaajien tilastot ja Startit"</string>
+    <string name="purchase_upgrade_all">"Päivitä jokainen torni / olento kaikki rodut"</string>
+    <string name="purchase_upgrade_all_description">"Tehostaa kunkin tason kyky kaikille luoduille / torni 1"</string>
+    <string name="purchase_upgrade_onerace">"Päivitä jokainen torni / olento "</string>
+    <string name="purchase_upgrade_onerace_description">"Tehostaa kunkin tason kyky kaikki luodut / tornien samassa kisassa 1."</string>
+    <string name="purchase_double_experience">"Tuplaa kokemus"</string>
+    <string name="purchase_double_experience_description">"Heti antaa sinulle 2X nykyinen kokemus taso jokaisessa kisassa."</string>
+    <string name="purchase_billing_not_supported_title">"Ei voi tehdä ostoksia"</string>
+    <string name="purchase_billing_not_supported_message">"Laskutuksen palvelu ei ole saatavilla tällä hetkellä. Voit edelleen käyttää tämän sovelluksen, mutta et voi tehdä ostoksia."</string>
+    <string name="purchase_cannot_connect_title">"Ei saada yhteyttä laskutukseen palveluun"</string>
+    <string name="purchase_cannot_connect_message">"Tämä ohjelma ei saa yhteyttä laskutukseen palveluun. Voit edelleen käyttää tämän sovelluksen, mutta et voi tehdä ostoksia."</string>
+    <string name="purchase_restoring_transactions">"Palauttaminen liiketoimet"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Sivusto:"</string>
+    <string name="credits_production">"Tuotanto"</string>
+    <string name="credits_production_name">"Metsästyskoira Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Ohjelmointi"</string>
+    <string name="credits_programming_name">"Joe Lait"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D-mallit ja tekstuurit"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Game Almanac"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D Pixel Art"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Musiikki"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Perävaunu"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"&amp;Käännökset"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (Korea)"</string>
+    <string name="credits_special_thanks">"Erityiskiitokset"</string>
+    <string name="credits_special_thanks_names">"Team Awesome ja toinen joukkue Delta Company 2-35IN"</string>
+    <string name="credits_inmemoryof">"In Memory of SGT Kevin White. Gone, mutta ei unohdettu."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"Sinä!"</string>
+    <string name="game_enemy">"ENEMY"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"kansiossa"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Päivittäminen CREATURE TASOLLA"</string>
+    <string name="game_max_upgrade">"OSTO MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"ANTAVAT AUTO HANKINTA"</string>
+    <string name="game_disable_auto_purchase">"POISTAMINEN AUTO HANKINTA"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Lataus epäonnistui"</string>
+    <string name="manager_playerReset">"Pelaaja-ja Game Data Reset"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"Voitit"</string>
+    <string name="results_lost">"Menetit"</string>
+    <string name="results_disconnected">"Frånkopplad"</string>
+    <string name="results_you">"Sinä!"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"Jatkaa"</string>
+    <string name="results_length">"Pituus"</string>
+    <string name="results_waves">"Wavet"</string>
+    <string name="results_base_xp">"Base XP"</string>
+    <string name="results_total_xp">"Yhteensä XP per kilpailu"</string>
+    <string name="results_campaign">"Kampanja"</string>
+    <string name="results_rewards">"Palkkiot"</string>
+    <string name="results_main">"Pääsivu"</string>
+    <string name="results_life">"Elämä"</string>
+    <string name="results_income">"Tulot"</string>
+    <string name="results_offense">"Rikos"</string>
+    <string name="results_defense">"Puolustus"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Achievement Bonus"</string>
+    <string name="results_win_bonus">"Voita Bonus"</string>
+    <string name="results_length_bonus">"Pituus Bonus"</string>
+    <string name="results_life_bonus">"Elämä Bonus"</string>
+    <string name="results_multiple_race_factor">"Useita Race Tekijä"</string>
+    <string name="results_free_version">"Et ansaitse kokemusta ilmainen versio Gods and Towers"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Oletko varma että haluat nollata kaikki pelaajan tiedot?"</string>
+    <string name="options_assetClear">"Oletko varma että haluat poistaa kaikki download varat?"</string>
+    <string name="options_reset">"Nollaa"</string>
+    <string name="options_assets">"Poista Game Data"</string>
+    <string name="options_clear">"Tyhjennä"</string>
+    <string name="options_clearing">"Kaikki download varat ollaan poistamassa, sovellus on jännittävää ..."</string>
+    <string name="options_soundOn">"Ääni Päällä"</string>
+    <string name="options_soundOff">"Ääni pois"</string>
+    <string name="options_cancel">"Peruuta"</string>
+    <string name="options_textureQuality">"Texture Quality"</string>
+    <string name="options_meshQuality">"Mesh Laatu"</string>
+    <string name="options_engineSpeed">"GameEngine Speed"</string>
+    <string name="options_high">"Korkea"</string>
+    <string name="options_medium">"Keskiarvo"</string>
+    <string name="options_low">"Alhainen"</string>
+    <string name="options_fast">"Nopea"</string>
+    <string name="options_normal">"&amp;Normaali"</string>
+    <string name="options_slow">"Hidas"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Vastustajien taso"</string>
+    <string name="newgame_yourRace">"Your Race (t)"</string>
+    <string name="newgame_opponentsRace">"Vastustajat Race (t)"</string>
+    <string name="newgame_waves">"Max Waves"</string>
+    <string name="newgame_invalid_text">"Virheellinen tietokone tasolla tai wave count, ota käyttöön&gt; 0."</string>
+    <string name="newgame_computersRaceLevel">"Tietokoneet tason on oltava vähintään"</string>
+    <string name="newgame_startGame">"Aloita peli"</string>
+    <string name="newgame_minHumanRaces">"Sinun on valittava vähintään 1 juoksu itse"</string>
+    <string name="newgame_minComputerRaces">"Sinun on valittava vähintään 1 juoksu tietokone"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Nopea"</string>
+    <string name="newgame_normal">"&amp;Normaali"</string>
+    <string name="newgame_slow">"Hidas"</string>
+    <string name="newgame_difficulty">"Vaikeus"</string>
+    <string name="newgame_easy">"Helppo"</string>
+    <string name="newgame_medium">"Keskiarvo"</string>
+    <string name="newgame_hard">"Kova"</string>
+    <string name="newgame_expert">"&amp;Expertti"</string>
+    <string name="newgame_type">"Pelityyppi"</string>
+    <string name="newgame_tutorial">"Esittely"</string>
+    <string name="newgame_campaign">"Kampanja"</string>
+    <string name="newgame_defense">"Maanpuolustuskoulutusta"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Online Game"</string>
+    <string name="newgame_findGame">"Etsi Game"</string>
+    <string name="newgame_searching">"Haetaan..."</string>
+    <string name="newgame_random">"RANDOM"</string>
+    <string name="newgame_onlineError">"Et voi liittyä online-peli"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"Creatures"</string>
+    <string name="upgrade_towers">"Towers"</string>
+    <string name="upgrade_specials">"Tarjoukset"</string>
+    <string name="upgrade_notEnoughXP">"Sinulla ei ole tarpeeksi kokemusta"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni n Legion of uhrasivat"</string>
+    <string name="race_ice">"Skadi n Frozen Savages"</string>
+    <string name="race_earth">"Gaian Lot of Noble Soldiers"</string>
+    <string name="race_wind">"Quetzalcoatl n Warrior Tribe"</string>
+    <string name="race_life">"Hugues de Payens \"Holy Temppeliherrojen"</string>
+    <string name="race_death">"Damballa Army of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"PISIMMÄN GAME"</string>
+    <string name="achievements_shortestGame">"Lyhin GAME"</string>
+    <string name="achievements_highestScore">"Korkein tulos"</string>
+    <string name="achievements_highestLevelBeaten">"Korkeimmalla tasolla Beaten"</string>
+    <string name="achievements_wins">"BATTLE WINS"</string>
+    <string name="achievements_losses">"BATTLE TAPPIOT"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Käynnistys Gold"</string>
+    <string name="stat_life">"Käynnistys Life"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"Kustannukset"</string>
+    <string name="stat_income">"Tulot"</string>
+    <string name="stat_air">"ilma"</string>
+    <string name="stat_ground">"Maa"</string>
+    <string name="stat_attack_range">"Attack alue"</string>
+    <string name="stat_health">"Terveys"</string>
+    <string name="stat_speed">"Nopeus"</string>
+    <string name="stat_defense">"Puolustus"</string>
+    <string name="stat_damage">"aiheuttaa vahinkoa"</string>
+    <string name="stat_attack_rate">"Attack Rate"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage Säde"</string>
+    <string name="stat_splash_strength_fade">"Splash Vahvuus Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature Damage Bonus"</string>
+    <string name="stat_slow_duration">"Hidas Kesto"</string>
+    <string name="stat_slow_factor">"Hitaasti"</string>
+    <string name="stat_creature_evade_percentage">"Kiertää Chance"</string>
+    <string name="stat_stun_duration">"Stun Kesto"</string>
+    <string name="stat_tower_attack_rate_modifier">"Tower Attack Speed ​​Bonus"</string>
+    <string name="stat_creature_speed_modifier">"Creature Movement Speed ​​Bonus"</string>
+    <string name="stat_tower_damage_modifier">"Tower Damage Bonus"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Creature Defense Bonus"</string>
+    <string name="stat_drain_duration">"Valuta Kesto"</string>
+    <string name="stat_drain_percentage">"Valuta osuus"</string>
+    <string name="stat_heal_percentage">"Heal osuus"</string>
+    <string name="stat_kill_percentage">"Instant kill Chance"</string>
+    <string name="stat_creature_health_modifier">"Creature Terveys Bonus"</string>
+    <string name="stat_resurrect_percentage">"Resurrection Chance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Vahingot kaikki vihollinen olentoja"</string>
+    <string name="special_heal">"Heal kaikki olennot"</string>
+    <string name="special_kill">"Tapa 25% vihollisen olentoja teidän aluksella"</string>
+    <string name="special_slow">"Hidas kaikki vihollinen olentoja"</string>
+    <string name="special_speed">"Nopeuttaa kaikki olennot"</string>
+    <string name="special_stun">"Stun kaikki vihollinen olentoja"</string>
+
+</resources>

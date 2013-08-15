@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_water_catapult">"4胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_polar_bear">"6胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_ice_golem">"8胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_water_pillar">"10胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_drake">"12胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_water_emitter">"16胜斯卡迪的冷冻野人解锁"</string>
+    <string name="achievement_race_ice">"解锁所有斯卡迪的冷冻野人生物和塔"</string>
+    <string name="achievement_campaign_race_ice_10">"5星级容易运动水平斯卡迪的冷冻野人"</string>
+    <string name="achievement_campaign_race_ice_100">"在所有运动水平中等的5星级斯卡迪的冷冻野人"</string>
+    <string name="achievement_campaign_race_ice_1000">"5星级硬所有运动水平斯卡迪的冷冻野人"</string>
+    <string name="achievement_campaign_race_ice_10000">"斯卡迪的冷冻野人专家所有运动水平的5星级"</string>
+    <string name="achievement_battle_race_ice_5">"对战模式中5胜斯卡迪的冷冻野人"</string>
+    <string name="achievement_battle_race_ice_25">"在战役模式作为斯卡迪的冷冻野人25胜"</string>
+    <string name="achievement_battle_race_ice_100">"100胜在战斗模式斯卡迪的冷冻野人"</string>
+    <string name="achievement_battle_race_ice_1000">"1000胜斯卡迪的冷冻野人战斗模式"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_griffin_statue">"4胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_panda_bear">"6胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_lightning_golem">"8胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_lightning_pillar">"10胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_dragon">"12胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_lightning_emitter">"16胜羽蛇神的战士族解锁"</string>
+    <string name="achievement_race_wind">"解锁所有的羽蛇神的战士族生物和塔"</string>
+    <string name="achievement_campaign_race_wind_10">"羽蛇神的战士部落的5星级容易运动水平"</string>
+    <string name="achievement_campaign_race_wind_100">"在所有运动水平中等5星作为羽蛇神的战士部落"</string>
+    <string name="achievement_campaign_race_wind_1000">"羽蛇神的战士部落的5星级硬所有运动水平"</string>
+    <string name="achievement_campaign_race_wind_10000">"5，在所有运动水平专家明星作为羽蛇神的战士部落"</string>
+    <string name="achievement_battle_race_wind_5">"5胜羽蛇神的战士部落在战斗模式"</string>
+    <string name="achievement_battle_race_wind_25">"在战役模式作为羽蛇神的战士部落的25胜"</string>
+    <string name="achievement_battle_race_wind_100">"在战役模式作为羽蛇神的战士部落的100胜"</string>
+    <string name="achievement_battle_race_wind_1000">"1000胜在战役模式作为羽蛇神的战士部落"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2胜盖亚的地段高尚的士兵解除"</string>
+    <string name="achievement_stone_catapult">"盖亚的很多贵族的士兵解除4胜"</string>
+    <string name="achievement_grizzly_bear">"6胜盖亚的地段高尚的士兵解除"</string>
+    <string name="achievement_earth_golem">"盖亚的很多贵族的士兵解除8胜"</string>
+    <string name="achievement_earth_pillar">"盖亚的很多贵族的士兵解除10胜"</string>
+    <string name="achievement_eagle">"盖亚的很多贵族的士兵解除12胜"</string>
+    <string name="achievement_dirt_emitter">"16胜盖亚的地段高尚的士兵解除"</string>
+    <string name="achievement_race_earth">"解锁所有盖亚的贵族士兵生物和塔地段"</string>
+    <string name="achievement_campaign_race_earth_10">"5星级容易运动水平作为盖亚的很多贵族士兵"</string>
+    <string name="achievement_campaign_race_earth_100">"盖亚的很多贵族士兵的5星级在所有运动水平中等"</string>
+    <string name="achievement_campaign_race_earth_1000">"5星级硬所有运动水平作为盖亚的很多贵族士兵"</string>
+    <string name="achievement_campaign_race_earth_10000">"5星盖亚的贵族士兵的地段上所有运动专家水平"</string>
+    <string name="achievement_battle_race_earth_5">"5胜作为盖亚的很多高贵的士兵在战斗模式"</string>
+    <string name="achievement_battle_race_earth_25">"25胜作为盖亚的很多高贵的士兵在战斗模式"</string>
+    <string name="achievement_battle_race_earth_100">"100胜作为盖亚的很多高贵的士兵在战斗模式"</string>
+    <string name="achievement_battle_race_earth_1000">"1000胜盖亚的很多贵族的士兵在战斗模式"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2胜烈火军团牺牲解锁"</string>
+    <string name="achievement_flame_catapult">"4胜烈火军团牺牲解锁"</string>
+    <string name="achievement_fiery_bear">"6胜烈火军团牺牲解锁"</string>
+    <string name="achievement_fire_golem">"8胜烈火军团牺牲解锁"</string>
+    <string name="achievement_fire_pillar">"如烈火的牺牲解锁军团10胜"</string>
+    <string name="achievement_falcon">"如烈火的牺牲解锁军团12胜"</string>
+    <string name="achievement_fire_emitter">"如烈火的牺牲解锁军团16胜"</string>
+    <string name="achievement_race_fire">"解开所有的烈火军团牺牲的动物和塔"</string>
+    <string name="achievement_campaign_race_fire_10">"烈火军团牺牲的5星级容易运动水平"</string>
+    <string name="achievement_campaign_race_fire_100">"烈火军团牺牲的5星级在所有运动水平中等"</string>
+    <string name="achievement_campaign_race_fire_1000">"烈火军团牺牲的5星级硬所有运动水平"</string>
+    <string name="achievement_campaign_race_fire_10000">"在所有运动专家水平的5星级烈火军团牺牲的"</string>
+    <string name="achievement_battle_race_fire_5">"5胜烈火军团牺牲的战斗模式"</string>
+    <string name="achievement_battle_race_fire_25">"25胜烈火军团牺牲的战斗模式"</string>
+    <string name="achievement_battle_race_fire_100">"100胜烈火军团牺牲的战斗模式"</string>
+    <string name="achievement_battle_race_fire_1000">"1000胜烈火军团牺牲的战斗模式"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"雨果·Payens“圣骑士Templar解锁2胜"</string>
+    <string name="achievement_angel_statue">"雨果·Payens“圣骑士Templar解锁4胜"</string>
+    <string name="achievement_seraphim">"6胜作为雨果·Payens'圣骑士圣殿解锁"</string>
+    <string name="achievement_life_golem">"8胜雨果·Payens“圣骑士Templar解锁"</string>
+    <string name="achievement_life_pillar">"10胜雨果·Payens“圣骑士Templar解锁"</string>
+    <string name="achievement_angel">"12胜雨果·Payens“圣骑士Templar解锁"</string>
+    <string name="achievement_holy_water_emitter">"16胜雨果·Payens“圣骑士Templar解锁"</string>
+    <string name="achievement_race_life">"解锁所有雨果·Payens'圣骑士Templar生物和塔"</string>
+    <string name="achievement_campaign_race_life_10">"5星级容易运动水平作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_campaign_race_life_100">"在所有运动水平中等5明星作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_campaign_race_life_1000">"5星级硬所有运动水平作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_campaign_race_life_10000">"专家所有运动水平的5星级作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_battle_race_life_5">"在对战模式中5胜作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_battle_race_life_25">"25胜作为雨果·Payens'神圣圣殿骑士在对战模式"</string>
+    <string name="achievement_battle_race_life_100">"100胜在战斗模式作为雨果·Payens'圣骑士Templar"</string>
+    <string name="achievement_battle_race_life_1000">"1000胜作为雨果·Payens'神圣圣殿骑士在对战模式"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"Damballa的诅咒解除军以2胜"</string>
+    <string name="achievement_gargoyle_statue">"Damballa的诅咒解除军为4胜"</string>
+    <string name="achievement_succubus">"6胜Damballa的诅咒解除军"</string>
+    <string name="achievement_undead_golem">"Damballa的诅咒解除军为8胜"</string>
+    <string name="achievement_undead_pillar">"Damballa的诅咒解除军为10胜"</string>
+    <string name="achievement_fallen_angel">"Damballa的诅咒解除军为12胜"</string>
+    <string name="achievement_toxic_gas_emitter">"Damballa的诅咒解除军为16胜"</string>
+    <string name="achievement_race_death">"解开所有Damballa的诅咒的生物和塔军"</string>
+    <string name="achievement_campaign_race_death_10">"5星级容易运动水平Damballa的诅咒军"</string>
+    <string name="achievement_campaign_race_death_100">"在所有运动水平中等的5星级Damballa的诅咒军"</string>
+    <string name="achievement_campaign_race_death_1000">"5星级硬所有运动水平Damballa的诅咒军"</string>
+    <string name="achievement_campaign_race_death_10000">"专家所有运动水平的5星级Damballa的诅咒军"</string>
+    <string name="achievement_battle_race_death_5">"在对战模式中5胜Damballa的诅咒军"</string>
+    <string name="achievement_battle_race_death_25">"Damballa诅咒的军队在战斗模式25胜"</string>
+    <string name="achievement_battle_race_death_100">"100 Damballa诅咒的军队在战斗模式胜"</string>
+    <string name="achievement_battle_race_death_1000">"1000胜Damballa的诅咒的军队在战斗模式"</string>
+
+</resources>

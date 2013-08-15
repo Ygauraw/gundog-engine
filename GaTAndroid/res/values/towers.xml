@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">Ice Cannon</string>
+	<string name="water_catapult">Ice Catapult</string>
+	<string name="water_pillar">Water Pillar</string>
+	<string name="water_emitter">Water Emitter</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">Lightning Cannon</string>
+	<string name="griffin_statue">Griffin Statue</string>
+	<string name="lightning_pillar">Lightning Pillar</string>
+	<string name="lightning_emitter">Lightning Emitter</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">Rock Cannon</string>
+	<string name="stone_catapult">Stone Catapult</string>
+	<string name="earth_pillar">Earth Pillar</string>
+	<string name="dirt_emitter">Dirt Emitter</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">Flame Cannon</string>
+	<string name="flame_catapult">Flame Catapult</string>
+	<string name="fire_pillar">Fire Pillar</string>
+	<string name="fire_emitter">Fire Emitter</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">Energy Cannon</string>
+	<string name="angel_statue">Angel Statue</string>
+	<string name="life_pillar">Life Pillar</string>
+	<string name="holy_water_emitter">Holy Water Emitter</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">Poison Cannon</string>
+	<string name="gargoyle_statue">Gargoyle Statue</string>
+	<string name="undead_pillar">Undead Pillar</string>
+	<string name="toxic_gas_emitter">Toxic Gas Emitter</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">Flame Whip</string>
+	<string name="water_whip">Water Whip</string>
+	<string name="tentical_whip">Tentical Whip</string>
+	<string name="flame_crystallizer">Flame Crystallizer</string>
+	<string name="ice_crystallizer">Ice Crystallizer</string>
+	<string name="earth_crystallizer">Earth Crystallizer</string>
+	<string name="lightning_blade">Lightning Blade</string>
+	<string name="ice_blade">Ice Blade</string>
+	<string name="flame_blade">Flame Blade</string>
+	<string name="earth_ballista">Earth Ballista</string>
+	<string name="ice_ballista">Ice Ballista</string>
+	<string name="flame_ballista">Flame Ballista</string>
+	
+</resources>

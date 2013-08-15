@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Ice Catapult"</string>
+	<string name="water_pillar">"Vand Søjle"</string>
+	<string name="water_emitter">"Vand Emitter"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Lightning Cannon"</string>
+	<string name="griffin_statue">"Griffin Statue"</string>
+	<string name="lightning_pillar">"Lightning Søjle"</string>
+	<string name="lightning_emitter">"Lightning Emitter"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Rock Cannon"</string>
+	<string name="stone_catapult">"Stone Catapult"</string>
+	<string name="earth_pillar">"Jorden Søjle"</string>
+	<string name="dirt_emitter">"Dirt Emitter"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flame Cannon"</string>
+	<string name="flame_catapult">"Flame Catapult"</string>
+	<string name="fire_pillar">"Fire Søjle"</string>
+	<string name="fire_emitter">"Fire Emitter"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energi Cannon"</string>
+	<string name="angel_statue">"Angel Statue"</string>
+	<string name="life_pillar">"Livet Søjle"</string>
+	<string name="holy_water_emitter">"Holy Water Emitter"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Poison Cannon"</string>
+	<string name="gargoyle_statue">"Gargoyle Statue"</string>
+	<string name="undead_pillar">"Undead Søjle"</string>
+	<string name="toxic_gas_emitter">"Giftig gas Emitter"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Flame Whip"</string>
+	<string name="water_whip">"Vand Whip"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"Flame krystallisatoren"</string>
+	<string name="ice_crystallizer">"Ice krystallisatoren"</string>
+	<string name="earth_crystallizer">"Jorden krystallisatoren"</string>
+	<string name="lightning_blade">"Lightning Blade"</string>
+	<string name="ice_blade">"Ice Blade"</string>
+	<string name="flame_blade">"Flame Blade"</string>
+	<string name="earth_ballista">"Jorden Ballista"</string>
+	<string name="ice_ballista">"Ice Ballista"</string>
+	<string name="flame_ballista">"Flame Ballista"</string>
+	
+</resources>

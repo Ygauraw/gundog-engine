@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Gods og tårne"</string>
+    <string name="app_description">"Gods and Towers, en 3D-tårn forsvarsordfører spil mod AI eller PVP."</string>
+    <string name="motto">"Kæmpe for at vinde!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Genoptag spil"</string>
+    <string name="main_newGame">"Nyt spil"</string>
+    <string name="main_store">"Lager"</string>
+    <string name="main_upgrade">"UPGRADER"</string>
+    <string name="main_achievements">"Trofæer"</string>
+    <string name="main_almanac">"Almanac"</string>
+    <string name="main_options">"Indstillinger"</string>
+    <string name="main_credits">"Credits"</string>
+    <string name="main_exit">"Udgange. "</string>
+    <string name="main_back">"« Tilbage"</string>
+    <string name="main_retry">"Prøv igen"</string>
+    <string name="main_downloading">"Download spil data, vent venligst ..."</string>
+    <string name="main_download_failed">"Kunne ikke hente de nødvendige data, skal du afslutte og genstarte spillet til at prøve igen fra hvor den slap."</string>
+    <string name="main_external_storage">"Du montere ekstern lagring, så programmet kan hente / bruge nødvendige data"</string>
+    <string name="main_latest_version">"En ny version af guder og tårne ​​er tilgængelig eller du ikke er i stand til at forbinde med spillet serveren."</string>
+    <string name="main_no_news">"Ingen nyheder"</string>
+    <string name="main_news_server_down">"Nyheden serveren er nede, eller der opstod en fejl under hentning af de seneste spilnyheder."</string>
+    <string name="main_version">"Versioner"</string>
+    <string name="main_graphics">"Der var en fejl ved indlæsning modeldata på grund af overdreven brug af hukommelse. Grafik indstillinger bliver sænket, og ansøgningen er spændende. Genstart og prøv at køre spillet med reduceret Texture kvaliteten og / eller Mesh kvalitet, som du kan indstilles i menuen, når du første start spillet."</string>
+    <string name="main_rate_dialog"> Hvis du nyder at bruge %s, skal du tage dig tid til at bedømme det. Tak for din støtte. </string>
+    <string name="main_rate_now"> Rate %s </string>
+    <string name="main_rate_later"> Påmind mig senere </string>
+    <string name="main_rate_never"> Nej tak </string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Køb"</string>
+    <string name="purchase_cancel">"Annuller"</string>
+    <string name="purchase_reduced_ads">"Fjern påtrængende annoncer"</string>
+    <string name="purchase_reduced_ads_description">"Eliminerer ADS øverst på alle de menuer og dem før og efter spil."</string>
+    <string name="purchase_all_races">"Lås Alle Races"</string>
+    <string name="purchase_all_races_description">"Låser alle løbene giver dig adgang til 25 nye skabninger og 20 nye tårne."</string>
+    <string name="purchase_multiple_races">"Lås Race Kombinationer"</string>
+    <string name="purchase_multiple_races_description">"Låser muligheden for at spille som mere end et løb på én gang giver dig adgang til 12 nye skabninger og 12 nye tårne."</string>
+    <string name="purchase_special_100">"Køb 100 af hver særlig"</string>
+    <string name="purchase_special_100_description">"Giver 100 af hver af løbets tilbud"</string>
+    <string name="purchase_upgrade_abilities">"Opgradere alle spiller og race evner"</string>
+    <string name="purchase_upgrade_abilities_description">"Øger niveauet af 1 af alle spillerens statistik og race statistik"</string>
+    <string name="purchase_upgrade_all">"Opgrader hver tårn / skabning for alle racer"</string>
+    <string name="purchase_upgrade_all_description">"Øger niveauet for hver evne til hver skabning / tårn med 1"</string>
+    <string name="purchase_upgrade_onerace">"Opgrader hver tårn / skabning for "</string>
+    <string name="purchase_upgrade_onerace_description">"Øger den enkelte mulighed for alle skabninger / tårne ​​i en race af 1"</string>
+    <string name="purchase_double_experience">"Dobbeltklik din oplevelse"</string>
+    <string name="purchase_double_experience_description">"Straks giver dig 2X din nuværende erfaring niveau i hvert løb."</string>
+    <string name="purchase_billing_not_supported_title">"Kan ikke foretage indkøb"</string>
+    <string name="purchase_billing_not_supported_message">"Den fakturering service er ikke tilgængelig på dette tidspunkt. Du kan fortsætte med at bruge denne app, men du vil ikke være i stand til at foretage indkøb."</string>
+    <string name="purchase_cannot_connect_title">"Kan ikke forbinde til fakturering tjeneste"</string>
+    <string name="purchase_cannot_connect_message">"Denne app kan ikke oprette forbindelse til fakturering tjenesten. Du kan fortsætte med at bruge denne app, men du vil ikke være i stand til at foretage indkøb."</string>
+    <string name="purchase_restoring_transactions">"Gendannelse af transaktioner"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Webside:"</string>
+    <string name="credits_production">"Produceret af"</string>
+    <string name="credits_production_name">"Jagthund Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Programmering"</string>
+    <string name="credits_programming_name">"Joe Love"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D-modeller og teksturer"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Spil Almanac"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D Pixel Art"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"musikken ... "</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Trailer"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Oversættelser"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (Korean)"</string>
+    <string name="credits_special_thanks">"Special Thanks"</string>
+    <string name="credits_special_thanks_names">"Team Awesome og 2. deling Delta Company 2-35IN"</string>
+    <string name="credits_inmemoryof">"Til minde om SGT Kevin White. Gone, men ikke glemt."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"DU"</string>
+    <string name="game_enemy">"ENEMY"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"I"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Opgradering til CREATURE NIVEAU"</string>
+    <string name="game_max_upgrade">"INDKØB MAX OPGRADERING"</string>
+    <string name="game_enable_auto_purchase">"AKTIVERING AUTO KØB"</string>
+    <string name="game_disable_auto_purchase">"DEAKTIVERING AUTO KØB"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Kunne ikke Load"</string>
+    <string name="manager_playerReset">"Player og spil data Nulstil"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"Du vandt"</string>
+    <string name="results_lost">"Du tabte"</string>
+    <string name="results_disconnected">"Afbrudt"</string>
+    <string name="results_you">"DU"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"Fortsæt"</string>
+    <string name="results_length">"Længde"</string>
+    <string name="results_waves">"Waves"</string>
+    <string name="results_base_xp">"Base XP"</string>
+    <string name="results_total_xp">"Total XP pr løb"</string>
+    <string name="results_campaign">"Kampagne"</string>
+    <string name="results_rewards">"Belønninger"</string>
+    <string name="results_main">"Main"</string>
+    <string name="results_life">"Life"</string>
+    <string name="results_income">"Indkomst"</string>
+    <string name="results_offense">"Offense"</string>
+    <string name="results_defense">"Defense"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Achievement Bonus"</string>
+    <string name="results_win_bonus">"Vind Bonus"</string>
+    <string name="results_length_bonus">"Længde Bonus"</string>
+    <string name="results_life_bonus">"Life Bonus"</string>
+    <string name="results_multiple_race_factor">"Flere Race Factor"</string>
+    <string name="results_free_version">"Du behøver ikke optjener erfaring i den gratis version af Gods og tårne"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Er du sikker på du vil nulstille alle spiller data?"</string>
+    <string name="options_assetClear">"Er du sikker på du vil slette alle download-aktiver?"</string>
+    <string name="options_reset">"Annuller"</string>
+    <string name="options_assets">"Slet spildata"</string>
+    <string name="options_clear">"Klar"</string>
+    <string name="options_clearing">"Alle downloade aktiver bliver fjernet, er anvendelsen spændende ..."</string>
+    <string name="options_soundOn">"Lyd On"</string>
+    <string name="options_soundOff">"Lyd Off"</string>
+    <string name="options_cancel">"Annuller"</string>
+    <string name="options_textureQuality">"Texture Quality"</string>
+    <string name="options_meshQuality">"Mesh Kvalitet"</string>
+    <string name="options_engineSpeed">"GameEngine Speed"</string>
+    <string name="options_high">"Høj"</string>
+    <string name="options_medium">"Medie"</string>
+    <string name="options_low">"Lav"</string>
+    <string name="options_fast">"Hurtig"</string>
+    <string name="options_normal">"Normal"</string>
+    <string name="options_slow">"langsom"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Modstandere Level"</string>
+    <string name="newgame_yourRace">"Din Race (r)"</string>
+    <string name="newgame_opponentsRace">"Modstandere Race (s)"</string>
+    <string name="newgame_waves">"Max Waves"</string>
+    <string name="newgame_invalid_text">"Ugyldig computer niveau eller bølge tæller, skal du sætte i en række&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Computere niveau skal være mindst"</string>
+    <string name="newgame_startGame">"Start spil"</string>
+    <string name="newgame_minHumanRaces">"Du skal vælge mindst 1 løb for dig selv"</string>
+    <string name="newgame_minComputerRaces">"Du skal vælge mindst 1 løb til computeren"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Hurtig"</string>
+    <string name="newgame_normal">"Normal"</string>
+    <string name="newgame_slow">"langsom"</string>
+    <string name="newgame_difficulty">"besvær."</string>
+    <string name="newgame_easy">"\"Rolig.\" "</string>
+    <string name="newgame_medium">"Medie"</string>
+    <string name="newgame_hard">"\"svært.\" "</string>
+    <string name="newgame_expert">"Expert"</string>
+    <string name="newgame_type">"Spiltype"</string>
+    <string name="newgame_tutorial">"Tutorial"</string>
+    <string name="newgame_campaign">"Kampagne"</string>
+    <string name="newgame_defense">"Defense Training"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Online Game"</string>
+    <string name="newgame_findGame">"Find spil"</string>
+    <string name="newgame_searching">"Søger ..."</string>
+    <string name="newgame_random">"RANDOM"</string>
+    <string name="newgame_onlineError">"Du kan ikke deltage i et online spil"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"Creatures"</string>
+    <string name="upgrade_towers">"Towers"</string>
+    <string name="upgrade_specials">"Tilbud"</string>
+    <string name="upgrade_notEnoughXP">"Du behøver ikke have erfaring nok til"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni har Legion af det ofrede"</string>
+    <string name="race_ice">"Skade har Frosne Savages"</string>
+    <string name="race_earth">"Gaias Masser af Noble Soldiers"</string>
+    <string name="race_wind">"Quetzalcoatl s Warrior Tribe"</string>
+    <string name="race_life">"Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="race_death">"Damballa Army of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"Longest game"</string>
+    <string name="achievements_shortestGame">"Korteste GAME"</string>
+    <string name="achievements_highestScore">"Højeste vurdering"</string>
+    <string name="achievements_highestLevelBeaten">"HØJESTE Slået NIVEAU"</string>
+    <string name="achievements_wins">"BATTLE WINS"</string>
+    <string name="achievements_losses">"BATTLE TAB"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Start Gold"</string>
+    <string name="stat_life">"Start Life"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"Omkostninger"</string>
+    <string name="stat_income">"Indkomst"</string>
+    <string name="stat_air">"natteluft."</string>
+    <string name="stat_ground">"jorden."</string>
+    <string name="stat_attack_range">"Attack Range"</string>
+    <string name="stat_health">"Sundhed"</string>
+    <string name="stat_speed">"Hastighed"</string>
+    <string name="stat_defense">"Defense"</string>
+    <string name="stat_damage">"Skader"</string>
+    <string name="stat_attack_rate">"Attack Rate"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage Radius"</string>
+    <string name="stat_splash_strength_fade">"Splash Styrke Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature Skader Bonus"</string>
+    <string name="stat_slow_duration">"Langsom Varighed"</string>
+    <string name="stat_slow_factor">"Langsom Rate"</string>
+    <string name="stat_creature_evade_percentage">"Undvige Chance"</string>
+    <string name="stat_stun_duration">"Stun Varighed"</string>
+    <string name="stat_tower_attack_rate_modifier">"Tower Attack Speed ​​Bonus"</string>
+    <string name="stat_creature_speed_modifier">"Creature Movement Speed ​​Bonus"</string>
+    <string name="stat_tower_damage_modifier">"Tower Skader Bonus"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Creature Forsvarsbonus"</string>
+    <string name="stat_drain_duration">"Dræn Varighed"</string>
+    <string name="stat_drain_percentage">"Dræn Procent"</string>
+    <string name="stat_heal_percentage">"Heal Procent"</string>
+    <string name="stat_kill_percentage">"Instant Kill Chance"</string>
+    <string name="stat_creature_health_modifier">"Creature Sundhed Bonus"</string>
+    <string name="stat_resurrect_percentage">"Resurrection Chance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Skader alle fjendtlige skabninger"</string>
+    <string name="special_heal">"Helbred alle dine skabninger"</string>
+    <string name="special_kill">"Dræb 25% af fjendtlige væsner på dit bord"</string>
+    <string name="special_slow">"Langsom alle fjendtlige skabninger"</string>
+    <string name="special_speed">"Fremskynde alle dine skabninger"</string>
+    <string name="special_stun">"Stun alle fjendtlige skabninger"</string>
+
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"है Skaði जमे हुए Savages के रूप में 2 जीत बातें बताता है"</string>
+    <string name="achievement_water_catapult">"है Skaði जमे हुए Savages के रूप में 4 जीत बातें बताता है"</string>
+    <string name="achievement_polar_bear">"है Skaði जमे हुए Savages के रूप में 6 जीत बातें बताता है"</string>
+    <string name="achievement_ice_golem">"है Skaði जमे हुए Savages के रूप में 8 जीत बातें बताता है"</string>
+    <string name="achievement_water_pillar">"है Skaði जमे हुए Savages के रूप में 10 जीत बातें बताता है"</string>
+    <string name="achievement_drake">"है Skaði जमे हुए Savages के रूप में 12 जीत बातें बताता है"</string>
+    <string name="achievement_water_emitter">"है Skaði जमे हुए Savages के रूप में 16 जीत बातें बताता है"</string>
+    <string name="achievement_race_ice">"सभी Skaði जमे हुए Savages जीव और टावरों अनलॉक"</string>
+    <string name="achievement_campaign_race_ice_10">"5 है Skaði जमे हुए Savages के रूप में आसान पर सभी अभियान स्तर में सितारे"</string>
+    <string name="achievement_campaign_race_ice_100">"मध्यम पर सभी अभियान स्तर में है Skaði जमे हुए Savages के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_ice_1000">"है Skaði जमे हुए Savages के रूप में हार्ड पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_ice_10000">"है Skaði जमे हुए Savages के रूप में विशेषज्ञ पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_battle_race_ice_5">"5 है Skaði जमे हुए Savages के रूप में लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_ice_25">"है Skaði जमे हुए Savages के रूप में लड़ाई के रूप में 25 जीत"</string>
+    <string name="achievement_battle_race_ice_100">"100 है Skaði जमे हुए Savages के रूप में लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 है Skaði जमे हुए Savages के रूप में लड़ाई के रूप में जीत"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता है"</string>
+    <string name="achievement_griffin_statue">"4 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता है"</string>
+    <string name="achievement_panda_bear">"6 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता"</string>
+    <string name="achievement_lightning_golem">"8 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता"</string>
+    <string name="achievement_lightning_pillar">"10 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता"</string>
+    <string name="achievement_dragon">"12 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता"</string>
+    <string name="achievement_lightning_emitter">"16 जीत के रूप में Quetzalcoatl योद्धा जनजाति बातें बताता"</string>
+    <string name="achievement_race_wind">"सभी Quetzalcoatl योद्धा जनजाति जीव और टावरों अनलॉक"</string>
+    <string name="achievement_campaign_race_wind_10">"Quetzalcoatl योद्धा जनजाति के रूप में 5 आसान पर सभी अभियान स्तर में सितारे"</string>
+    <string name="achievement_campaign_race_wind_100">"मध्यम पर सभी अभियान स्तर में Quetzalcoatl योद्धा जनजाति के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_wind_1000">"Quetzalcoatl योद्धा जनजाति के रूप में हार्ड पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_wind_10000">"Quetzalcoatl योद्धा जनजाति के रूप में विशेषज्ञ पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_battle_race_wind_5">"Quetzalcoatl योद्धा जनजाति के रूप में लड़ाई के रूप में 5 जीत"</string>
+    <string name="achievement_battle_race_wind_25">"Quetzalcoatl योद्धा जनजाति के रूप में लड़ाई के रूप में 25 जीत"</string>
+    <string name="achievement_battle_race_wind_100">"Quetzalcoatl योद्धा जनजाति के रूप में लड़ाई के रूप में 100 जीत"</string>
+    <string name="achievement_battle_race_wind_1000">"Quetzalcoatl योद्धा जनजाति के रूप में लड़ाई के रूप में 1000 जीत"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"दो जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_stone_catapult">"4 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_grizzly_bear">"6 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_earth_golem">"8 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_earth_pillar">"10 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_eagle">"12 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_dirt_emitter">"16 जीत के रूप में नोबल सैनिकों की गैया लॉट बातें बताता है"</string>
+    <string name="achievement_race_earth">"नोबल सैनिकों जीव और टावरों के सभी गैया लॉट अनलॉक"</string>
+    <string name="achievement_campaign_race_earth_10">"आसान पर सभी अभियान स्तर में नोबल सैनिकों की गैया लॉट के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_earth_100">"मध्यम पर सभी अभियान स्तर में नोबल सैनिकों की गैया लॉट के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_earth_1000">"हार्ड पर सभी अभियान स्तर में नोबल सैनिकों की गैया लॉट के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_earth_10000">"विशेषज्ञ पर सभी अभियान स्तर में नोबल सैनिकों की गैया लॉट के रूप में 5 सितारे"</string>
+    <string name="achievement_battle_race_earth_5">"लड़ाई के रूप में 5 नोबल सैनिकों की गैया लॉट के रूप में है जीत"</string>
+    <string name="achievement_battle_race_earth_25">"नोबल सैनिकों की गैया लॉट के रूप में 25 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_earth_100">"नोबल सैनिकों की गैया लॉट के रूप में 100 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_earth_1000">"नोबल सैनिकों की गैया लॉट के रूप में 1000 में लड़ाई के रूप में जीत"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"बलिदान बातें बताता अग्नि की सेना के रूप में 2 जीत"</string>
+    <string name="achievement_flame_catapult">"अग्नि सेना का बलिदान बातें बताता है के रूप में 4 जीत"</string>
+    <string name="achievement_fiery_bear">"अग्नि सेना का बलिदान बातें बताता है के रूप में 6 जीत"</string>
+    <string name="achievement_fire_golem">"अग्नि सेना का बलिदान बातें बताता है के रूप में 8 जीत"</string>
+    <string name="achievement_fire_pillar">"बलिदान बातें बताता अग्नि की सेना के रूप में 10 जीत"</string>
+    <string name="achievement_falcon">"बलिदान बातें बताता अग्नि की सेना के रूप में 12 जीत"</string>
+    <string name="achievement_fire_emitter">"अग्नि सेना का बलिदान बातें बताता है के रूप में 16 जीत"</string>
+    <string name="achievement_race_fire">"बलिदान जीव और टावरों के सभी अग्नि सेना अनलॉक"</string>
+    <string name="achievement_campaign_race_fire_10">"अग्नि के बलिदान की सेना के रूप में 5 आसान पर सभी अभियान स्तर में सितारे"</string>
+    <string name="achievement_campaign_race_fire_100">"अग्नि के बलिदान की सेना के रूप में मध्यम पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_fire_1000">"अग्नि के बलिदान की सेना के रूप में हार्ड पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_fire_10000">"अग्नि के बलिदान की सेना के रूप में विशेषज्ञ पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_battle_race_fire_5">"अग्नि के बलिदान की सेना के रूप में 5 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_fire_25">"अग्नि के बलिदान की सेना के रूप में लड़ाई के रूप में 25 जीत"</string>
+    <string name="achievement_battle_race_fire_100">"अग्नि के बलिदान की सेना के रूप में लड़ाई के रूप में 100 जीत"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 अग्नि के बलिदान की सेना के रूप में लड़ाई के रूप में जीत"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_angel_statue">"4 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_seraphim">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है के रूप में 6 जीत"</string>
+    <string name="achievement_life_golem">"8 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_life_pillar">"10 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_angel">"12 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_holy_water_emitter">"16 जीत के रूप में Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर बातें बताता है"</string>
+    <string name="achievement_race_life">"सभी Hugues डे Payens की पवित्र शूरवीरों टमप्लर जीव और टावरों अनलॉक"</string>
+    <string name="achievement_campaign_race_life_10">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में 5 आसान पर सभी अभियान स्तर में सितारे"</string>
+    <string name="achievement_campaign_race_life_100">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में मध्यम पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_life_1000">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में हार्ड पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_campaign_race_life_10000">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में विशेषज्ञ पर सभी अभियान स्तर में 5 सितारे"</string>
+    <string name="achievement_battle_race_life_5">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में 5 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_life_25">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में लड़ाई के रूप में 25 जीत"</string>
+    <string name="achievement_battle_race_life_100">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में 100 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_life_1000">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर के रूप में 1000 में लड़ाई के रूप में जीत"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 बातें बताता है शापित है Damballa सेना के रूप में जीत"</string>
+    <string name="achievement_gargoyle_statue">"बातें बताता है शापित है Damballa सेना के रूप में 4 जीत"</string>
+    <string name="achievement_succubus">"बातें बताता है शापित है Damballa सेना के रूप में 6 जीत"</string>
+    <string name="achievement_undead_golem">"बातें बताता है शापित है Damballa सेना के रूप में 8 जीत"</string>
+    <string name="achievement_undead_pillar">"बातें बताता है शापित है Damballa सेना के रूप में 10 जीत"</string>
+    <string name="achievement_fallen_angel">"बातें बताता है शापित है Damballa सेना के रूप में 12 जीत"</string>
+    <string name="achievement_toxic_gas_emitter">"बातें बताता है शापित है Damballa सेना के रूप में 16 जीत"</string>
+    <string name="achievement_race_death">"शापित जीव और टावरों की सभी Damballa की सेना अनलॉक"</string>
+    <string name="achievement_campaign_race_death_10">"आसान पर सभी अभियान स्तर में शापित की है Damballa सेना के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_death_100">"मध्यम पर सभी अभियान स्तर में शापित की है Damballa सेना के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_death_1000">"हार्ड पर सभी अभियान स्तर में शापित की है Damballa सेना के रूप में 5 सितारे"</string>
+    <string name="achievement_campaign_race_death_10000">"विशेषज्ञ पर सभी अभियान स्तर में शापित की है Damballa सेना के रूप में 5 सितारे"</string>
+    <string name="achievement_battle_race_death_5">"शापित की है Damballa सेना के रूप में 5 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_death_25">"शापित की है Damballa सेना के रूप में 25 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_death_100">"शापित की है Damballa सेना के रूप में 100 लड़ाई के रूप में जीत"</string>
+    <string name="achievement_battle_race_death_1000">"शापित की है Damballa सेना के रूप में 1000 में लड़ाई के रूप में जीतता है"</string>
+
+</resources>

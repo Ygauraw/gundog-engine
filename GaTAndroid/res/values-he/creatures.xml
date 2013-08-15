@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"ויקינג קפוא"</string>
+    <string name="frozen_soldier_horseman">"חייל קפוא פרש"</string>
+    <string name="polar_bear">"הקוטב הצפוני גריזלי"</string>
+    <string name="ice_golem">"Ice הגולם"</string>
+    <string name="drake">"סופת ברד דרייק"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"קשת"</string>
+    <string name="human_archer_horseman">"רכוב ארצ'ר"</string>
+    <string name="panda_bear">"פנדה ענק"</string>
+    <string name="lightning_golem">"ברק הגולם"</string>
+    <string name="dragon">"דרקון"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"בני הלילית ארצ'ר"</string>
+    <string name="elvish_archer_horseman">"בני הלילית ארצ'ר פרש"</string>
+    <string name="grizzly_bear">"Grizzly Bear"</string>
+    <string name="earth_golem">"כדור הארץ הגולם"</string>
+    <string name="eagle">"מלחמת Eagle"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"אמא"</string>
+    <string name="mummy_horseman">"מתים Rider"</string>
+    <string name="fiery_bear">"שריפת Bear"</string>
+    <string name="fire_golem">"לעזאזל ספון"</string>
+    <string name="falcon">"בז"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"דתי קנאי"</string>
+    <string name="zealot_horseman">"שכיר חרב אביר"</string>
+    <string name="seraphim">"שרפים"</string>
+    <string name="life_golem">"הגולם הצלבנית"</string>
+    <string name="angel">"מלאך"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"מטומטם"</string>
+    <string name="zombie_horseman">"זומבי Rider"</string>
+    <string name="succubus">"סוקובוס"</string>
+    <string name="undead_golem">"מתים הגולם"</string>
+    <string name="fallen_angel">"Fallen Angel"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"Elf Wizard"</string>
+    <string name="human_mage">"אדם קוסם"</string>
+    <string name="human_necromancer">"האדם האוב"</string>
+    <string name="troll">"גמד"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"ההוביט"</string>
+    <string name="kobold">"הגמד הרע"</string>
+    <string name="gnome">"גמד"</string>
+    <string name="ghoul">"שד"</string>
+    <string name="human_witch">"האדם המכשפה"</string>
+    <string name="female_necromancer">"נקבה האוב"</string>
+    <string name="female_elf_mage">"נקבה Elf קוסם"</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"बर्फ तोप"</string>
+	<string name="water_catapult">"बर्फ गुलेल"</string>
+	<string name="water_pillar">"पानी स्तंभ"</string>
+	<string name="water_emitter">"पानी Emitter"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"बिजली तोप"</string>
+	<string name="griffin_statue">"ग्रिफिन प्रतिमा"</string>
+	<string name="lightning_pillar">"बिजली स्तंभ"</string>
+	<string name="lightning_emitter">"बिजली Emitter"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"रॉक तोप"</string>
+	<string name="stone_catapult">"पत्थर गुलेल"</string>
+	<string name="earth_pillar">"पृथ्वी स्तंभ"</string>
+	<string name="dirt_emitter">"गंदगी Emitter"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"लौ तोप"</string>
+	<string name="flame_catapult">"लौ गुलेल"</string>
+	<string name="fire_pillar">"आग स्तंभ"</string>
+	<string name="fire_emitter">"आग Emitter"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"ऊर्जा तोप"</string>
+	<string name="angel_statue">"एन्जिल मूर्ति"</string>
+	<string name="life_pillar">"जीवन स्तंभ"</string>
+	<string name="holy_water_emitter">"पवित्र जल Emitter"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"जहर तोप"</string>
+	<string name="gargoyle_statue">"परनाला मूर्ति"</string>
+	<string name="undead_pillar">"मरे स्तंभ"</string>
+	<string name="toxic_gas_emitter">"विषाक्त गैस Emitter"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"ज्वाला कोड़ा"</string>
+	<string name="water_whip">"पानी कोड़ा"</string>
+	<string name="tentical_whip">"Tentical कोड़ा"</string>
+	<string name="flame_crystallizer">"लौ Crystallizer"</string>
+	<string name="ice_crystallizer">"बर्फ के क्रिस्टल"</string>
+	<string name="earth_crystallizer">"पृथ्वी Crystallizer"</string>
+	<string name="lightning_blade">"बिजली ब्लेड"</string>
+	<string name="ice_blade">"बर्फ ब्लेड"</string>
+	<string name="flame_blade">"लौ ब्लेड"</string>
+	<string name="earth_ballista">"पृथ्वी Ballista"</string>
+	<string name="ice_ballista">"बर्फ Ballista"</string>
+	<string name="flame_ballista">"लौ Ballista"</string>
+	
+</resources>

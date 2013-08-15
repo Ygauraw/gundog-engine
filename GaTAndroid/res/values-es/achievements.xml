@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_water_catapult">"4 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_polar_bear">"6 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_ice_golem">"8 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_water_pillar">"10 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_drake">"12 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_water_emitter">"16 victorias como salvajes congelados Skadi desbloquea"</string>
+    <string name="achievement_race_ice">"Desbloquear todas las criaturas congeladas Skadi Savages y torres"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Estrellas en todos los niveles de la campaña de fácil como salvajes congelados Skadi"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Estrellas en todos los niveles de la campaña en medio de salvajes congelados Skadi"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Estrellas en todos los niveles de la campaña en duro como salvajes congelados Skadi"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Estrellas en todos los niveles de la campaña en Experto como salvajes congelados Skadi"</string>
+    <string name="achievement_battle_race_ice_5">"5 victorias en el modo batalla como salvajes congelados Skadi"</string>
+    <string name="achievement_battle_race_ice_25">"25 victorias en el modo batalla como salvajes congelados Skadi"</string>
+    <string name="achievement_battle_race_ice_100">"100 victorias en el modo batalla como salvajes congelados Skadi"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 gana el Modo de Batalla como salvajes congelados Skadi"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_griffin_statue">"4 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_panda_bear">"6 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_lightning_golem">"8 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_lightning_pillar">"10 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_dragon">"12 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_lightning_emitter">"16 victorias como Guerrero Quetzalcóatl Tribu desbloquea"</string>
+    <string name="achievement_race_wind">"Desbloquear todas las criaturas de Quetzalcóatl Guerrero Tribu y torres"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Estrellas en todos los niveles de la campaña en Guerrero fácil como Quetzalcóatl Tribu"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Estrellas en todos los niveles de la campaña en medio como Guerrero Quetzalcóatl Tribu"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Estrellas en todos los niveles de la campaña en Guerrero duro como Quetzalcóatl Tribu"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Estrellas en todos los niveles de la campaña en Experto como Guerrero Quetzalcóatl Tribu"</string>
+    <string name="achievement_battle_race_wind_5">"5 victorias en el modo de Batalla como Guerrero Quetzalcóatl Tribu"</string>
+    <string name="achievement_battle_race_wind_25">"25 victorias en el modo de Batalla como Guerrero Quetzalcóatl Tribu"</string>
+    <string name="achievement_battle_race_wind_100">"100 victorias en el modo de Batalla como Guerrero Quetzalcóatl Tribu"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 victorias en el modo de Batalla como Guerrero Quetzalcóatl Tribu"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 gana como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_stone_catapult">"4 victorias como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_grizzly_bear">"6 victorias como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_earth_golem">"8 victorias como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_earth_pillar">"10 victorias como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_eagle">"12 victorias como Lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_dirt_emitter">"16 victorias como lote de Gaia de los soldados de nobles desbloquea"</string>
+    <string name="achievement_race_earth">"Desbloquear todos los Lote de Gaia de las criaturas nobles soldados y torres"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Estrellas en todos los niveles de la campaña de fácil como lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Estrellas en todos los niveles de la campaña sobre el medio como el lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Estrellas en todos los niveles de la campaña en duro como el lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Estrellas en todos los niveles de la campaña en Experto como lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_battle_race_earth_5">"5 victorias en el modo de Batalla como el lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_battle_race_earth_25">"25 victorias en el modo de Batalla como el lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_battle_race_earth_100">"100 victorias en el modo de Batalla como el lote de Gaia de los soldados de nobles"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 gana el Modo de Batalla como Lote de Gaia de los soldados de nobles"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_flame_catapult">"4 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_fiery_bear">"6 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_fire_golem">"8 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_fire_pillar">"10 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_falcon">"12 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_fire_emitter">"16 victorias como la Legión de Agni del desbloquea Sacrificado"</string>
+    <string name="achievement_race_fire">"Desbloquear todas Legión de Agni de los seres sacrificados y torres"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Estrellas en todos los niveles de la campaña de fácil como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Estrellas en todos los niveles de la campaña sobre el medio como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Estrellas en todos los niveles de la campaña en duro como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Estrellas en todos los niveles de la campaña en Experto como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_battle_race_fire_5">"5 victorias en el modo de batalla como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_battle_race_fire_25">"25 victorias en el modo de batalla como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_battle_race_fire_100">"100 victorias en el modo de batalla como la Legión de Agni de los sacrificados"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 gana en el modo batalla, como la Legión de Agni de los sacrificados"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_angel_statue">"4 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_seraphim">"6 victorias como Santo Hugo de Payens 'Caballeros Templarios abre"</string>
+    <string name="achievement_life_golem">"8 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_life_pillar">"10 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_angel">"12 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_holy_water_emitter">"16 victorias en Santo Hugo de Payens 'Caballeros Templarios desbloquea"</string>
+    <string name="achievement_race_life">"Desbloquea todas las Hugues de Payens 'Santos criaturas de Caballeros Templarios y torres"</string>
+    <string name="achievement_campaign_race_life_10">"5 Estrellas en todos los niveles de la campaña en Santa fácil como Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_campaign_race_life_100">"5 Estrellas en todos los niveles de la campaña sobre el medio como el Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Estrellas en todos los niveles de la campaña en Santa duro como Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Estrellas en todos los niveles de la campaña en Experto como Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_battle_race_life_5">"5 victorias en el modo de Batalla como el Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_battle_race_life_25">"25 victorias en el modo de Batalla como el Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_battle_race_life_100">"100 victorias en el modo de Batalla como el Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <string name="achievement_battle_race_life_1000">"1000 gana en el modo Batalla en Santo Hugo de Payens 'Caballeros Templarios"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_gargoyle_statue">"4 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_succubus">"6 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_undead_golem">"8 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_undead_pillar">"10 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_fallen_angel">"12 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_toxic_gas_emitter">"16 victorias como Damballa Ejército de los condenados desbloquea"</string>
+    <string name="achievement_race_death">"Desbloquear todos los Damballa Ejército de las criaturas condenadas y torres"</string>
+    <string name="achievement_campaign_race_death_10">"5 Estrellas en todos los niveles de la campaña de fácil como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_campaign_race_death_100">"5 Estrellas en todos los niveles de la campaña en medio del Ejército como Damballa de los Condenados"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Estrellas en todos los niveles de la campaña en duro como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Estrellas en todos los niveles de la campaña en Experto como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_battle_race_death_5">"5 victorias en el modo batalla como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_battle_race_death_25">"25 victorias en el modo batalla como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_battle_race_death_100">"100 victorias en el modo batalla como Damballa Ejército de los Condenados"</string>
+    <string name="achievement_battle_race_death_1000">"1000 gana en el modo de Batalla como Damballa Ejército de los Condenados"</string>
+
+</resources>

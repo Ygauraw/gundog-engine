@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Gods and Towers"</string>
+    <string name="app_description">"Gudar och Towers, en 3D-Tower Defense spel mot AI eller PVP."</string>
+    <string name="motto">"Kämpa för att vinna!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Återuppta spel"</string>
+    <string name="main_newGame">"Nytt spel"</string>
+    <string name="main_store">"butik"</string>
+    <string name="main_upgrade">"Uppgradera"</string>
+    <string name="main_achievements">"Prestationer"</string>
+    <string name="main_almanac">"Almanacka"</string>
+    <string name="main_options">"Alternativ"</string>
+    <string name="main_credits">"Gjort av"</string>
+    <string name="main_exit">"Avsluta"</string>
+    <string name="main_back">"Tillbaka"</string>
+    <string name="main_retry">"Försök igen"</string>
+    <string name="main_downloading">"Nedladdning speldata, vänta ..."</string>
+    <string name="main_download_failed">"Det gick inte att ladda ner data som krävs, kan du avsluta och starta om spelet för att försöka igen där den slutade."</string>
+    <string name="main_external_storage">"Vänligen montera extern lagring så att programmet kan hämta / använda uppgifter som behövs"</string>
+    <string name="main_latest_version">"En ny version av Gods and Towers är tillgängligt eller om du inte kan ansluta till spelservern."</string>
+    <string name="main_no_news">"Inga nyheter"</string>
+    <string name="main_news_server_down">"Nyheten servern är nere, eller så uppstod ett fel hämta det senaste spelet nyheterna."</string>
+    <string name="main_version">"Version"</string>
+    <string name="main_graphics">"Det uppstod ett fel modelldata på grund av överdriven minnesanvändning. Grafik inställningar sänks och programmet är spännande. Starta och försöker köra spelet med reducerad Texture kvalitet och / eller Mesh kvalitet, vilket du kan ange i Alternativ-menyn när du först startar spelet."</string>
+    <string name="main_rate_dialog">"Om du tycker om att använda, %s, ta dig tid att betygsätta det. Tack för ert stöd."</string>
+    <string name="main_rate_now">"Betygsätt %s"</string>
+    <string name="main_rate_later">"Påminn mig senare"</string>
+    <string name="main_rate_never">"Nej tack"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Köp"</string>
+    <string name="purchase_cancel">"Avbryt"</string>
+    <string name="purchase_reduced_ads">"Avlägsna påträngande reklam"</string>
+    <string name="purchase_reduced_ads_description">"Eliminerar ADS högst upp av alla menyer och de som kom före och efter spel."</string>
+    <string name="purchase_all_races">"Lås upp Alla Races"</string>
+    <string name="purchase_all_races_description">"Låser upp alla raser som ger dig tillgång till 25 nya varelser och 20 nya torn."</string>
+    <string name="purchase_multiple_races">"Lås Race Kombinationer"</string>
+    <string name="purchase_multiple_races_description">"Låser upp möjligheten att spela som mer än en race på en gång ger dig tillgång till 12 nya varelser och 12 nya torn."</string>
+    <string name="purchase_special_100">"Köp 100 av varje särskild"</string>
+    <string name="purchase_special_100_description">"Ger 100 av vardera av de race specialerbjudanden"</string>
+    <string name="purchase_upgrade_abilities">"Uppgradera alla spelare och ras förmågor"</string>
+    <string name="purchase_upgrade_abilities_description">"Ökar nivån med 1 för alla spelare statistik och Starter"</string>
+    <string name="purchase_upgrade_all">"Uppgradera varje torn / varelse för alla raser"</string>
+    <string name="purchase_upgrade_all_description">"Ökar för varje förmåga att Varje varelse /-torn med 1"</string>
+    <string name="purchase_upgrade_onerace">"Uppgradera varje torn / varelse för "</string>
+    <string name="purchase_upgrade_onerace_description">"Ökar för varje förmågan för alla varelser / torn i ett race med 1"</string>
+    <string name="purchase_double_experience">"Fördubbla din erfarenhet"</string>
+    <string name="purchase_double_experience_description">"Direkt ger dig 2X din nuvarande erfarenhet i varje race."</string>
+    <string name="purchase_billing_not_supported_title">"Kan inte göra inköp"</string>
+    <string name="purchase_billing_not_supported_message">"Det fakturering Tjänsten är inte tillgänglig just nu. Du kan fortsätta att använda denna applikation, men du kommer inte kunna göra inköp."</string>
+    <string name="purchase_cannot_connect_title">"Kan inte ansluta till faktureringen tjänsten"</string>
+    <string name="purchase_cannot_connect_message">"Denna app kan inte ansluta till fakturering tjänsten. Du kan fortsätta att använda denna applikation, men du kommer inte kunna göra inköp."</string>
+    <string name="purchase_restoring_transactions">"Återställa transaktioner"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Webbplats"</string>
+    <string name="credits_production">"Produceras av"</string>
+    <string name="credits_production_name">"Gundog studior"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Programmering"</string>
+    <string name="credits_programming_name">"Joe kand"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D-modeller och texturer"</string>
+    <string name="credits_models_name">"Tucho Fernandez Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Game Almanacka"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D PIXELkonst"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Musik"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"släpvagn"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Översättningar"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (koreanska)"</string>
+    <string name="credits_special_thanks">"Speciellt tack"</string>
+    <string name="credits_special_thanks_names">"Team Grymt och 2 Pluton Delta Company 2-35in"</string>
+    <string name="credits_inmemoryof">"I minne av SGT Kevin White. Borta, men inte glömt."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"DU"</string>
+    <string name="game_enemy">"FIENDE"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"In"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Uppgradera till CREATURE NIVÅ"</string>
+    <string name="game_max_upgrade">"INKÖP MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"Aktivera automatisk KÖP"</string>
+    <string name="game_disable_auto_purchase">"INAKTIVERA AUTO KÖP"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Det gick inte att ladda"</string>
+    <string name="manager_playerReset">"Spelare och data Game Reset"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"DU VANN"</string>
+    <string name="results_lost">"You Lost"</string>
+    <string name="results_disconnected">"Frånkopplad"</string>
+    <string name="results_you">"DU"</string>
+    <string name="results_ai">"AI:"</string>
+    <string name="results_continue">"Fortsätt"</string>
+    <string name="results_length">"Längd"</string>
+    <string name="results_waves">"Vågor"</string>
+    <string name="results_base_xp">"Bas XP"</string>
+    <string name="results_total_xp">"Totalt XP per race"</string>
+    <string name="results_campaign">"Kampanj"</string>
+    <string name="results_rewards">"Belöningar"</string>
+    <string name="results_main">"Huvud"</string>
+    <string name="results_life">"Li"</string>
+    <string name="results_income">"Resultat"</string>
+    <string name="results_offense">"Brott"</string>
+    <string name="results_defense">"Defense"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Achievement Bonus"</string>
+    <string name="results_win_bonus">"Vinn Bonus"</string>
+    <string name="results_length_bonus">"Längd Bonus"</string>
+    <string name="results_life_bonus">"Livet Bonus"</string>
+    <string name="results_multiple_race_factor">"Flera Race Factor"</string>
+    <string name="results_free_version">"Du tjänar inte erfarenhet i den fria versionen av Gods and Towers"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Är du säker på att du vill återställa alla spelare data?"</string>
+    <string name="options_assetClear">"Är du säker på att du vill rensa alla nedladdning tillgångar?"</string>
+    <string name="options_reset">"Återställ"</string>
+    <string name="options_assets">"Ta bort Speldata"</string>
+    <string name="options_clear">"Rensa"</string>
+    <string name="options_clearing">"Alla nedladdning tillgångar tas bort, är ansökan spännande ..."</string>
+    <string name="options_soundOn">"Ljud På"</string>
+    <string name="options_soundOff">"Ljud Av"</string>
+    <string name="options_cancel">"Avbryt"</string>
+    <string name="options_textureQuality">"Texturkvalitet"</string>
+    <string name="options_meshQuality">"Mesh Kvalitet"</string>
+    <string name="options_engineSpeed">"GameEngine hastighet"</string>
+    <string name="options_high">"Hög"</string>
+    <string name="options_medium">"Medium"</string>
+    <string name="options_low">"Låg"</string>
+    <string name="options_fast">"Snabb"</string>
+    <string name="options_normal">"Normal"</string>
+    <string name="options_slow">"Långsam"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Motståndare Nivå"</string>
+    <string name="newgame_yourRace">"Din ras (er)"</string>
+    <string name="newgame_opponentsRace">"Motståndare Ras (er)"</string>
+    <string name="newgame_waves">"Max Vågor"</string>
+    <string name="newgame_invalid_text">"Ogiltig datorn nivå eller vågtalskriteriet, lägg i ett tal&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Datorer nivå måste vara minst"</string>
+    <string name="newgame_startGame">"Start Game"</string>
+    <string name="newgame_minHumanRaces">"Du måste välja minst 1 race för dig själv"</string>
+    <string name="newgame_minComputerRaces">"Du måste välja minst 1 race för datorn"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Snabb"</string>
+    <string name="newgame_normal">"Normal"</string>
+    <string name="newgame_slow">"Långsam"</string>
+    <string name="newgame_difficulty">"Svårighet"</string>
+    <string name="newgame_easy">"Lätt"</string>
+    <string name="newgame_medium">"Medium"</string>
+    <string name="newgame_hard">"- Hårdhet:"</string>
+    <string name="newgame_expert">"Expert"</string>
+    <string name="newgame_type">"Speltyp"</string>
+    <string name="newgame_tutorial">"Självstudier"</string>
+    <string name="newgame_campaign">"Kampanj"</string>
+    <string name="newgame_defense">"Försvarsutbildning"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Online Spel"</string>
+    <string name="newgame_findGame">"Hitta Game"</string>
+    <string name="newgame_searching">"Sökningar"</string>
+    <string name="newgame_random">"Slumpa..."</string>
+    <string name="newgame_onlineError">"Du kan inte ansluta sig till ett online-spel"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"Creatures"</string>
+    <string name="upgrade_towers">"Towers"</string>
+    <string name="upgrade_specials">"Erbjudanden"</string>
+    <string name="upgrade_notEnoughXP">"Du har inte tillräcklig erfarenhet för att"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni är Legion av offrade"</string>
+    <string name="race_ice">"Skadi s Frysta Savages"</string>
+    <string name="race_earth">"Gaias Lot of Noble Soldiers"</string>
+    <string name="race_wind">"Quetzalcoatl s Krigare Stam"</string>
+    <string name="race_life">"Hugues de Payens \"Holy Tempelherreorden"</string>
+    <string name="race_death">"Damballa armé of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"LÄNGSTA GAME"</string>
+    <string name="achievements_shortestGame">"KORTASTE GAME"</string>
+    <string name="achievements_highestScore">"Högsta betyg"</string>
+    <string name="achievements_highestLevelBeaten">"HÖGSTA NIVÅ UPPTRAMPAD"</string>
+    <string name="achievements_wins">"Vinster"</string>
+    <string name="achievements_losses">"BATTLE FÖRLUSTER"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Start Guld"</string>
+    <string name="stat_life">"Starta Life"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"Cost"</string>
+    <string name="stat_income">"Resultat"</string>
+    <string name="stat_air">"Luft"</string>
+    <string name="stat_ground">"Jord"</string>
+    <string name="stat_attack_range">"Attack räckvidd"</string>
+    <string name="stat_health">"Hälsa"</string>
+    <string name="stat_speed">"Fart"</string>
+    <string name="stat_defense">"Defense"</string>
+    <string name="stat_damage">"Skada"</string>
+    <string name="stat_attack_rate">"Attack Rate"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Stänk Skador Radie"</string>
+    <string name="stat_splash_strength_fade">"Splash Styrka Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature Skador Bonus"</string>
+    <string name="stat_slow_duration">"Långsam Varaktighet"</string>
+    <string name="stat_slow_factor">"Långsam hastighet"</string>
+    <string name="stat_creature_evade_percentage">"Undgå Chance"</string>
+    <string name="stat_stun_duration">"Bedöva Varaktighet"</string>
+    <string name="stat_tower_attack_rate_modifier">"Tower Attack hastighet Bonus"</string>
+    <string name="stat_creature_speed_modifier">"Creature Hastighet Bonus"</string>
+    <string name="stat_tower_damage_modifier">"Tower Skador Bonus"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Creature Defense Bonus"</string>
+    <string name="stat_drain_duration">"Töm Varaktighet"</string>
+    <string name="stat_drain_percentage">"Dränera Procent"</string>
+    <string name="stat_heal_percentage">"Läka Procent"</string>
+    <string name="stat_kill_percentage">"Omedelbar Kill Chance"</string>
+    <string name="stat_creature_health_modifier">"Creature Hälsa Bonus"</string>
+    <string name="stat_resurrect_percentage">"Resurrection Chance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Skador alla fiendens varelser"</string>
+    <string name="special_heal">"Läka alla dina varelser"</string>
+    <string name="special_kill">"Döda 25% av fientliga varelser på brädan"</string>
+    <string name="special_slow">"Långsam alla fiendens varelser"</string>
+    <string name="special_speed">"Snabba upp alla dina varelser"</string>
+    <string name="special_stun">"Stun alla fiendens varelser"</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Vítejte ve výuce úrovni. Zde se naučí, jak používat všechny funkce v bohy a věže. Můžete si všimnout, posuvník na pravé straně některé z těchto vyskakovacích oken jako tutorial postupuje. Nezapomeňte si posunout dolů dostat všechny informace."</string>
+    <string name="tutorial_game_area">"To, co vidíte nyní je vaše deska, přetáhněte prst po desce pohybovat kolem. Můžete si všimnout, překážky, jako jsou skály a stromy, které brání vám ze stavebního věže. Budete také všimnout, zářivě modrou plochu, to je místo, kde zvířata třít. Na nějakém jiném místě na mapě bude šumivé červená oblast, toto je místo, kde zvířata se snaží přesunout moc. Pokud se dostanou do červené oblasti, ztratíte život, kdy váš život dostane 0, hra je u konce. Udělejte si čas pro zobrazení desku a identifikovat každý z klíčových vlastností teď."</string>
+    <string name="tutorial_top_menu">"V horní části obrazovky je klíčové informace, které vám vědět aktuální život, kolik peněz máte na ruce, kolik vlny uběhlo, kolik z příjmů obdržíte na další vlnu, a také čas zbývající do Další vlna."</string>
+    <string name="tutorial_top_menu_life">"To je, jak moc život jste zbývající. Když dosáhne 0, prohráváte."</string>
+    <string name="tutorial_top_menu_gold">"To je kolik zlata si muset koupit věže a zvířata."</string>
+    <string name="tutorial_top_menu_income">"Na pravé straně je to, kolik z příjmů obdržíte na další vlnu, spolu s časem až do příští vlně."</string>
+    <string name="tutorial_bottom_menu">"V dolní části obrazovky uvidíte, několik tlačítek. Tato tlačítka umožňují koupit věže, koupit bytosti, použití speciality, měnit možnosti, umožňují útočit a pozastavit / pokračovat ve hře."</string>
+    <string name="tutorial_bottom_menu_tower">"Tím věže nabídku. Ukazuje vám všechny věže, které lze použít spolu s věžemi jste ještě odemčené."</string>
+    <string name="tutorial_bottom_menu_creature">"Tím se Creatures nabídku. Ukazuje vám všechny tvory, které lze použít spolu s tvory jste ještě odemčené."</string>
+    <string name="tutorial_bottom_menu_special">"Tím se vyvolá Akční nabídku. Ukazuje vám všechny speciály, které můžete použít."</string>
+    <string name="tutorial_bottom_menu_option">"Tím nabídku Možnosti. Můžete vypnout hudbu a změnit pohled na hru zde."</string>
+    <string name="tutorial_bottom_menu_attacking">"To umožňuje útočit, budeme diskutovat více později."</string>
+    <string name="tutorial_bottom_menu_pause">"To vám umožní pozastavit hru a znovu, když jste připraveni."</string>
+    <string name="tutorial_buying_tower">"Nepřítel povolal stvoření, takže bychom se měli postavit nějaké věže se bránit. Klikněte na věži tlačítkem a vyberte věž postavit."</string>
+    <string name="tutorial_buying_tower_pick">"Kliknutím na obrázek věže, kterou chcete koupit. Uvidíte náklady na věži vedle jeho obrázku. V pravé dolní části obrazovky věže poškození a rychlost útoku se objeví, když ji vybrat."</string>
+    <string name="tutorial_buying_tower_selected">"Nyní, když jste vybrali věž musíte vybrat umístění na obrazovce postavit to. Můžete si všimnout, že věž se objeví na obrazovce a má modrou rozsah auru, která ukazuje, jak daleko věž může zaútočit. Pokud jste si věž na místo, které nechcete, stačí kliknout na věži opět zmizí. Když jste připraveni k nákupu na věž, vyberte kupní tlačítko na levém dolním rohu obrazovky. Chcete-li zrušit stavební věže, stiskněte tlačítko Storno."</string>
+    <string name="tutorial_buying_tower_purchase">"Toto tlačítko slouží k potvrzení nákupů a budou stavět všechny věže jste umístili na obrazovce. Věže, které jsou umístěny na místech pro invalidy, jako na skály, stromy, nebo bytosti nebude vybudována. Pokud se pokusíte a stavět věž, aby blokoval cestu tvorů, nebude postavena."</string>
+    <string name="tutorial_buying_tower_cancel">"Pokud se rozhodnete, že již nechcete kupovat věže, stiskněte toto tlačítko. Všechny nevyřízené věže na palubě budou odstraněny."</string>
+    <string name="tutorial_build_maze">"Skvělá práce, dnes stejně jako další zvířata přijde, budeme potřebovat další věže. Build 10 více věže nyní. Ujistěte se, že místo je v cestě bytostí zpomalovat jejich pohyb na místě výjezdu. Konstrukce bludiště umožní vaše věže útočit bytosti více než jednou, a zvýšit vzdálenost, že zvířata potřebují cestovat."</string>
+    <string name="tutorial_upgrade_tower">"V průběhu hry budete spouštět z míst uvedených věže, zvířata však budou nadále řídit, a bude silnější. V tomto okamžiku byste měli začít upgradovat věže. Vyberte věž, aby se pro upgrade nabídku."</string>
+    <string name="tutorial_upgrade_tower_selected">"Velký, nyní v tomto menu uvidíte obraz věže a také tlačítko pro prodej věž."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klikněte na ikonu věže koupit upgrade. Náklady se zobrazí vedle věže."</string>
+    <string name="tutorial_upgrade_tower_sell">"Po kliknutí na toto tlačítko bude prodávat na věž, odstraňovat to z mapy."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Pokud se rozhodnete, že už chcete upgradovat nebo prodat věž, klikněte na toto tlačítko v levém dolním rohu obrazovky."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Dlouhé stisknutí věže ikonu upgrade věž, kolikrát vaše peníze dovolí."</string>
+    <string name="tutorial_side_buttons">"Při přehrávání v bitvě, nebo on-line režimu, zobrazí se tlačítka na straně obrazovky. Ty umožňují zobrazit nepřátele desku. To může být užitečné při rozhodování, které zvířata ke koupi. Hra vám řeknou, co deska se díváte s krátkým místní v dolní části obrazovky. Nemůžete stavět věže na palubě nepřátel. Udělejte si čas pro zobrazení nepřátele desku."</string>
+    <string name="tutorial_side_buttons_pic">"Je to boční tlačítko, které vás vidět nepřátele desku."</string>
+    <string name="tutorial_buying_creature">"Můžete si všimnout Nepřítel nenakupují žádné věže, je to proto, že jste předvolán k útoku žádné bytosti dosud. Stisknutím tlačítka stvoření, aby se vaše zvíře nabídku. Kliknutím na tvora, povolá, pokud máte dost peněz. Nestyď se a sebrat nějaké stvoření a sledovat je, se objeví na desce nepřátel."</string>
+    <string name="tutorial_buying_creature_purchase">"Klikněte na ikonu stvoření jej zakoupit. Vedle stvoření uvidíte, kolik to stojí. Také v pravém dolním rohu obrazovky uvidíte tvorů zdraví a rychlost pohybu po ji vybrat."</string>
+    <string name="tutorial_buying_creature_cancel">"Pokud již nechcete kupovat zvířata, zvolte tlačítko Storno na levém dolním rohu obrazovky."</string>
+    <string name="tutorial_buying_creature_long_press">"Dlouhé stisknutí stvoření ikonu pro zapnutí / vypnutí automatického nákupu. S auto-nákup povoleno budete nakupovat stvoření každý druhý, pokud máte dostatek zlata."</string>
+    <string name="tutorial_attacking">"Mohou nastat situace, kdy nepřítel budovali těžké bludiště, že vaše zvířata nejsou schopny pohybovat. To je při útoku mohou být užitečné. S povoleným útočící bytosti se pokusí přesunout na východ a zaútočí na všechny věže v jejich cestě. Nezapomeňte, že při zapnutí útočit, si pomalu ztrácí zlato, pokud vám dojdou peníze, bude útočit automaticky zakázána. Zkuste na útok nyní."</string>
+    <string name="tutorial_attacking_button">"Zvolte tuto možnost, aby útočit."</string>
+    <string name="tutorial_attacking_move">"Zvolte tuto možnost zakázat útočit."</string>
+    <string name="tutorial_specials">"Někdy se vaše věže nestačí k zastavení nepřátelské tvory, nebo vaše stvoření nedokážu dělat to přes nepřátelské věže. Pomocí speciály poskytuje podporu, které vám pomohou vyhrát. Zkuste použít speciální nyní."</string>
+    <string name="tutorial_specials_damage">"Tato speciální škody všichni tvorové na vaší desce"</string>
+    <string name="tutorial_specials_heal">"Tato speciální léčí všechny tvory na palubě nepřátele"</string>
+    <string name="tutorial_specials_kill">"Tato speciální zabije několik náhodných tvory na palubě"</string>
+    <string name="tutorial_specials_slow">"Tato speciální zpomaluje všechny bytosti na vaší desce na krátkou dobu"</string>
+    <string name="tutorial_specials_speed">"Tato speciální urychluje tvorů na krátkou dobu"</string>
+    <string name="tutorial_specials_stun">"Tato speciální omráčí všechny bytosti na vaší desce na krátkou dobu"</string>
+    <string name="tutorial_options_menu">"Nyní umožňuje podívat se na nabídky možností. Můžete si všimnout, několik tlačítek, které umožňují měnit hru otevřít, přehrát / pozastavit hudbu, a vrátit herní pohled na výchozí nastavení."</string>
+    <string name="tutorial_options_menu_zoomin">"Použijte pro zvětšit"</string>
+    <string name="tutorial_options_menu_zoomout">"Použijte k oddálení"</string>
+    <string name="tutorial_options_menu_rotateup">"Tato možnost slouží k zobrazení otočit až"</string>
+    <string name="tutorial_options_menu_rotatedown">"Tato možnost slouží k zobrazení otočit dolů"</string>
+    <string name="tutorial_options_menu_default">"Pomocí této vrátit pohled na výchozí místo"</string>
+    <string name="tutorial_options_menu_play">"Použijte k tomu, aby tato hudba"</string>
+    <string name="tutorial_options_menu_pause">"Pomocí tohoto vypnout hudbu"</string>
+    <string name="tutorial_upgrading">"Jak budete hrát bohy a věže budete získávat zkušenosti, může být tato zkušenost použít pro upgrade východisko život / Gold Race a bonusy, zvíře schopnosti a schopnosti Tower. Každá rasa má speciální bonusy, které se vztahují na všechna zvířata a věže tohoto závodu, modernizace jejich přínos pro všechny tvory / věže tohoto typu. Tower / Creature upgrady vliv pouze na věž / stvoření a zvýšit jejich výkon pro každou hru, kterou hrajete. Jestliže jste zapomněl, co stat je jen dlouho stiskněte stat ikonu v nabídce aktualizace a to vám řekne."</string>
+    <string name="tutorial_completion">"Gratulujeme, jste dokončili kurz. Zahrajte si kampaň pro odemknutí další zvířata a věže. Kompletní výsledky získat extra zkušenosti a získat speciály používat ve hře. Čím více úspěchy odemykání, více zkušeností dostanete ze hry."</string>
+    <string name="tutorial_continue">"Pokračovat"</string>
+
+</resources>

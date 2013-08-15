@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Kanone"</string>
+	<string name="water_catapult">"Ice Catapult"</string>
+	<string name="water_pillar">"Wasser-Säule"</string>
+	<string name="water_emitter">"Wasser-Emitter"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Blitz-Kanone"</string>
+	<string name="griffin_statue">"Griffin Statue"</string>
+	<string name="lightning_pillar">"Blitz-Säule"</string>
+	<string name="lightning_emitter">"Blitz-Emitter"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Rock-Kanone"</string>
+	<string name="stone_catapult">"Stein Catapult"</string>
+	<string name="earth_pillar">"Erde Säule"</string>
+	<string name="dirt_emitter">"Dirt Emitter"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flammen-Kanone"</string>
+	<string name="flame_catapult">"Flamme Catapult"</string>
+	<string name="fire_pillar">"Fire Pillar"</string>
+	<string name="fire_emitter">"Feuer-Emitter"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energie-Kanone"</string>
+	<string name="angel_statue">"Engels-Statue"</string>
+	<string name="life_pillar">"Das Leben Säule"</string>
+	<string name="holy_water_emitter">"Holy Water Emitter"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Gift-Kanone"</string>
+	<string name="gargoyle_statue">"Gargoyle Statue"</string>
+	<string name="undead_pillar">"Undead Säule"</string>
+	<string name="toxic_gas_emitter">"Giftgas Emitter"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Flamme Peitsche"</string>
+	<string name="water_whip">"Wasser Peitsche"</string>
+	<string name="tentical_whip">"Tentical Peitsche"</string>
+	<string name="flame_crystallizer">"Flammen-Kristallisator"</string>
+	<string name="ice_crystallizer">"Ice Kristallisator"</string>
+	<string name="earth_crystallizer">"Erde Kristallisator"</string>
+	<string name="lightning_blade">"Blitz-Klinge"</string>
+	<string name="ice_blade">"Eisklinge"</string>
+	<string name="flame_blade">"Flammen-Klinge"</string>
+	<string name="earth_ballista">"Erde Ballista"</string>
+	<string name="ice_ballista">"Ice Ballista"</string>
+	<string name="flame_ballista">"Flamme Ballista"</string>
+	
+</resources>

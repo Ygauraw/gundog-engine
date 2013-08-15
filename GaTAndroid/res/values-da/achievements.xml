@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 sejre som Skade s Frozen Savages låser"</string>
+    <string name="achievement_water_catapult">"4 gevinster som Skade s Frozen Savages låser"</string>
+    <string name="achievement_polar_bear">"6 gevinster som Skade s Frozen Savages låser"</string>
+    <string name="achievement_ice_golem">"8 gevinster som Skade s Frozen Savages låser"</string>
+    <string name="achievement_water_pillar">"10 gevinster som Skade s Frozen Savages låser"</string>
+    <string name="achievement_drake">"12 sejre som Skade s Frozen Savages låser"</string>
+    <string name="achievement_water_emitter">"16 gevinster som Skade s Frozen Savages låser"</string>
+    <string name="achievement_race_ice">"Lås alle Skade har Frozen Vilde skabninger og tårne"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Stjerner i alle kampagne niveauer på Easy som Skade s Frozen Savages"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Stjerner i alle kampagne niveauer på mediet som Skade s Frozen Savages"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Stjerner i alle kampagne niveauer på Hard som Skade s Frozen Savages"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Stjerner i alle kampagne niveauer på Expert som Skade s Frozen Savages"</string>
+    <string name="achievement_battle_race_ice_5">"5 sejre i Battle Mode som Skade s Frozen Savages"</string>
+    <string name="achievement_battle_race_ice_25">"25 sejre i Battle Mode, som Skade s Frozen Savages"</string>
+    <string name="achievement_battle_race_ice_100">"100 sejre i Battle Mode som Skade s Frozen Savages"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 vinder i Battle Mode, som Skade s Frozen Savages"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 sejre som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_griffin_statue">"4 sejre som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_panda_bear">"6 vinder som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_lightning_golem">"8 vinder som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_lightning_pillar">"10 gevinster, som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_dragon">"12 sejre som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_lightning_emitter">"16 gevinster, som Quetzalcoatl s Warrior Tribe unlocks"</string>
+    <string name="achievement_race_wind">"Lås alle Quetzalcoatl s Warrior Tribe skabninger og tårne"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Stjerner i alle kampagne niveauer på Easy som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Stjerner i alle kampagne niveauer på mediet som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Stjerner i alle kampagne niveauer på Hard som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Stjerner i alle kampagne niveauer på Expert som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_5">"5 sejre i Battle Mode som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_25">"25 sejre i Battle Mode som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_100">"100 sejre i Battle Mode som Quetzalcoatl s Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 sejre i Battle Mode som Quetzalcoatl s Warrior Tribe"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 vinder som Gaias Masser af Noble Soldiers låser"</string>
+    <string name="achievement_stone_catapult">"4 sejre som Gaias Masser af Noble Soldiers unlocks"</string>
+    <string name="achievement_grizzly_bear">"6 vinder som Gaias Masser af Noble Soldiers låser"</string>
+    <string name="achievement_earth_golem">"8 vinder som Gaias Masser af Noble Soldiers unlocks"</string>
+    <string name="achievement_earth_pillar">"10 gevinster, som Gaias Masser af Noble Soldiers unlocks"</string>
+    <string name="achievement_eagle">"12 sejre som Gaias Masser af Noble Soldiers unlocks"</string>
+    <string name="achievement_dirt_emitter">"16 vinder som Gaias Masser af Noble Soldiers låser"</string>
+    <string name="achievement_race_earth">"Lås alle Gaias Masser af Noble Soldiers skabninger og tårne"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Stjerner i alle kampagne niveauer på Easy som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Stjerner i alle kampagne niveauer på mediet som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Stjerner i alle kampagne niveauer på Hard som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Stjerner i alle kampagne niveauer på Expert som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_5">"5 sejre i Battle Mode som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_25">"25 sejre i Battle Mode som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_100">"100 sejre i Battle Mode som Gaias Lot of Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 vinder i Battle Mode, som Gaias Lot of Noble Soldiers"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 sejre som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_flame_catapult">"4 gevinster som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_fiery_bear">"6 gevinster som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_fire_golem">"8 gevinster som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_fire_pillar">"10 gevinster som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_falcon">"12 sejre som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_fire_emitter">"16 gevinster som Agni har Legion af det ofrede låser"</string>
+    <string name="achievement_race_fire">"Lås alle Agni har Legion af de ofrede dyr og tårne"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Stjerner i alle kampagne niveauer på Easy som Agni har Legion af det ofrede"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Stjerner i alle kampagne niveauer på mediet som Agni har Legion af det ofrede"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Stjerner i alle kampagne niveauer på Hard som Agni har Legion af det ofrede"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Stjerner i alle kampagne niveauer på Expert som Agni har Legion af det ofrede"</string>
+    <string name="achievement_battle_race_fire_5">"5 sejre i Battle Mode som Agni har Legion af det ofrede"</string>
+    <string name="achievement_battle_race_fire_25">"25 sejre i Battle Mode som Agni har Legion af det ofrede"</string>
+    <string name="achievement_battle_race_fire_100">"100 sejre i Battle Mode som Agni har Legion af det ofrede"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 vinder i Battle Mode, som Agni har Legion af det ofrede"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 sejre som Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_angel_statue">"4 sejre som Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_seraphim">"6 gevinster som Hugues de Payens 'Holy Tempelridderne låser"</string>
+    <string name="achievement_life_golem">"8 vinder da Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_life_pillar">"10 gevinster, som Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_angel">"12 sejre som Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_holy_water_emitter">"16 gevinster, som Hugues de Payens 'Holy Tempelridderne unlocks"</string>
+    <string name="achievement_race_life">"Lås alle Hugues de Payens 'Holy Tempelridderne skabninger og tårne"</string>
+    <string name="achievement_campaign_race_life_10">"5 Stjerner i alle kampagne niveauer på Easy som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_campaign_race_life_100">"5 Stjerner i alle kampagne niveauer på mediet som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Stjerner i alle kampagne niveauer om Hard som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Stjerner i alle kampagne niveauer på Expert som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_battle_race_life_5">"5 sejre i Battle Mode som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_battle_race_life_25">"25 sejre i Battle Mode som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_battle_race_life_100">"100 sejre i Battle Mode som Hugues de Payens 'Holy Tempelridderne"</string>
+    <string name="achievement_battle_race_life_1000">"1000 vinder i Battle Mode, som Hugues de Payens 'Holy Tempelridderne"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 sejre som Damballa Army of the Damned låser"</string>
+    <string name="achievement_gargoyle_statue">"4 gevinster som Damballa Army of the Damned låser"</string>
+    <string name="achievement_succubus">"6 gevinster som Damballa Army of the Damned låser"</string>
+    <string name="achievement_undead_golem">"8 gevinster som Damballa Army of the Damned låser"</string>
+    <string name="achievement_undead_pillar">"10 gevinster som Damballa Army of the Damned låser"</string>
+    <string name="achievement_fallen_angel">"12 sejre som Damballa Army of the Damned låser"</string>
+    <string name="achievement_toxic_gas_emitter">"16 gevinster som Damballa Army of the Damned låser"</string>
+    <string name="achievement_race_death">"Lås alle Damballa Army of the Damned skabninger og tårne"</string>
+    <string name="achievement_campaign_race_death_10">"5 Stjerner i alle kampagne niveauer på Easy som Damballa Army of the Damned"</string>
+    <string name="achievement_campaign_race_death_100">"5 Stjerner i alle kampagne niveauer på mediet som Damballa Army of the Damned"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Stjerner i alle kampagne niveauer på Hard som Damballa Army of the Damned"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Stjerner i alle kampagne niveauer på Expert som Damballa Army of the Damned"</string>
+    <string name="achievement_battle_race_death_5">"5 sejre i Battle Mode som Damballa Army of the Damned"</string>
+    <string name="achievement_battle_race_death_25">"25 sejre i Battle Mode som Damballa Army of the Damned"</string>
+    <string name="achievement_battle_race_death_100">"100 sejre i Battle Mode som Damballa Army of the Damned"</string>
+    <string name="achievement_battle_race_death_1000">"1000 vinder i Battle Mode, som Damballa Army of the Damned"</string>
+
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 overwinningen als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_water_catapult">"4 overwinningen als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_polar_bear">"6 overwinningen als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_ice_golem">"8 wint als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_water_pillar">"10 overwinningen als bevroren Savages Skadi's opent"</string>
+    <string name="achievement_drake">"12 overwinningen als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_water_emitter">"16 overwinningen als Frozen Savages Skadi's opent"</string>
+    <string name="achievement_race_ice">"Unlock Frozen Savages alle Skadi's schepselen en torens"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Sterren in alle campagne verdiepingen op de Easy as Frozen Savages Skadi's"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Sterren in alle campagne verdiepingen op de medium als Frozen Savages Skadi's"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Sterren in alle Campaign levels op de harde als Frozen Savages Skadi's"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Sterren in alle Campaign levels op Expert als Frozen Savages Skadi's"</string>
+    <string name="achievement_battle_race_ice_5">"5 overwinningen in de Battle Mode als Frozen Savages Skadi's"</string>
+    <string name="achievement_battle_race_ice_25">"25 overwinningen in Battle Mode als Frozen Savages Skadi's"</string>
+    <string name="achievement_battle_race_ice_100">"100 overwinningen in de Battle Mode als Frozen Savages Skadi's"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 wint in de Battle Mode als Frozen Savages Skadi's"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_griffin_statue">"4 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_panda_bear">"6 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendelt"</string>
+    <string name="achievement_lightning_golem">"8 wint als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_lightning_pillar">"10 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_dragon">"12 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_lightning_emitter">"16 overwinningen als Quetzalcoatl's Warrior Tribe ontgrendeld"</string>
+    <string name="achievement_race_wind">"Open alle Quetzalcoatl's Warrior Tribe wezens en torens"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Sterren in alle Campaign levels over Easy als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Sterren in alle campagne verdiepingen op de medium als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Sterren in alle Campaign levels op de harde als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Sterren in alle Campaign levels op Expert als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_5">"5 overwinningen in de Battle Mode als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_25">"25 overwinningen in Battle Mode als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_100">"100 overwinningen in de Battle Mode als Quetzalcoatl's Warrior Tribe"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 overwinningen in Battle Mode als Quetzalcoatl's Warrior Tribe"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 Overwinning als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_stone_catapult">"4 overwinningen als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_grizzly_bear">"6 wint als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_earth_golem">"8 wint als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_earth_pillar">"10 overwinningen als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_eagle">"12 overwinningen als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_dirt_emitter">"16 wint als Gaia's Lot van Noble Soldiers ontsluit"</string>
+    <string name="achievement_race_earth">"Open alle Gaia's Lot van Noble Soldaten wezens en torens"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Sterren in alle campagne verdiepingen op de Easy as Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Sterren in alle campagne verdiepingen op de medium als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Sterren in alle Campaign levels op de harde als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Sterren in alle Campaign levels op Expert als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_5">"5 overwinningen in de Battle Mode als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_25">"25 overwinningen in Battle Mode als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_100">"100 overwinningen in de Battle Mode als Lot Gaia's van Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 wint in de Battle Mode als Lot Gaia's van Noble Soldiers"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_flame_catapult">"4 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_fiery_bear">"6 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_fire_golem">"8 wint de Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_fire_pillar">"10 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_falcon">"12 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_fire_emitter">"16 overwinningen als Legion Agni's van de geofferde ontsluit"</string>
+    <string name="achievement_race_fire">"Open alle Agni de Legioen van de geofferde dieren en torens"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Sterren in alle campagne verdiepingen op de Easy as Legioen Agni's van de geofferde"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Sterren in alle campagne verdiepingen op de medium als Legion Agni's van de geofferde"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Sterren in alle Campaign levels op de harde als Legion Agni's van de geofferde"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Sterren in alle Campaign levels op Expert als Legion Agni's van de geofferde"</string>
+    <string name="achievement_battle_race_fire_5">"5 overwinningen in de Battle Mode als Legion Agni's van de geofferde"</string>
+    <string name="achievement_battle_race_fire_25">"25 overwinningen in Battle Mode als Legion Agni's van de geofferde"</string>
+    <string name="achievement_battle_race_fire_100">"100 overwinningen in de Battle Mode als Legion Agni's van de geofferde"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 wint in de Battle Mode als Legion Agni's van de geofferde"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_angel_statue">"4 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_seraphim">"6 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_life_golem">"8 wint als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_life_pillar">"10 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_angel">"12 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_holy_water_emitter">"16 overwinningen als Hugues de Payens 'Holy Knights Templar ontgrendeld"</string>
+    <string name="achievement_race_life">"Open alle Hugues de Payens 'Holy Knights Templar wezens en torens"</string>
+    <string name="achievement_campaign_race_life_10">"5 Sterren in alle campagne verdiepingen op de Easy as Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_100">"5 Sterren in alle campagne verdiepingen op de medium als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Sterren in alle Campaign levels op de harde als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Sterren in alle Campaign levels op Expert als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_5">"5 overwinningen in de Battle Mode als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_25">"25 overwinningen in Battle Mode als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_100">"100 overwinningen in de Battle Mode als Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_1000">"1000 wint in de Battle Mode als Hugues de Payens 'Holy Knights Templar"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_gargoyle_statue">"4 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_succubus">"6 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_undead_golem">"8 wint als het Leger Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_undead_pillar">"10 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_fallen_angel">"12 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_toxic_gas_emitter">"16 overwinningen als Army Damballa's of the Damned ontsluit"</string>
+    <string name="achievement_race_death">"Open alle Damballa's Army of the Damned wezens en torens"</string>
+    <string name="achievement_campaign_race_death_10">"5 Sterren in alle campagne verdiepingen op de Easy as Army Damballa's of the Damned"</string>
+    <string name="achievement_campaign_race_death_100">"5 Sterren in alle campagne verdiepingen op de medium als Army Damballa's of the Damned"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Sterren in alle Campaign levels op de harde als Army Damballa's of the Damned"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Sterren in alle Campaign levels op Expert als Army Damballa's of the Damned"</string>
+    <string name="achievement_battle_race_death_5">"5 overwinningen in de Battle Mode als Army Damballa's of the Damned"</string>
+    <string name="achievement_battle_race_death_25">"25 overwinningen in Battle Mode als Army Damballa's of the Damned"</string>
+    <string name="achievement_battle_race_death_100">"100 overwinningen in de Battle Mode als Army Damballa's of the Damned"</string>
+    <string name="achievement_battle_race_death_1000">"1000 wint in de Battle Mode als Army Damballa's of the Damned"</string>
+
+</resources>

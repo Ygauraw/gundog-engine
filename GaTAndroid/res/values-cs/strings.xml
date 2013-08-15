@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">"Bohové a věže"</string>
+    <string name="app_description">"Bohové a věže, 3D Tower Defense hra proti AI nebo PvP."</string>
+    <string name="motto">"Boj na výhru!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Resume Game"</string>
+    <string name="main_newGame">"Nová hra"</string>
+    <string name="main_store">"uložená"</string>
+    <string name="main_upgrade">"Aktualizace"</string>
+    <string name="main_achievements">"Úspěchy"</string>
+    <string name="main_almanac">"Almanach"</string>
+    <string name="main_options">"volitelné"</string>
+    <string name="main_credits">"Autoři"</string>
+    <string name="main_exit">"Konec"</string>
+    <string name="main_back">"Zpět"</string>
+    <string name="main_retry">"opakování"</string>
+    <string name="main_downloading">"Stahování herních dat, čekejte prosím ..."</string>
+    <string name="main_download_failed">"Nepodařilo se stáhnout požadované údaje, prosím, ukončit a restartovat hru a zkuste to znovu od místa, kde bylo přerušeno."</string>
+    <string name="main_external_storage">"Prosím připojit externí úložiště, takže aplikace si můžete stáhnout / používat požadované údaje"</string>
+    <string name="main_latest_version">"Nová verze bohů a věží je k dispozici nebo se vám nedaří spojit s herním serverem."</string>
+    <string name="main_no_news">"Žádné zprávy"</string>
+    <string name="main_news_server_down">"Zpravodajský server je dole, nebo došlo k chybě při načítání nejnovější herní novinky."</string>
+    <string name="main_version">"Verze:"</string>
+    <string name="main_graphics">"Došlo k chybě při nahrávání modelů kvůli nadměrnému využití paměti. Nastavení grafiky jsou sníženy a aplikace je ukončení. Prosím restartujte a zkuste spustit hru se sníženou kvalitou textur a / nebo kvality sítě, kterou můžete zapnout v menu Možnosti při prvním spuštění hry."</string>
+	<string name="main_rate_dialog"> Máte-li rádi pomocí %s, prosím, udělat si čas na to hodnotit. Děkujeme vám za vaši podporu. </string>
+     <string name="main_rate_now"> sazba %s </string>
+     <string name="main_rate_later"> Připomenout později </string>
+     <string name="main_rate_never"> Ne, díky </string>
+         
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Koupit"</string>
+    <string name="purchase_cancel">"Zrušit"</string>
+    <string name="purchase_reduced_ads">"Odstranit rušivého ADS"</string>
+    <string name="purchase_reduced_ads_description">"Eliminuje ADS v horní části všech nabídek a ty před a po hry."</string>
+    <string name="purchase_all_races">"Odemknout všechny závody"</string>
+    <string name="purchase_all_races_description">"Odemkne všechny závody umožňuje přístup k 25 nových tvorů a 20 nových věží."</string>
+    <string name="purchase_multiple_races">"Odemknout Race kombinace"</string>
+    <string name="purchase_multiple_races_description">"Odemkne možnost hrát za více než jeden závod najednou umožňuje přístup k 12 nových tvorů a 12 nových věží."</string>
+    <string name="purchase_special_100">"Nákup 100 každého zvláštního"</string>
+    <string name="purchase_special_100_description">"Dává vám 100 každého ze závodních speciálů"</string>
+    <string name="purchase_upgrade_abilities">"Upgradovat všechny hráče a závodní schopnosti"</string>
+    <string name="purchase_upgrade_abilities_description">"Zvyšuje úroveň 1. všech statistiky a statistiky závodu"</string>
+    <string name="purchase_upgrade_all">"Aktualizovat každou věž / stvoření pro všechny závody"</string>
+    <string name="purchase_upgrade_all_description">"Zvyšuje úroveň jednotlivých schopností pro každé stvoření / věže 1"</string>
+    <string name="purchase_upgrade_onerace">"Aktualizovat každou věž / stvoření pro "</string>
+    <string name="purchase_upgrade_onerace_description">"Zvyšuje úroveň jednotlivých schopností pro všechny tvory / věže v jednom závodě do 1."</string>
+    <string name="purchase_double_experience">"Dvakrát své zkušenosti"</string>
+    <string name="purchase_double_experience_description">"Okamžitě vám poskytne 2x aktuální úroveň praxe v každém závodě."</string>
+    <string name="purchase_billing_not_supported_title">"Nelze nakupovat"</string>
+    <string name="purchase_billing_not_supported_message">"Vyúčtování služba není k dispozici v tomto okamžiku. Můžete i nadále používat tuto aplikaci, ale nebudete moci nakupovat."</string>
+    <string name="purchase_cannot_connect_title">"Nelze se připojit k vyúčtování služeb"</string>
+    <string name="purchase_cannot_connect_message">"Tato aplikace se nemůže připojit k vyúčtování služeb. Můžete i nadále používat tuto aplikaci, ale nebudete moci nakupovat."</string>
+    <string name="purchase_restoring_transactions">"Obnovení transakce"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"\"Webové stránky:\""</string>
+    <string name="credits_production">"Produkce"</string>
+    <string name="credits_production_name">"Loveckého psa Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Programátorská"</string>
+    <string name="credits_programming_name">"Joe Zákony"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D modely a textury"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Hra Almanach"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D Pixel Art"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Hudba"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Trailer"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Překlady"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (Korea)"</string>
+    <string name="credits_special_thanks">"Zvláštní poděkování"</string>
+    <string name="credits_special_thanks_names">"Tým Děsivý a 2. čety Delta Company 2-35IN"</string>
+    <string name="credits_inmemoryof">"V upomínku na SGT Kevin White. Pryč, ale nezapomněl."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"VY"</string>
+    <string name="game_enemy">"NEPŘÍTEL"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"Například"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Přechod na příšerek ÚROVNI"</string>
+    <string name="game_max_upgrade">"NÁKUP MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"POVOLENÍ AUTO NÁKUP"</string>
+    <string name="game_disable_auto_purchase">"ZAKÁZÁNÍ AUTO NÁKUP"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Nepodařilo se načíst"</string>
+    <string name="manager_playerReset">"Přehrávač a hry dat reset"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"Vyhrál jsi"</string>
+    <string name="results_lost">"Prohrál jsi."</string>
+    <string name="results_disconnected">"rozpojeno"</string>
+    <string name="results_you">"VY"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"Pokračovat"</string>
+    <string name="results_length">"Délka"</string>
+    <string name="results_waves">"Vlny"</string>
+    <string name="results_base_xp">"Základní XP"</string>
+    <string name="results_total_xp">"Celkem XP za závod"</string>
+    <string name="results_campaign">"Kampaň"</string>
+    <string name="results_rewards">"Odměny"</string>
+    <string name="results_main">"Hlavní"</string>
+    <string name="results_life">"Životy"</string>
+    <string name="results_income">"Příjem"</string>
+    <string name="results_offense">"Přestupek"</string>
+    <string name="results_defense">"Obrana"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Dosažení Bonus"</string>
+    <string name="results_win_bonus">"Vyhrajte bonus"</string>
+    <string name="results_length_bonus">"Délka Bonus"</string>
+    <string name="results_life_bonus">"Život Bonus"</string>
+    <string name="results_multiple_race_factor">"Vícenásobné Závod Factor"</string>
+    <string name="results_free_version">"Nemusíte získávat zkušenosti v bezplatné verzi bohů a věže"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Jste si jisti, že chcete obnovit všechna data, hráče?"</string>
+    <string name="options_assetClear">"Jste si jisti, že chcete vymazat všechna aktiva ke stažení?"</string>
+    <string name="options_reset">"Reset"</string>
+    <string name="options_assets">"Odstranit herní data"</string>
+    <string name="options_clear">"smazání"</string>
+    <string name="options_clearing">"Všechny stahovat aktiva jsou odstraněny, žádost opouští ..."</string>
+    <string name="options_soundOn">"Zvuk na"</string>
+    <string name="options_soundOff">"Zvuk je vypnutý"</string>
+    <string name="options_cancel">"Zrušit"</string>
+    <string name="options_textureQuality">"Kvalita textur"</string>
+    <string name="options_meshQuality">"Kvality sítě"</string>
+    <string name="options_engineSpeed">"GameEngine rychlost"</string>
+    <string name="options_high">"velká"</string>
+    <string name="options_medium">"Střední"</string>
+    <string name="options_low">"nízká"</string>
+    <string name="options_fast">"rychlá"</string>
+    <string name="options_normal">"normální"</string>
+    <string name="options_slow">"pomalá"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Odpůrci úroveň"</string>
+    <string name="newgame_yourRace">"Vaše Závod (y)"</string>
+    <string name="newgame_opponentsRace">"Odpůrci Závod (y)"</string>
+    <string name="newgame_waves">"Max vlny"</string>
+    <string name="newgame_invalid_text">"Neplatný úrovni počítače nebo zvlnění počet, prosím, dát v řadě&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Počítače úroveň musí být nejméně"</string>
+    <string name="newgame_startGame">"Spustit hru"</string>
+    <string name="newgame_minHumanRaces">"Musíte vybrat alespoň 1 závod pro sebe"</string>
+    <string name="newgame_minComputerRaces">"Musíte vybrat alespoň 1 závod pro počítač"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"rychlá"</string>
+    <string name="newgame_normal">"normální"</string>
+    <string name="newgame_slow">"pomalá"</string>
+    <string name="newgame_difficulty">"Obtížnost"</string>
+    <string name="newgame_easy">"Jednoduchá"</string>
+    <string name="newgame_medium">"Střední"</string>
+    <string name="newgame_hard">"Těžké"</string>
+    <string name="newgame_expert">"Odborník"</string>
+    <string name="newgame_type">"Gametype"</string>
+    <string name="newgame_tutorial">"Výukový program"</string>
+    <string name="newgame_campaign">"Kampaň"</string>
+    <string name="newgame_defense">"Trénink obrany"</string>
+    <string name="newgame_battle">"Bitva režim"</string>
+    <string name="newgame_online">"Online hry"</string>
+    <string name="newgame_findGame">"Hledat hru"</string>
+    <string name="newgame_searching">"Hledá se..."</string>
+    <string name="newgame_random">"Náhodné"</string>
+    <string name="newgame_onlineError">"Jste schopni se připojit k on-line hry"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"Příšery"</string>
+    <string name="upgrade_towers">"Věže"</string>
+    <string name="upgrade_specials">"Speciální znaky"</string>
+    <string name="upgrade_notEnoughXP">"Nemáte dostatek zkušeností pro"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni je legie obětovaná"</string>
+    <string name="race_ice">"Skaði je Zmrazené Savages"</string>
+    <string name="race_earth">"Gaia Mnoho Noble vojáků"</string>
+    <string name="race_wind">"Quetzalcoatl je bojovník Kmen"</string>
+    <string name="race_life">"Hugues de Payens \"Svatá Knights Templar"</string>
+    <string name="race_death">"Damballa armáda of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"NEJDELŠÍ GAME"</string>
+    <string name="achievements_shortestGame">"Nejkratší GAME"</string>
+    <string name="achievements_highestScore">"Nejvyšší skóre"</string>
+    <string name="achievements_highestLevelBeaten">"NEJVYŠŠÍ ÚROVEŇ Zničení"</string>
+    <string name="achievements_wins">"BATTLE WINS"</string>
+    <string name="achievements_losses">"BATTLE ZTRÁTY"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Spuštění Gold"</string>
+    <string name="stat_life">"Počínaje život"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"Náklady"</string>
+    <string name="stat_income">"Příjem"</string>
+    <string name="stat_air">"Vzduch"</string>
+    <string name="stat_ground">"Uzemnìní"</string>
+    <string name="stat_attack_range">"Rozsah útoku"</string>
+    <string name="stat_health">"Zdraví"</string>
+    <string name="stat_speed">"rychlost"</string>
+    <string name="stat_defense">"Obrana"</string>
+    <string name="stat_damage">"Zranění"</string>
+    <string name="stat_attack_rate">"Míra zasažení"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage Radius"</string>
+    <string name="stat_splash_strength_fade">"Splash Síla Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature bonus"</string>
+    <string name="stat_slow_duration">"Pomalé Doba"</string>
+    <string name="stat_slow_factor">"Pomalé tempo"</string>
+    <string name="stat_creature_evade_percentage">"Chance vyhnout"</string>
+    <string name="stat_stun_duration">"Doba trvání stun"</string>
+    <string name="stat_tower_attack_rate_modifier">"Věž rychlosti útoku Bonus"</string>
+    <string name="stat_creature_speed_modifier">"Creature Rychlost pohybu bonus"</string>
+    <string name="stat_tower_damage_modifier">"Věž bonus"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Creature obrany Bonus"</string>
+    <string name="stat_drain_duration">"Vypusťte Trvání"</string>
+    <string name="stat_drain_percentage">"Vypusťte Procento"</string>
+    <string name="stat_heal_percentage">"Léčit Procento"</string>
+    <string name="stat_kill_percentage">"Okamžitá zabít šance"</string>
+    <string name="stat_creature_health_modifier">"Creature Health bonus"</string>
+    <string name="stat_resurrect_percentage">"Vzkříšení šance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Zničit všechny nepřátelské tvory"</string>
+    <string name="special_heal">"Léčit všechny své tvory"</string>
+    <string name="special_kill">"Zabij 25% nepřátelských tvorů na palubě"</string>
+    <string name="special_slow">"Pomalé všechny nepřátelské tvory"</string>
+    <string name="special_speed">"Urychlit všechny tvory"</string>
+    <string name="special_stun">"Omráčit všechny nepřátelské bytosti"</string>
+
+</resources>

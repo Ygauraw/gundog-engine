@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"Zmrazené Viking"</string>
+    <string name="frozen_soldier_horseman">"Zmrazené voják jezdec"</string>
+    <string name="polar_bear">"Arctic Grizzly"</string>
+    <string name="ice_golem">"Ice Golem"</string>
+    <string name="drake">"Krupobití Drake"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"Lukostřelec"</string>
+    <string name="human_archer_horseman">"Montáž Archer"</string>
+    <string name="panda_bear">"Panda"</string>
+    <string name="lightning_golem">"Blesk Golem"</string>
+    <string name="dragon">"Drak"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"Elfí Archer"</string>
+    <string name="elvish_archer_horseman">"Elfí Archer jezdec"</string>
+    <string name="grizzly_bear">"Medvěd grizzly"</string>
+    <string name="earth_golem">"Země Golem"</string>
+    <string name="eagle">"Válka Eagle"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"Mumie"</string>
+    <string name="mummy_horseman">"Undead Rider"</string>
+    <string name="fiery_bear">"Hořící medvěda"</string>
+    <string name="fire_golem">"Peklo Potěr"</string>
+    <string name="falcon">"Sokol"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"Náboženský fanatik"</string>
+    <string name="zealot_horseman">"Žoldák Knight"</string>
+    <string name="seraphim">"Seraphim"</string>
+    <string name="life_golem">"Golem Crusader"</string>
+    <string name="angel">"Anděl"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"Zombie"</string>
+    <string name="zombie_horseman">"Zombie Rider"</string>
+    <string name="succubus">"Succubus"</string>
+    <string name="undead_golem">"Undead Golem"</string>
+    <string name="fallen_angel">"Fallen Angel"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"Elf Wizard"</string>
+    <string name="human_mage">"Human Mage"</string>
+    <string name="human_necromancer">"Lidská Necromancer"</string>
+    <string name="troll">"Trol"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"Hobit"</string>
+    <string name="kobold">"Kobold"</string>
+    <string name="gnome">"GNOME)"</string>
+    <string name="ghoul">"Démon"</string>
+    <string name="human_witch">"Lidská čarodějnice"</string>
+    <string name="female_necromancer">"Žena Necromancer"</string>
+    <string name="female_elf_mage">"Žena Elf Mage"</string>
+
+</resources>

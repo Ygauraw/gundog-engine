@@ -1,0 +1,109 @@
+* In defense only get income from creatures killed, or copy ai income growth, to get used to growth in income level during a game. divide AI income / 2 during add income to simulate half the money being spent on towers
+* Fix creature/tower attack ranges to match actual distance and range bubble
+* make creatures/towers more unique, armor type or some method of resistance against specific towers.
+* slow down creature movement and speed it up by altering the time passed value in the game engine
+* in game board modifier
+* set paths for creatures to walk on, allow user to select 1 to send their creatures on with multiple path board
+* Modify EC2 to receive device info similar to ACRA
+* Add multi-touch zoom
+* Allow offline use for unlocks by storing them and only setting to false if not online, do query to the game server
+* Allow for custom maps by reading/parsing whats in the Boards folder
+* Add life bar to creatures
+* Create a game service that someones AI can connect to to play the game
+* Better special effects for the SpecialSquare model
+* Tie special animation duration to the length of the effect on creatures
+* Add more ADS such as videos and other ads in between game and force the user to watch unless they pay for the remove AD as a managed/entitlement purchase 
+* basic scripting code to play against other people
+* slider to control auto-purchase rate
+* target priority for the towers (focus on first/last) or specific square
+* Add support for paypal in-app billing to release standalone .jar via website
+* If purchaser says that user hasn't unlocked all races, but save file does say they have, remove the unlock
+* Have a client side buffer of ~500ms to store snapshots and predict sprite movements
+* Add google analytics to track the users 
+* During build have option to auto-build all to the highest level, so if you build 5 towers, build 5 at the level 3 vs build 1 at level 6
+* Have a file where official boards are hardcoded into String[][], which is what Board.load generates.  Have a parser for the String[][]
+* Handle failed downloading logic better.  If it fails/crashes or users quits menu, delete all assets, start again
+* Speed up button to double movement/timesteps
+* For online play verify that the user has the latest version of the game and that the .apk is unchanged.  Then open up a socket and send objects to/from.  
+* If there is an error in the opengl tell user that they may want to reduce graphic quality
+* move game finding code to network module to share socket
+* add sound effects for the tower/creatures attacking
+* allow dynamic loading of boards from the boards folder, list names and allow user generated maps
+* add campaign levels for multiple races vs other multiple races
+* actually load news from a websource
+* Verify user has not tampered with Boards after the game has loaded for online play
+* sliders instead of buttons for the free camera mode, It would be much confortable for the user so they will use it more often.
+* Sync tower animations with projectiles leaving the weapon
+* Add networking to store user stats and purchase information
+* Online play that matches a user based on their performance and level against other users. 
+* Error utility that captures error, sends stack trace and device stats to error@gundogstudios.com - popup a dialog to ask if send is ok
+* Remove export jar settings from all projects
+* Improve tool to determine which host is more powerful and the location of each host.
+* Sound effects during attacks/deaths
+* Select the background texture from the board file or randomly choose from entire list during random generation
+* Add props with very small amount of vertices, and simple textures such as Rocks, Trees, Walls, Crystals, etc... for each background
+* Use NFC to allow people to play each other when nearby.  Or allow them to make trades in person
+* Don't send "finished loading" command until all sprites have been loaded from initial onSurfCreated
+* Charge money for in game features on amazon in-app purchases when added to Beta
+* Release a standalone .apk that has Paypal as a payment system
+* Move models, textures, and music to separate downloadable file that is the .APK attachment.
+* New menu where user selects at most ~10 towers and ~20 creatures
+* Reduce all icons by saving png's without extra information and removing alpha if no transparency is used
+* Have a separate load/store interface that will allow for saving over network, to SDCARD, etc...
+* Utilize a device specific cipher for storing data and verifying purchases (only 5 devices for 1 purchase id).  Attach a purchase ID to each instance that a user can link to a facebook account
+* Have option to send usage statistics if and only if on WIFI.  Send game results via XML or some other parsable format  
+* On website allow users allow users to post custom levels.
+* add normals and lighting.  be able to enable/disable it
+* draw menu but disable depth testing so it is drawn on top of everything else
+* Use a FOV of 90 to link the aspect ratio to direct placement of textures for pixels.  This allows a 1-1 mapping of grid coordinates.  Design GL based menu system with text from GDX that uses GL_PERSPECTIVE
+* Have a variable for pixel density.  Break up screen into a 96*Density/320 table.  Use it to scale images accordingly.  It is 1 for desktop/web, but on android 1 is xhdpi, 1.5 for hdpi, 2 for mdpi, 3 for ldpi, etc...
+* Use texture packing to store bitmap fonts and icons
+* Allow wifi install of custom image/model data that is optimized for users phone and GL extensions.  Have a class that stores the md5 of the model image and mesh, if it is not valid, re download it.  Download items seperately, not as one big file.  Allow a background process or service to download the items, and notify front process of progress.  Allow user to do something else while waiting on the download.
+* Have intelligent image loader from server where a users device requests a compressed texture based on what the device supports.  ATITC, PVRTC, S3TC, 3DC
+* Use a high, med, low folders for pre-cached images that load quickly for device.  512x512 are loaded from server, then saved in compressed format for local device.  256x256 for med, 128x128 for low.
+* Change it so player tells Host which board he is looking at.  Host then sends only the snapshot for that board to the user.
+* For the main menu screen, have the background be framed in the current right side frame, and have an opengl window that has a 2 AI characters playing each other
+* Detect cheating by comparing results from each board i.e. when a creature dies, how much $$ someone has, etc... 
+* Fix camera angles when zooming in/out and moving around
+* Track records for quickest game on a board, etc...
+* Redo ModelManager and TextureManager to clean up fetcher framework.  Move the logic for the fetchers into the .GS1 file. I.E. blade has 20 frames, spread out over 2 seconds; model rotates; model scales during frames; etc..
+* New achievements such as go a level with only 1 tower, only 2 types of towers, get income above 10000
+* Campaign as each combination of races playing as each other combination
+* Add more specials such as Invincible creature, Boost Defense, Damage, Towers/Creatures Invulnerable, Drain Health
+* InApp Board creator to create/submit boards.  Have a ranking system for the levels.  Have a menu for items to build and place things on the squares.
+* Be able to disable particle effects
+* Have set paths that creature can walk on
+* Add health bar as a "HALO" above creatures, draw 2 novas, 1 transparant (blue w/ .5f alpha), 1 solid (red w/ 1 alpha)
+* Online Board selection where users can create their own background and level layouts.  Another menu in the application
+* Decouple graphics rendering and in game logic.  Have logic thread never sleep, just yield after each turn.  Pass in actual time passed since last turn.  Calculate currentframe based on time passed over 1 second. 
+* Add way to recognize level of tower/creature
+* Arrow, Fireball/Iceball, a crystal that floats and changes opacity over time
+* Convert UV float to short and alter the texture matrix via (1f/Short.MAX_VALUE) or use a shader
+* Abstract ModelManager and GLView so that we can maintain loaded models in memory when game is paused and switching between games
+* Eliminate the need for transparency of model images (switch to all jpgs for reduced mem size) by creating models that share meshes, but eliminate vertices that are transparent.  Alter the indices to no longer include those pixels even though it is in the vertex array.  Either custom export tool for 3DS max, or have a tool that combines two models/meshes, updating the indices for each.
+* add a notification of pending purchases - http://developer.android.com/guide/topics/ui/notifiers/notifications.html
+* Add BoundingBox to generated models: minXYZ, maxXYZ, centerXYZ
+* 3D Logo
+* Show an Icon that describes each Achievement, i.e. creature for the creature unlocks, special for the battles, etc...
+* Add shadows to creatures/towers
+* Modify spray so it actually comes out of the emitter at the proper pipes.
+* allow user to spin the Almanac model with their finger and double tap to switch to the next action
+* Create tutorial video playable in options
+* Create intro video playable on 1st load and in options menu
+* Create 3DS Max exporter plugin for custom models
+* Implement Ray Picking
+* Redraw board texture anytime a tower is placed, shade in the color scheme of the tower with an alpha value based on the level, so ground near water towers becomes bluer, etc...
+* if a user plants a fire tower, the texture on the surrounding tiles turns reddish like they are on fire.  The more fire towers, the more the background turns to flames/fire.  Similarly, the ground would freeze and turn to ice as a ice tower is planted.  I like your solution for the shadows, I think I could make tile sized planes that go underneath the creatures/towers that have a shadow on them like you described.  I will code something like this up and see how it works.  This can substitute for when there is no lighting.  
+* test that auto determines LOW/MEDIUM/HIGH quality
+* Framework that allows users to upload their own custom races/models
+* Play against >1 computer at once.  Have home button and minimap of other players.  Need to alter commands and attach creatures to Player for bonuses, etc...
+* Have >1 person on a board, teams
+* Have cool graphic during creature resurrection
+* Day and Night races with sun that rises and falls increasing/decreasing abilities
+* Translucent "Ghost" creatures
+* Redesign Game Architecture so it is easier to maintain and supports multiple platforms
+* Generic reusable on screen controls to move around "mouse" etc..
+* Add 3D height to the game, have creatures walk town a mountain, or jump down tiers with towers only able to see certain areas.
+* Allow teams to compete, with specials such as teleport creatures from 1 board to another
+* Provide a handicap play mode that allows weaker/newer users to play against more experienced users online.
+* GLModule, AssetModule, NetworkingModule, SerializationModule, InputModule, LoggingModule, PreferencesModule, MenuModule, BillingModule, ADModule, TextureModule, ModelModule, AudioModule

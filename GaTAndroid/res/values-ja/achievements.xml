@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"Skaðiの冷凍野蛮として2勝のロックが解除さ"</string>
+    <string name="achievement_water_catapult">"Skaðiの冷凍野蛮として4勝のロックが解除さ"</string>
+    <string name="achievement_polar_bear">"Skaðiの冷凍野蛮として6勝のロックが解除さ"</string>
+    <string name="achievement_ice_golem">"Skaðiの冷凍野蛮として8勝のロックが解除さ"</string>
+    <string name="achievement_water_pillar">"Skaðiの冷凍野蛮として10勝のロックが解除さ"</string>
+    <string name="achievement_drake">"Skaðiの冷凍野蛮として12勝のロックが解除さ"</string>
+    <string name="achievement_water_emitter">"Skaðiの冷凍野蛮として16勝のロックが解除さ"</string>
+    <string name="achievement_race_ice">"すべてのSkaðiの冷凍野蛮の生き物や塔のロックを解除する"</string>
+    <string name="achievement_campaign_race_ice_10">"Skaðiの冷凍野蛮として簡単に上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_ice_100">"Skaðiの冷凍野蛮として、メディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_ice_1000">"Skaðiの冷凍野蛮としてハードディスク上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_ice_10000">"Skaðiの冷凍野蛮として専門​​家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_ice_5">"Skaðiの冷凍野蛮としてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_ice_25">"Skaðiの冷凍野蛮としてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_ice_100">"Skaðiの冷凍野蛮としてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_ice_1000">"Skaðiの冷凍野蛮としてバトルモードで1000勝"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2勝ケツァルコアトルの戦士族は、ロックを解除するよう"</string>
+    <string name="achievement_griffin_statue">"4勝ケツァルコアトルの戦士族は、ロックを解除するよう"</string>
+    <string name="achievement_panda_bear">"6勝ケツァルコアトルの戦士族は、ロックを解除するよう"</string>
+    <string name="achievement_lightning_golem">"ケツァルコアトルの戦士族は、ロックを解除するように8勝"</string>
+    <string name="achievement_lightning_pillar">"10勝ケツァルコアトルの戦士族は、ロックを解除するよう"</string>
+    <string name="achievement_dragon">"ケツァルコアトルの戦士族は、ロックを解除するように12勝"</string>
+    <string name="achievement_lightning_emitter">"16勝ケツァルコアトルの戦士族は、ロックを解除するよう"</string>
+    <string name="achievement_race_wind">"すべてのケツァルコアトルの戦士族の生き物や塔のロックを解除する"</string>
+    <string name="achievement_campaign_race_wind_10">"ケツァルコアトルの戦士族として簡単に上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_wind_100">"ケツァルコアトルの戦士族としてメディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_wind_1000">"ケツァルコアトルの戦士族としてハードディスク上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_wind_10000">"ケツァルコアトルの戦士族として専門​​家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_wind_5">"ケツァルコアトルの戦士族としてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_wind_25">"ケツァルコアトルの戦士族としてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_wind_100">"ケツァルコアトルの戦士族としてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_wind_1000">"ケツァルコアトルの戦士族としてバトルモードで1000勝"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"ノーブル兵士のガイアのロットは、ロックを解除するように2勝"</string>
+    <string name="achievement_stone_catapult">"ノーブル兵士のガイアのロットは、ロックを解除するように4勝"</string>
+    <string name="achievement_grizzly_bear">"ノーブル兵士のガイアのロットは、ロックを解除するとして6勝"</string>
+    <string name="achievement_earth_golem">"ノーブル兵士のガイアのロットは、ロックを解除するように8勝"</string>
+    <string name="achievement_earth_pillar">"ノーブル兵士のガイアのロットは、ロックを解除するように10勝"</string>
+    <string name="achievement_eagle">"ノーブル兵士のガイアのロットは、ロックを解除するように12勝"</string>
+    <string name="achievement_dirt_emitter">"ノーブル兵士のガイアのロットは、ロックを解除するように16勝"</string>
+    <string name="achievement_race_earth">"ノーブル兵士の生き物との塔のすべてのガイアのロットのロックを解除する"</string>
+    <string name="achievement_campaign_race_earth_10">"ノーブル兵士のガイアのロットとして簡単に上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_earth_100">"ノーブル兵士のガイアのロットとして、メディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_earth_1000">"ノーブル兵士のガイアのロットなどのハード上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_earth_10000">"ノーブル兵士のガイアのロットとして専門​​家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_earth_5">"ノーブル兵士のガイアのロットとしてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_earth_25">"ノーブル兵士のガイアのロットとしてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_earth_100">"ノーブル兵士のガイアのロットとしてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_earth_1000">"ノーブル兵士のガイアのロットとしてバトルモードで1000勝"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"犠牲にロックを解除するのアグニの軍団として2勝"</string>
+    <string name="achievement_flame_catapult">"犠牲にロックを解除するのアグニの軍団として4勝"</string>
+    <string name="achievement_fiery_bear">"犠牲にロックを解除するのアグニの在郷軍人会など6勝"</string>
+    <string name="achievement_fire_golem">"犠牲にロックを解除するのアグニの軍団として8勝"</string>
+    <string name="achievement_fire_pillar">"犠牲にロックを解除するのアグニの軍団として10勝"</string>
+    <string name="achievement_falcon">"犠牲にロックを解除するのアグニの軍団として12勝"</string>
+    <string name="achievement_fire_emitter">"犠牲にロックを解除するのアグニの軍団として16勝"</string>
+    <string name="achievement_race_fire">"犠牲に生き物との塔のすべてのアグニのレギオンのロックを解除する"</string>
+    <string name="achievement_campaign_race_fire_10">"犠牲にのアグニの軍団と同じくらい簡単にすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_fire_100">"犠牲にのアグニの軍隊として、メディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_fire_1000">"犠牲にのアグニの在郷軍人会などのハード上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_fire_10000">"犠牲にのアグニの在郷軍人会など専門家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_fire_5">"犠牲にのアグニの軍団としてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_fire_25">"犠牲にのアグニの軍団としてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_fire_100">"犠牲にのアグニの軍団としてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_fire_1000">"犠牲にのアグニの軍団としてバトルモードで1000勝"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するように2勝"</string>
+    <string name="achievement_angel_statue">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するように4勝"</string>
+    <string name="achievement_seraphim">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するなど6勝"</string>
+    <string name="achievement_life_golem">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するように8勝"</string>
+    <string name="achievement_life_pillar">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するように10勝"</string>
+    <string name="achievement_angel">"ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するように12勝"</string>
+    <string name="achievement_holy_water_emitter">"16勝ユーグ·ド·Payens \"ホーリーテンプル騎士団は、ロックを解除するよう"</string>
+    <string name="achievement_race_life">"すべてのユーグ·ド·Payens \"ホーリーテンプル騎士団の生き物や塔のロックを解除する"</string>
+    <string name="achievement_campaign_race_life_10">"ユーグ·ド·Payens \"ホーリーテンプル騎士団と同じくらい簡単にすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_life_100">"ユーグ·ド·Payens \"ホーリーテンプル騎士団などのメディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_life_1000">"ユーグ·ド·Payens \"ホーリーテンプル騎士団などのハード上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_life_10000">"ユーグ·ド·Payens \"ホーリーテンプル騎士団などの専門家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_life_5">"ユーグ·ド·Payens \"ホーリーテンプル騎士団としてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_life_25">"ユーグ·ド·Payens \"ホーリーテンプル騎士団としてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_life_100">"ユーグ·ド·Payens \"ホーリーテンプル騎士団としてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_life_1000">"ユーグ·ド·Payens \"ホーリーテンプル騎士団としてバトルモードで1000勝"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"ロックを解除するザ·ダムドのDamballa軍として2勝"</string>
+    <string name="achievement_gargoyle_statue">"ロックを解除するザ·ダムドのDamballa軍として4勝"</string>
+    <string name="achievement_succubus">"ロックを解除するザ·ダムドのDamballa軍として6勝"</string>
+    <string name="achievement_undead_golem">"ロックを解除するザ·ダムドのDamballa軍として8勝"</string>
+    <string name="achievement_undead_pillar">"ロックを解除するザ·ダムドのDamballa軍として10勝"</string>
+    <string name="achievement_fallen_angel">"ロックを解除するザ·ダムドのDamballa軍として12勝"</string>
+    <string name="achievement_toxic_gas_emitter">"ロックを解除するザ·ダムドのDamballa軍として16勝"</string>
+    <string name="achievement_race_death">"ダムドの生き物との塔のすべてDamballa軍のロックを解除する"</string>
+    <string name="achievement_campaign_race_death_10">"ダムドのDamballa軍として簡単に上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_death_100">"ダムドのDamballa軍としてメディア上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_death_1000">"ダムドのDamballa人民軍などのハード上のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_campaign_race_death_10000">"ダムドのDamballa軍として専門​​家のすべてのキャンペーンレベルの5星印"</string>
+    <string name="achievement_battle_race_death_5">"ダムドのDamballa軍としてバトルモードで5勝"</string>
+    <string name="achievement_battle_race_death_25">"ダムドのDamballa軍としてバトルモードで25勝"</string>
+    <string name="achievement_battle_race_death_100">"ダムドのDamballa軍としてバトルモードで100勝"</string>
+    <string name="achievement_battle_race_death_1000">"ダムドのDamballa軍としてバトルモードで1000勝"</string>
+
+</resources>

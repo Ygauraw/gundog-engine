@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_water_catapult">"4 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_polar_bear">"6 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_ice_golem">"8 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_water_pillar">"10 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_drake">"12 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_water_emitter">"16 victoires comme des sauvages congelés Skadi le déverrouille"</string>
+    <string name="achievement_race_ice">"Débloquer tous les Skadi de surgelés créatures sauvages et des tours"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Etoiles à tous les niveaux de la campagne sur Easy comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Etoiles à tous les niveaux de la campagne sur moyen comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Etoiles à tous les niveaux de la campagne sur dur comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_battle_race_ice_5">"5 victoires en Battle Mode comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_battle_race_ice_25">"25 victoires en Battle Mode comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_battle_race_ice_100">"100 victoires en Battle Mode comme des sauvages congelés Skadi de"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 gagne en mode bataille comme des sauvages congelés Skadi de"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 victoires que Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_griffin_statue">"4 victoires que Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_panda_bear">"6 victoires que Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_lightning_golem">"8 victoires que Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_lightning_pillar">"10 victoires comme Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_dragon">"12 victoires comme Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_lightning_emitter">"16 victoires comme Quetzalcoatl guerrier tribu déverrouille"</string>
+    <string name="achievement_race_wind">"Débloquer toutes les créatures de Quetzalcôatl tribu guerrière et des tours"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Etoiles à tous les niveaux de la campagne sur Easy que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Etoiles à tous les niveaux de la campagne sur moyen que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Etoiles à tous les niveaux de la campagne sur dur que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_battle_race_wind_5">"5 victoires en Battle Mode que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_battle_race_wind_25">"25 victoires en Battle Mode que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_battle_race_wind_100">"100 victoires en Battle Mode que Quetzalcoatl guerrier tribu"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 victoires en Battle Mode que Quetzalcoatl guerrier tribu"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_stone_catapult">"4 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_grizzly_bear">"6 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_earth_golem">"8 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_earth_pillar">"10 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_eagle">"12 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_dirt_emitter">"16 victoires comme étant le lot de Gaïa de nobles soldats déverrouille"</string>
+    <string name="achievement_race_earth">"Débloquer tous les Lot de Gaïa de créatures nobles soldats et des tours"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Etoiles à tous les niveaux de la campagne sur Easy que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Etoiles à tous les niveaux de la campagne sur moyen que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Etoiles à tous les niveaux de la campagne sur dur que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_battle_race_earth_5">"5 victoires en Battle Mode que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_battle_race_earth_25">"25 victoires en Battle Mode que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_battle_race_earth_100">"100 victoires en Battle Mode que le lot de Gaïa de nobles soldats"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 gagne en mode bataille comme étant le lot de Gaïa de nobles soldats"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 victoires que la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_flame_catapult">"4 victoires que la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_fiery_bear">"6 victoires que la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_fire_golem">"8 victoires que la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_fire_pillar">"10 victoires comme la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_falcon">"12 victoires comme la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_fire_emitter">"16 victoires comme la Légion d'Agni de l'déverrouille sacrifiée"</string>
+    <string name="achievement_race_fire">"Débloquer tous les Agni Légion des créatures sacrifiées et des tours"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Etoiles à tous les niveaux de la campagne sur Easy comme la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Etoiles à tous les niveaux de la campagne sur moyen que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Etoiles à tous les niveaux de la campagne sur dur que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_battle_race_fire_5">"5 victoires en Battle Mode que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_battle_race_fire_25">"25 victoires en Battle Mode que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_battle_race_fire_100">"100 victoires en Battle Mode que la Légion d'Agni de la sacrifiée"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 gagne en mode bataille que la Légion d'Agni de la sacrifiée"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 victoires que Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_angel_statue">"4 victoires que Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_seraphim">"6 victoires que Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_life_golem">"8 victoires que Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_life_pillar">"10 victoires comme Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_angel">"12 victoires comme Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_holy_water_emitter">"16 victoires comme Hugues de Payns 'Saint Templiers déverrouille"</string>
+    <string name="achievement_race_life">"Débloquer toutes les créatures Hugues de Payns 'Saints Templiers et les tours"</string>
+    <string name="achievement_campaign_race_life_10">"5 Etoiles à tous les niveaux de la campagne sur Easy que Hugues de Payns 'Saint Templiers"</string>
+    <string name="achievement_campaign_race_life_100">"5 Etoiles à tous les niveaux de la campagne sur moyen que Templier Hugues de Payns 'Holy Knights"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Etoiles à tous les niveaux de la campagne sur dur que templier Hugues de Payns 'Holy Knights"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert que Hugues de Payns 'Saint Templiers"</string>
+    <string name="achievement_battle_race_life_5">"5 victoires en Battle Mode que templier Hugues de Payns 'Holy Knights"</string>
+    <string name="achievement_battle_race_life_25">"25 victoires en Battle Mode que templier Hugues de Payns 'Holy Knights"</string>
+    <string name="achievement_battle_race_life_100">"100 victoires en Battle Mode que templier Hugues de Payns 'Holy Knights"</string>
+    <string name="achievement_battle_race_life_1000">"1000 gagne en mode Bataille en tant que Hugues de Payns 'Saint Templiers"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_gargoyle_statue">"4 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_succubus">"6 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_undead_golem">"8 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_undead_pillar">"10 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_fallen_angel">"12 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_toxic_gas_emitter">"16 victoires que l'Armée de Damballa de damnés déverrouille"</string>
+    <string name="achievement_race_death">"Débloquer tous les Damballa Armée de les créatures Damned et les tours"</string>
+    <string name="achievement_campaign_race_death_10">"5 Etoiles à tous les niveaux de la campagne sur Easy que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_campaign_race_death_100">"5 Etoiles à tous les niveaux de la campagne sur moyen que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Etoiles à tous les niveaux de la campagne sur dur que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Etoiles à tous les niveaux de la campagne en mode Expert que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_battle_race_death_5">"5 victoires en Battle Mode que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_battle_race_death_25">"25 victoires en Battle Mode que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_battle_race_death_100">"100 victoires en Battle Mode que l'Armée de Damballa de the Damned"</string>
+    <string name="achievement_battle_race_death_1000">"1000 gagne en mode bataille que l'armée de Damballa of the Damned"</string>
+
+</resources>

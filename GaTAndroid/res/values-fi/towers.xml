@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Ice Catapult"</string>
+	<string name="water_pillar">"Vesi Pillar"</string>
+	<string name="water_emitter">"Vesi lähetin"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Lightning Cannon"</string>
+	<string name="griffin_statue">"Griffin Statue"</string>
+	<string name="lightning_pillar">"Lightning Pillar"</string>
+	<string name="lightning_emitter">"Lightning lähetin"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Rock Cannon"</string>
+	<string name="stone_catapult">"Stone Catapult"</string>
+	<string name="earth_pillar">"Maa Pillar"</string>
+	<string name="dirt_emitter">"Dirt lähetin"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flame Cannon"</string>
+	<string name="flame_catapult">"Flame Catapult"</string>
+	<string name="fire_pillar">"Tuli Pillar"</string>
+	<string name="fire_emitter">"Tuli lähetin"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energia Cannon"</string>
+	<string name="angel_statue">"Angel Statue"</string>
+	<string name="life_pillar">"Elämä Pillar"</string>
+	<string name="holy_water_emitter">"Holy Water lähetin"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Poison Cannon"</string>
+	<string name="gargoyle_statue">"Gargoyle Statue"</string>
+	<string name="undead_pillar">"Undead Pillar"</string>
+	<string name="toxic_gas_emitter">"Myrkyllistä kaasua lähetin"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Flame Whip"</string>
+	<string name="water_whip">"Vesi Whip"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"Flame kiteytyssäiliön"</string>
+	<string name="ice_crystallizer">"Ice kiteytyssäiliön"</string>
+	<string name="earth_crystallizer">"Maa kiteytyssäiliön"</string>
+	<string name="lightning_blade">"Lightning Blade"</string>
+	<string name="ice_blade">"Jääterä"</string>
+	<string name="flame_blade">"Flame Blade"</string>
+	<string name="earth_ballista">"Maa Ballista"</string>
+	<string name="ice_ballista">"Ice Ballista"</string>
+	<string name="flame_ballista">"Flame Ballista"</string>
+	
+</resources>

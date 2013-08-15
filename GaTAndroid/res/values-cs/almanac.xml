@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"Co když každý příběh jste někdy slyšeli je pravda? \n\n příběhy pro děti. Noční můry. Bájesloví. Náboženství. Mohou být všechny reálné? \n\n určitá odvětví vědy, se domnívá, že v případě, že lidská mysl dokáže představit něco, musí mít v jednu dobu existoval. \n\n Skeptici se popřít jako fantazijní ravings šílený. Pravověrní budou popírat to taky, protože vědí, že pravda je mnohem, mnohem ošklivější. To je mnohem horší než jednoduché příběhy dobra vs zla. \n\n Teprve nyní se nám objevovat nekonečné množství paralelních vesmírů, které existují vedle té naší, po celou dobu odbočení v mnoha jiných směrech. Každý příběh, jaký jsme kdy slyšeli, je pravda někde jinde. Toto je příběh jednoho z těch vesmírů, kde člověk je už samotná existence visí na na vlásku. \n\n Monstra jsou skutečné. Armády z nich, v čele s bohy, všechny se stejným cílem: vrátit se domů. Zčernalé, zkroucené srdce, hledají pouze pomsty, která jim přinese mír. Zničit všechny konkurenty. Postupujte podle svého Boha do srdce bitvy, zvítězí, a pochod zpět do pekla, která plodila je. Vrátit. Domů. \n\n boj, aby zůstali naživu, bude denně bitva. Slabá se dříve zapomněl v těchto dnech. Bohové a monstra, démoni a Undead a nástroje války, jsou jediná skutečnost. To je až příliš reálné … to je Tower Defense Wars! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"Ona je z ledu, oni říkají, bohyně zimy, Skaði a poškozená manželka Njörðr, vůdce zmrazených armád severské válečníky. V jednu chvíli se snažila pomstu, ale teď se hledá jen domov. Její otec, Þjazi, byl zabit hledat tvar-posunující se Loki. V záchvatu spravedlivého hněvu, přišla k bohům s mečem v ruce. Ale oni ji uchlácholit. Oni uklidňoval svůj hněv. Dali svou moc. Tam je prázdný neplatné uvnitř Skaði, že denně roste s křivdy spáchané na svém domě. Je to temnota pronásleduje světlo. Z devíti světů severské mytologie, jen Niflhel, pekelný, zmrazené pustina obsahují tuto temnotu z polykání Stvoření. Tam její armáda pochoduje. 
+"</string>
+    <string name="almanac_frozen_soldier">"Chycený ve zmrzlém vězení po celá staletí, byly Ice Vikingové přivedeni zpět k životu, když Skadi se dostal pod útok. Musela přivolat armádu, a obrátil se na hromadných hrobů stoupence svého zesnulého otce, Þjazi. Ice Vikingové byli varováni, že jejich svoboda je dočasná: výhra, a tvrdí, že svého oblíbeného místo v Nifhel. Ztratit, a zůstat zmrazené a bojovat navždy.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"Stejně jako zmrazených vojáků navždy pochodovat pěšky, Zmrazené jezdci jsou COOLY výpočtu. Lišící se od skvěle loďstvo-footed elfštině, Skaði je armáda koní se pohybuje pomalu a metodicky. Ačkoli technicky schopna rázné cvalu, Frozen jezdec je více pravděpodobné, vyčerpat jeho nepřítele, než ho honit. S vědomím, že žádný kout země je příliš studená, příliš tmavé nebo příliš nehostinné, bude prostě následovat jeho kořist. On se nikdy nezastaví. On nikdy odpočívat. Ne, dokud se jeho nepřátelé se vzdal své poslední vzdechy umírajících.
+"</string>
+    <string name="almanac_polar_bear">"Tyto divoké zvířata nejsou známé pro jejich inteligenci, vhledu, nebo přizpůsobivost. Oni jsou známí pro začarovaného síly. S výkonnými a masité tlapy a ostrý nehty, mnoho voják splnil jejich osud se utrhl od země jen setkat s jejich nenasytné zuby. Tyto nože ležela v záloze uvnitř čelisti, které drtí mražené žula stejně snadno jako maso, takže útěk mimořádně vzácný.  
+"</string>
+    <string name="almanac_ice_golem">"Vyrobeno z ledu více husté než něco našel na moderní Zemi, led Golem pěst je tvrdá jako kámen zmrzlé. Je to duše, pokud vůbec kdy měl, už dávno přes ledový, a žije jen sloužit Skaði na kruté příkazy. Existují dvě možnosti, narazí na Ice Golem: bojovat až do smrti, nebo spustit. A pokud se člověk rozhodne běhat, jeden lepší běžet rychle.  
+"</string>
+    <string name="almanac_drake">"Schopen útočit z velkých vzdáleností a děsivě Drake doslova dechy ledový kře s krupobitím, panující teror na slabší, méně mobilní tvorů. Pozemské krupobití je známo, že ničí lesy, zdecimovat celé smečky divokých zvířat, a dokonce i promáčknutí oceli. Představte si, co Drake je schopen.  
+"</string>
+    <string name="almanac_water_cannon">"Tato výkonná děla využívá jeden z nejzákladnějších prvků na Zemi, vody a změní to na ostří nože o nekonečně obnovitelných zbraň.
+"</string>
+    <string name="almanac_water_catapult">"Voda je tak nekonečně tvárný a překvapivě těžký. Obě skutečnosti jsou využívány smrtící vody Catapault.
+"</string>
+    <string name="almanac_water_pillar">"Pomalu, téměř metodicky, může dost velká množství vody nabobtnat vysoká, prostorový nížiny, a nakonec se zahltit nic v cestě.
+"</string>
+    <string name="almanac_water_emitter">"Zvláštní, že něco známo, že dávat život je tak obratně fungovat jako stroj smrti, ale takový je voda vysílače. Stejně jako mučení známé některých kulturách, vodní Vysílač pomalu, ale jistě dusí své protivníky s jednoduchým proudem vody. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"Předtím tam byl déšť, sníh, než tam, tam byl vítr, byly rozneseny podél pozemku, který zahrnuje Zemi v dece změn. Tam je ten, kdo ovládá vítr, a tím, řídí pohyb písku, semena a ročních období. Jeho jméno je Quetzalcoatl. Okřídlený had je více než Boha, je spojenec, přítel, tormenter a marker místě. Quetzalcoatl je rozdíl mezi nebem a zemí. On je jeden z mála, který může cestovat do Xibalba a Maya podsvětí, a vrátit se bez vůně smrti o něm. Xibalba je místo strachu, co firma má Quetzalcoatl je těžko říct. Ale on se postavil armádu, aby ho následovali. Už probudil vítr.
+"</string>
+    <string name="almanac_human_archer">"Dlouho předtím, než zbraň, tam byl lukostřelec, snad nejobávanější bojovník ze středověku. Nyní těžkostí pro Quetzacoatl, který přislíbil jim podporu v zuřivém větru, tyto agilní bojovníci jsou schopni zaútočit na velkou vzdálenost. Pomocí šipky zabalené v zrezivělý protihrotu drobných ocelových háků, kdo měl štěstí a přežil střetnutí se skupinou lukostřelců, který tam jsou málo známé historie, který se bude zjizvený po zbytek svých dnů.
+"</string>
+    <string name="almanac_human_archer_horseman">"Pokud Archer má slabost, a mnozí budou tvrdit, že tomu tak není, je to, že jejich potřeba nastavit a zaměřit se nechává poměrně vystaveny. Zadejte připojený Archera, vzdělání ovládat divoká šelma stále udržuje smrtící přesnost. Setkání se skupinou lukostřelců nasedl opustí obloha zčernalá, tisíce šípů, každý vyslanec o smrti předpověděl, prší shora. 
+"</string>
+    <string name="almanac_panda_bear">"Ačkoli často uctíván pro své pohledná vzhled, Giant Panda je silně teritoriální zvíře, se silnými čelistmi a nůž jako drápy. Zatímco přizpůsobit docela sedavý způsob života, Obří pandy jsou podrážděné a velmi defenzivní jejich vlastního druhu. Vědět to, Quetzalcoatl bodce na obří pandy k žádnému konci, oddělení matky od mládě, a izolovat medvědovitý bojovníky z jejich rodné vlasti. On je rozhněván, a zatímco na místě, bude jejich hněv uhašena v krvi.
+"</string>
+    <string name="almanac_lightning_golem">"Staří Mayové uctívali Chaac, déšť had řekl ovládat blesk v obloze, často ho uvádění nad okřídlený had Quetzalcoatl. Quetzalcoatl, plným vědomím síly Chaac je, odklížené nebe a Hells při hledání Lightning Golema. Poté, co ho našel, a mít zajištěné jeho oddanost, bude Lightning Golem sloužit jako Quetzalcoatl déšť slouží oblaka: bez mrknutí oka, čímž smrt jako mraku vytvoří louži. 
+"</string>
+    <string name="almanac_dragon">"Snad žádný tvor využil co nejvíce z jejich nového pána jako drak. Již šelma známá po celé věky, podle Quetzalcoatl, drak je ještě hrůzostrašný, co se dozvěděl každý obtěžování na vířící vítr ze svého okřídleného Liege. Drak je ohnivý had alarmující schopnosti. 
+"</string>
+    <string name="almanac_lightning_cannon">"Od úsvitu lidstva, menší zvířata doufali ovládat nebes, a s ním moc šroubů Diova blesku. Teď se dá.
+"</string>
+    <string name="almanac_griffin_statue">"Ačkoli majestátní ve své formě, a královský v jeho tváři, nehledejte nic jiného než pařátech pochopit skutečnou povahu Griffin.
+"</string>
+    <string name="almanac_lightning_pillar">"Sloupec neuvěřitelné přírodní energie, tento pilíř je jak magnet o moc, a může projektor ze bezkonkurenční ničení.
+"</string>
+    <string name="almanac_lightning_emitter">"Schopen pracovat v krátkých burts extrémní ostrosti, Blesk Vysílač je šokující síla na pohled z dálky, blíž, samozřejmě, není show, ale trest smrti.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"Člověk vytvořil náboženství popsat Boha. Bůh stvořil člověka, aby odrážela jeho obraz. Ale Gaia, Matka Gaia, vytvořili bohy. Gaia, tvůrce Země, je písmo, ze kterého řeka života toků. Ona je duch a harmonie existence. Řekové se podíval na Gaie o vedení nad všemi ostatními. Ona na ně posvítil. A obrátil se na ni, opilý na vína, vyrobeného z hroznů, že za předpokladu, opilý mocí nad životem ona, ale pouze povolena. Takže, bude se je vést k Tartarus. Ukáže jim, co je bolest. Tartaros, propast, temná díra v centru dění, podsvětí zatracených. Tartarus, místo odpočinku a jméno Boha, který spočívá tam. Tartarus bude jejich osud, Gaia povede její armádu k jejich osudu, a pak se umýt ruce v špinavé, zatvrzelých selhání. 
+"</string>
+    <string name="almanac_elvish_archer">"U elfů, že střelec není práce, je to způsob života. Učení dlouhý luk od okamžiku, kdy se naučí chodit, elf rozvíjí živý šestý smysl pro lukostřelbu, jako by tyto nástroje války bylo prodloužení jeho bytí. I když ne vždy největší a nejsilnější rasy, elfové použít jejich vynikající vizi, mazaný a luk dovednosti snadno porazit soupeře pronajímatele, vyzvala Gaia, bohyně Země, v době nejvyšší nouze. Kříž je na vlastní nebezpečí. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"Jen málo architektů války, ať už člověk nebo stroj, může udeřit tak rychle a rozhodně jako Elvish Archer jezdec. Proslulý téměř duchovní spojení mezi jezdcem a oř, jsou elfové, kteří ovládají jak luk a zvíře ocenění v elfích kultury a jednotně se obával mimo něj. To je dobrý důvod. Použití krátký luk, který umožňuje pro plný rozsah pohybu, tyto mobilní vrazi skenování horizont, vyberte své cíle, a udeřit s ochotou alarmující.
+"</string>
+    <string name="almanac_grizzly_bear">"Přirozeně se vyvinul vrah, a nesporným králem jeho zalesněné vlasti, Grizzly jde pomalu, protože on může. Přesto v plném sprintu, medvěd je rychlejší než všichni ale fleetest zvířat a dostatečně silné, aby rip kosti z důlků. Pokud její nabroušené zuby a drápy nezabíjejí kořist, bude to občas zničit soupeře s tupým, hrubá síla a kladivo pěstí tlapky. 
+"</string>
+    <string name="almanac_earth_golem">"Rostoucí ze zemské kůry, Země Golem je složitá bestie, sbírka mikroorganismů, plynů, a kamene, které se konalo spolu s blátem a bahenní jedinečného zaměření: návrat k Zemi, ze které pocházejí. To není boj proti své oponenty tak, jak spolknout a stane se jedním s nimi, vypařování žádnou stopu toho, co předtím stál před tím, než jako bláto teče do procházející proud. 
+"</string>
+    <string name="almanac_eagle">"V moderní době symbolem svobody a spravedlnosti, starobylé Eagle je obrovský dravec, útočí rychle a překvapivou sílu. Jeho drápy rvát přes tělo, takže Nepropichujte rány, které způsobují pomalou a bolestivou smrt. V nejlepším případě bude Orel zvednout jeho soupeře a uložit je na dlouhé podzimní a mnohem rychlejší a jistější zániku. Nenechte se mýlit: to je prokletý pták narodil zatracené duše.
+"</string>
+    <string name="almanac_rock_cannon">"Žádná známá látka je bohatá jako konstanta, drtící sílu kamene, a žádný dělo je neúprosný. 
+"</string>
+    <string name="almanac_stone_catapult">"Déšť kamenů zní jako biblického mor, ale kámen Catapault je schopen produkovat takový vztek na co nejkratší době.
+"</string>
+    <string name="almanac_earth_pillar">"Málo známý v některých kruzích, ale Země se skládá z daleko více než jen špíny, rocku a vody. K dispozici je vnitřní energie, životní síla, která se váže tyto prvky dohromady. Zda využít pro dobro nebo pro zlo, to nepopsatelné energie má sílu, která je nesporná. 
+"</string>
+    <string name="almanac_dirt_emitter">"Ani technologicky vyspělé, ani magicky jedinečné, Dirt Vysílač je jednoduchý, brutální stvoření. Nicméně, jeho nebezpečí nelze vyloučit. Stačí se zeptat někoho, kdo někdy byl pohřben zaživa. To znamená, že pokud můžete najít přeživšího. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"Hindské náboženství má mnoho Bohů, Indra a Soma, Višnu a Rudra. A pak je tu Agni, bůh ohně a akceptoru obětí. Agni je posel, potrubí mezi nebem a zemí, vztah mezi lidmi a bohy. Agni se zlobí. Bohové ukázala člověka nepovažují cestu k moudrosti, ale oni opustili ji. Budou se učit znovu. Budou muset následovat cestu. Agni je přivede do Naraka, podsvětí Hind. Naraka je místem trápení, věčné utrpení země báli buddhistů a Jainists podobně. Agni neposkytuje žádné rozdíly. Ten bude spočívat ruku na rameno zatracený, a požár stopu přes srdce každého agresora. Agni je nesmrtelný. Jeho armáda je nemrtvý. Společně se vrátí svět do svého přirozeného stavu: utrpení. 
+"</string>
+    <string name="almanac_mummy">"Jako muž, klopýtání z hořícího domu, máma je pomalý a zmatený. Ale to není usilovat o útěk k životu. Spíše to doufá, že ostatní přetáhnout do svého světa nemrtvých bídy. Mumie není silný, není rychlý, a to není chytré. Ale více než jakýkoli známý tvor, bude pokračovat v boji. To se nikdy nezastaví boj: mučeni, zničeni a modřiny.  
+"</string>
+    <string name="almanac_mummy_horseman">"Undead Rider má stejné manio-li jako mumie, ale řeší pokrývající největší slabost: jeho pomalý pohyb. Schopen udeřit na co nejkratší době, Undead Rider je perfektní kombinací naprosté rychlosti, obratnosti a hbitou brutální touha rozdrtit vůli svých oponentů na blízko i daleko. 
+"</string>
+    <string name="almanac_fiery_bear">"Připomínající společné černého medvěda ve verzi, Agni je prohledali Naraka a ohnivý podsvětí, pro nemrtvé útočníkem podobné velikosti, rychlosti a síly. Nepodařilo se najít vhodnou zápas, on vytvořil Burning medvědy, kované ve zvířecí oběti nevinných tvorů a zatracené lidské duši. Burning Bear je natolik inteligentní, aby stonku svou kořist, neúnavný a naprosto odolný i ty nejintenzivnější formy tepla. Dále Agni je prostoupena každý s ohnivé zuřivosti a pomatený rozestavení. Hořící Medvědi jsou nepředvídatelné, nepoddajné a spolehlivě smrtící.
+"</string>
+    <string name="almanac_fire_golem">"Právo uplatnění času a tlaku vytvoří diamant. Nesprávné aplikace vytvoří peklo potěr, smrtící směs roztavené lávy a drceným Zemí. Ať opaření své protivníky s jeho vroucí pěstmi, nebo drcení a pak s jeho neutuchajících, metodickými činnostmi, k sakru Potěr je jediným cílem je způsobit jeho utrpení na světě, která přijímá všechny oběti na oltář vlastní nespokojenec.
+"</string>
+    <string name="almanac_falcon">"Neexistuje jediný zvíře, synonymem pro rychlost jako Falcon, a tudíž žádné zvíře schopné udeřit tak rychle a efektivně. Potápění na svou kořist z velebných výšek, Falcon často udeřil smrtelnou ránu, než jeho soupeř dokonce viděl, že to přijde, jeho zaklínění kalené zobák do lebky vetřelce. Agni se usměje pokaždé, když udeří jeho Falcon bezděčná kořist. 
+"</string>
+    <string name="almanac_flame_cannon">"Teplo útočí na samotnou podstatu tvora buněk, a jen málo, pokud vůbec, se může postavit do zuřící infermo of the Flame Cannon.
+"</string>
+    <string name="almanac_flame_catapult">"Jediné, co chybí, že oheň je schopnost překvapit. To je příliš jasná a příliš horké zachytit mnohé z míry. Alespoň dokud plamen Catapault zadá bitvu.
+"</string>
+    <string name="almanac_fire_pillar">"Okolní požáru pilíř je tanec s jistou smrt, krásný ve svém vlastním hbitou způsobem, oheň ohýbání do tvaru větrů, než zaplavovat svou kořist v kotli tepla. 
+"</string>
+    <string name="almanac_fire_emitter">"Stejně jako kovářské pece používané navázat na chladnou ocel, která dobyla středověkou Evropu, požární Vysílač vyzařuje intenzivní teplo znehybnění všichni ale nejvíce silný srdce přiblížit to.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"Chcete-li být cannonised, aby se stal svatý, jeden nejvíce věnovat svůj život k příčině křesťanů a pro spásu své bližní. Někteří hledají spasení skrze knihy, ostatní přes meč. Hugues de Payens, zakladatel a velmistr templářů byl válečník svatý, Crusader a vojenské vůdce True Grit a nevšední genialitou. De Payens, stejně jako všechny velmistrů, které následovaly ho přijal místo k životu, přísahal na obranu kříž. Jen smrt by se dalo konečně odpočinout. V jeho životě, de Payens zabil nejednu duši pro vyšší dobro. Za své zločiny, musí čekat v Gehenna, starobylé úložiště pro zlý. Kdysi tam, on může najít jeho osud není čekat Purgatory. Nebo může trpět pro věčnost. Je to jeho hodně vědět. On ví jen, že ho čeká odpověď, protože čeká na své horlivé následovníky. 
+"</string>
+    <string name="almanac_zealot">"Zealot je slepý k jakékoli pravdy, že není v souladu s jeho pohledu. Jako živý stroj, je zúžen jeho rozsah. Rytíři vytvořily tyto bojovníky víry prostřednictvím podvodu, a bojovat ne s hněvem a závistí, ale emocionální hloubkou daleko větší než to triviální světa. Jejich horlivost je nemožné dosáhnout smrtelníky, a s tímto zaměřením horlivé, nepřátelé brzy uvědomí, že pravda Zealot se nezastaví před ničím, často porážet soupeře mnohokrát na jejich velikost a sílu.
+"</string>
+    <string name="almanac_zealot_horseman">"Kdysi vznešené vzor ctnosti a rytířství, rytíř byl také vysoce kvalifikovaný vrah, který kombinuje šermu a jezdeckého umění v jeden smrtící bojovníka. Dříve, rytíře přísné dodržování morálního kodexu mu zabránila bojovat o zla. Ale teď, s tímto kódem dlouho ztracený, tyto žoldáci začali bojovat o nejvyšší nabídku, která se snaží vrátit do Gehenna a mučí své nepřátele nemilosrdně na věčnost.  
+"</string>
+    <string name="almanac_seraphim">"Seraphim se neúnavně aktivní, jejich oddanost k modlitbě na hranici šílenství. Často, oni jsou myšlenka jako pálení, tak ohnivý je jejich potřeba náboženské rozlišení. V Hugues de Payens, našli vůdce jedinečně hodí pro ně bude mít průmysl k něčemu užitečnému, posílat je na nekonečnou sérií úmrtí vázaných misí, vždy slibuje, že brzy bude jim s klidem tak zoufale hledají. 
+"</string>
+    <string name="almanac_life_golem">"Folklór si myslí, že Rabi Jehuda Leva ben Becalel vytvořil první Golem na obranu Židů Prahy proti ghetta pogromů. Si uvědomil, že stvořil monstrum, které nemohly být pod kontrolou, byl rabi Löw nucen potlačit Golem před jeho zvýšeně násilný výlev hrozí další smrt nežidovských nevinných. Takový výkon, a jako svévolné zničení lidu, nebyla ztracena Hugues de Payens. On vzkřísil židovský Golem pro jeho templářských rytířů, vytvářet Golem Crusader: matný pitomý, nemorální a prakticky nezastavitelný.
+"</string>
+    <string name="almanac_angel">"Široký-okřídlený a prodchnutý s výkonem někteří zvažují silnější než jakýkoli jiný, božího práva, andělé mají nadlidskou sílu a úzké zaměření: nebudou váhat se zbavit těch, které stojí v cestě k sjednocení s jejich pravého Boha. Samozřejmě, kdo je \"stojí v cestě\" je až do jejich vlastního výkladu, a mnoho nevinné, jak spadl do rukou těchto okřídlených bojovníků.
+"</string>
+    <string name="almanac_energy_cannon">"Energie dělo vystřelí kola čisté energie, a to i zásadnější než elektřinou, snížení něco žijící nebo mrtvý do hmoty neživé materiálu odpadu. 
+"</string>
+    <string name="almanac_angel_statue">"Aj sílu Anděl: symbol síly, slavnost a poslušnost.
+"</string>
+    <string name="almanac_life_pillar">"Tam jsou stvoření na Zemi, kteří jsou schopni uspět v caldronous tepla. Tam jsou buňky, které potřebují světlo a ty, které touží po tmě jsou rostliny, které dech v plynech jiných zvířat výdechu. Takový je život sloup, pramen životní energie využito k smrti. 
+"</string>
+    <string name="almanac_holy_water_emitter">"Stejně jako mnoho válečných zbraní, skutečně svatý nemá se čeho obávat od Holy Water vysílače. Stejně jako mnoho válek, bude to člověk nemůže být faught mezi Svatým.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"V haitské Voodou, veve je rituál, symbol používaný k reprezentaci mocné duchy, známý jako Loa. Nejdůležitější Loa, Damballa, Bůh nebe a tvůrce všeho života, je zastoupen dvěma hady. Jako had, může Damballa nemluví. Se vyjadřuje tím, že mluví přes plamenem. Bondyè, nepoznatelný tvůrce všech, nelze nemluvil. Se vyjadřuje pomocí Damballa. Ale stejně jako je Damalla způsoby jsou záhadou pro muže, Bondyè na cesty jsou záhadou Damballa. Když jeho následovník je nabídka nevyhovuje mu, Damballa hoří celé vesnice. Když Damballa nevyhovuje Bondyè, není říkat následky. Pokud by se tak nepoznatelná bytost rozhodnout, že peklo na Zemi, žádný síla ve vesmíru schopen ho zastavit. Mrtví budou stoupat a poslouchal jeho rozkazy. Tajemství bude nahrazen oslepující pravdě.   
+"</string>
+    <string name="almanac_zombie">"Zombie, už mrtvý, žije bez radosti nebo strachu. Jeho život je účelu. Věčnou existenci, hledal každý z Ponce de Leon na Západě, na Brahmins Východu, je prokletí Zombie, navždy bloudění v nekonečném cyklu nesnesitelné bolesti. Je Damballa loutka, obsah pouze v pekle na Zemi, který přišel, aby byl jeho domov. 
+"</string>
+    <string name="almanac_zombie_horseman">"Jako bezhlavý jezdec rozpoutal na noc, Zombie jezdec pohybuje neúnavně přes popraskané půdě popálenou zemskou. V něm nejsou žádné myšlenky, žádné sny. Tam není ani volání po pomstě. Jeho život je daleko jednodušší. Jako rostlina dosáhne ke slunci, Zombie Rider potuluje planetu, chtěl zničit vše, co mu stojí v cestě tak, že se jednoho dne může být obnovena. 
+"</string>
+    <string name="almanac_succubus">"Na rozdíl od mnoha odporných tvorů přinesl do války zde mohou objevit Succubus, jako by jemnou krásu. V době, kdy ji na vdávání formulář černěné v očích svého diváka, to je příliš pozdě. Budou vidět její pravou podobu na chvíli, pak se plazí kůže bezduchý nástroj, jehož potěšení vzniká v bolestech, a oni budou odstraněny. 
+"</string>
+    <string name="almanac_undead_golem">"Složení všeho, co je ošklivé na světě, všechno, co je trápí a puchýřů, Undead Golem spojuje nejvíce k ničemu, nejjedovatější, nejvíce utlačovaným, a většina spílali odpad do jednoho reanimated bytí. Jako živý Voodoo panenku, Damballa vzala nesourodých částí a tvoří je do Undead Golem. Sotva vnímavý, ale hluboce destruktivní, Undead Golem prozrazuje jen sebemenší známku kontroly s jeho tvůrcem. Kromě toho, že je stroj, přinesl do života zabít, a to pouze zabít.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels jednou žil choval v pokrývkou bezmezné lásky a věčného klidu. A oni ji odmítl, konzumovány s touhou po moci. Dávno vyhnáni z království nebeského, bude padlí andělé přesné rychlé práva na jakékoli zvíře zabránění jejich vzestup k trůnu odsouzené Zemi - zejména ty hloupý, porovnat je s Bohem, které si kladou za úhlavního nepřítele.  
+"</string>
+    <string name="almanac_poison_cannon">"Jed dělo chrlí svůj škodlivý effluvia ven do světa, nekonečné komínu škodlivých plynů a odpadních olejů, které málokdo odolá. Vzduchu spaluje černé, zatímco práce jedu Cannon. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Ostražitý a připravený, Gargoyal zůstává posazený, vždy visí na okraji letu a boje.
+"</string>
+    <string name="almanac_undead_pillar">"Existuje něco, co v srdci nemrtvých, nebo uvnitř, co zbylo z jejich duše, který je drží ve vzpřímené poloze a pohybu, ale ne živý. Ať už tato síla je, že je mohutně transformativní, a pravděpodobně se otrávit, co živé bytosti přicházejí do styku s ním.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"Tam jsou některé látky, tak protikladné k životu, že jejich toxicita prochází všechny druhy stvoření a všechny světy původu. Vysílač toxický plyn uvolňuje tyto látky na nepřítele.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"Ohnivý úponek se vynoří z Flame Whip jako hořící lasem, bodání soupeře s řasou plamene, nebo obkličovat je v kruhu ohně.
+"</string>
+    <string name="almanac_water_whip">"Voda Whip existuje někde mezi kapalná a pevná. Ačkoli tekutiny v pohybu, které zasáhly jeho poškozeny násilného útoku bude určitě tím, odešel s zjizvení paměti jeho pevném stavu. Další důkaz, že povrch kapalné vody je jako ocel-li příhodné okolnosti. 
+"</string>
+    <string name="almanac_tentical_whip">"Jako obří chobotnice, nebo plně realizovaného verze mytologické Kraken, Tentical bič má jednu silnou, svalnatou lano tentical, schopné zasáhnout svou kořist proto překvapující přesností a zaručuje tedy vysokou rychlost.
+"</string>
+    <string name="almanac_flame_crystallizer">"Plamen je prostě vidět, že bílá je oheň. Je to trik, světla, duch odstraněn z essense. Flame krystalizátor využívá oheň je teplo, ale vyvolává to ze vzduchu, aniž byste museli plamenem.
+"</string>
+    <string name="almanac_ice_crystallizer">"Země Vzduch je směs mnoha věcí, ale i do nejdrsnějších pouští, tam je stopa vlhkosti. Ice krystalizátor ujme této vlhkosti a vytváří okamžitý led. To může nezní feasome dokud jeden obrázek led tvořit zevnitř ven, žíly, tepny, a orgány nejsou vyloučeny. 
+"</string>
+    <string name="almanac_earth_crystallizer">"Ze zářících světel nebe, do nejtemnějších koutů pekla, tam je kouzlo v samotném pojetí pevné zemi, ze existence. Odkud pochází? Jak se tento materiál přišel do bytí? Krystalizátor Země neposkytuje žádné odpovědi, ale to je jistě docela objekt.
+"</string>
+    <string name="almanac_lightning_blade">"Blesk propluje na obloze, štípání v noci na dvě poloviny, oddělena od bílé teplé kapely destruktivní elektřiny. Blesk čepele se, že elektřina a obsahuje moc v ostří meče. Obsahuje jeho sílu, ale na jak dlouho?
+"</string>
+    <string name="almanac_ice_blade">"A řezané ripy přes tělo se šroubem horké bolesti, natržení svalu v blízkosti kosti. Čepel z ledu se nesnižuje, že bolest. Jeho jádro chlazený nebude bránit jizvy války. Ice Blade je to nejhorší z obou světů srážet, a jeho nepřítel nejlepší vzít v úvahu. 
+"</string>
+    <string name="almanac_flame_blade">"Plamen čepele bojuje ve stejné teplo, za nichž se kdysi vzešel z kovárny. Zářící teplé, s spalující okraji schopný roztavit i nejsilnější brnění, je plamen Blade účinnost omezena pouze pokud se jedná o zvířata s maximální odolnost proti hoření.
+"</string>
+    <string name="almanac_earth_ballista">"Nadčasový zbraň, která byla balista repurposed Gaia pro obléhání teprve přijít. S raketami speciálně určených, aby vydržely nejsilnější bojovníků, Země je Balista postavena na technologii starověkých Řeků a Římanů, ale použité materiály Boha. 
+"</string>
+    <string name="almanac_ice_ballista">"Ice Balista se pomalu, inertní led a pohání ho obrovskou rychlostí. Ve spojení s přesně inženýrství pobyty a pružin jsou šrouby pro domácnost na ledové balisty obhajoval málo.
+"</string>
+    <string name="almanac_flame_ballista">"Mnohé staré město padlo do náporu v balisty sboru. Agni vyzvala této slavné zbraně, protože to je tak snadno posílena s přidáním ohně. Flame Balista kombinuje sílu buší s ničivostí ohně v zbraň pro věky.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"Vzácné Wizards dlouho zápasil, aby svět do harmonie, používat jejich moudrost (a zdravá špetka magie) k potlačení bytosti, které by dělat jejich bratří škodu. Zatímco obecně mírumilovná a je nepravděpodobné, začít setkávat, jsou známé pro jejich Wizards hořkostí, někteří drží zášť, které trvalo celé generace mužů. Vestavěný křehké a lehké, Průvodce je jako chytrý probudit, Trojský kůň ve tvaru člověka. Ačkoli neschopný zápasit i malé dítě na zem, může silný Průvodce vynutit celé město na kolena v mrknutí oka.
+"</string>
+    <string name="almanac_human_mage">"Jeden z nejsilnějších magických uživatelů známých pro člověka nebo zvíře, Mágové ovládat kouzla, které smrtelníky může jen zdát. Na rozdíl od kouzelníků, kteří jsou vázány přísahou a kód, Mágové využívat své pravomoci volně prodávat své služby na nejvyšší uchazeče nebo vyškrtnutí na vlastní pěst drancovat bohatství a pochopení pro ovládání světa obrátil proti nim. Mágové jsou žlučníkový a zkroucené, ale neměly by být diskontovány: jsou extrémně nebezpečné uživatelé temných umění a již dávno zapomněli na význam slova strach.
+"</string>
+    <string name="almanac_human_necromancer">"Poskytování nejpřímější vazbu mezi země živých a země mrtvých, Nekromanti jsou kvalifikovaní, jak jsou mučeni, vězněni se právě znalosti, které strávil svůj život zdokonalování. Nelze plně obývat buď svět, Nekromanti existují v zoufalém rozkolu, čarovat kouzla a bytosti v beznadějném pokusu překonat oba démony, kterým čelí, aniž by a démoni, kterým čelí uvnitř. Žijící láska. Zbytek mrtvého. Ale ani nekromancer se pomalu syphoning z poslední bolestný nadechnout z krouceného smrtelné cívky. 
+"</string>
+    <string name="almanac_troll">"Příroda je nádherná umělec, formování své bytosti, aby odrážely i své místo ve světě a jejich pravděpodobný prostředek k interakci s ním. To je pravda, troll ubohý, propadlá tvář, poďobaný kůži a křivé páteře odráží jejich stanice: vrátní a zdola obyvatelé, neschopný, zbabělý, a bez výčitek svědomí. Dobře vychovaná Troll se dozvíte nejen jak Eek své živobytí na zádech druhých, ale bude vyvíjet záhadnou smysl v okamžiku, uchopení moci a kdy tyto zůstatky tip nepatrně. Nechutné na pohled, olfactious a vychytralý, budou používat všechny dostupné prostředky, aby získali to, co chtějí, a to i lovit druhého odporu, pokud jde o jejich samotnou existenci.
+"</string>
+    <string name="almanac_dwarf">"Existuje málo těch, kteří jsou si vědomi svých těl, jak ladí s jeho použití jako zbraň, která má silné i slabé stránky, jako bojovný trpasličích klanů. Trpaslíci jsou squatly postaveny, a přestože výkonný pro jejich velikost, nejsou tak silné jako se zvířaty a protivníky rutinně expedici. Odborníci na boj zblízka, a nebojí se snížilo bitvu na nejnižší společný jmenovatel, trpaslík je nepravděpodobné, aby ustoupil, když ví, že neúnavný průmysl bude pravděpodobně vyrábět zabít. Vydržet velké změny v obou tepla a chladu, odolné a vlastnil velkou výdrž, muž, který má malou Trpaslíků postavu lehce nemusí být člověk, alespoň živý, dlouho. 
+"</string>
+    <string name="almanac_halfling">"Týkající se starých lidí, Halfings se vyvinuli jako lstivý závod zlodějů, šarlatánů a zdánlivě kvalifikovaných bojovníci. I když omezené síly, a ne známý pro jejich úplnou rychlost, půlčíci jsou rychlé, mazaný, a zlé, používat jejich malou postavu se schovat do stínu předtím, než udeří se smrtelnou agility. Půlčíci lze snadno přemohli ve férovém boji. V důsledku toho půlčíci zřídka bojovat fér. 
+"</string>
+    <string name="almanac_kobold">"Zapomněli pobočka evolučního žebříčku, Kobold je součástí lidské a ještěrka části, přesto drží žádnou věrnost s jedním druhem. Kobolds je známo, že stavět pasti, zálohy a další drobné stroje války s cílem využít jejich vynikající intelekt před tvory větší velikosti a síle. Zřídka se Kobolds myšlenka být neviditelný mnoho. I když to může být pravda, jejich vázané svaly, krátké bodné nože a zlověstně složité výtvory svědčí o jejich existenci.
+"</string>
+    <string name="almanac_gnome">"Snad nejmenší ze všech tvorů, je mnohem méně známo o trpaslíků než ostatní pozemských obyvatel. Na rozdíl od magie uživatelů a undead, že trpaslíci nejsou cizí světy obývají nebo schovávat se v současné době pomocí triků a kouzel. Jsou obyvatelé odborné jeskyně, Rangers a překvapivě dobrými plavci. Žijí na úbočích a v korunách stromů. Jejich technické dovednosti a vytváření svých malých, dokonalých strojů je legendou. Oni jsou hlavní přežili. Gnómové jsou zřídka viděn, a nevyvolávají dojem nebezpečí kolem jejich pohybu. Ale ne přes ně, pokud nemáte odpověď: jak si najít nepřítele, který nelze nalézt? Jak se vám bojovat proti nepříteli, který je získal před bitvou se ani nezačala?
+"</string>
+    <string name="almanac_ghoul">"Jeden z nejvíce ďábelské stvoření noci, Ghouls je posledním pozůstatkem pozemské duše obracet do Země mrtvých. Jako vzpomínka na noční můru, vlkodlak je přítomen a reálné, schopné zasáhnout ochromující strach do srdcí člověka. A přesto, v momentě, tato paměť štoly, prováděné na jiné místo a čas, jako písku v vichřice. Ghoul není vázán stejným smyslem pro sekund, minut, a roky, které ovlivňují většinu, která by škodit: je to představa, že existuje za takových banálních situací, dotýká se oblouk času, který zvoní umíráček, ale doesn \" t echo. 
+"</string>
+    <string name="almanac_human_witch">"Ve světě kouzelných tvorů, Čarodějnice zabírají pokornou stanici, už dávno odprodávat část svých pozemských duší výměnou za špetky nadpřirozené síly. I když ne tak nadaný jako ostatní zvířata, ani obzvláště silný fyzicky nebo magicky, čarodějnice mají málo co ztratit, a jsou nuceni bojovat prostřednictvím výkonné atrakci: je to zvláštní, čarodějnice, která nemá své fixaci, a jednou přiložit, že je prakticky schopen myslet na nic jiného. Dávejte si pozor na čarodějnice, protože pouze smrt může vytlačit je z jejich singulárních misí.
+"</string>
+    <string name="almanac_female_necromancer">"Poskytování nejpřímější vazbu mezi země živých a země mrtvých, Nekromanti jsou kvalifikovaní, jak jsou mučeni, vězněni se právě znalosti, které strávil svůj život zdokonalování. Nelze plně obývat buď svět, Nekromanti existují v zoufalém rozkolu, čarovat kouzla a bytosti v beznadějném pokusu překonat oba démony, kterým čelí, aniž by a démoni, kterým čelí uvnitř. Žijící láska. Zbytek mrtvého. Ale ani nekromancer se pomalu syphoning z poslední bolestný nadechnout z krouceného smrtelné cívky. 
+"</string>
+    <string name="almanac_female_elf_mage">"Jeden z nejsilnějších magických uživatelů známých pro člověka nebo zvíře, Mágové ovládat kouzla, které smrtelníky může jen zdát. Na rozdíl od kouzelníků, kteří jsou vázány přísahou a kód, Mágové využívat své pravomoci volně prodávat své služby na nejvyšší uchazeče nebo vyškrtnutí na vlastní pěst drancovat bohatství a pochopení pro ovládání světa obrátil proti nim. Mágové jsou žlučníkový a zkroucené, ale neměly by být diskontovány: jsou extrémně nebezpečné uživatelé temných umění a již dávno zapomněli na význam slova strach.
+"</string>
+
+</resources>

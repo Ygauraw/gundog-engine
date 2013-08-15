@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"冻结海盗"</string>
+    <string name="frozen_soldier_horseman">"冰冻战士骑士"</string>
+    <string name="polar_bear">"北极灰熊"</string>
+    <string name="ice_golem">"冰魔像"</string>
+    <string name="drake">"冰雹德雷克"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"弓箭手"</string>
+    <string name="human_archer_horseman">"登上射手"</string>
+    <string name="panda_bear">"大熊猫"</string>
+    <string name="lightning_golem">"闪电傀儡"</string>
+    <string name="dragon">"n.龙;n.天龙座"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"精灵弓箭手"</string>
+    <string name="elvish_archer_horseman">"精灵弓箭手骑士"</string>
+    <string name="grizzly_bear">"灰熊"</string>
+    <string name="earth_golem">"地球傀儡"</string>
+    <string name="eagle">"战争鹰"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"木乃伊"</string>
+    <string name="mummy_horseman">"亡灵骑士"</string>
+    <string name="fiery_bear">"燃烧熊"</string>
+    <string name="fire_golem">"地狱产卵"</string>
+    <string name="falcon">"鹘"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"宗教狂热"</string>
+    <string name="zealot_horseman">"佣兵骑士"</string>
+    <string name="seraphim">"塞拉芬"</string>
+    <string name="life_golem">"魔像十字军"</string>
+    <string name="angel">"n.寄生目标"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"僵尸"</string>
+    <string name="zombie_horseman">"僵尸骑士"</string>
+    <string name="succubus">"魔女"</string>
+    <string name="undead_golem">"亡灵傀儡"</string>
+    <string name="fallen_angel">"堕落天使"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"精灵向导"</string>
+    <string name="human_mage">"人类法师"</string>
+    <string name="human_necromancer">"人类死灵"</string>
+    <string name="troll">"愤青"</string>
+    <string name="dwarf">"drawf"</string>
+    <string name="hobbit">"霍比特人"</string>
+    <string name="kobold">"狗头人"</string>
+    <string name="gnome">"Gnome"</string>
+    <string name="ghoul">"盗墓者"</string>
+    <string name="human_witch">"人类的女巫"</string>
+    <string name="female_necromancer">"女亡灵法师"</string>
+    <string name="female_elf_mage">"女性精灵法师"</string>
+
+</resources>

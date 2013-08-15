@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"Замороженные викингов"</string>
+    <string name="frozen_soldier_horseman">"Замороженные всадник солдат"</string>
+    <string name="polar_bear">"Полярный гризли"</string>
+    <string name="ice_golem">"Ледяной Голем"</string>
+    <string name="drake">"Hailstorm Drake"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"Лучник"</string>
+    <string name="human_archer_horseman">"Навесной Archer"</string>
+    <string name="panda_bear">"Большая панда"</string>
+    <string name="lightning_golem">"Молния Голем"</string>
+    <string name="dragon">"Дракон"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"Эльфийский Лучник"</string>
+    <string name="elvish_archer_horseman">"Эльфийский Лучник всадник"</string>
+    <string name="grizzly_bear">"Гризли"</string>
+    <string name="earth_golem">"Земля Голем"</string>
+    <string name="eagle">"War Eagle"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"Мумия"</string>
+    <string name="mummy_horseman">"Нежить Rider"</string>
+    <string name="fiery_bear">"Сжигание медведь"</string>
+    <string name="fire_golem">"Ад Спаун"</string>
+    <string name="falcon">"Соколы"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"Религиозный фанатик"</string>
+    <string name="zealot_horseman">"Наемник Knight"</string>
+    <string name="seraphim">"Серафим"</string>
+    <string name="life_golem">"Голем Crusader"</string>
+    <string name="angel">"Ангел"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"Зомби"</string>
+    <string name="zombie_horseman">"Зомби Rider"</string>
+    <string name="succubus">"Суккуб"</string>
+    <string name="undead_golem">"Нежить Голем"</string>
+    <string name="fallen_angel">"Fallen Angel"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"Эльф Чародей"</string>
+    <string name="human_mage">"Маг человека"</string>
+    <string name="human_necromancer">"Человека Некромант"</string>
+    <string name="troll">"Тролль"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"Хоббит"</string>
+    <string name="kobold">"Kobold"</string>
+    <string name="gnome">"GNOME"</string>
+    <string name="ghoul">"Упырь"</string>
+    <string name="human_witch">"Ведьма человека"</string>
+    <string name="female_necromancer">"Женский Некромант"</string>
+    <string name="female_elf_mage">"Женский эльф маг"</string>
+
+</resources>

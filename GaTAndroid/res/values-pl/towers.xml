@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Katapulta lód"</string>
+	<string name="water_pillar">"Filar woda"</string>
+	<string name="water_emitter">"Nadajnik woda"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Błyskawica Cannon"</string>
+	<string name="griffin_statue">"Griffin Statue"</string>
+	<string name="lightning_pillar">"Filar Błyskawica"</string>
+	<string name="lightning_emitter">"Nadajnik Błyskawica"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Rock Cannon"</string>
+	<string name="stone_catapult">"Katapulta kamień"</string>
+	<string name="earth_pillar">"Filar Ziemi"</string>
+	<string name="dirt_emitter">"Nadajnik Dirt"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Płomień Cannon"</string>
+	<string name="flame_catapult">"Katapulta płomień"</string>
+	<string name="fire_pillar">"Filar ogień"</string>
+	<string name="fire_emitter">"Nadajnik ogień"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energy Cannon"</string>
+	<string name="angel_statue">"Statua anioł"</string>
+	<string name="life_pillar">"Filar Życie"</string>
+	<string name="holy_water_emitter">"Święty Emiter wody"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Cannon trucizna"</string>
+	<string name="gargoyle_statue">"Statua gargulec"</string>
+	<string name="undead_pillar">"Undead Filar"</string>
+	<string name="toxic_gas_emitter">"Toksyczny gaz Emitter"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Pejcz płomień"</string>
+	<string name="water_whip">"Bicz wodny"</string>
+	<string name="tentical_whip">"Tentical Bicz"</string>
+	<string name="flame_crystallizer">"Płomień krystalizatorów"</string>
+	<string name="ice_crystallizer">"Hokej krystalizatorów"</string>
+	<string name="earth_crystallizer">"Ziemia krystalizatorów"</string>
+	<string name="lightning_blade">"Blade Błyskawica"</string>
+	<string name="ice_blade">"Blade Ice"</string>
+	<string name="flame_blade">"Blade płomień"</string>
+	<string name="earth_ballista">"Ziemia Balista"</string>
+	<string name="ice_ballista">"Hokej Balista"</string>
+	<string name="flame_ballista">"Płomień Balista"</string>
+	
+</resources>

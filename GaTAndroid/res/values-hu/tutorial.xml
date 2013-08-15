@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Üdvözöljük a tutorial szinten. Itt megtanítjuk, hogyan kell használni az összes funkciója a Gods and Towers. Észre fogja venni 1 görgetősáv jobb oldalán néhány ilyen popup, mint a tutorial előrehaladtával. Ne felejtsd el, hogy lépjen le, hogy az összes információt."</string>
+    <string name="tutorial_game_area">"Mit látsz most a fórumon, húzza az ujját a tábla körül mozgatni. Észre fogja venni az akadályokat, mint a sziklák és fák, amelyek megakadályozhatják a tornyok építése. Azt is észre csillogó kék terület, ez az, ahol lények lerakni. Néhány másik pont a térképen lesz egy csillogó vörös terület, ez az, ahol lények próbálnak mozogni is. Ha elérik a piros terület, akkor veszít egy életet, amikor az életed eléri a 0, a játéknak vége. Vegyünk egy kis időt, hogy megtekinthesse a fedélzeten, és azonosítsa azokat a kulcsfontosságú funkciók most."</string>
+    <string name="tutorial_top_menu">"A képernyő tetején van a legfontosabb információkat, hogy lehetővé teszi, hogy ismeri a jelenlegi életben, hogy mennyi pénz van a kezét, hogy több hullámban telt el, hogy mennyi jövedelmet kap a következő hullám, és a hátralévő időt, amíg a következő hullám."</string>
+    <string name="tutorial_top_menu_life">"Ennyi az élet még van olyan. Amikor eléri a 0, akkor veszít."</string>
+    <string name="tutorial_top_menu_gold">"Ez mennyi arany kell vásárolnia tornyok és lények."</string>
+    <string name="tutorial_top_menu_income">"A jobb oldalon ez mekkora jövedelmet kap a következő hullám, valamint az időt, amíg a következő hullám."</string>
+    <string name="tutorial_bottom_menu">"A képernyő alján észre fogod venni, több gomb. Ezekkel a gombokkal lehet vásárolni tornyok, vásárlás lények, használata extrák, megváltoztatásának lehetőségeire, lehetővé teszi a támadó, és a szünet / folytathatja a játékot."</string>
+    <string name="tutorial_bottom_menu_tower">"Ez felveti a Towers menüben. Megmutatja az összes tornyok segítségével, valamint a torony még nem oldva."</string>
+    <string name="tutorial_bottom_menu_creature">"Ez felveti a lények menüben. Ez azt mutatja, hogy minden teremtmény segítségével, valamint a lények még nem oldva."</string>
+    <string name="tutorial_bottom_menu_special">"Ez felveti a Specials menüben. Megmutatja az összes Akciós használhatja."</string>
+    <string name="tutorial_bottom_menu_option">"Ez felveti a Beállítások menüben. Ki tudja kapcsolni a zenét, és változtassa meg a nézetet a játék innen."</string>
+    <string name="tutorial_bottom_menu_attacking">"Ez lehetővé teszi a támadó, akkor ezt meg fogja beszélni később többet."</string>
+    <string name="tutorial_bottom_menu_pause">"Ez lehetővé teszi, hogy szünetelteti a játékot, és újra, amikor készen állsz."</string>
+    <string name="tutorial_buying_tower">"Az ellenség megidézett lények, így meg kell építeni egy torony megvédeni magunkat. Kattintson a torony gombot, és válasszon ki egy tornyot építeni."</string>
+    <string name="tutorial_buying_tower_pick">"Kattintson a képre a torony szeretne vásárolni. Látni fogja a költségeit a torony mellett a képet. Az alján a képernyő jobb a tornyok károk és támadási sebességét jelenik meg, ha ezt választja."</string>
+    <string name="tutorial_buying_tower_selected">"Most, hogy már kiválasztott egy tornyot kell felvenni egy helyet a képernyőn, hogy építeni. Észre fogja venni, hogy a torony jelenik meg a képernyőn, és egy kék aura sor, hogy megmutatja, milyen messzire tud támadni a tornyot. Ha a hely egy tornyot egy helyszínen nem akarod, csak kattints a toronyba, és újra el fog tűnni. Ha készen áll, hogy megvásárolja a torony, válassza a vásárlás gombot a bal alsó sarokban. Törléséhez épület tornya, a leállító gomb."</string>
+    <string name="tutorial_buying_tower_purchase">"Ezzel a gombbal erősítse meg a vásárlások, és felépíti az összes tornyok tetted a képernyőn. Tornyok kerülnek, érvénytelen helyeken, mint a sziklák, fák, vagy a lények nem épül. Ha megpróbálja, és épít egy tornyot, hogy blokkolja az utat a lények, nem fog épülni."</string>
+    <string name="tutorial_buying_tower_cancel">"Ha úgy dönt, nem szeretne vásárolni tornyok, a gomb megnyomásával. Minden folyamatban lévő torony a hajón lesz távolítva."</string>
+    <string name="tutorial_build_maze">"Szép munka, most is több lény jön, akkor több kell tornyok. Build 10 több tornyok most. Győződjön meg róla, hogy tegye az utat a lények, hogy lassú mozgását a kilépési pontot. Építkezve egy labirintus lehetővé teszi a tornyok a támadás lények egynél többször, és növeli a távolságot, hogy a lények kell utazniuk."</string>
+    <string name="tutorial_upgrade_tower">"Mivel a játék előrehaladtával akkor elfogy a hely, hogy terjesszen tornyok, lények azonban, továbbra is, és erősebb lesz. Ezen a ponton meg kell kezdeni frissíteni a tornyok. Válassza ki a torony, hogy ki a frissítési menü."</string>
+    <string name="tutorial_upgrade_tower_selected">"Nagyszerű, most ebben a menüben megjelenik egy kép a torony és egy gomb is, hogy eladja a torony."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Kattintson a torony ikon, hogy megvásárolja a frissítést. A költségek mellett látható a torony."</string>
+    <string name="tutorial_upgrade_tower_sell">"Erre a gombra kattintva eladja a tornyot, kivette a térképet."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Ha úgy dönt, nem szeretne frissíteni, vagy eladni a torony kattintson erre a gombra a bal alsó sarokban."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Hosszú nyomja meg a torony ikon frissíteni a torony, mint ahányszor pénzt lehetővé teszi."</string>
+    <string name="tutorial_side_buttons">"Amikor játszik a csatában vagy online módban, látni fogod a gombok oldalán a képernyőn. Ezek lehetővé teszik, hogy megtekintsük az ellenség fórumon. Ez akkor lehet hasznos, amikor eldönti, hogy mely lények vásárolni. A játék fogja mondani, mit fórum amit keresel az egy rövid felugró alján a képernyő közepén. Nem lehet építeni tornyok az ellenség fórumon. Vegyünk egy kis időt, hogy megtekinthesse az ellenség fórumon."</string>
+    <string name="tutorial_side_buttons_pic">"Ez egy oldalsó gomb, hogy elviszi, hogy az ellenség fórumon."</string>
+    <string name="tutorial_buying_creature">"Észre fogja venni, az ellenség még nem vásárolt tornyok, ez azért van, mert nem hívják össze azok a lények, még támadni. Nyomja meg a gombot a lény hozza fel a lény menüben. Ha rákattint egy lény megidéz, ha van elég pénz. Menj előre, és megidézi néhány lények jelennek meg, és nézni őket az ellenség fórumon."</string>
+    <string name="tutorial_buying_creature_purchase">"Kattints a ikonra lény megvásárolni azt. Mellette a lényt látni fogja, hogy mennyibe kerül. Szintén a jobb alsó sarokban látható a lények egészségügyi és mozgási sebességét után válasszuk ki."</string>
+    <string name="tutorial_buying_creature_cancel">"Ha a továbbiakban nem szeretne vásárolni lények, válassza a Mégse gombra a bal alsó sarokban."</string>
+    <string name="tutorial_buying_creature_long_press">"Hosszú nyomja meg a lény ikonra enable / disable auto-vásárlást. Az auto-vásárlás engedélyezve lesz megvásárolni a lény minden második, ha van elég arany."</string>
+    <string name="tutorial_attacking">"Lehetnek olyan esetek, amikor az ellenség épített egy bonyolult labirintus, hogy a lények nem tudnak mozogni. Ekkor támad hasznos lehet. A támadó képes lények megpróbálja mozgatni a kijárat, és megtámadni tornyok az útjukba. Ne feledjük, hogy amikor bekapcsolja a támadó, akkor lassan elveszíti az arany, ha elfogy a pénz, támadó automatikusan kikapcsol. Próbálja meg a támadó most."</string>
+    <string name="tutorial_attacking_button">"Válassza ezt, hogy támad."</string>
+    <string name="tutorial_attacking_move">"Válassza ezt letiltani támadó."</string>
+    <string name="tutorial_specials">"Néha a tornyok nem elég megállítani az ellenséget lények, vagy a lények nem úgy tűnik, hogy ez az ellenséges tornyokat. A különlegesség ad egy lökést, hogy segítsen nyerni. Próbálj egy speciális most."</string>
+    <string name="tutorial_specials_damage">"Ez a speciális károkért minden teremtmény a fedélzeten"</string>
+    <string name="tutorial_specials_heal">"Ez a különleges meggyógyítja minden teremtmény az ellenség fedélzeten"</string>
+    <string name="tutorial_specials_kill">"Ez a különleges megöli számos véletlenszerű lények a fedélzeten"</string>
+    <string name="tutorial_specials_slow">"Ez a különleges lassítja az összes teremtmény a fedélzeten, egy rövid időre"</string>
+    <string name="tutorial_specials_speed">"Ez a különleges felgyorsítja a lények egy rövid időre"</string>
+    <string name="tutorial_specials_stun">"Ez a speciális stuns minden teremtmény a fedélzeten, egy rövid időre"</string>
+    <string name="tutorial_options_menu">"Most nézzük meg az opciók menüből. Észre fogja venni, hogy több gomb lehetővé teszi, hogy megváltoztassa a játék nézet, lejátszás / szünet a zene, és küldje vissza a játék érdekében, hogy az alapértelmezett beállításokat."</string>
+    <string name="tutorial_options_menu_zoomin">"Használja ezt a nagyításhoz"</string>
+    <string name="tutorial_options_menu_zoomout">"Használja ezt a kicsinyítéshez"</string>
+    <string name="tutorial_options_menu_rotateup">"Használja ezt a nézetet forgatni fel"</string>
+    <string name="tutorial_options_menu_rotatedown">"Használja ezt a nézetet forgatni le"</string>
+    <string name="tutorial_options_menu_default">"Használja ezt a nézetet, hogy visszatérjen az alapértelmezett helyre"</string>
+    <string name="tutorial_options_menu_play">"Ezzel lehetővé teszi a zene"</string>
+    <string name="tutorial_options_menu_pause">"Használja ezt a zenét kikapcsolni"</string>
+    <string name="tutorial_upgrading">"Ahogy játszani Gods and Towers kapsz tapasztalat, ez az élmény lehet frissíteni a kezdő Life / Gold Race bónuszok, Creature képességeit, és a Tower képességeit. Minden fajnak különleges bónuszokat, amelyek minden teremtmény és tornyai a futamot, korszerűsítése nekik kedvez minden teremtmény / tornyok ilyen típusú. Torony / Creature frissítéseket csak érinti a torony / lény, és növelni erejüket minden játékot játszunk. Ha elfelejtette mi az a stat csak hosszú nyomja meg a stat ikonra a frissítési menüben, és ez fogja mondani."</string>
+    <string name="tutorial_completion">"Gratulálunk, Ön befejezte a tutorial. Játssz a kampány kinyit több lények és tornyok. Komplett eredmények keresni extra tapasztalatot szerezni, és extrák használni a játékban. Minél több eredmények akkor kinyit, annál több tapasztalatot kap a játék."</string>
+    <string name="tutorial_continue">"folytat"</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"欢迎教程层面。在这里我们将教你如何使用的所有功能，在神和塔。你会注意到的一些教程进步这些弹出窗口右侧的滚动条。不要忘了向下滚动才能得到的所有信息。"</string>
+    <string name="tutorial_game_area">"你现在看到的是你的板子，各地板拖动你的手指移动它。你会注意到防止你造塔的岩石和树木等障碍物。你还会注意到一个波光粼粼的蓝色区域，这是生物产卵的地方。在其他一些在地图上点会有一个闪闪发光的红色区域，这是生物的地方尝试过移动。如果他们到达红色区域，你失去了生命，当你的生命达到0时，游戏结束。需要一些时间来查看董事会和现在确定每个关键功能。"</string>
+    <string name="tutorial_top_menu">"在屏幕上方是关键信息，让你知道你目前的生活，多少钱，你手头上有多少波已经过去了，直到剩余多少收入，您会收到下一波，也是时间下一波。"</string>
+    <string name="tutorial_top_menu_life">"这是你有剩余多少生命。当它到达0时，你输了。"</string>
+    <string name="tutorial_top_menu_gold">"这是你必须购买多少黄金塔和生物。"</string>
+    <string name="tutorial_top_menu_income">"在右侧，这是多少的收入，您将收到的时间，直到下一波随着下一波。"</string>
+    <string name="tutorial_bottom_menu">"在屏幕的底部，你会发现几个按钮。这些按钮让您买塔，买动物，利用特价，改变选项，使攻击，暂停/恢复游戏。"</string>
+    <string name="tutorial_bottom_menu_tower">"这带来了塔菜单。它显示了您，您可以使用您尚未解锁的塔，塔。"</string>
+    <string name="tutorial_bottom_menu_creature">"这带来了生物菜单。这表明你可以使用，随着您尚未解锁的生物，所有的生物。"</string>
+    <string name="tutorial_bottom_menu_special">"这带来了特价菜单。它显示了你可以使用所有的特价商品。"</string>
+    <string name="tutorial_bottom_menu_option">"这带来了“选项”菜单。你可以关掉音乐，并从这里更改游戏的看法。"</string>
+    <string name="tutorial_bottom_menu_attacking">"这使得攻击，我们将讨论这更晚。"</string>
+    <string name="tutorial_bottom_menu_pause">"这使您可以暂停游戏，并恢复它，当你准备好了。"</string>
+    <string name="tutorial_buying_tower">"敌人的召唤生物，所以我们应该建立一些塔保卫自己。塔上的按钮点击，并选择建立一个塔。"</string>
+    <string name="tutorial_buying_tower_pick">"点击您要购买的塔上的图片。你会看到塔下其画面的成本。塔伤害和攻击速度出现在屏幕的右下角，当你选择它。"</string>
+    <string name="tutorial_buying_tower_selected">"现在您已经选择了一个塔，你必须选择屏幕上的位置来构建它。你会注意到，在塔出现在屏幕上有一个蓝色的范围光环表明您塔可以攻击多远。如果你放置在一个点，你不希望它的塔，塔上只需点击一次就会消失。当你准备购买的塔中，选择在底部的屏幕左上角的购买按钮。要取消塔建设，按“取消”按钮。"</string>
+    <string name="tutorial_buying_tower_purchase">"此按钮是用来确认购买，并建立放置在屏幕上的所有塔。不会被放置在无效的位置上，如岩石，树木，或生物的塔建成。如果你试图建立一个塔，以阻止生物的路径，它不会建立。"</string>
+    <string name="tutorial_buying_tower_cancel">"如果您决定不再想购买塔，按下此按钮。电路板上的所有悬而未决的塔将被删除。"</string>
+    <string name="tutorial_build_maze">"伟大的工作，现在越来越多的动物来，我们将需要更多的塔。现在建造10多塔。确保你把他们在生物路径，减缓他们的运动到出口点。构建一个迷宫，将使你的塔攻击生物不止一次，增加动物的距离，需要前往。"</string>
+    <string name="tutorial_upgrade_tower">"随着比赛的进行，你会遇到地方放塔，生物但会继续来，并且会变得更强。在这一点上，你应该开始升级塔。选择一个塔带来了升级菜单。"</string>
+    <string name="tutorial_upgrade_tower_selected">"太好了，现在在此菜单中您会看到一个塔和一个按钮来卖塔的图片。"</string>
+    <string name="tutorial_upgrade_tower_purchase">"塔上的图标点击购买升级。塔旁显示成本。"</string>
+    <string name="tutorial_upgrade_tower_sell">"点击这个按钮，将出售塔，从地图上删除。"</string>
+    <string name="tutorial_upgrade_tower_cancel">"如果您决定不再想升级或出售在塔底部的屏幕左上角点击此按钮。"</string>
+    <string name="tutorial_upgrade_tower_long_press">"塔的图标长按你的钱允许多次升级塔。"</string>
+    <string name="tutorial_side_buttons">"在战役或在线模式播放时，你会看到在屏幕的一侧的按钮。这允许你查看的敌人板。这可能是有用的，在决定购买哪些动物。游戏会告诉你什么板你正在寻找一个简短弹出在屏幕底部的中心在。你不能建立在敌人板塔。需要一些时间来查看敌人板。"</string>
+    <string name="tutorial_side_buttons_pic">"这是一个侧面的按钮，将带你看到敌人板。"</string>
+    <string name="tutorial_buying_creature">"你会发现敌人并没有购买任何塔，这是因为你还没有传唤任何生物攻击还。按生物按钮，弹出的生物菜单。点击一个生物召唤，如果你有足够的钱。继续前进，召唤一些生物，看他们出现在敌人板。"</string>
+    <string name="tutorial_buying_creature_purchase">"生物图标上点击购买它。下一步的生物，你会看到它的成本多少。此外，在屏幕的右下角，你会看到动物的健康和运动速度后，你选择了它。"</string>
+    <string name="tutorial_buying_creature_cancel">"如果你不再想购买动物，选择在底部的屏幕左上角的“取消”按钮。"</string>
+    <string name="tutorial_buying_creature_long_press">"长按生物的图标来启用/禁用自动购买。随着汽车购买启用，您将购买的生物每一秒，如果你有足够的黄金。"</string>
+    <string name="tutorial_attacking">"有可能是当敌人已构建了一个艰难的迷宫，你的生物是无法移动的次数。这是攻击时可能是有用的。与功能的生物攻击将尝试移动到出口和塔会攻击他们的路径。请记住，当你打开上攻击，你慢慢失去黄金，如果你的钱用完了，攻击会自动被禁用。尝试攻击现在的转折点。"</string>
+    <string name="tutorial_attacking_button">"选择这使攻击。"</string>
+    <string name="tutorial_attacking_move">"选择这个选项，禁用攻击。"</string>
+    <string name="tutorial_specials">"有时你的塔不足以阻止敌人的生物，或你的生物似乎无法通过它的敌人塔。使用特别提供一个升压，以帮助你赢了。尝试使用一种特殊的现在。"</string>
+    <string name="tutorial_specials_damage">"这种特殊的损害板子上的所有生物"</string>
+    <string name="tutorial_specials_heal">"这种特殊的治愈你的敌人船上的所有生物"</string>
+    <string name="tutorial_specials_kill">"这种特殊的杀死你的板子上的一些随机生物"</string>
+    <string name="tutorial_specials_slow">"这种特殊的减缓很短的时间板子上的所有生物"</string>
+    <string name="tutorial_specials_speed">"这特殊的速度很短的时间最多的生物"</string>
+    <string name="tutorial_specials_stun">"这种特殊的晕眩很短的时间你的板子上的所有生物"</string>
+    <string name="tutorial_options_menu">"现在让我们来看看在选项菜单。你会发现几个按钮，让你改变游戏视图，播放/暂停音乐，游戏视图，并返回到默认设置。"</string>
+    <string name="tutorial_options_menu_zoomin">"使用此放大"</string>
+    <string name="tutorial_options_menu_zoomout">"使用这种缩小"</string>
+    <string name="tutorial_options_menu_rotateup">"使用这种旋转视图"</string>
+    <string name="tutorial_options_menu_rotatedown">"使用这种旋转视图"</string>
+    <string name="tutorial_options_menu_default">"使用这个返回的观点，其默认位置"</string>
+    <string name="tutorial_options_menu_play">"这使音乐"</string>
+    <string name="tutorial_options_menu_pause">"使用这种禁用音乐"</string>
+    <string name="tutorial_upgrading">"当你在玩神塔，你将获得的经验，这种经验可以用来升级你的人生起点/金，比赛奖金，怪物的能力，以及塔能力。每个种族都有特别适用于所有的动物和塔那场比赛的奖金，提升它们有利于该类型的所有生物/塔。塔/怪物升级，不仅会影响塔/生物和增加每场比赛你发挥自己的力量。如果您忘记了什么是一个统计长按升级“菜单中的统计图标，它会告诉你。"</string>
+    <string name="tutorial_completion">"恭喜你，你已完成的教程。玩的运动，以解除更多的动物和塔。完成的成就，以赚取额外的经验，并获得特别在游戏中使用。取得更大的成就，你解开，你得到更多的经验，从演奏。"</string>
+    <string name="tutorial_continue">"继续......"</string>
+
+</resources>

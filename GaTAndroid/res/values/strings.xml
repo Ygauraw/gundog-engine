@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_uri">market://details?id=com.godsandtowers</string>
+    <string name="app_package">com.godsandtowers</string>
+    <string name="app_name">Gods and Towers</string>
+    <string name="app_description">Gods and Towers, a 3D tower defense game against AI or PVP.</string>
+    <string name="motto">Fight To Win!</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">Resume Game</string>
+    <string name="main_newGame">New Game</string>
+    <string name="main_store">Store</string>
+    <string name="main_upgrade">Upgrade</string>
+    <string name="main_achievements">Achievements</string>
+    <string name="main_almanac">Almanac</string>
+    <string name="main_options">Options</string>
+    <string name="main_credits">Credits</string>
+    <string name="main_exit">Exit</string>
+    <string name="main_back">Back</string>
+    <string name="main_retry">Retry</string>
+    <string name="main_downloading">Downloading game data, please wait…</string>
+    <string name="main_download_failed">Failed to download the required data, please exit and restart the game to try again from where it left off.</string>
+    <string name="main_external_storage">Please mount external storage so the application can download/use required data</string>
+    <string name="main_latest_version">A new version of Gods and Towers is available or you are unable to connect with the game server.</string>
+    <string name="main_no_news">No News</string>
+    <string name="main_news_server_down">The news server is down, or there was an error retrieving the latest game news.</string>
+    <string name="main_version">version:</string>
+    <string name="main_graphics">There was an error loading model data due to excessive memory use.  Graphics settings are being lowered and the application is exiting.  Please restart and try to run the game with reduced Texture Quality and/or Mesh Quality, which you can set in the Options menu when you first startup the game.</string>
+ 	<string name="main_rate_dialog">If you enjoy using %s, please take the time to rate it. Thank you for your support.</string>
+    <string name="main_rate_now">Rate %s</string>
+    <string name="main_rate_later">Remind me later</string>
+    <string name="main_rate_never">No thanks</string>
+    
+    <!-- Purchase -->
+    <string name="purchase_money">$$</string>
+    <string name="purchase_purchase">Purchase</string>
+    <string name="purchase_cancel">Cancel</string>
+    <string name="purchase_reduced_ads">Remove Obtrusive ADS</string>
+    <string name="purchase_reduced_ads_description">Eliminates the ADS at the top of all the menus and those before and after games.</string>
+    <string name="purchase_all_races">Unlock All Races</string>
+    <string name="purchase_all_races_description">Unlocks all the races giving you access to 25 new creatures and 20 new towers.</string>
+    <string name="purchase_multiple_races">Unlock Race Combinations</string>
+    <string name="purchase_multiple_races_description">Unlocks the ability to play as more than one race at once giving you access to 12 new creatures and 12 new towers.</string>
+    <string name="purchase_special_100">Purchase 100 of each special</string>
+    <string name="purchase_special_100_description">Gives you 100 of each of the race specials</string>
+    <string name="purchase_upgrade_abilities">Upgrade all player and race abilities</string>
+    <string name="purchase_upgrade_abilities_description">Boosts the level by 1 of all the player stats and race stats</string>
+    <string name="purchase_upgrade_all">Upgrade every tower/creature for all races</string>
+    <string name="purchase_upgrade_all_description">Boosts the level of each ability for EVERY creature/tower by 1</string>
+    <string name="purchase_upgrade_onerace">Upgrade every tower/creature for </string>
+    <string name="purchase_upgrade_onerace_description">Boosts the level of each ability for all creatures/towers in one race by 1</string>
+    <string name="purchase_double_experience">Double your experience</string>
+    <string name="purchase_double_experience_description">Instantly gives you 2X your current experience level in each race.</string>
+    <string name="purchase_billing_not_supported_title">Can\'t make purchases</string>
+    <string name="purchase_billing_not_supported_message">The billing service is not available at this time.  You can continue to use this app but you won\'t be able to make purchases.</string>
+    <string name="purchase_cannot_connect_title">Can\'t connect to the billing service</string>
+    <string name="purchase_cannot_connect_message">This app cannot connect to the billing service. You can continue to use this app but you won\'t be able to make purchases.</string>
+    <string name="purchase_restoring_transactions">Restoring transactions</string>
+
+    <!-- Credits -->
+    <string name="credits_url">Website</string>
+    <string name="credits_production">Produced By</string>
+    <string name="credits_production_name">Gundog Studios</string>
+    <string name="credits_production_website">https://angel.co/gundog-studios</string>
+    <string name="credits_programming">Programming</string>
+    <string name="credits_programming_name">Joe Laws</string>
+    <string name="credits_programming_website">https://angel.co/joe-laws</string>
+    <string name="credits_models">3D Models and Textures</string>
+    <string name="credits_models_name">Tucho Fernández Calo</string>
+    <string name="credits_models_website">http://www.artbytucho.com</string>
+    <string name="credits_story">Game Almanac</string>
+    <string name="credits_story_name">Jordy Clements</string>
+    <string name="credits_story_website">http://jordyclements.com/</string>
+    <string name="credits_pixelart">2D Pixel Art and Trailer</string>
+    <string name="credits_pixelart_name">Paul Calvert</string>
+    <string name="credits_pixelart_website">http://www.krop.com/paulcalvert/#/</string>
+    <string name="credits_music">Music</string>
+    <string name="credits_music_name">Neil Johnston</string>
+    <string name="credits_music_website">http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html</string>
+    <string name="credits_website">Webdesign</string>
+    <string name="credits_website_name">Katherine Lewis</string>
+    <string name="credits_website_website">http://www.eastofnorth.com/</string>
+    <string name="credits_trailer"></string>
+    <string name="credits_trailer_name"></string>
+    <string name="credits_trailer_website"></string>
+    <string name="credits_translations">Translations</string>
+    <string name="credits_translations_names">Seung-Eun Lee (Korean)</string>
+    <string name="credits_special_thanks">Special Thanks</string>
+    <string name="credits_special_thanks_names">Team Awesome and 2nd Platoon Delta Company 2–35IN</string>
+    <string name="credits_inmemoryof">In Memory of SGT Kevin White.  Gone, but not forgotten.</string>
+
+    <!-- InGame -->
+    <string name="game_you">YOU</string>
+    <string name="game_enemy">ENEMY</string>
+    <string name="game_wave">Wave:</string>
+    <string name="game_in">in</string>
+    <string name="game_seconds">s</string>
+    <string name="game_plus">+</string>
+    <string name="game_creature_level">UPGRADING TO CREATURE LEVEL</string>
+    <string name="game_max_upgrade">PURCHASING MAX UPGRADE</string>
+    <string name="game_enable_auto_purchase">ENABLING AUTO PURCHASE</string>
+    <string name="game_disable_auto_purchase">DISABLING AUTO PURCHASE</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">Failed to Load</string>
+    <string name="manager_playerReset">Player and Game Data Reset</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">YOU WON</string>
+    <string name="results_lost">YOU LOST</string>
+    <string name="results_disconnected">DISCONNECTED</string>
+    <string name="results_you">YOU</string>
+    <string name="results_ai">AI</string>
+    <string name="results_continue">Continue</string>
+    <string name="results_length">Length</string>
+    <string name="results_waves">Waves</string>
+    <string name="results_base_xp">Base XP</string>
+    <string name="results_total_xp">Total XP per race</string>
+    <string name="results_campaign">Campaign</string>
+    <string name="results_rewards">Rewards</string>
+    <string name="results_main">Main</string>
+    <string name="results_life">Life</string>
+    <string name="results_income">Income</string>
+    <string name="results_offense">Offense</string>
+    <string name="results_defense">Defense</string>
+    <string name="results_wave">Wave</string>
+    <string name="results_achievement_bonus">Achievement Bonus</string>
+    <string name="results_win_bonus">Win Bonus</string>
+    <string name="results_length_bonus">Length Bonus</string>
+    <string name="results_life_bonus">Life Bonus</string>
+    <string name="results_multiple_race_factor">Multiple Race Factor</string>
+    <string name="results_free_version">You do not earn experience in the free version of Gods and Towers</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">Are you sure you want to reset all player data?</string>
+    <string name="options_assetClear">Are you sure you want to clear all download assets?</string>
+    <string name="options_reset">Reset</string>
+    <string name="options_assets">Delete Game Data</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_clearing">All download assets are being removed, application is exiting…</string>
+    <string name="options_soundOn">Sound On</string>
+    <string name="options_soundOff">Sound Off</string>
+    <string name="options_cancel">Cancel</string>
+    <string name="options_textureQuality">Texture Quality</string>
+    <string name="options_meshQuality">Mesh Quality</string>
+    <string name="options_engineSpeed">GameEngine Speed</string>
+    <string name="options_high">High</string>
+    <string name="options_medium">Medium</string>
+    <string name="options_low">Low</string>
+    <string name="options_fast">Fast</string>
+    <string name="options_normal">Normal</string>
+    <string name="options_slow">Slow</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">Opponents Level</string>
+    <string name="newgame_yourRace">Your Race(s)</string>
+    <string name="newgame_opponentsRace">Opponents Race(s)</string>
+    <string name="newgame_waves">Max Waves</string>
+    <string name="newgame_invalid_text">Invalid computer level or wave count, please put in a number > 0</string>
+    <string name="newgame_computersRaceLevel">Computers level must be at least</string>
+    <string name="newgame_startGame">Start Game</string>
+    <string name="newgame_minHumanRaces">You must select at least 1 race for yourself</string>
+    <string name="newgame_minComputerRaces">You must select at least 1 race for the computer</string>
+    <string name="newgame_speed">GameSpeed</string>
+    <string name="newgame_fast">Fast</string>
+    <string name="newgame_normal">Normal</string>
+    <string name="newgame_slow">Slow</string>
+    <string name="newgame_difficulty">Difficulty</string>
+    <string name="newgame_easy">Easy</string>
+    <string name="newgame_medium">Medium</string>
+    <string name="newgame_hard">Hard</string>
+    <string name="newgame_expert">Expert</string>
+    <string name="newgame_type">GameType</string>
+    <string name="newgame_tutorial">Tutorial</string>
+    <string name="newgame_campaign">Campaign</string>
+    <string name="newgame_defense">Defense Training</string>
+    <string name="newgame_battle">Battle Mode</string>
+    <string name="newgame_online">Online Game</string>
+    <string name="newgame_findGame">Find Game</string>
+    <string name="newgame_searching">Searching…</string>
+    <string name="newgame_random">RANDOM</string>
+    <string name="newgame_onlineError">You are unable to join an online game</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">XP</string>
+    <string name="upgrade_creatures">Creatures</string>
+    <string name="upgrade_towers">Towers</string>
+    <string name="upgrade_specials">Specials</string>
+    <string name="upgrade_notEnoughXP">You do not have enough experience for</string>
+
+    <!-- Races -->
+    <string name="race_fire">Agni\'s Legion of the Sacrificed</string>
+    <string name="race_ice">Skaði\'s Frozen Savages</string>
+    <string name="race_earth">Gaia\'s Lot of Noble Soldiers</string>
+    <string name="race_wind">Quetzalcoatl\'s Warrior Tribe</string>
+    <string name="race_life">Hugues de Payens\' Holy Knights Templar</string>
+    <string name="race_death">Damballa\'s Army of the Damned</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">XP</string>
+    <string name="achievements_longestGame">LONGEST GAME</string>
+    <string name="achievements_shortestGame">SHORTEST GAME</string>
+    <string name="achievements_highestScore">HIGHEST SCORE</string>
+    <string name="achievements_highestLevelBeaten">HIGHEST LEVEL BEATEN</string>
+    <string name="achievements_wins">BATTLE WINS</string>
+    <string name="achievements_losses">BATTLE LOSSES</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">Starting Gold</string>
+    <string name="stat_life">Starting Life</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">Cost</string>
+    <string name="stat_income">Income</string>
+    <string name="stat_air">Air</string>
+    <string name="stat_ground">Ground</string>
+    <string name="stat_attack_range">Attack Range</string>
+    <string name="stat_health">Health</string>
+    <string name="stat_speed">Speed</string>
+    <string name="stat_defense">Defense</string>
+    <string name="stat_damage">Damage</string>
+    <string name="stat_attack_rate">Attack Rate</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">Splash Damage Radius</string>
+    <string name="stat_splash_strength_fade">Splash Strength Fade</string>
+    <string name="stat_creature_damage_modifier">Creature Damage Bonus</string>
+    <string name="stat_slow_duration">Slow Duration</string>
+    <string name="stat_slow_factor">Slow Rate</string>
+    <string name="stat_creature_evade_percentage">Evade Chance</string>
+    <string name="stat_stun_duration">Stun Duration</string>
+    <string name="stat_tower_attack_rate_modifier">Tower Attack Speed Bonus</string>
+    <string name="stat_creature_speed_modifier">Creature Movement Speed Bonus</string>
+    <string name="stat_tower_damage_modifier">Tower Damage Bonus</string>
+    <string name="stat_tower_defense_modifier">Tower Defense Bonus</string>
+    <string name="stat_creature_defense_modifier">Creature Defense Bonus</string>
+    <string name="stat_drain_duration">Drain Duration</string>
+    <string name="stat_drain_percentage">Drain Percentage</string>
+    <string name="stat_heal_percentage">Heal Percentage</string>
+    <string name="stat_kill_percentage">Instant Kill Chance</string>
+    <string name="stat_creature_health_modifier">Creature Health Bonus</string>
+    <string name="stat_resurrect_percentage">Resurrection Chance</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">Damage all enemy creatures</string>
+    <string name="special_heal">Heal all your creatures</string>
+    <string name="special_kill">Kill 25% of enemy creatures on your board</string>
+    <string name="special_slow">Slow all enemy creatures</string>
+    <string name="special_speed">Speed up all your creatures</string>
+    <string name="special_stun">Stun all enemy creatures</string>
+
+</resources>

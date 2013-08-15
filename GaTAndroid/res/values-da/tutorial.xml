@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Velkommen til tutorial niveau. Her vil vi lære dig at bruge alle funktionerne i guder og tårne. Du vil bemærke en scrollbar i højre side af nogle af disse popups som tutorial skrider frem. Glem ikke at rulle ned for at få alle oplysninger."</string>
+    <string name="tutorial_game_area">"Hvad du ser nu, er dit bord, skal du trække fingeren rundt på brættet for at flytte det rundt. Du vil bemærke forhindringer som sten og træer, der forhindrer dig i at bygge tårne. Du vil også bemærke en funklende blå område, det er, hvor væsner yngle. På et andet punkt på kortet, vil der være en funklende rød område, det er, hvor væsner forsøger at bevæge sig for. Hvis de når det røde område, mister du et liv, når dit liv når 0, er spillet slut. Brug lidt tid på at se brættet og identificere hver enkelt af de vigtigste features nu."</string>
+    <string name="tutorial_top_menu">"På toppen af ​​skærmen er der centrale oplysninger, der fortæller dig, dit nuværende liv, hvor mange penge du har på hånden, hvor mange bølger der er gået, hvor meget indkomst du vil modtage på den næste bølge, og også den resterende tid indtil næste bølge."</string>
+    <string name="tutorial_top_menu_life">"Dette er hvor meget liv du har tilbage. Når det når 0, taber du."</string>
+    <string name="tutorial_top_menu_gold">"Dette er, hvor meget guld du nødt til at købe tårne ​​og væsner."</string>
+    <string name="tutorial_top_menu_income">"På højre side er, hvor meget indkomst, du vil modtage på den næste bølge, sammen med tiden indtil den næste bølge."</string>
+    <string name="tutorial_bottom_menu">"I bunden af ​​skærmen vil du se flere knapper. Disse knapper giver dig mulighed for at købe tårne, buy skabninger, bruge specielle, indstillinger og gør det muligt at angribe og pause / genoptage spillet."</string>
+    <string name="tutorial_bottom_menu_tower">"Dette bringer op Towers menuen. Den viser dig alle de tårne ​​du kan bruge, sammen med tårne ​​du endnu ikke har låst op."</string>
+    <string name="tutorial_bottom_menu_creature">"Dette bringer op Creatures menuen. Den viser dig alle de skabninger du kan bruge, sammen med skabninger du endnu ikke har låst op."</string>
+    <string name="tutorial_bottom_menu_special">"Dette bringer op Specials menuen. Det viser dig alle de specialtilbud, du kan bruge."</string>
+    <string name="tutorial_bottom_menu_option">"Dette bringer op menuen. Du kan slukke for musikken og ændre visningen af ​​spillet herfra."</string>
+    <string name="tutorial_bottom_menu_attacking">"Dette gør det muligt at angribe, vil vi diskutere dette mere senere."</string>
+    <string name="tutorial_bottom_menu_pause">"Dette giver dig mulighed for at pause spillet og genoptage det, når du er klar."</string>
+    <string name="tutorial_buying_tower">"Fjenden indkaldte væsener, så vi skal bygge nogle tårne ​​til at forsvare os. Klik på tårnet knappen og vælg et tårn til at bygge."</string>
+    <string name="tutorial_buying_tower_pick">"Klik på billedet af tårnet, du ønsker at købe. Du vil se prisen på tårnet ved siden af ​​sit billede. I nederste højre hjørne af skærmen tårnene skader og angreb hastighed vises, når du vælger den."</string>
+    <string name="tutorial_buying_tower_selected">"Nu hvor du har valgt et tårn, skal du vælge et sted på skærmen for at bygge det. Du vil bemærke, at tårnet vises på skærmen, og har en blå række aura, der viser dig hvor langt tårnet kan angribe. Hvis du placerer et tårn på et sted du ikke ønsker det, skal du blot klikke på tårnet igen, og det vil forsvinde. Når du er klar til at købe tårnet, skal du vælge køb-knappen i nederste venstre hjørne af skærmen. Hvis du vil annullere bygge tårne, trykke på knappen Annuller."</string>
+    <string name="tutorial_buying_tower_purchase">"Denne knap bruges til at bekræfte køb og vil bygge alle de tårne, du placeret på skærmen. Towers, der er placeret på ugyldige steder såsom på sten, træer, eller væsner, vil ikke blive bygget. Hvis du prøver og bygge et tårn til at blokere vejen for de skabninger, vil det ikke blive bygget."</string>
+    <string name="tutorial_buying_tower_cancel">"Hvis du beslutter du ikke længere ønsker at købe tårne, skal du trykke på denne knap. Alle verserende tårne ​​på brættet vil blive fjernet."</string>
+    <string name="tutorial_build_maze">"Great job, nu da flere væsener kommer, vil vi brug for flere tårne. Byg 10 flere tårne ​​nu. Sørg for at du placerer dem i vejen for væsner til at bremse deres bevægelse til udgangsstedet. Konstruktion af en labyrint, vil gøre det muligt for dine tårne ​​at angribe skabninger mere end én gang, og øge den afstand, der skabninger er nødt til at rejse."</string>
+    <string name="tutorial_upgrade_tower">"Som spillet skrider frem vil du løbe tør for steder at sætte tårne, skabninger vil dog fortsætte med at komme, og vil blive stærkere. På dette tidspunkt bør du begynde at opgradere dine tårne. Vælg et tårn for at få opgraderingen menuen."</string>
+    <string name="tutorial_upgrade_tower_selected">"Great, nu i denne menu, vil du se et billede af tårnet og også en knap til at sælge tårnet."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klik på tårnet ikonet for at købe opgraderingen. Omkostningerne vises ved siden af ​​tårnet."</string>
+    <string name="tutorial_upgrade_tower_sell">"Hvis du klikker på denne knap vil sælge tårnet, fjerne det fra kortet."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Hvis du beslutter du ikke længere ønsker at opgradere eller sælge tårnet klik på denne knap i nederste venstre hjørne af skærmen."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Langt tryk tårnet ikonet for at opgradere tårnet så mange gange som dine penge tillader."</string>
+    <string name="tutorial_side_buttons">"Når du spiller i kamp eller Online-mode, vil du se knapper på siden af ​​skærmen. Disse giver dig mulighed for at se fjender bestyrelsen. Dette kan være nyttigt, når det besluttes, hvor væsner til at købe. Spillet vil fortælle dig, hvad board du ser på med en kort popup nederst i midten af ​​skærmen. Du kan ikke bygge tårne ​​på fjender bord. Brug lidt tid på at se fjender bestyrelsen."</string>
+    <string name="tutorial_side_buttons_pic">"Dette er en side knap, der vil tage dig at se fjender bestyrelsen."</string>
+    <string name="tutorial_buying_creature">"Du vil bemærke fjenden har ikke købt nogen tårne, er det fordi du ikke har indkaldt nogen væsener til at angribe endnu. Tryk væsen knappen for at få dit væsen menu. Hvis du klikker på et væsen kalder det, hvis du har penge nok. Gå videre og indkalde nogle skabninger og se dem vises på fjender bord."</string>
+    <string name="tutorial_buying_creature_purchase">"Klik på væsen ikonet for at købe det. Ved siden af ​​væsen, vil du se, hvor meget det koster. Også på det nederste højre hjørne af skærmen vil du se væsener sundhed og bevægelseshastighed når du har valgt det."</string>
+    <string name="tutorial_buying_creature_cancel">"Hvis du ikke længere ønsker at købe skabninger, skal du vælge knappen Annuller nederst i venstre hjørne af skærmen."</string>
+    <string name="tutorial_buying_creature_long_press">"Langt tryk på væsen ikonet for at aktivere / deaktivere auto-køb. Med auto-købet aktiveret, vil du købe det væsen hvert sekund, hvis du har nok guld."</string>
+    <string name="tutorial_attacking">"Der kan være tidspunkter, hvor fjenden har konstrueret en vanskelig labyrint at dine skabninger er i stand til at bevæge sig igennem. Dette er, når angribe kan være nyttige. Med angriber aktiverede skabninger vil forsøge at flytte til exit, og vil angribe alle tårne ​​på deres vej. Husk, at når du tænder på at angribe, du langsomt taber guld, hvis du løber tør for penge, vil angribe automatisk blive deaktiveret. Prøv at tænde angribe nu."</string>
+    <string name="tutorial_attacking_button">"Vælg dette for at aktivere angribe."</string>
+    <string name="tutorial_attacking_move">"Vælg dette for at deaktivere angribe."</string>
+    <string name="tutorial_specials">"Sommetider dine tårne ​​er ikke nok til at stoppe de fjendtlige skabninger, eller dine væsner kan ikke synes at gøre det gennem fjendens tårne. Brug specials giver et boost til at hjælpe dig med at vinde. Prøv at bruge en speciel nu."</string>
+    <string name="tutorial_specials_damage">"Denne særlige skader alle skabninger på dit bord"</string>
+    <string name="tutorial_specials_heal">"Denne særlige helbreder alle dine skabninger på fjender bord"</string>
+    <string name="tutorial_specials_kill">"Denne særlige dræber flere tilfældige væsener på dit bord"</string>
+    <string name="tutorial_specials_slow">"Denne særlige forsinker alle skabninger på dit bord for en kort tid"</string>
+    <string name="tutorial_specials_speed">"Denne særlige hastigheder op for dine skabninger for en kort tid"</string>
+    <string name="tutorial_specials_stun">"Denne særlige lammer alle skabninger på dit bord for en kort tid"</string>
+    <string name="tutorial_options_menu">"Lad os nu se på indstillingsmenuen. Du vil bemærke en række knapper, der giver dig mulighed for at ændre spillet opfattelse, play / pause musikken, og returnere spillet udsigt til standardindstillingerne."</string>
+    <string name="tutorial_options_menu_zoomin">"Brug dette til at zoome ind"</string>
+    <string name="tutorial_options_menu_zoomout">"Brug dette til at zoome ud"</string>
+    <string name="tutorial_options_menu_rotateup">"Brug dette til at rotere visningen op"</string>
+    <string name="tutorial_options_menu_rotatedown">"Brug dette til at rotere visningen ned"</string>
+    <string name="tutorial_options_menu_default">"Brug denne til at returnere henblik på standardplaceringen"</string>
+    <string name="tutorial_options_menu_play">"Brug dette for at aktivere musik"</string>
+    <string name="tutorial_options_menu_pause">"Brug dette til at deaktivere musik"</string>
+    <string name="tutorial_upgrading">"Som du spiller guder og tårne ​​du vil tjene erfaring, kan disse erfaringer bruges til at opgradere din start Life / Gold, Race bonusser, væsen evner, og Tower evner. Hver race har særlige bonusser, som gælder for alle skabninger og tårne ​​af denne race, opgradere dem til gavn for alle skabninger / tårne ​​af denne type. Tower / Creature opgraderinger påvirker kun tårnet / væsen og øge deres magt for hvert spil, du spiller. Hvis du glemmer, hvad en stat er bare længe-tryk stat ikonet i opgradering menu, og det vil fortælle dig."</string>
+    <string name="tutorial_completion">"Tillykke, du har gennemført øvelsen. Spil kampagne for at låse op for flere væsener og tårne. Komplet resultater for at tjene ekstra oplevelse og få tilbud til brug i spillet. Jo flere resultater du låser, jo mere erfaring du får fra at spille."</string>
+    <string name="tutorial_continue">"Fortsæt ..."</string>
+
+</resources>

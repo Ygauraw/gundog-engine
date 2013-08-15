@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_uri">market://details?id=com.godsandtowers.google</string>
+    <string name="app_package">com.godsandtowers.google</string>
+ 
+</resources>

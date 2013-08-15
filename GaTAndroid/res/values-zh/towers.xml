@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"冰炮"</string>
+	<string name="water_catapult">"冰凯达普"</string>
+	<string name="water_pillar">"水支柱"</string>
+	<string name="water_emitter">"水辐射源"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"闪电炮"</string>
+	<string name="griffin_statue">"格里芬雕像"</string>
+	<string name="lightning_pillar">"闪电柱"</string>
+	<string name="lightning_emitter">"闪电辐射源"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"岩坎农"</string>
+	<string name="stone_catapult">"石凯达普"</string>
+	<string name="earth_pillar">"地球的支柱"</string>
+	<string name="dirt_emitter">"污垢辐射源"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"火焰炮"</string>
+	<string name="flame_catapult">"火焰投石器"</string>
+	<string name="fire_pillar">"火柱"</string>
+	<string name="fire_emitter">"消防辐射源"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"能量炮"</string>
+	<string name="angel_statue">"天使雕像"</string>
+	<string name="life_pillar">"生活支柱"</string>
+	<string name="holy_water_emitter">"圣水辐射源"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"毒炮"</string>
+	<string name="gargoyle_statue">"石像鬼雕像"</string>
+	<string name="undead_pillar">"不死支柱"</string>
+	<string name="toxic_gas_emitter">"有毒气体排放"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"火焰鞭"</string>
+	<string name="water_whip">"水鞭"</string>
+	<string name="tentical_whip">"tentical鞭"</string>
+	<string name="flame_crystallizer">"火焰结晶"</string>
+	<string name="ice_crystallizer">"冰结晶"</string>
+	<string name="earth_crystallizer">"地球结晶"</string>
+	<string name="lightning_blade">"闪电之刃"</string>
+	<string name="ice_blade">"冰之刃"</string>
+	<string name="flame_blade">"火焰之刃"</string>
+	<string name="earth_ballista">"地球弩车"</string>
+	<string name="ice_ballista">"冰弩"</string>
+	<string name="flame_ballista">"火焰弩"</string>
+	
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"वाइकिंग जमे हुए"</string>
+    <string name="frozen_soldier_horseman">"जमे हुए सैनिक घुड़सवार"</string>
+    <string name="polar_bear">"आर्कटिक ख़ाकी"</string>
+    <string name="ice_golem">"बर्फ Golem"</string>
+    <string name="drake">"मूसलधार बारिश ड्रेक"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"आर्चर"</string>
+    <string name="human_archer_horseman">"लगे हुए आर्चर"</string>
+    <string name="panda_bear">"विशालकाय पांडा"</string>
+    <string name="lightning_golem">"बिजली Golem"</string>
+    <string name="dragon">"अजगर"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"कुटिलता आर्चर"</string>
+    <string name="elvish_archer_horseman">"कुटिलता आर्चर घुड़सवार"</string>
+    <string name="grizzly_bear">"ग्रिज़ली बीयर"</string>
+    <string name="earth_golem">"पृथ्वी Golem"</string>
+    <string name="eagle">"युद्ध ईगल"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"मम्मी"</string>
+    <string name="mummy_horseman">"मरे राइडर"</string>
+    <string name="fiery_bear">"भालू जलन"</string>
+    <string name="fire_golem">"नरक स्पोन"</string>
+    <string name="falcon">"बाज़"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"धार्मिक कट्टरपंथी"</string>
+    <string name="zealot_horseman">"भाड़े नाइट"</string>
+    <string name="seraphim">"Seraphim"</string>
+    <string name="life_golem">"Golem योद्धा"</string>
+    <string name="angel">"एंजेल"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"ज़ोंबी"</string>
+    <string name="zombie_horseman">"ज़ोंबी सवार"</string>
+    <string name="succubus">"Succubus"</string>
+    <string name="undead_golem">"मरे Golem"</string>
+    <string name="fallen_angel">"फौलेन एंजेल्स"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"योगिनी जादूगर"</string>
+    <string name="human_mage">"मानव दाना"</string>
+    <string name="human_necromancer">"मानव जादूगार"</string>
+    <string name="troll">"ट्रोलिंग"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"Hobbit"</string>
+    <string name="kobold">"प्रेत"</string>
+    <string name="gnome">"बौना"</string>
+    <string name="ghoul">"प्रेत"</string>
+    <string name="human_witch">"मानव चुड़ैल"</string>
+    <string name="female_necromancer">"महिला जादूगार"</string>
+    <string name="female_elf_mage">"महिला एल्फ दाना"</string>
+
+</resources>

@@ -1,0 +1,57 @@
+{
+  "gat_reduced_ads" : {
+    "itemType": "ENTITLED",
+    "price": 0.99,
+    "title": "Remove Obtrusive ADS",
+    "description": "Eliminates the ADS at the top of all the menus and those before and after games.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+    "gat_all_races" : {
+    "itemType": "ENTITLED",
+    "price": 1.99,
+    "title": "Unlock All Races",
+    "description": "Unlocks all the races giving you access to 25 new creatures and 20 new towers.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },  "gat_multiple_races" : {
+    "itemType": "ENTITLED",
+    "price": 1.99,
+    "title": "Unlock Race Combinations",
+    "description": "Unlocks the ability to play as more than one race at once. Also unlocks 12 new creatures and 12 new towers.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+  "gat_special_100" : {
+    "itemType": "CONSUMABLE",
+    "price": 1.99,
+    "title": "Purchase 100 of each special",
+    "description": "Gives you 100 of each of the race specials.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+  "gat_upgrade_all" : {
+    "itemType": "CONSUMABLE",
+    "price": 2.99,
+    "title": "Upgrade every tower/creature for all races",
+    "description": "Boosts the level of each ability for EVERY creature/tower by 1.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+  "gat_upgrade_onerace" : {
+    "itemType": "CONSUMABLE",
+    "price": 0.99,
+    "title": "Upgrade every tower/creature for one race",
+    "description": "Boosts the level of each ability for all creatures/towers in one race by 1.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+  "gat_upgrade_abilities" : {
+    "itemType": "CONSUMABLE",
+    "price": 0.99,
+    "title": "Upgrade all player and race abilities",
+    "description": "Boosts the level by 1 of all the player stats and race stats.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  },
+  "gat_double_experience" : {
+    "itemType": "CONSUMABLE",
+    "price": 0.99,
+    "title": "Double Your Experience",
+    "description": "Instantly gives you 2X your current experience level in each race.",
+    "smallIconUrl": "http://gundogstudios.com/wp-content/uploads/2012/01/godsandtowersicon.png"
+  }
+}

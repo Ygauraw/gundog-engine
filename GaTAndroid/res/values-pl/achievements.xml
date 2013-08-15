@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 wygrane jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_water_catapult">"4 zwycięstwa jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_polar_bear">"6 zwycięstw jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_ice_golem">"8 zwycięstw jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_water_pillar">"10 zwycięstw jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_drake">"12 zwycięstw jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_water_emitter">"16 zwycięstw jak Savages mrożone Skadi na odblokowanie"</string>
+    <string name="achievement_race_ice">"Odblokuj mrożone wszystkich stworzeń Skadi w dzikich i wieże"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Savages mrożone Skadi firmy"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Savages mrożone Skadi firmy"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Savages mrożone Skadi firmy"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach Expert jak Savages mrożone Skadi firmy"</string>
+    <string name="achievement_battle_race_ice_5">"5 zwycięstw w Battle Mode jako Savages mrożone Skadi firmy"</string>
+    <string name="achievement_battle_race_ice_25">"25 zwycięstw w Battle Mode jako Savages mrożone Skadi firmy"</string>
+    <string name="achievement_battle_race_ice_100">"100 zwycięstw w Battle Mode jako Savages mrożone Skadi firmy"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 wygrywa w Battle Mode jako Savages mrożone Skadi firmy"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 wygrane jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_griffin_statue">"4 zwycięstwa jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_panda_bear">"6 zwycięstw jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_lightning_golem">"8 zwycięstw jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_lightning_pillar">"10 zwycięstw jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_dragon">"12 zwycięstw jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_lightning_emitter">"16 zwycięstw jak Quetzalcoatla, Wojownik Tribe odblokowuje"</string>
+    <string name="achievement_race_wind">"Odblokuj wszystkie Quetzalcoatl stworzeń Tribe Warrior i wieże"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach Expert jak Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_battle_race_wind_5">"5 zwycięstw w Battle Mode jako Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_battle_race_wind_25">"25 zwycięstw w Battle Mode jako Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_battle_race_wind_100">"100 zwycięstw w Battle Mode jako Tribe Wojownika Quetzalcoatla"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 wygrywa w Battle Mode jako Tribe Wojownika Quetzalcoatla"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 wygrywa jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_stone_catapult">"4 zwycięstwa, jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_grizzly_bear">"6 wygrywa jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_earth_golem">"8 zwycięstw jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_earth_pillar">"10 zwycięstw jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_eagle">"12 zwycięstw jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_dirt_emitter">"16 wygrywa jak Gai Lot of Noble Żołnierzy odblokowuje"</string>
+    <string name="achievement_race_earth">"Odblokuj wszystkie Gai Lot of Noble Soldiers stworzeń i wież"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach Expert jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_battle_race_earth_5">"5 zwycięstw w Battle Mode jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_battle_race_earth_25">"25 zwycięstw w Battle Mode jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_battle_race_earth_100">"100 zwycięstw w Battle Mode jak Gai wiele Noble Żołnierzy"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 wygrywa w Battle Mode jako Gai wiele Noble Żołnierzy"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 wygrane jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_flame_catapult">"4 zwycięstwa, jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_fiery_bear">"6 zwycięstw jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_fire_golem">"8 zwycięstw jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_fire_pillar">"10 zwycięstw jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_falcon">"12 zwycięstw jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_fire_emitter">"16 zwycięstw jak Legii Agni jest z Poświęcił odblokowuje"</string>
+    <string name="achievement_race_fire">"Odblokuj Legion wszystkich Agni jest w ofierze stworzeń i wież"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach Expert jak Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_battle_race_fire_5">"5 zwycięstw w Battle Mode jako Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_battle_race_fire_25">"25 zwycięstw w Battle Mode jako Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_battle_race_fire_100">"100 zwycięstw w Battle Mode jako Legii Agni jest z Poświęcił"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 wygrywa w Battle Mode jako Legii Agni jest z Poświęcił"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 wygrane jak Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_angel_statue">"4 zwycięstwa jak Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_seraphim">"6 zwycięstw jak Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_life_golem">"8 zwycięstw jak Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_life_pillar">"10 zwycięstw w Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_angel">"12 zwycięstw w Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_holy_water_emitter">"16 zwycięstw w Hugues de Payens \"Święty Templariusze odblokowuje"</string>
+    <string name="achievement_race_life">"Odblokuj wszystkie Hugues de Payens 'świętej Knights stworzeń Templariuszy i wieże"</string>
+    <string name="achievement_campaign_race_life_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Templariuszy Świętego Hugues de Payens To Knights"</string>
+    <string name="achievement_campaign_race_life_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Świętego Hugues de Payens To Knights Templar"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Świętego Hugues de Payens To Knights Templar"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach Expert jak Templariuszy Świętego Hugues de Payens To Knights"</string>
+    <string name="achievement_battle_race_life_5">"5 zwycięstw w Battle Mode jako Świętego Hugues de Payens To Knights Templar"</string>
+    <string name="achievement_battle_race_life_25">"25 zwycięstw w Battle Mode jako Świętego Hugues de Payens To Knights Templar"</string>
+    <string name="achievement_battle_race_life_100">"100 zwycięstw w Battle Mode jako Świętego Hugues de Payens To Knights Templar"</string>
+    <string name="achievement_battle_race_life_1000">"1000 wygrywa w Battle Mode jako Templariuszy Świętego Hugues de Payens To Knights"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 wygrane jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_gargoyle_statue">"4 zwycięstwa, jak Armii Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_succubus">"6 zwycięstw jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_undead_golem">"8 zwycięstw jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_undead_pillar">"10 zwycięstw jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_fallen_angel">"12 zwycięstw jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_toxic_gas_emitter">"16 zwycięstw jak Army Damballa w Potępionych odblokowuje"</string>
+    <string name="achievement_race_death">"Odblokuj wszystkie Damballa w Armii Damned stworzeń i wież"</string>
+    <string name="achievement_campaign_race_death_10">"5 Gwiazdki w wszystkich poziomach kampanii na prostą Armii Damballa w Potępionych"</string>
+    <string name="achievement_campaign_race_death_100">"5 Gwiazdki w wszystkich poziomach kampanii na nośniku jak Army Damballa w Potępionych"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Gwiazdki w wszystkich poziomach kampanii na twardych jak Army Damballa w Potępionych"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Gwiazdki w kampanii na wszystkich szczeblach, jak Expert Armii Damballa w Potępionych"</string>
+    <string name="achievement_battle_race_death_5">"5 zwycięstw w trybie bitwie Armii Damballa w Potępionych"</string>
+    <string name="achievement_battle_race_death_25">"25 zwycięstw w trybie bitwie Armii Damballa w Potępionych"</string>
+    <string name="achievement_battle_race_death_100">"100 zwycięstw w Battle Mode jako Armii Damballa w Potępionych"</string>
+    <string name="achievement_battle_race_death_1000">"1000 wygrywa w Battle Mode jako Armii Damballa w Potępionych"</string>
+
+</resources>

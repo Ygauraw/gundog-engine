@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Ice Catapult"</string>
+	<string name="water_pillar">"Víz pillér"</string>
+	<string name="water_emitter">"Víz Emitter"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Lightning Cannon"</string>
+	<string name="griffin_statue">"Griffin szobor"</string>
+	<string name="lightning_pillar">"Villám pillér"</string>
+	<string name="lightning_emitter">"Villám Emitter"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Cannon rock"</string>
+	<string name="stone_catapult">"Kő Catapult"</string>
+	<string name="earth_pillar">"Föld pillér"</string>
+	<string name="dirt_emitter">"Dirt Emitter"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flame Cannon"</string>
+	<string name="flame_catapult">"Láng Catapult"</string>
+	<string name="fire_pillar">"Tűz pillér"</string>
+	<string name="fire_emitter">"Tűz Emitter"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energia Cannon"</string>
+	<string name="angel_statue">"Angyal szobor"</string>
+	<string name="life_pillar">"Élet pillér"</string>
+	<string name="holy_water_emitter">"Holy Water Emitter"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Poison Cannon"</string>
+	<string name="gargoyle_statue">"Gargoyle szobor"</string>
+	<string name="undead_pillar">"Undead pillér"</string>
+	<string name="toxic_gas_emitter">"Mérgező gáz Emitter"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Láng Whip"</string>
+	<string name="water_whip">"Víz Whip"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"Láng kristályosító"</string>
+	<string name="ice_crystallizer">"Ice kristályosító"</string>
+	<string name="earth_crystallizer">"Föld kristályosító"</string>
+	<string name="lightning_blade">"Villám Penge"</string>
+	<string name="ice_blade">"Ice Penge"</string>
+	<string name="flame_blade">"Láng Penge"</string>
+	<string name="earth_ballista">"Föld Ballista"</string>
+	<string name="ice_ballista">"Ice Ballista"</string>
+	<string name="flame_ballista">"Láng Ballista"</string>
+	
+</resources>

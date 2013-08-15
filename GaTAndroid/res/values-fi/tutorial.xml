@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Tervetuloa opetusohjelman tasolle. Täällä voit opetella käyttämään kaikkia ominaisuuksia Jumalat ja Towers. Huomaat vierityspalkin oikealla puolella joitakin näistä ponnahdusikkunat kuin opetusohjelma edetessä. Älä unohda selaa saada kaikki tiedot."</string>
+    <string name="tutorial_game_area">"Mitä näet nyt on hallituksen vetämällä sormea ​​hallitus siirtää sen ympärillä. Huomaat esteitä kuten kiviä ja puita, jotka estävät sinua rakentaa torneja. Huomaat myös kuohuviini sininen alue, tämä on silloin olentoja kutemaan. Jossain muu piste kartalla tulee olemaan kuohuviiniä punainen alue, tämä on silloin olennot yrittävät liikkua liikaa. Jos he saavuttavat punainen alue, menetät elämää, kun elämä on 0, peli on ohi. Kestää jonkin aikaa tarkastella hallituksen ja tunnistaa kunkin keskeiset piirteet nyt."</string>
+    <string name="tutorial_top_menu">"Kun näytön yläreunassa on keskeinen tieto, joka kertoo nykyisen elämäsi, kuinka paljon rahaa sinulla on käsillä, kuinka moni aaltoja on kulunut, kuinka paljon tuloja saat seuraavan aallon, ja myös aikaa jäljellä seuraava aalto."</string>
+    <string name="tutorial_top_menu_life">"Näin paljon elämä sinulla on jäljellä. Kun se on 0, häviät."</string>
+    <string name="tutorial_top_menu_gold">"Näin paljon kultaa sinun täytyy ostaa torneja ja olentoja."</string>
+    <string name="tutorial_top_menu_income">"Oikealla puolella tämä on kuinka paljon tuloja saat seuraavan aallon mukana kunnes seuraava aalto."</string>
+    <string name="tutorial_bottom_menu">"Alareunassa näytön huomaat useita painikkeita. Näillä painikkeilla voit ostaa torneja, ostaa olentoja, käyttö tarjouksesta, muuttaa asetuksia, jotta hyökkää, ja keskeyttää / jatkaa peliä."</string>
+    <string name="tutorial_bottom_menu_tower">"Tämä tuo Towers valikosta. Se näyttää kaikki tornit voit käyttää yhdessä tornit et ole vielä auki."</string>
+    <string name="tutorial_bottom_menu_creature">"Tämä tuo Creatures valikosta. Se näyttää kaikki olentoja voit käyttää yhdessä olentoja et ole vielä auki."</string>
+    <string name="tutorial_bottom_menu_special">"Tämä tuo Tarjoukset valikosta. Se näyttää kaikki Specials voit käyttää."</string>
+    <string name="tutorial_bottom_menu_option">"Tämä tuo Options-valikon. Voit poistaa musiikkia ja muuta koska peli täältä."</string>
+    <string name="tutorial_bottom_menu_attacking">"Tämä mahdollistaa hyökkää, me keskustelemme tästä myöhemmin lisää."</string>
+    <string name="tutorial_bottom_menu_pause">"Näin voit keskeyttää pelin ja jatkaa sitä, kun olet valmis."</string>
+    <string name="tutorial_buying_tower">"Vihollinen kutsui olentoja, joten meidän pitäisi rakentaa joitakin torneja puolustaa itseämme. Klikkaa torni-painiketta ja valitsemalla torni rakentaa."</string>
+    <string name="tutorial_buying_tower_pick">"Klikkaa kuvaa torni, jonka haluat ostaa. Näet kustannukset tornin vieressä sen kuvan. Vuonna oikeassa alakulmassa näytön tornit vahingot ja hyökkäys nopeutta näkyviin, kun valitset sen."</string>
+    <string name="tutorial_buying_tower_selected">"Nyt kun olet valinnut torni sinun täytyy valita sijainti näytöllä rakentaa sitä. Huomaat, että torni näkyy ruudulla ja on sininen alue aura joka osoittaa, miten pitkälle torni voi hyökätä. Jos asetat torni paikalla et halua sitä, klikkaa torni uudelleen ja se häviää. Kun olet valmis ostamaan torni, valitse osto-painiketta vasemmassa alakulmassa näytöllä. Peruuta rakentaa torneja, paina Peruuta-painiketta."</string>
+    <string name="tutorial_buying_tower_purchase">"Tätä painiketta käytetään vahvistamaan hankinnat ja rakentaa kaikki tornit pyysit näytöllä. Towers, jotka on sijoitettu kelpaa paikkoihin, kuten kallioilla, puita tai olentoja ei rakenneta. Jos yrität rakentaa torni estää polun olentoja, sitä ei rakenneta."</string>
+    <string name="tutorial_buying_tower_cancel">"Jos päätät et enää halua ostaa torneja, paina tätä nappia. Kaikki vireillä tornit hallituksen poistetaan."</string>
+    <string name="tutorial_build_maze">"Hienoa, nyt enemmän olentoja tulee, tarvitsemme lisää tornit. Rakenna 10 enemmän tornit nyt. Varmista, että laitat ne tiellä olentoja hidastaa liikettä poistumispaikka. Rakentaminen sokkelo mahdollistaa torneja hyökätä olentoja enemmän kuin kerran, ja kasvattaa etäisyyttä että olennot tarvitse matkustaa."</string>
+    <string name="tutorial_upgrade_tower">"Pelin edetessä saat loppuvat paikkoja laittaa tornit, olennot kuitenkin jatkossakin tulla, ja saa vahvempi. Tässä vaiheessa kannattaa alkaa päivittää torneja. Valitse torni esiin päivityksen valikosta."</string>
+    <string name="tutorial_upgrade_tower_selected">"Hienoa, nyt tässä valikossa näet kuvan torni ja nappia myydä tornin."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klikkaa torni kuvaketta ostaa päivityksen. Hinta näkyy vieressä torni."</string>
+    <string name="tutorial_upgrade_tower_sell">"Klikkaamalla tätä painiketta myy torni, poistamatta sitä karttaa."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Jos päätät et enää halua päivittää tai myydä torni klikkaa tätä painiketta vasemmassa alakulmassa näytöllä."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Pitkä painallus torni kuvaketta päivittää torni niin monta kertaa kuin rahaa sallii."</string>
+    <string name="tutorial_side_buttons">"Kun pelaat Battle-tai online-tilassa näet painikkeita laidassa. Näiden avulla voit katsella vihollisia aluksella. Tästä voi olla hyötyä, kun se päättää, mitkä olentoja ostaa. Peli kertoo, mitä alue jota etsit on lyhyt popup alareunassa näytön keskelle. Et voi rakentaa tornit vihollisia aluksella. Kestää jonkin aikaa nähdä vihollisia aluksella."</string>
+    <string name="tutorial_side_buttons_pic">"Tämä on puoli painike, joka vie sinut nähdä vihollisia aluksella."</string>
+    <string name="tutorial_buying_creature">"Huomaat vihollinen ei ole ostanut mitään torneja, tämä johtuu siitä, et ole kutsunut mitään olentoja hyökätä vielä. Paina olento painiketta, jolloin otustasi valikosta. Klikkaamalla olento kutsuu, jos sinulla on tarpeeksi rahaa. Mennä eteenpäin ja kutsuu joitakin olentoja ja katsella niitä näy vihollisia aluksella."</string>
+    <string name="tutorial_buying_creature_purchase">"Klikkaa olento kuvaketta ostaa sen. Seuraava olennon näet paljonko se maksaa. Myös alareunassa oikeassa alakulmassa näet olentoja terveys ja liikkeen nopeus, kun valitset sen."</string>
+    <string name="tutorial_buying_creature_cancel">"Jos et enää halua ostaa olentoja, valitse Peruuta-painiketta vasemmassa alakulmassa näytöllä."</string>
+    <string name="tutorial_buying_creature_long_press">"Pitkä painallus olento kuvaketta käyttöön / poistaa käytöstä automaattisen osto. Automaattisen ostaa päällä voit ostaa olento joka toinen, jos sinulla on tarpeeksi kultaa."</string>
+    <string name="tutorial_attacking">"Saattaa olla aikoja, jolloin vihollinen on rakennettu vaikea sokkelo että olennot eivät pysty liikkumaan läpi. Tämä kun hyökkäävät saattaa olla hyödyllinen. Hyökkäyspelin käytössä olentoja yrittää siirtyä poistumista ja hyökkäävät kaikki tornit niiden tiellä. Muista, että kun otat hyökkää, kun hitaasti menettää kultaa, jos rahat loppuu, hyökkäävät automaattisesti käytöstä. Yritä hyökkäystä nyt."</string>
+    <string name="tutorial_attacking_button">"Valitse tämä, jos hyökkää."</string>
+    <string name="tutorial_attacking_move">"Valitse tämä poistaa hyökkää."</string>
+    <string name="tutorial_specials">"Joskus tornit eivät riitä pysäyttämään vihollisen olentoja, tai olennot eivät näytä tekevän sitä kautta vihollinen tornit. Käyttämällä tarjouksesta antaa sysäyksen auttaa sinua voittaa. Kokeile erityinen nyt."</string>
+    <string name="tutorial_specials_damage">"Tämä erityisistä vahingoista kaikkia olentoja teidän aluksella"</string>
+    <string name="tutorial_specials_heal">"Tämä erityinen parantaa kaikki olennot vihollisten hallitus"</string>
+    <string name="tutorial_specials_kill">"Tämä erityinen tappaa useita satunnaisia ​​otuksia teidän aluksella"</string>
+    <string name="tutorial_specials_slow">"Tämä erityinen hidastaa kaikkia olentoja teidän aluksella lyhyen aikaa"</string>
+    <string name="tutorial_specials_speed">"Tämä erityinen nopeutuu olentoja aikaa"</string>
+    <string name="tutorial_specials_stun">"Tämä erityinen tainnuttaa kaikki olentoja teidän aluksella aikaa"</string>
+    <string name="tutorial_options_menu">"Nyt avulla tarkastellaan asetusvalikosta. Huomaat useita painikkeita, joiden avulla voit muuttaa pelin mukaan play / pause musiikki ja palauta peli jotta oletusasetukset."</string>
+    <string name="tutorial_options_menu_zoomin">"Käytä tätä zoom"</string>
+    <string name="tutorial_options_menu_zoomout">"Käytä tätä loitontaaksesi"</string>
+    <string name="tutorial_options_menu_rotateup">"Pyöritä näkymä ylös"</string>
+    <string name="tutorial_options_menu_rotatedown">"Pyöritä näkymä alas"</string>
+    <string name="tutorial_options_menu_default">"Käytä tätä palata jotta sen oletussijaintiin"</string>
+    <string name="tutorial_options_menu_play">"Tämän mahdollistaa musiikin"</string>
+    <string name="tutorial_options_menu_pause">"Käytä tätä poistaa musiikkia"</string>
+    <string name="tutorial_upgrading">"Kun pelaat Gods and Towers ansaitset kokemus, tämä kokemus voidaan päivittää lähtöpisteeseen Life / Gold Race bonuksia, Creature kykyjä, ja Tower kykyjä. Joka heimolla on erityisiä bonuksia, jotka koskevat kaikkia olentoja ja tornit, jotka rodun, muuntamalla ne hyötyvät kaikki luodut / tornit kyseistä tyyppiä. Tower / Creature päivitykset vaikuttavat vain torni / olento ja lisätä niiden voimaa jokainen peli jota pelaat. Jos unohdat mikä tilasto on juuri pitkän paina stat kuvaketta päivitys valikossa ja se kertoo."</string>
+    <string name="tutorial_completion">"Onneksi olkoon, olet suorittanut opetusohjelman. Pelaa kampanjan avata enemmän olentoja ja tornit. Täydellinen saavutuksia ansaita ylimääräistä kokemusta ja saada erikoisuuksia käyttää peliin. Enemmän saavutuksia avaat, enemmän kokemusta saat pelaamalla."</string>
+    <string name="tutorial_continue">"Jatka ..."</string>
+
+</resources>

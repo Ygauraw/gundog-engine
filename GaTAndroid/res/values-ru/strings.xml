@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Боги и башни"</string>
+    <string name="app_description">"Боги и башни, башни обороны 3D игры против AI или PvP."</string>
+    <string name="motto">"Бой, чтобы победить!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Возобновить игру"</string>
+    <string name="main_newGame">"Новая игра"</string>
+    <string name="main_store">"Хранение"</string>
+    <string name="main_upgrade">"Обновление"</string>
+    <string name="main_achievements">"И Достижения"</string>
+    <string name="main_almanac">"Альманах"</string>
+    <string name="main_options">"Опции"</string>
+    <string name="main_credits">"Титры"</string>
+    <string name="main_exit">"Выход"</string>
+    <string name="main_back">"Қафо"</string>
+    <string name="main_retry">"Повторить"</string>
+    <string name="main_downloading">"Загрузка данных игры, пожалуйста, подождите ..."</string>
+    <string name="main_download_failed">"Не удалось загрузить необходимые данные, пожалуйста, выйдите и перезапустить игру, чтобы попытаться еще раз от того, где она была прервана."</string>
+    <string name="main_external_storage">"Пожалуйста, установите внешних накопителей, так что приложения можно скачивать / использовать необходимые данные"</string>
+    <string name="main_latest_version">"Новая версия Боги и башни имеется или вы не можете подключиться к игровому серверу."</string>
+    <string name="main_no_news">"Нет новостей"</string>
+    <string name="main_news_server_down">"Новости сервер не работает, или произошла ошибка получения последних новостей игры."</string>
+    <string name="main_version">"версия:"</string>
+    <string name="main_graphics">"Существовал Ошибка при загрузке данных модели в связи с чрезмерным использованием памяти. Графика настройки были снижены, и приложение закрывается. Пожалуйста, перезагрузите и попробуйте запустить игру с пониженным качеством текстур и / или Mesh качества, которые вы можете установить в меню настроек при первом запуске игры."</string>
+    <string name="main_rate_dialog">"Если вам нравится, используя, %s, пожалуйста, найдите время, чтобы оценить его. Спасибо за вашу поддержку."</string>
+    <string name="main_rate_now">"скорость %s"</string>
+    <string name="main_rate_later">"Напомнить позже"</string>
+    <string name="main_rate_never">"Нет, спасибо"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Куплено"</string>
+    <string name="purchase_cancel">"Отмена"</string>
+    <string name="purchase_reduced_ads">"Удалить Навязчивая ADS"</string>
+    <string name="purchase_reduced_ads_description">"Устраняет ADS в верхней части всех меню и тех, кто до и после игры."</string>
+    <string name="purchase_all_races">"Открыть все расы"</string>
+    <string name="purchase_all_races_description">"Открывает все расы дает вам доступ к 25 новых существ и 20 новых вышек."</string>
+    <string name="purchase_multiple_races">"Разблокировать гонки комбинации"</string>
+    <string name="purchase_multiple_races_description">"Открывает возможность играть более одной гонки сразу дает вам доступ к 12 новых существ и 12 новых вышек."</string>
+    <string name="purchase_special_100">"Купить 100 каждой специальной"</string>
+    <string name="purchase_special_100_description">"Дает вам 100 каждого из гонки события"</string>
+    <string name="purchase_upgrade_abilities">"Обновление всех игроков и способности расы"</string>
+    <string name="purchase_upgrade_abilities_description">"Повышает уровень 1 всех игроков статистику и статистику гонки"</string>
+    <string name="purchase_upgrade_all">"Обновление каждый башня / создание для всех рас"</string>
+    <string name="purchase_upgrade_all_description">"Повышает уровень каждой возможности для каждого существа / Башня 1"</string>
+    <string name="purchase_upgrade_onerace">"Обновление каждый башня / существо за "</string>
+    <string name="purchase_upgrade_onerace_description">"Повышает уровень каждой возможности для всех существ / башни в одной гонке на 1"</string>
+    <string name="purchase_double_experience">"Дважды своим опытом"</string>
+    <string name="purchase_double_experience_description">"Мгновенно дает вам 2 раза ваш текущий уровень опыта в каждой гонке."</string>
+    <string name="purchase_billing_not_supported_title">"Не могу делать покупки"</string>
+    <string name="purchase_billing_not_supported_message">"Платежный сервис недоступен в данный момент. Вы можете продолжать использовать это приложение, но вы не сможете сделать покупки."</string>
+    <string name="purchase_cannot_connect_title">"Не удается подключиться к платежной услуги"</string>
+    <string name="purchase_cannot_connect_message">"Это приложение не может подключиться к платежной службы. Вы можете продолжать использовать это приложение, но вы не сможете сделать покупки."</string>
+    <string name="purchase_restoring_transactions">"Восстановление операций"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Веб-сайт"</string>
+    <string name="credits_production">"Изготовлено"</string>
+    <string name="credits_production_name">"Gundog Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Программирование"</string>
+    <string name="credits_programming_name">"Джо законы"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D модели и текстуры"</string>
+    <string name="credits_models_name">"Tucho Фернандес Кало"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Альманах игры"</string>
+    <string name="credits_story_name">"Джорди Клементс"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D Art Pixel"</string>
+    <string name="credits_pixelart_name">"Пол Калверт"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Музыка"</string>
+    <string name="credits_music_name">"Нейл Джонстон"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Веб-дизайн"</string>
+    <string name="credits_website_name">"Кэтрин Льюис"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Прицеп"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"переводы"</string>
+    <string name="credits_translations_names">"Сын Ын Ли (Корея)"</string>
+    <string name="credits_special_thanks">"Особая благодарность"</string>
+    <string name="credits_special_thanks_names">"Команда Высокий и 2-го взвода компании Delta 2-35IN"</string>
+    <string name="credits_inmemoryof">"В память сержанта Кевина Уайта. Ушли, но не забыт."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"ВЫ"</string>
+    <string name="game_enemy">"Враг"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"д."</string>
+    <string name="game_seconds">"с"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Обновление до CREATURE УРОВНЯ"</string>
+    <string name="game_max_upgrade">"ПОКУПКА MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"Включение режима автоматического ПОКУПКИ"</string>
+    <string name="game_disable_auto_purchase">"ОТКЛЮЧЕНИЕ AUTO ПОКУПКИ"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Не удалось ничего загрузить."</string>
+    <string name="manager_playerReset">"Игрок и сброса данных игры"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"Вы выиграли"</string>
+    <string name="results_lost">"Вы потеряли"</string>
+    <string name="results_disconnected">"Пропала связь?"</string>
+    <string name="results_you">"ВЫ"</string>
+    <string name="results_ai">"ИИ"</string>
+    <string name="results_continue">"Продолжать"</string>
+    <string name="results_length">"Длина"</string>
+    <string name="results_waves">"Волны"</string>
+    <string name="results_base_xp">"База XP"</string>
+    <string name="results_total_xp">"Всего в гонке XP"</string>
+    <string name="results_campaign">"Кампания"</string>
+    <string name="results_rewards">"Бонусные программы"</string>
+    <string name="results_main">"Основной"</string>
+    <string name="results_life">"Жизнь"</string>
+    <string name="results_income">"Доход"</string>
+    <string name="results_offense">"Преступление"</string>
+    <string name="results_defense">"Оборона"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Достижения Бонусы"</string>
+    <string name="results_win_bonus">"Выиграй бонус"</string>
+    <string name="results_length_bonus">"Длина Бонусные"</string>
+    <string name="results_life_bonus">"Жизнь Бонусные"</string>
+    <string name="results_multiple_race_factor">"Несколько факторов гонки"</string>
+    <string name="results_free_version">"Вы не зарабатываете опыт в бесплатной версии богов и башни"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Вы действительно хотите сбросить все данные игрока?"</string>
+    <string name="options_assetClear">"Вы уверены, что хотите удалить все скачать активов?"</string>
+    <string name="options_reset">"Сброс"</string>
+    <string name="options_assets">"Удалите данные игры"</string>
+    <string name="options_clear">"Удаление..."</string>
+    <string name="options_clearing">"Все активы загрузка удаляются, приложение выход ..."</string>
+    <string name="options_soundOn">"Звук на"</string>
+    <string name="options_soundOff">"Болтать"</string>
+    <string name="options_cancel">"Отмена"</string>
+    <string name="options_textureQuality">"Качество текстур"</string>
+    <string name="options_meshQuality">"Mesh качества"</string>
+    <string name="options_engineSpeed">"GameEngine скорость"</string>
+    <string name="options_high">"Высокий"</string>
+    <string name="options_medium">"Средний"</string>
+    <string name="options_low">"Очень низкое"</string>
+    <string name="options_fast">"Быстрый"</string>
+    <string name="options_normal">"НОРМ."</string>
+    <string name="options_slow">"Медленный"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Противники уровень"</string>
+    <string name="newgame_yourRace">"Ваша гонка (ы)"</string>
+    <string name="newgame_opponentsRace">"Противники гонки (ы)"</string>
+    <string name="newgame_waves">"Макс Волны"</string>
+    <string name="newgame_invalid_text">"Неверный уровень компьютера или волна счет, пожалуйста, поставить в ряд&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Компьютеры уровень должен быть не менее"</string>
+    <string name="newgame_startGame">"Начать игру"</string>
+    <string name="newgame_minHumanRaces">"Вы должны выбрать по крайней мере, 1 гонка для себя"</string>
+    <string name="newgame_minComputerRaces">"Вы должны выбрать по крайней мере, 1 гонка на компьютере"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Быстрый"</string>
+    <string name="newgame_normal">"НОРМ."</string>
+    <string name="newgame_slow">"Медленный"</string>
+    <string name="newgame_difficulty">"сложность"</string>
+    <string name="newgame_easy">"Легко"</string>
+    <string name="newgame_medium">"Средний"</string>
+    <string name="newgame_hard">"Сложный"</string>
+    <string name="newgame_expert">"Для экспертов"</string>
+    <string name="newgame_type">"Тип игры"</string>
+    <string name="newgame_tutorial">"Руководство"</string>
+    <string name="newgame_campaign">"Кампания"</string>
+    <string name="newgame_defense">"Подготовка обороны"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Онлайн игра"</string>
+    <string name="newgame_findGame">"Найти игры"</string>
+    <string name="newgame_searching">"&lt;поиск...&gt;"</string>
+    <string name="newgame_random">"RANDOM"</string>
+    <string name="newgame_onlineError">"Вы не можете присоединиться к онлайн-игре"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"опыт, очки опыта"</string>
+    <string name="upgrade_creatures">"creatures..."</string>
+    <string name="upgrade_towers">"Опоры ЛЭП "</string>
+    <string name="upgrade_specials">"Скидки"</string>
+    <string name="upgrade_notEnoughXP">"У вас нет достаточного опыта для"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Агни Легион принесенного в жертву"</string>
+    <string name="race_ice">"Скади в замороженных Дикари"</string>
+    <string name="race_earth">"Гайи Лот благородных солдат"</string>
+    <string name="race_wind">"Кецалькоатля воина племени"</string>
+    <string name="race_life">"Святой Гуго де Payens \"Тамплиеры"</string>
+    <string name="race_death">"Damballa армии Проклятых"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"опыт, очки опыта"</string>
+    <string name="achievements_longestGame">"Самая долгая Игра"</string>
+    <string name="achievements_shortestGame">"КРАТЧАЙШИЕ ИГРЫ"</string>
+    <string name="achievements_highestScore">"Высший балл"</string>
+    <string name="achievements_highestLevelBeaten">"ВЫСОКИЙ УРОВЕНЬ ИЗБИТ"</string>
+    <string name="achievements_wins">"БИТВА WINS-"</string>
+    <string name="achievements_losses">"БИТВА ПОТЕРИ"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Начиная Золото"</string>
+    <string name="stat_life">"Начиная жизнь"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"стоимости об"</string>
+    <string name="stat_income">"Доход"</string>
+    <string name="stat_air">"Воздух"</string>
+    <string name="stat_ground">"Заземление"</string>
+    <string name="stat_attack_range">"Дальность атаки"</string>
+    <string name="stat_health">"ЗДОРОВЬЕ"</string>
+    <string name="stat_speed">"Скорость"</string>
+    <string name="stat_defense">"Оборона"</string>
+    <string name="stat_damage">"урона."</string>
+    <string name="stat_attack_rate">"Атака Оценить"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Радиус Splash Damage"</string>
+    <string name="stat_splash_strength_fade">"Fade Всплеск Силы"</string>
+    <string name="stat_creature_damage_modifier">"Бонусные Существо Нанесенный"</string>
+    <string name="stat_slow_duration">"Длительность замедления"</string>
+    <string name="stat_slow_factor">"Медленная скорость"</string>
+    <string name="stat_creature_evade_percentage">"Уклонение Шанс"</string>
+    <string name="stat_stun_duration">"Стана"</string>
+    <string name="stat_tower_attack_rate_modifier">"Башня скорость атаки бонус"</string>
+    <string name="stat_creature_speed_modifier">"Существо Скорость передвижения Бонусные"</string>
+    <string name="stat_tower_damage_modifier">"Башня урон"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Бонусные Существо обороны"</string>
+    <string name="stat_drain_duration">"Слейте продолжительность"</string>
+    <string name="stat_drain_percentage">"Слейте процентах"</string>
+    <string name="stat_heal_percentage">"Лечение процентах"</string>
+    <string name="stat_kill_percentage">"Мгновенный убийство шанс"</string>
+    <string name="stat_creature_health_modifier">"Бонусные Существо здравоохранения"</string>
+    <string name="stat_resurrect_percentage">"Воскресение шанс"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Повреждение всех вражеских существ"</string>
+    <string name="special_heal">"Лечение всех существ"</string>
+    <string name="special_kill">"Убить 25% вражеских существ на борту"</string>
+    <string name="special_slow">"Медленно всех вражеских существ"</string>
+    <string name="special_speed">"Ускорить всех существ"</string>
+    <string name="special_stun">"Оглушение всех вражеских существ"</string>
+
+</resources>

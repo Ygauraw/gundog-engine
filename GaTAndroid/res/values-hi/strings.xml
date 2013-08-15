@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">"परमेश्वर और टावरों"</string>
+    <string name="app_description">"परमेश्वर और टावर्स, ऐ या पीवीपी के खिलाफ एक 3 डी टॉवर रक्षा खेल."</string>
+    <string name="motto">"जीतने के लिए लड़ो!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"खेल फिर से शुरू"</string>
+    <string name="main_newGame">"नया गेम"</string>
+    <string name="main_store">"दुकान"</string>
+    <string name="main_upgrade">"अपग्रेड"</string>
+    <string name="main_achievements">"सफलताएँ"</string>
+    <string name="main_almanac">"पंचांग"</string>
+    <string name="main_options">"विकल्प "</string>
+    <string name="main_credits">"श्रेय"</string>
+    <string name="main_exit">"प्रस्थान करें "</string>
+    <string name="main_back">"वापस"</string>
+    <string name="main_retry">"पुनः प्रयास करें"</string>
+    <string name="main_downloading">"खेल डाटा डाउनलोड, कृपया प्रतीक्षा करें ..."</string>
+    <string name="main_download_failed">"आवश्यक डेटा डाउनलोड करने में विफल, कृपया बाहर निकलें और इस खेल को पुनः आरंभ करने के लिए जहां यह दूर छोड़ दिया फिर से कोशिश करें."</string>
+    <string name="main_external_storage">"बाह्य भंडारण माउंट ताकि आवेदन डाउनलोड / आवश्यक डेटा का उपयोग कर सकते हैं"</string>
+    <string name="main_latest_version">"परमेश्वर और टावर्स का एक नया संस्करण उपलब्ध है या आप खेल सर्वर के साथ कनेक्ट करने में असमर्थ हैं."</string>
+    <string name="main_no_news">"कोई खबर नहीं"</string>
+    <string name="main_news_server_down">"समाचार सर्वर नीचे है, या वहाँ नवीनतम खेल खबर पुन: प्राप्त करने में एक त्रुटि थी."</string>
+    <string name="main_version">"वर्शन || गर्भाशय में शिशु की स्थिति को परिवर्तित करना"</string>
+    <string name="main_graphics">"वहाँ एक त्रुटि लोड हो रहा है मॉडल डेटा स्मृति अत्यधिक उपयोग के कारण था. ग्राफिक्स सेटिंग्स को कम किया जा रहा है और अनुप्रयोग से बाहर निकलते है. कृपया पुनः आरंभ और कम बनावट गुणवत्ता और / या मेष गुणवत्ता के साथ खेल को चलाने के लिए प्रयास करें, जो आप विकल्प मेनू जब आप पहली बार स्टार्टअप खेल में सेट कर सकते हैं."</string>
+
+ 	<string name="main_rate_dialog">"यदि आप उपयोग कर %s का आनंद लें, यह दर करने के लिए समय ले कृपया.आप अपने समर्थन के लिए धन्यवाद."</string>
+    <string name="main_rate_now">"दर %s"</string>
+    <string name="main_rate_later">"मुझे बाद में याद दिलाएं"</string>
+    <string name="main_rate_never">"नहीं, धन्यवाद"</string>
+    
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"क्रय "</string>
+    <string name="purchase_cancel">"रद्द करें "</string>
+    <string name="purchase_reduced_ads">"निकला हुआ विज्ञापनों को निकालें"</string>
+    <string name="purchase_reduced_ads_description">"सभी मेनू और उन से पहले और बाद खेल के शीर्ष पर विज्ञापनों को समाप्त करता है."</string>
+    <string name="purchase_all_races">"सभी दौड़ अनलॉक"</string>
+    <string name="purchase_all_races_description">"आप 25 नए जीव और 20 नए टॉवर देने के लिए उपयोग दौड़ बताता है."</string>
+    <string name="purchase_multiple_races">"रेस युग्म अनलॉक"</string>
+    <string name="purchase_multiple_races_description">"एक बार आप 12 नए जीव और 12 नए टॉवर देने के लिए उपयोग में एक से अधिक दौड़ के रूप में खेलने की क्षमता बातें बताता है."</string>
+    <string name="purchase_special_100">"100 प्रत्येक विशेष की खरीद"</string>
+    <string name="purchase_special_100_description">"आप 100 दौड़ विशेष रूप से प्रत्येक के देता है"</string>
+    <string name="purchase_upgrade_abilities">"सभी खिलाड़ी और दौड़ क्षमताओं का उन्नयन"</string>
+    <string name="purchase_upgrade_abilities_description">"सभी खिलाड़ी आँकड़े और दौड़ आँकड़े 1 से स्तर बढ़ा देता है"</string>
+    <string name="purchase_upgrade_all">"टॉवर / सभी दौड़ के लिए हर प्राणी का नवीनीकरण"</string>
+    <string name="purchase_upgrade_all_description">"/ 1 से हर प्राणी टावर के लिए प्रत्येक की क्षमता के स्तर को बढ़ा देता है"</string>
+    <string name="purchase_upgrade_onerace">"हर टॉवर / प्राणी के लिए अद्यतन "</string>
+    <string name="purchase_upgrade_onerace_description">"1 से एक दौड़ में सभी जीव / टावरों के लिए प्रत्येक की क्षमता के स्तर को बढ़ा देता है"</string>
+    <string name="purchase_double_experience">"डबल अपने अनुभव"</string>
+    <string name="purchase_double_experience_description">"तुरन्त देता है आप अपने प्रत्येक दौड़ में मौजूदा अनुभव स्तर 2x."</string>
+    <string name="purchase_billing_not_supported_title">"खरीद कर नहीं कर सकते"</string>
+    <string name="purchase_billing_not_supported_message">"बिलिंग सेवा इस समय उपलब्ध नहीं है. आप इस अनुप्रयोग का उपयोग करने के लिए जारी कर सकते हैं लेकिन आप खरीद करने में सक्षम नहीं होगा."</string>
+    <string name="purchase_cannot_connect_title">"बिलिंग सेवा करने के लिए कनेक्ट नहीं कर सकते"</string>
+    <string name="purchase_cannot_connect_message">"यह अनुप्रयोग बिलिंग सेवा करने के लिए कनेक्ट नहीं कर सकते. आप इस अनुप्रयोग का उपयोग करने के लिए जारी कर सकते हैं लेकिन आप खरीद करने में सक्षम नहीं होगा."</string>
+    <string name="purchase_restoring_transactions">"लेनदेन बहाल"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"वेबसाइट"</string>
+    <string name="credits_production">"द्वारा उत्पादित"</string>
+    <string name="credits_production_name">"Gundog स्टूडियो"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"प्रोग्रामिंग"</string>
+    <string name="credits_programming_name">"जो कानून"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D मॉडल और बनावट"</string>
+    <string name="credits_models_name">"Tucho फर्नांडीज Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"खेल पंचांग"</string>
+    <string name="credits_story_name">"Jordy क्लेमेंट्स"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D पिक्सेल कला"</string>
+    <string name="credits_pixelart_name">"पॉल Calvert"</string>
+    <string name="credits_pixelart_website">"# / http://www.krop.com/paulcalvert/~~V"</string>
+    <string name="credits_music">"संगीत "</string>
+    <string name="credits_music_name">"नील जॉनसन"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"वेब डिज़ाइन"</string>
+    <string name="credits_website_name">"कैथरीन लुईस"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"ट्रेलर्स"</string>
+    <string name="credits_trailer_name">"ईमॉन Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"रूपांतर"</string>
+    <string name="credits_translations_names">"Seung-यून ली (कोरियाई)"</string>
+    <string name="credits_special_thanks">"विशेष धन्यवाद"</string>
+    <string name="credits_special_thanks_names">"टीम बहुत बढ़िया और 2 प्लाटून डेल्टा कंपनी 2 35IN"</string>
+    <string name="credits_inmemoryof">"की स्मृति में केविन व्हाइट सार्जेंट. चला गया, लेकिन नहीं भूल गया."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"आप"</string>
+    <string name="game_enemy">"दुश्मन"</string>
+    <string name="game_wave">"तरंग"</string>
+    <string name="game_in">"In || इंडियम का रासायनिक प्रतीक"</string>
+    <string name="game_seconds">"है"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"प्राणी स्तर के उन्नयन"</string>
+    <string name="game_max_upgrade">"मैक्स उन्नयन खरीद"</string>
+    <string name="game_enable_auto_purchase">"सक्षम ऑटो खरीद"</string>
+    <string name="game_disable_auto_purchase">"ऑटो खरीद अक्षम"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"लोड करने में विफल"</string>
+    <string name="manager_playerReset">"खिलाड़ी और खेल डेटा रीसेट"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"तुम जीत गए"</string>
+    <string name="results_lost">"आप हारे"</string>
+    <string name="results_disconnected">"डिस्कनेक्ट हो गया है!"</string>
+    <string name="results_you">"आप"</string>
+    <string name="results_ai">"एआइ || कृत्रिम शुक्रसेचन || आर्टिफ़िशल इनसेमीनेशन"</string>
+    <string name="results_continue">"जारी रखें "</string>
+    <string name="results_length">"लंबाई "</string>
+    <string name="results_waves">"तरंगें "</string>
+    <string name="results_base_xp">"बेस XP के"</string>
+    <string name="results_total_xp">"कुल XP के प्रति दौड़"</string>
+    <string name="results_campaign">"चुनाव प्रचार"</string>
+    <string name="results_rewards">"पुरस्कार"</string>
+    <string name="results_main">"मुख्य "</string>
+    <string name="results_life">"जीवन"</string>
+    <string name="results_income">"आय "</string>
+    <string name="results_offense">"अपराध"</string>
+    <string name="results_defense">"प्रतिरक्षा"</string>
+    <string name="results_wave">"तरंग"</string>
+    <string name="results_achievement_bonus">"उपलब्धि बोनस"</string>
+    <string name="results_win_bonus">"बोनस विन"</string>
+    <string name="results_length_bonus">"लंबाई बोनस"</string>
+    <string name="results_life_bonus">"जीवन बोनस"</string>
+    <string name="results_multiple_race_factor">"एकाधिक रेस फैक्टर"</string>
+    <string name="results_free_version">"आप अनुभव परमेश्वर और टावर्स के मुक्त संस्करण में कमाना नहीं है"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"क्या आप सुनिश्चित करें कि आप सभी खिलाड़ी डेटा रीसेट करना चाहते हैं?"</string>
+    <string name="options_assetClear">"क्या आप सुनिश्चित करें कि आप सभी डाउनलोड संपत्ति स्पष्ट करना चाहते हैं?"</string>
+    <string name="options_reset">"पुनः सेट करें "</string>
+    <string name="options_assets">"खेल डेटा हटाएँ"</string>
+    <string name="options_clear">"साफ़ करें "</string>
+    <string name="options_clearing">"सभी डाउनलोड संपत्ति को हटाया जा रहा है, अनुप्रयोग से बाहर निकलते है ..."</string>
+    <string name="options_soundOn">"पर ध्वनि"</string>
+    <string name="options_soundOff">"बकना"</string>
+    <string name="options_cancel">"रद्द करें "</string>
+    <string name="options_textureQuality">"बनावट गुणवत्ता"</string>
+    <string name="options_meshQuality">"मेष गुणवत्ता"</string>
+    <string name="options_engineSpeed">"GameEngine स्पीड"</string>
+    <string name="options_high">"अधिक"</string>
+    <string name="options_medium">"मध्यम"</string>
+    <string name="options_low">"निम्न"</string>
+    <string name="options_fast">"तेज़़ "</string>
+    <string name="options_normal">"सामान्य "</string>
+    <string name="options_slow">"धीमा "</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"विरोधियों का स्तर"</string>
+    <string name="newgame_yourRace">"आपका रेस (ओं)"</string>
+    <string name="newgame_opponentsRace">"विरोधियों रेस (ओं)"</string>
+    <string name="newgame_waves">"अधिकतम लहरें"</string>
+    <string name="newgame_invalid_text">"अवैध कंप्यूटर स्तर या लहर गिनती कृपया एक संख्या&gt; 0 में डाल"</string>
+    <string name="newgame_computersRaceLevel">"कंप्यूटर स्तर होना चाहिए कम से कम"</string>
+    <string name="newgame_startGame">"गेम शुरू"</string>
+    <string name="newgame_minHumanRaces">"तुम अपने आप के लिए कम से कम 1 दौड़ का चयन करना होगा"</string>
+    <string name="newgame_minComputerRaces">"आप कंप्यूटर के लिए कम से कम 1 दौड़ का चयन करना होगा"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"तेज़़ "</string>
+    <string name="newgame_normal">"सामान्य "</string>
+    <string name="newgame_slow">"धीमा "</string>
+    <string name="newgame_difficulty">"कठिनाई"</string>
+    <string name="newgame_easy">"आसान"</string>
+    <string name="newgame_medium">"मध्यम"</string>
+    <string name="newgame_hard">"कठोर"</string>
+    <string name="newgame_expert">"विशेषज्ञ"</string>
+    <string name="newgame_type">"GameType"</string>
+    <string name="newgame_tutorial">"ट्यूटोरियल (शिक्षण) "</string>
+    <string name="newgame_campaign">"चुनाव प्रचार"</string>
+    <string name="newgame_defense">"रक्षा प्रशिक्षण"</string>
+    <string name="newgame_battle">"लड़ाई के रूप"</string>
+    <string name="newgame_online">"ऑनलाइन गेम्स"</string>
+    <string name="newgame_findGame">"खेल का पता लगाएं"</string>
+    <string name="newgame_searching">"खोज रहा है...."</string>
+    <string name="newgame_random">"रैंडम"</string>
+    <string name="newgame_onlineError">"आप एक ऑनलाइन खेल में शामिल करने में असमर्थ हैं"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP के"</string>
+    <string name="upgrade_creatures">"जीव"</string>
+    <string name="upgrade_towers">"टावर्स (मीनारें)"</string>
+    <string name="upgrade_specials">"विशेष"</string>
+    <string name="upgrade_notEnoughXP">"आप के लिए पर्याप्त अनुभव नहीं है"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"अग्नि के बलिदान की सेना"</string>
+    <string name="race_ice">"है skaði जमे हुए Savages"</string>
+    <string name="race_earth">"नोबल सैनिकों की गैया लॉट"</string>
+    <string name="race_wind">"Quetzalcoatl योद्धा जनजाति"</string>
+    <string name="race_life">"Hugues डे 'Payens के पवित्र शूरवीरों टमप्लर"</string>
+    <string name="race_death">"शापित की है damballa सेना के"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP के"</string>
+    <string name="achievements_longestGame">"सबसे लंबे समय तक खेल"</string>
+    <string name="achievements_shortestGame">"कम से कम खेल"</string>
+    <string name="achievements_highestScore">"उच्चतम अंक "</string>
+    <string name="achievements_highestLevelBeaten">"उच्चतम पीटा स्तर"</string>
+    <string name="achievements_wins">"लड़ाई जीत"</string>
+    <string name="achievements_losses">"लड़ाई घाटा"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"गोल्ड शुरू"</string>
+    <string name="stat_life">"जीवन शुरू"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"लागत"</string>
+    <string name="stat_income">"आय "</string>
+    <string name="stat_air">"एयर (AIR)"</string>
+    <string name="stat_ground">"भूमि "</string>
+    <string name="stat_attack_range">"हमला रेंज"</string>
+    <string name="stat_health">"Health"</string>
+    <string name="stat_speed">"गति "</string>
+    <string name="stat_defense">"प्रतिरक्षा"</string>
+    <string name="stat_damage">"क्षति"</string>
+    <string name="stat_attack_rate">"हमला दर"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"छप नुकसान त्रिज्या"</string>
+    <string name="stat_splash_strength_fade">"स्पलैश शक्ति फीका"</string>
+    <string name="stat_creature_damage_modifier">"प्राणी नुकसान बोनस"</string>
+    <string name="stat_slow_duration">"धीमी गति वीडियो"</string>
+    <string name="stat_slow_factor">"धीरे दर"</string>
+    <string name="stat_creature_evade_percentage">"संभावना बचना"</string>
+    <string name="stat_stun_duration">"अचेत अवधि"</string>
+    <string name="stat_tower_attack_rate_modifier">"टॉवर हमला स्पीड बोनस"</string>
+    <string name="stat_creature_speed_modifier">"प्राणी आंदोलन गति बोनस"</string>
+    <string name="stat_tower_damage_modifier">"टॉवर नुकसान बोनस"</string>
+    <string name="stat_tower_defense_modifier">"टॉवर बचाव बोनस"</string>
+    <string name="stat_creature_defense_modifier">"प्राणी रक्षा बोनस"</string>
+    <string name="stat_drain_duration">"अवध्ि नाली"</string>
+    <string name="stat_drain_percentage">"प्रतिशत नाली"</string>
+    <string name="stat_heal_percentage">"प्रतिशत चंगा"</string>
+    <string name="stat_kill_percentage">"तुरंत मारने का मौका"</string>
+    <string name="stat_creature_health_modifier">"प्राणी स्वास्थ्य बोनस"</string>
+    <string name="stat_resurrect_percentage">"जी उठने की संभावना"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"सब दुश्मन जीव को नुकसान पहुंचा"</string>
+    <string name="special_heal">"आपके सभी प्राणियों को चंगा"</string>
+    <string name="special_kill">"अपने बोर्ड पर दुश्मन जीव का 25% को मार डालो"</string>
+    <string name="special_slow">"सब दुश्मन जीव धीमा"</string>
+    <string name="special_speed">"अपने सभी प्राणियों स्पीड"</string>
+    <string name="special_stun">"सब दुश्मन जीव अचेत"</string>
+
+</resources>

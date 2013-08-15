@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"神々＆タワーズ"</string>
+    <string name="app_description">"神々とタワー、AIやPVPに対する3Dタワーの防衛ゲーム。"</string>
+    <string name="motto">"勝つために戦う！"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"ゲームを再開する"</string>
+    <string name="main_newGame">"新しいゲーム"</string>
+    <string name="main_store">"ストア"</string>
+    <string name="main_upgrade">"アップグレード"</string>
+    <string name="main_achievements">"クリア"</string>
+    <string name="main_almanac">"年鑑"</string>
+    <string name="main_options">"オプション"</string>
+    <string name="main_credits">"クレジット"</string>
+    <string name="main_exit">"終了"</string>
+    <string name="main_back">"戻る"</string>
+    <string name="main_retry">"再入力"</string>
+    <string name="main_downloading">"ゲームデータをダウンロードして、しばらくお待ちください..."</string>
+    <string name="main_download_failed">"必要なデータのダウンロードに失敗しました、それが中断したところからもう一度やり直してゲームを終了し、再起動してください。"</string>
+    <string name="main_external_storage">"アプリケーションは必要なデータをダウンロードして/使用できるように外部ストレージをマウントしてください。"</string>
+    <string name="main_latest_version">"神々とタワーの新しいバージョンが入手可能であるか、またはあなたは、ゲームサーバに接続することはできません。"</string>
+    <string name="main_no_news">"いいえニュースません"</string>
+    <string name="main_news_server_down">"ニュースサーバーがダウンしているか、最新のゲームニュースを取得中にエラーがありました。"</string>
+    <string name="main_version">"***************** バージョン"</string>
+    <string name="main_graphics">"過度のメモリ使用に起因するモデルデータを読み込み中にエラーが発生しました。グラフィック設定を下げているとアプリケーションが終了します。再起動し、[オプション]メニューには、まずスタートアップのゲームで設定できる、縮小テクスチャの品質及び/又はメッシュ品質でゲームを実行してみてください。"</string>
+    <string name="main_rate_dialog">"あなたは、%s を使用して楽しむ場合は、それを評価するための時間をとってください。ご支援をいただきありがとうございます。"</string>
+    <string name="main_rate_now">"率 %s"</string>
+    <string name="main_rate_later">"私に後で通知する"</string>
+    <string name="main_rate_never">"遠慮しない"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$"</string>
+    <string name="purchase_purchase">"購入"</string>
+    <string name="purchase_cancel">"取消し(C)"</string>
+    <string name="purchase_reduced_ads">"目障りな広告を削除"</string>
+    <string name="purchase_reduced_ads_description">"すべてのメニューとゲームの前と後、それらの上部にあるADSを排除します。"</string>
+    <string name="purchase_all_races">"全種のロックを解除する"</string>
+    <string name="purchase_all_races_description">"あなたを25新たな生き物と20新タワーへのアクセスを提供するすべてのレースのロックを解除します。"</string>
+    <string name="purchase_multiple_races">"レースの組み合わせのロックを解除する"</string>
+    <string name="purchase_multiple_races_description">"かつて12新しい生き物と12の新しいタワーにあなたのアクセスを与えるに複数のレースとして再生する機能のロックを解除します。"</string>
+    <string name="purchase_special_100">"それぞれの特別な100を購入する"</string>
+    <string name="purchase_special_100_description">"あなたのレースのスペシャルのそれぞれの100を与える"</string>
+    <string name="purchase_upgrade_abilities">"すべてのプレイヤーと競争力をアップグレードする"</string>
+    <string name="purchase_upgrade_abilities_description">"すべてのプレーヤーの統計情報とレースの統計情報の1でレベルを向上させ"</string>
+    <string name="purchase_upgrade_all">"全てのレースごとに塔/クリーチャーをアップグレードする"</string>
+    <string name="purchase_upgrade_all_description">"1ですべての生き物/塔の各能力のレベルを向上させ"</string>
+    <string name="purchase_upgrade_onerace">"ごとに塔/クリーチャーをアップグレードする"</string>
+    <string name="purchase_upgrade_onerace_description">"1で1レースではすべての生き物/塔の各能力のレベルを向上させ"</string>
+    <string name="purchase_double_experience">"あなたの経験をダブル"</string>
+    <string name="purchase_double_experience_description">"即座には、各レースでは、現在の経験レベルを2倍与える。"</string>
+    <string name="purchase_billing_not_supported_title">"購入することはできません"</string>
+    <string name="purchase_billing_not_supported_message">"マーケットの課金サービスは、この時点では利用できません。あなたは、このアプリを使用し続けることはできますが、購入を行うことはできません。"</string>
+    <string name="purchase_cannot_connect_title">"課金サービスに接続することはできません"</string>
+    <string name="purchase_cannot_connect_message">"このアプリは、課金サービスに接続できません。あなたは、このアプリを使用し続けることはできますが、購入を行うことはできません。"</string>
+    <string name="purchase_restoring_transactions">"トランザクションを復元する"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"ウェブサイト"</string>
+    <string name="credits_production">"によって生成された"</string>
+    <string name="credits_production_name">"Gundogのスタジオ"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"プログラミング"</string>
+    <string name="credits_programming_name">"ジョーの法則"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3Dモデルとテクスチャ"</string>
+    <string name="credits_models_name">"Tucho·フェルナンデス·カロ"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"ゲーム年鑑"</string>
+    <string name="credits_story_name">"ジョディ·クレメンツ"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2Dピクセルアート"</string>
+    <string name="credits_pixelart_name">"ポール·カルバート"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/＃/"</string>
+    <string name="credits_music">"音楽"</string>
+    <string name="credits_music_name">"ニール·ジョンストン"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"ウェブデザイン"</string>
+    <string name="credits_website_name">"キャサリン·ルイス"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"トレーラー"</string>
+    <string name="credits_trailer_name">"イーモンUrtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"翻訳"</string>
+    <string name="credits_translations_names">"承恩リー（韓国語）"</string>
+    <string name="credits_special_thanks">"スペシャルサンクス"</string>
+    <string name="credits_special_thanks_names">"チーム恐ろしいと第二小隊デルタ·カンパニー2  -  35IN"</string>
+    <string name="credits_inmemoryof">"のメモリにケビン·ホワイトは、SGTを。ゴーンが、忘れられない。"</string>
+
+    <!-- InGame -->
+    <string name="game_you">"YOU"</string>
+    <string name="game_enemy">"敵対的"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"場所:"</string>
+    <string name="game_seconds">"の"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"クリーチャーのレベルへアップグレード"</string>
+    <string name="game_max_upgrade">"MAXのアップグレードを購入"</string>
+    <string name="game_enable_auto_purchase">"自動購入を有効にする"</string>
+    <string name="game_disable_auto_purchase">"AUTO購入を無効にする"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"読み込みに失敗しました。"</string>
+    <string name="manager_playerReset">"プレイヤーとゲームデータのリセット"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"あなたの勝ち"</string>
+    <string name="results_lost">"は失わ"</string>
+    <string name="results_disconnected">"切断。"</string>
+    <string name="results_you">"YOU"</string>
+    <string name="results_ai">"人工知能"</string>
+    <string name="results_continue">"続行"</string>
+    <string name="results_length">"長さ"</string>
+    <string name="results_waves">"wave"</string>
+    <string name="results_base_xp">"ベースXP"</string>
+    <string name="results_total_xp">"レースあたりの総XP"</string>
+    <string name="results_campaign">"キャンペーン"</string>
+    <string name="results_rewards">"報酬"</string>
+    <string name="results_main">"メイン"</string>
+    <string name="results_life">"生涯"</string>
+    <string name="results_income">"収入"</string>
+    <string name="results_offense">"犯罪"</string>
+    <string name="results_defense">"防衛"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"達成ボーナス"</string>
+    <string name="results_win_bonus">"ボーナスを獲得"</string>
+    <string name="results_length_bonus">"長さボーナス"</string>
+    <string name="results_life_bonus">"ライフボーナス"</string>
+    <string name="results_multiple_race_factor">"複数のレースファクター"</string>
+    <string name="results_free_version">"あなたは神とタワーズの無料版での経験を獲得することはできません。"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"あなたはすべてのプレイヤーデータをリセットしてもよろしいですか？"</string>
+    <string name="options_assetClear">"あなたはすべてのダウンロード資産をクリアしてもよろしいですか？"</string>
+    <string name="options_reset">"リセット"</string>
+    <string name="options_assets">"ゲームデータを削除します。"</string>
+    <string name="options_clear">"消去(C)"</string>
+    <string name="options_clearing">"すべてのダウンロード資産が削除され、アプリケーションが終了しています..."</string>
+    <string name="options_soundOn">"の音"</string>
+    <string name="options_soundOff">"託つ"</string>
+    <string name="options_cancel">"取消し(C)"</string>
+    <string name="options_textureQuality">"テクスチャ品質"</string>
+    <string name="options_meshQuality">"メッシュの品質"</string>
+    <string name="options_engineSpeed">"GameEngineスピード"</string>
+    <string name="options_high">"HIGH:"</string>
+    <string name="options_medium">"通常"</string>
+    <string name="options_low">"低い"</string>
+    <string name="options_fast">"速い"</string>
+    <string name="options_normal">"普通"</string>
+    <string name="options_slow">"遅い"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"相手のレベル"</string>
+    <string name="newgame_yourRace">"あなたのレース（S）"</string>
+    <string name="newgame_opponentsRace">"対戦レース（S）"</string>
+    <string name="newgame_waves">"最大波"</string>
+    <string name="newgame_invalid_text">"無効なコンピュータレベルまたは波カウント数&gt; 0を入れてください。"</string>
+    <string name="newgame_computersRaceLevel">"コンピュータのレベル以上である必要があり"</string>
+    <string name="newgame_startGame">"ゲームをスタート"</string>
+    <string name="newgame_minHumanRaces">"あなた自身のために少なくとも1つのレースを選択する必要があります。"</string>
+    <string name="newgame_minComputerRaces">"あなたは、コンピュータの少なくとも1つのレースを選択する必要があります。"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"速い"</string>
+    <string name="newgame_normal">"普通"</string>
+    <string name="newgame_slow">"遅い"</string>
+    <string name="newgame_difficulty">"難易度"</string>
+    <string name="newgame_easy">"簡単だった"</string>
+    <string name="newgame_medium">"通常"</string>
+    <string name="newgame_hard">"ハード"</string>
+    <string name="newgame_expert">"上級"</string>
+    <string name="newgame_type">"ゲームタイプ"</string>
+    <string name="newgame_tutorial">"チュートリアル"</string>
+    <string name="newgame_campaign">"キャンペーン"</string>
+    <string name="newgame_defense">"防衛訓練"</string>
+    <string name="newgame_battle">"バトルモード"</string>
+    <string name="newgame_online">"オンライン ゲーム"</string>
+    <string name="newgame_findGame">"ゲームを探す"</string>
+    <string name="newgame_searching">"検索対象:"</string>
+    <string name="newgame_random">"ランダム"</string>
+    <string name="newgame_onlineError">"あなたは、オンラインゲームに参加することができません"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"生き物"</string>
+    <string name="upgrade_towers">"タワーズ"</string>
+    <string name="upgrade_specials">"スペシャル"</string>
+    <string name="upgrade_notEnoughXP">"あなたのための十分な経験を持っていない"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"犠牲にのアグニの軍団"</string>
+    <string name="race_ice">"Skaðiの冷凍野蛮"</string>
+    <string name="race_earth">"ノーブル兵士のガイアのロット"</string>
+    <string name="race_wind">"ケツァルコアトルの戦士族"</string>
+    <string name="race_life">"ユーグ·ド·Payens \"ホーリーテンプル騎士団"</string>
+    <string name="race_death">"ダムドのDamballa軍"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"最長のGAME"</string>
+    <string name="achievements_shortestGame">"最短GAME"</string>
+    <string name="achievements_highestScore">"高い順"</string>
+    <string name="achievements_highestLevelBeaten">"最高レベルのベアテン"</string>
+    <string name="achievements_wins">"戦いは、WINS"</string>
+    <string name="achievements_losses">"BATTLE損失"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"ゴールドを開始"</string>
+    <string name="stat_life">"生活を開始する"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"コスト"</string>
+    <string name="stat_income">"収入"</string>
+    <string name="stat_air">"風"</string>
+    <string name="stat_ground">"グラウンド"</string>
+    <string name="stat_attack_range">"攻撃範囲"</string>
+    <string name="stat_health">"美容"</string>
+    <string name="stat_speed">"スピード"</string>
+    <string name="stat_defense">"防衛"</string>
+    <string name="stat_damage">"ダメージ"</string>
+    <string name="stat_attack_rate">"発病率"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"スプラッシュダメージの半径"</string>
+    <string name="stat_splash_strength_fade">"スプラッシュ強度フェード"</string>
+    <string name="stat_creature_damage_modifier">"クリーチャーのダメージボーナス"</string>
+    <string name="stat_slow_duration">"遅い時間"</string>
+    <string name="stat_slow_factor">"遅い速度"</string>
+    <string name="stat_creature_evade_percentage">"チャンスを回避する"</string>
+    <string name="stat_stun_duration">"スタンの効果時間"</string>
+    <string name="stat_tower_attack_rate_modifier">"タワー攻撃速度のボーナス"</string>
+    <string name="stat_creature_speed_modifier">"クリーチャーの移動速度ボーナス"</string>
+    <string name="stat_tower_damage_modifier">"塔のダメージボーナス"</string>
+    <string name="stat_tower_defense_modifier">"タワーディフェンスボーナス"</string>
+    <string name="stat_creature_defense_modifier">"クリーチャーの防御ボーナス"</string>
+    <string name="stat_drain_duration">"時間ドレイン"</string>
+    <string name="stat_drain_percentage">"割合ドレイン"</string>
+    <string name="stat_heal_percentage">"割合を癒す"</string>
+    <string name="stat_kill_percentage">"インスタントキルチャンス"</string>
+    <string name="stat_creature_health_modifier">"生き物の健康ボーナス"</string>
+    <string name="stat_resurrect_percentage">"復活のチャンス"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"すべての敵の生き物を損傷"</string>
+    <string name="special_heal">"すべての生き物を癒す"</string>
+    <string name="special_kill">"ボード上の敵の生き物の25％を殺す"</string>
+    <string name="special_slow">"すべての敵の生き物を遅らせる"</string>
+    <string name="special_speed">"すべてのクリーチャーをスピードアップ"</string>
+    <string name="special_stun">"気絶させるすべての敵の生き物"</string>
+
+</resources>

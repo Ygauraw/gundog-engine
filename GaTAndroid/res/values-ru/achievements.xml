@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 победы, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_water_catapult">"4 победы, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_polar_bear">"6 побед, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_ice_golem">"8 побед, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_water_pillar">"10 побед, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_drake">"12 побед, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_water_emitter">"16 побед, как замороженные Дикари Скади в разблокирует"</string>
+    <string name="achievement_race_ice">"Разблокировать все Скади в замороженных существ Дикари и башни"</string>
+    <string name="achievement_campaign_race_ice_10">"5 звезд на всех уровнях кампании просто, как замороженные Дикари Скади в"</string>
+    <string name="achievement_campaign_race_ice_100">"5 звезд на всех уровнях кампании на средних, как замороженные Дикари Скади в"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 звезд на всех уровнях кампании на жестком как замороженные Дикари Скади в"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 звезд на всех уровнях кампании на эксперте, как замороженные Дикари Скади в"</string>
+    <string name="achievement_battle_race_ice_5">"5 побед в Battle Mode, как замороженные Дикари Скади в"</string>
+    <string name="achievement_battle_race_ice_25">"25 побед в Battle Mode, как замороженные Дикари Скади в"</string>
+    <string name="achievement_battle_race_ice_100">"100 побед в Battle Mode, как замороженные Дикари Скади в"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 выигрывает в Battle Mode, как замороженные Дикари Скади в"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 победы, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_griffin_statue">"4 победы, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_panda_bear">"6 побед, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_lightning_golem">"8 побед, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_lightning_pillar">"10 побед, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_dragon">"12 побед, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_lightning_emitter">"16 побед, как Кецалькоатля воина племени открывает"</string>
+    <string name="achievement_race_wind">"Разблокировать все Кецалькоатля воина племени существ и башни"</string>
+    <string name="achievement_campaign_race_wind_10">"5 звезд на всех уровнях кампании просто, как воин племени Кецалькоатля"</string>
+    <string name="achievement_campaign_race_wind_100">"5 звезд на всех уровнях кампании на средних, как воин племени Кецалькоатля"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 звезд на всех уровнях кампании на жестком как воин племени Кецалькоатля"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 звезд на всех уровнях кампании на эксперте, как воин племени Кецалькоатля"</string>
+    <string name="achievement_battle_race_wind_5">"5 побед в Battle Mode, как воин племени Кецалькоатля"</string>
+    <string name="achievement_battle_race_wind_25">"25 побед в Battle Mode, как воин племени Кецалькоатля"</string>
+    <string name="achievement_battle_race_wind_100">"100 побед в Battle Mode, как воин племени Кецалькоатля"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 побед в Battle Mode, как воин племени Кецалькоатля"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 победы, как Лот Гайи благородных солдат открывает"</string>
+    <string name="achievement_stone_catapult">"4 победы, как Лот Гайи благородных солдат открывает"</string>
+    <string name="achievement_grizzly_bear">"6 побед, как Лот Гайи благородных солдат открывает"</string>
+    <string name="achievement_earth_golem">"8 побед в качестве лота Гайи благородных солдат открывает"</string>
+    <string name="achievement_earth_pillar">"10 побед в качестве лота Гайи благородных солдат открывает"</string>
+    <string name="achievement_eagle">"12 побед в качестве лота Гайи благородных солдат открывает"</string>
+    <string name="achievement_dirt_emitter">"16 побед в качестве лота Гайи благородных солдат открывает"</string>
+    <string name="achievement_race_earth">"Разблокировать все Лот Гайи благородных существ солдаты и башни"</string>
+    <string name="achievement_campaign_race_earth_10">"5 звезд на всех уровнях кампании просто, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_campaign_race_earth_100">"5 звезд на всех уровнях кампании на средних, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 звезд на всех уровнях кампании на жестком как Лот Гайи благородных солдат"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 звезд на всех уровнях кампании на эксперте, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_battle_race_earth_5">"5 побед в Battle Mode, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_battle_race_earth_25">"25 побед в Battle Mode, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_battle_race_earth_100">"100 побед в Battle Mode, как Лот Гайи благородных солдат"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 выигрывает в Battle Mode, как Лот Гайи благородных солдат"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 победы, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_flame_catapult">"4 победы, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_fiery_bear">"6 побед, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_fire_golem">"8 побед, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_fire_pillar">"10 побед, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_falcon">"12 побед, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_fire_emitter">"16 побед, как легион Агни принесенного в жертву открывает"</string>
+    <string name="achievement_race_fire">"Разблокировать легиона все Агни принесенных в жертву существ и башни"</string>
+    <string name="achievement_campaign_race_fire_10">"5 звезд на всех уровнях кампании просто, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_campaign_race_fire_100">"5 звезд на всех уровнях кампании на средних, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 звезд на всех уровнях кампании на жестком как Легион Агни принесенного в жертву"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 звезд на всех уровнях кампании на эксперте, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_battle_race_fire_5">"5 побед в Battle Mode, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_battle_race_fire_25">"25 побед в Battle Mode, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_battle_race_fire_100">"100 побед в Battle Mode, как легион Агни принесенного в жертву"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 выигрывает в Battle Mode, как легион Агни принесенного в жертву"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 победы, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_angel_statue">"4 победы, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_seraphim">"6 побед, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_life_golem">"8 побед, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_life_pillar">"10 побед, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_angel">"12 побед, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_holy_water_emitter">"16 побед, как Святой Гуго де Payens \"Тамплиеры открывает"</string>
+    <string name="achievement_race_life">"Разблокировать все Гуго де Payens \"Святой тамплиеров существ и башни"</string>
+    <string name="achievement_campaign_race_life_10">"5 звезд на всех уровнях кампании просто, как Святой тамплиеров Гуго де Payens \"Рыцари"</string>
+    <string name="achievement_campaign_race_life_100">"5 звезд на всех уровнях кампании на средних, как Святой рыцари Гуго де Payens \"Тамплиеров"</string>
+    <string name="achievement_campaign_race_life_1000">"5 звезд на всех уровнях кампании на жестком как Святой рыцари Гуго де Payens \"Тамплиеров"</string>
+    <string name="achievement_campaign_race_life_10000">"5 звезд на всех уровнях кампании на эксперте, как Святой Тамплиеров Гуго де Payens \"Рыцари"</string>
+    <string name="achievement_battle_race_life_5">"5 побед в Battle Mode, как Святой рыцари Гуго де Payens \"Тамплиеров"</string>
+    <string name="achievement_battle_race_life_25">"25 побед в Battle Mode, как Святой рыцари Гуго де Payens \"Тамплиеров"</string>
+    <string name="achievement_battle_race_life_100">"100 побед в Battle Mode, как Святой рыцари Гуго де Payens \"Тамплиеров"</string>
+    <string name="achievement_battle_race_life_1000">"1000 выигрывает в Battle Mode, как Святой Тамплиеров Гуго де Payens \"Рыцари"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 победы, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_gargoyle_statue">"4 победы, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_succubus">"6 побед, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_undead_golem">"8 побед, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_undead_pillar">"10 побед, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_fallen_angel">"12 побед, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_toxic_gas_emitter">"16 побед, как в армии Damballa проклятых открывает"</string>
+    <string name="achievement_race_death">"Разблокировать армии все Damballa о проклятых существ и башни"</string>
+    <string name="achievement_campaign_race_death_10">"5 звезд на всех уровнях кампании просто, как армия Damballa о проклятых"</string>
+    <string name="achievement_campaign_race_death_100">"5 звезд на всех уровнях кампании на средних, как армия Damballa о проклятых"</string>
+    <string name="achievement_campaign_race_death_1000">"5 звезд на всех уровнях кампании на жестком как армия Damballa о проклятых"</string>
+    <string name="achievement_campaign_race_death_10000">"5 звезд на всех уровнях кампании на эксперте, как армия Damballa о проклятых"</string>
+    <string name="achievement_battle_race_death_5">"5 побед в Battle Mode, как армия Damballa о проклятых"</string>
+    <string name="achievement_battle_race_death_25">"25 побед в Battle Mode, как армия Damballa о проклятых"</string>
+    <string name="achievement_battle_race_death_100">"100 побед в Battle Mode, как армия Damballa о проклятых"</string>
+    <string name="achievement_battle_race_death_1000">"1000 выигрывает в Battle Mode, как армия Damballa о проклятых"</string>
+
+</resources>

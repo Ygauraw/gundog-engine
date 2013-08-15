@@ -1,0 +1,190 @@
+<resources>
+
+    <string name="almanac_story">"מה אם כל סיפור שאי פעם שמעתי נכון? \n\n סיפורים לילדים. סיוטים. מיתולוגיות. הדתות. הם יכולים להיות אמיתי? \n\n סניף מסוים של המדע מאמין שאם המוח האנושי יכול לדמיין משהו, זה חייב להיות בו זמנית קיים. \n\n הספקנים אכחיש את זה כמו הזיות דמיוניות של מטורף. המאמינים האמיתיים אכחיש את זה, כי הם יודעים כי האמת היא הרבה הרבה יותר מכוער. זה הרבה יותר גרוע מאשר סיפורים פשוטים של טוב לעומת רע. \n\n רק עכשיו אנחנו מגלים מספר אינסופי של יקומים מקבילים קיימים לצד שלנו, כל הזמן הסתעפות לכיוונים רבים נוספים. כל סיפור ששמענו אי פעם נכון איפשהו. זהו סיפורו של אחד היקומים האלה, שבו הגבר הוא עצם קיומה תלוי על בלימה. \n\n מפלצות אמיתיות. צבאות אותם, להוביל על ידי האלים, כל עם אותה המטרה: לחזור הביתה. שחורים, לבבות עקומים, מחפש נקמה רק שיביא אותם בשלום. להשמיד את כל המתחרים. עקוב אלוהיהם אל ליבו של הקרב, ולנצח, ולצעוד חזרה לגיהנום שהולידה אותם. Return. דף הבית. \n\n המאבק להישאר בחיים יהיה קרב יומיומי. חלש במוקדם לשכוח בימים אלה. אלים ומפלצות, שדים Undead ואת הכלים של המלחמה, הם המציאות היחידה. כל זה אמיתי מדי … זה מגדל הביטחון מלחמות! \n\n
+"</string>
+
+    <!-- ICE -->
+    <string name="almanac_race_ice">"היא עשויה קרח, הם אומרים, אלת החורף, סקאדי, אשתו של הנפגע Njörðr, מנהיג צבאות הקפואים של הנורדים של לוחמים. בשלב מסוים, היא ביקשה נקמה, אבל עכשיו היא מבקשת רק בבית. אביה, Þjazi, נהרג לחפש צורה-shifting לוקי. בהתקף של זעם צדקני, היא באה לאלים, חרב ביד. אבל הם לרצות אותה. הם הרגיעו את כעסה. הם נתנו את כוחה. יש חלל ריק בתוך סקאדי שגדל מדי יום עם עוולות שבוצעו על ביתה. זה קל לרדוף השחור. תשעת העולמות במיתולוגיה הנורדית, רק Niflhel, שממה התופת, קפוא, יכול להכיל את השחור מבליעת הבריאה. יש תהלוכות של הצבא שלה. 
+"</string>
+    <string name="almanac_frozen_soldier">"לכודים בכלא קפוא במשך מאות שנים, הוויקינגים קרח הובאו לחיים כאשר סקאדי הותקף. היא היתה זקוקה לזמן את הצבא, פנה אל קברי אחים של חסידיו של אביה המנוח, Þjazi. הוויקינגים הקרח כבר הזהיר כי החופש שלהם הוא זמני: נצחו, טוענים המקום המועדף על Nifhel. להפסיד, ולהישאר קפוא לנצח במאבק.
+"</string>
+    <string name="almanac_frozen_soldier_horseman">"כמו החיילים קפואים לנצח צועדים ברגל, הפרשים קפואים הם cooly חישוב. שונה מן בני הלילית המפורסמת צי רגל, צבא סוסים של סקאדי מעביר לאט ובשיטתיות. למרות אפשרות טכנית בדהרה רוח, פרש קפוא יש יותר סיכוי למצות את האויב שלו מאשר לרדוף אחריו. בידיעה כי לא פינה של כדור הארץ הוא קר מדי, כהה מדי, או מסביר פנים מדי, הוא פשוט לעקוב אחר טרפו. הוא לעולם לא יפסיק. הוא לעולם לא לנוח. לא לפני אויביו ויתרו על נשימות האחרונים שלהם מתים.
+"</string>
+    <string name="almanac_polar_bear">"בעלי חיים אלה עזים אינם ידועים למודיעין שלהם, תובנה, או הסתגלות. הם ידועים כוח קסמים. עם רגליים חזקות, הבשרניות וציפורניים חדות גילוח, רבים חייל פגש את גורלם עקירה מן הקרקע רק כדי להיתקל שיניים שאינה יודעת שובעה. סכינים אלה ארבו בתוך הלסת כי מוחץ גרניט קפוא באותה קלות כמו בשר, מה שהופך בריחה נדירים מאוד.  
+"</string>
+    <string name="almanac_ice_golem">"עשוי קרח צפופה יותר מכל דבר שנמצא על כדור הארץ המודרני, אגרוף של גולם הקרח קשה כמו סלע קפוא. זו הנשמה, אם זה אי פעם אחת, כבר מזמן קר נגמר, והוא חי רק כדי לשרת הצעות אכזרית של סקאדי. ישנן שתי אפשרויות כאשר נפגש עם הגולם הקרח: להילחם עד מוות, או ריצה. ואם מישהו בוחר לרוץ, לרוץ יותר מהר 1.  
+"</string>
+    <string name="almanac_drake">"יכול לתקוף ממרחקים כה מפחיד, דרייק ממש נשימות גושי קרח של ברד, המכהן טרור על יצורים חלשים ניידים פחות. הברד הארציים היו ידועים להרוס יערות שלמים, ערכות השמד של חיות הבר, ואף שקע פלדה. תארו לעצמכם מה דרייק מסוגל.  
+"</string>
+    <string name="almanac_water_cannon">"זה התותח חזק רותם אחד המרכיבים הבסיסיים ביותר של אדמה, מים, והופך אותו קצה סכין נשק מתחדשת ללא הרף.
+"</string>
+    <string name="almanac_water_catapult">"מים הם גם formable לאין שיעור כבד באופן מפתיע. העובדות הן מנוצלות על ידי מים קטלני Catapault.
+"</string>
+    <string name="almanac_water_pillar">"נע לאט, כמעט באופן שיטתי, כמות די גדול של מים יכול להתנפח גבוהה, הקף את שפלת, ובסופו של דבר לחנוק כל דבר שנקרה בדרכו.
+"</string>
+    <string name="almanac_water_emitter">"מוזר, משהו מוכר יכול לתת חיים כל כך בזריזות לשמש מכונת המוות, אבל כזה הוא פולט מים. כמו עינויים ידוע כמה תרבויות, פולט מים לאט אבל בטוח חונקת את יריביו עם הזרם פשוט מים. 
+"</string>
+
+    <!-- WIND -->
+    <string name="almanac_race_wind">"לפני שהיה גשם, לפני השלג שם, היתה רוח, נסחף לאורך הארץ, המכסה את האדמה בשמיכה של שינוי. יש מי שולט על הרוח, ובכך שולט על תנועת החולות, את הזרעים ואת עונות. קוראים לו קצאלקואטל. הנחש המכונף הוא יותר אלוהים: הוא בן ברית, ידיד, tormenter, ועל סמן של המקום. קצאלקואטל הוא הפער בין שמיים וארץ. הוא אחד הבודדים שיכולים לנסוע קסיבאלבה, מאיה השאול, ולחזור בלי ריח של מוות עליו. קסיבאלבה הוא מקום של פחד, מה יש שם העסק קצאלקואטל קשה לומר. אבל הוא הרים את הצבא לבוא אחריו. הוא העיר את הרוח.
+"</string>
+    <string name="almanac_human_archer">"הרבה לפני האקדח, לא היה ארצ'ר, אולי הלוחם המפחידים ביותר של תקופת ימי הביניים. כעת עמלים על Quetzacoatl, אשר הבטיח להם את הגיבוי של הרוח זעם, אלה לוחמים זריזים יכולים לתקוף מטווח רחוק. באמצעות ראש חץ עטוף ברב חלוד של ווים פלדה זעירים, כל אחד בר מזל מספיק כדי לשרוד מפגש עם קבוצה של קשתים, מתוכם יש מעט ידוע על ההיסטוריה, ייצא צלקות עד סוף ימיהם.
+"</string>
+    <string name="almanac_human_archer_horseman">"אם ארצ'ר יש חולשה, ורבים יטענו, כי זה לא, זה כי הצורך שלהם להגדיר ולכוון משאיר אותם חשופים יחסית. הזן את ארצ'ר רכוב, מאומנים לשלוט חיה רעה יהיה שמירה על דיוק קטלני. מפגש עם קבוצה של קשתים רכוב יעזוב השמים השחירו, אלפי חצים, כל אחד שליח של מוות ידוע מראש, גשם מלמעלה. 
+"</string>
+    <string name="almanac_panda_bear">"אף פעם העריצו את המראה שלהם נאים, פנדה ענק הוא חיה טריטוריאלית בפראות, עם לסתות עבים סכין דמויי טפרים. תוך התאמה לחיים פעילים למדי, את דובי פנדה ענקיים הם עצבני הגנתי מאוד של בני מינם. ידיעה זו, קצאלקואטל מאיצה את פנדה ענק עד בלי די, הפרדת האם מן הגור, ובידוד הלוחמים דובי מהמולדת האם שלהם. הוא הכעיס אותם, תוך שאינו במקומו, את הכעס שלהם יהיה הרווה בדם.
+"</string>
+    <string name="almanac_lightning_golem">"בני המאיה העתיקה סגדו Chaac, הנחש אמרה ריין לשלוט ברקים בשמים, לעתים קרובות להציב אותו מעל הנחש המכונף קצאלקואטל. קצאלקואטל, יודע גם מלא כוח של Chaac, סרקו את השמים ואת הגיהנום בחיפוש אחר הגולם ברק. לאחר שמצאתי אותו, אחרי שהבטיחה את נאמנותו, הגולם ברק ישמש קצאלקואטל כמו גשם משרת את העננים: בלי להניד עפעף, יצירת מוות כמו ענן יוצר שלולית. 
+"</string>
+    <string name="almanac_dragon">"אולי לא יצור יחיד הרוויחה פחות מ הראשי החדש שלהם, כמו דרקון. כבר חיה ידוע בכל הדורות, תחת קצאלקואטל, דרקון מפחיד עוד יותר, לאחר שלמדו כל מטרד הרוח מתהפכת מלייז' המכונף שלה. הדרקון הוא נחש הלוהטת של היכולת מדאיג. 
+"</string>
+    <string name="almanac_lightning_cannon">"מאז שחר האנושות, יצורים נחותים לקוות לשלוט על השמיים, ועם זאת, כוחה של ברקים \"זאוס. עכשיו הם יכולים.
+"</string>
+    <string name="almanac_griffin_statue">"למרות ההוד בצורתו, ומלכותי ארשת שלה, לא נראה רחוק יותר בציפורניו כדי להבין את טבעה האמיתי של גריפין.
+"</string>
+    <string name="almanac_lightning_pillar">"הטור של אנרגיה טבעית מדהימה, עמוד זה הן אבן שואבת כוח, המקרן מסוגל הרס שאין שני לו.
+"</string>
+    <string name="almanac_lightning_emitter">"מסוגל לתפקד burts קצרים של חדות קיצוני, פולט ברק הוא כוח מזעזע לראות מרחוק, קרוב יותר, כמובן, הוא לא הופעה, אבל גזר דין מוות.
+"</string>
+
+    <!-- EARTH -->
+    <string name="almanac_race_earth">"האדם יצר דת כדי לתאר את אלוהים. אלוהים ברא את האדם כדי לשקף את התמונה שלו. אבל גאיה, גאיה אמא, יצרו האלים. , גאיה היוצר של כדור הארץ, הוא הגופן שממנו זורם נהר החיים. היא היא הרוח ואת ההרמוניה של הקיום. היוונים נראו גאיה להדרכה מעל כל האחרים. היא האירה עליהם. והם פנו אליה, שיכור על היין שהם עשויים הענבים היא המסופקים, שיכורי כוח על החיים היא אך מותר בלבד. אז, היא תוביל אותם Tartarus. היא תראה להם מה זה כאב. Tartarus, התהום, חור כהה במרכז ההוויה, העולם התחתון של הארורים. Tartarus, מקום מנוחתו ואת שם ה 'אשר מוטלת שם. Tartarus יהיה גורלם; גאיה יוביל את צבאה גורלם, ואז היא תהיה לרחוץ את ידיה של כישלון, מטונף חרטה. 
+"</string>
+    <string name="almanac_elvish_archer">"עבור האלפים, להיות ארצ'ר הוא לא עבודה, זו דרך חיים. למידה קשת ארוכה מרגע שהם לומדים ללכת, שדון מפתחת חוש שישי חדה חץ וקשת, כמו כלים אלה של המלחמה היו הרחבה של להיות מאוד שלו. אם כי לא תמיד את המירוץ הגדול והחזק, גמדים להשתמש החזון שלהם מעולה, ערמומי, ומיומנות הקשת בקלות להביס את היריבים המחכיר, קוראים גאיה, אלת האדמה, בעת הצורך גדול. לחצות אותם על אחריותך בלבד. 
+"</string>
+    <string name="almanac_elvish_archer_horseman">"האדריכלים המעטים של המלחמה, בין אם הם גבר או מכונה, יכול לפגוע במהירות ובנחישות כמו בני הלילית ארצ'ר פרש. ידועה חיבור רוחני כמעט בין רוכב סוס, העלפים אשר לשלוט הן את הקשת והחיה גאים בתרבות בני הלילית, וחשש אחיד מחוצה לה. זה עם סיבה טובה. באמצעות הקשת קצר המאפשר טווח תנועה מלא, אלה רוצחים ניידים לסרוק את האופק, בחר את המטרות שלהם, ואת השביתה בלהיטות מדאיג.
+"</string>
+    <string name="almanac_grizzly_bear">"הרוצח התפתח באופן טבעי, המלך הבלתי מעורער של המולדת מיוער שלה, גריזלי הולך לאט, כי הוא יכול. עם זאת, על ספרינט מלא, הדוב מהיר יותר כמעט fleetest של בעלי חיים, חזק מספיק כדי לקרוע עצמות מחוריהן. אם השיניים המחודדות שלו וטפרים לא להרוג את טרפו, הוא מדי פעם להרוס את המתנגדים בכוח, בוטה הזרוע פטיש כפות אגרוף. 
+"</string>
+    <string name="almanac_earth_golem">"העולה מן קרום כדור הארץ, הגולם כדור הארץ הוא חיה מורכבת, אוסף של מיקרו אורגניזמים, גזים, אבן, שנערך יחד עם בוץ הביצה מוקד יחיד: לחזור לכדור הארץ שממנה באו. זה לא להילחם מתנגדיה אפילו לבלוע אותם ולהיות אחד איתם, מתאדים כל זכר של מה שהיה קודם לכן עמד לפני כמו בוץ זורם לתוך זרם חולף. 
+"</string>
+    <string name="almanac_eagle">"בעידן המודרני סמל של חירות וצדק, הנשר העתיקה היא ציפור טרף ענקית, לתקוף עם מהירות וכוח מפתיע. טפריו לקרוע דרך הבשר, משאירים פצע פתוח הגורמות למוות איטי וכואב. במקרה הטוב, הנשר אשא היריב שלה להפקיד אותם בסתיו ארוך מותו הרבה יותר מהר ובטוח יותר. אל תטעו: זו ציפור קילל נולד של הנפש הארור.
+"</string>
+    <string name="almanac_rock_cannon">"חומר לא ידוע מצוי בשפע כמו קבוע, ריסוק כוחו של רוק, תותח אין רחמים באותה מידה. 
+"</string>
+    <string name="almanac_stone_catapult">"גשם של אבנים נשמע כמו מגיפה תנ\"כית, אבל סטון Catapault הוא מסוגל לייצר כל כך זעם בהתראה של רגע.
+"</string>
+    <string name="almanac_earth_pillar">"מעט ידוע בחוגים מסוימים, אבל את כדור הארץ מורכב הרבה יותר מאשר לכלוך רוק בלבד, ומים. יש אנרגיה פנימית, כוח החיים, אשר נקשר המרכיבים האלה יחד. אם רתם לטוב או לרע, את האנרגיה הזו יש כוח בל יתואר זה מוטל בספק. 
+"</string>
+    <string name="almanac_dirt_emitter">"לא מתקדם טכנולוגית, וגם קסם ייחודי, פולט לכלוך הוא יצירה פשוטה, אכזרית. עם זאת, הסכנה שלה הוא שלא ניתן להתעלם מהם. כל שעליך לעשות הוא לשאול את כל מי שאי פעם נקברו חיים. כלומר, אם אתה יכול למצוא ניצול. 
+"</string>
+
+    <!-- FIRE -->
+    <string name="almanac_race_fire">"הדת ההינדית יש אלים רבים, אינדרה ו סומה, וישנו רודרה. ויש גם אגני, אל האש ו acceptor של הקורבנות. אגני הוא שליח, צינור בין שמים וארץ, את הקשר בין בני האדם לבין האלים. אגני כועס. האלים הראו בני האדם את הדרך החכמה, אך הם נטשו אותו. הם יצטרכו ללמוד שוב. הם יצטרכו ללכת בדרך. אגני יוביל אותם Naraka, העולם התחתון ההינדית. Naraka הוא מקום של סבל, הארץ הנצחית של סבל חשש ידי הבודהיסטים ואת Jainists כאחד. אגני אין הבחנות. הוא ינוח ידו על כתפו של הארור, ולא לפלס דרך דרך הלב של כל תוקפן. אגני היא בת אלמוות. הצבא שלו מתים. יחד, הם יוכלו להחזיר את העולם למצב הטבעי: הסבל. 
+"</string>
+    <string name="almanac_mummy">"כמו אדם מועד מבניין בוער, אמא איטי ומבולבל. אבל זה אינו מבקש לברוח אל החיים. במקום זאת היא מקווה למשוך אחרים לתוך העולם מתים של אומללות. אמא היא לא חזקה, זה לא מהר, זה לא חכם. אבל יותר מכל יצור הידוע, הוא לא יפסיק להילחם. זה אף פעם לא יפסיקו הלחימה: מיוסר, שבור וחבול.  
+"</string>
+    <string name="almanac_mummy_horseman">"רוכב מתים בעל מאניה לפתור אותה כמו אמא, אבל פותר את החולשה הגדולה ביותר של אמא: תנועה איטית שלו. מסוגל לפגוע בהתראה של רגע, רוכב מתים הוא שילוב מושלם של מהירות מוחלטת, זריזות זריזות, ורצון אכזרי למחוץ את רצון המתנגדים קרובות ורחוקות מאיתנו שלה. 
+"</string>
+    <string name="almanac_fiery_bear">"דומה הדוב השחור נפוץ לבנות, אגני כבר סרקו Naraka, השאול הלוהטת, על התוקף מתים דומים בגודלם, מהירות וכוח. לא ניתן למצוא שידוך מתאים, הוא יצר את הדובים בוערים, מזויפים הקרבה חיים של יצורים חפים מפשע ורוחות האנושית הארורה. דובי הבוער הוא חכם מספיק כדי טרף גבעול שלו, הבלתי נלאה, והוא אטום לחלוטין אפילו את הצורות העזות ביותר של חום. יתר על כן, יש אגני חדור כל בזעם לוהט מזג שפוי. הדובים שריפת בלתי צפויות, בלתי ניתן לשליטה, וקטלני אמין.
+"</string>
+    <string name="almanac_fire_golem">"יישום נכון של זמן לחץ ייצור היהלומים. יישום נכון תיצור ספון לעזאזל, תערובת קטלנית של לבה רותחת, כדור הארץ כתוש. האם רותחים מתנגדיה באגרופים רותחים שלה, או כתישה מכן עם תנועות בלתי פוסקות שלה, שיטתי, המטרה היחידה של ספון הגיהנום הוא לגרום סבל שלה על העולם, לקבל את כל קורבנות על מזבח לא מרוצה משלו.
+"</string>
+    <string name="almanac_falcon">"אין חיה יחידה כמילה נרדפת מהירות כמו פלקון, וכתוצאה מכך, לא בעל חיים מסוגל לפגוע כל כך מהר וביעילות. צלילה לעבר הטרף שלה לגבהים נשגבים, פלקון פגעה לעיתים קרובות מכת מוות לפני היריב שלו אפילו ראיתי את זה בא, תוחבת המקור הקשה שלה לתוך הגולגולת של הפולש. אגני מחייך בכל פעם פלקון מכה טרף מכוון שלו. 
+"</string>
+    <string name="almanac_flame_cannon">"החום תוקף את טבעה של התאים של היצור, ומעטים, אם בכלל, יכול לעמוד מול infermo סוער של קנון הלהבה.
+"</string>
+    <string name="almanac_flame_catapult">"הדבר היחיד שחסר האש היא היכולת להפתיע. הוא בהיר מדי, חם מדי לתפוס רבים לא מוכנים. לפחות עד להבה Catapault נכנס לקרב.
+"</string>
+    <string name="almanac_fire_pillar">"סביב עמוד האש היא ריקוד עם המוות בטוח, יפה באופן זריז משלה, אש כיפוף לצורה של הרוחות, לפני שתבלע את טרפו בקלחת של חום. 
+"</string>
+    <string name="almanac_fire_emitter">"כמו תנורים של נפחות נהגו לזייף הפלדה הקרה כבשו באירופה של ימי הביניים, פולט האש מקרינה חום עז משתק כמעט הכי שמנה לב להתקרב זה.
+"</string>
+
+    <!-- LIFE -->
+    <string name="almanac_race_life">"להיות cannonised, להיות קדוש, 1 ביותר להקדיש את חייהם למען המטרה של הנוצרים, וגם הגאולה של הזולת. חלקם מבקשים גאולה דרך ספר, אחרים באמצעות החרב. Hugues דה Payens, מייסד יחידת הגדול של האבירים הטמפלרים, היה קדוש לוחם, הצלבנית, והמנהיג הצבאי של חצץ אמיתי גאון נדיר. Payens דה, כמו כל תואר גרנד שלאחר אותו, קיבל את תפקיד לכל החיים, נשבע להגן על הצלב. רק מוות אחד יכול סוף סוף לנוח. בחייו, Payens דה נהרג נפש רבים לטובה יותר. על פשעיו, הוא חייב לחכות בגיהינום, מאגר העתיקה של רשעים. כשהגיעו לשם, הוא עלול למצוא את גורלו הוא לא לחכות כור המצרף. או שהוא עלול לסבול לנצח. זה לא הרבה שלו לדעת. הוא יודע רק שיש תשובה מחכה לו, כפי שהוא מצפה חסידיו הקנאים שלו. 
+"</string>
+    <string name="almanac_zealot">"קנאי עיוור האמת כל זה לא עולה בקנה אחד עם דעתו. כמו מכונה החיים, היקף שלו הצטמצמו. האבירים לזייף אלה לוחמי האמונה במרמה, והם לא נלחמים עם כעס או קנאה, אבל עם עומק רגשי כה עולה על זה של העולם בכך. הלהט שלהם אי אפשר להשיג על ידי בני תמותה, עם דגש זה קנאים, נודניקים מהרה מבינים קנאי אמיתי יעצור שום דבר, פעמים רבות להביס יריבים פעמים רבות גודלם וכוח.
+"</string>
+    <string name="almanac_zealot_horseman">"לאחר פרגון של אציל מידות טובות האבירות, האביר היה גם רוצח מיומן, שילוב בחרבות ורכיבה על סוסים לאחת לוחם קטלני. קודם לכן, הקפדה של אביר לקוד המוסרי מנע ממנו נלחם על הרע. אבל עכשיו, עם הקוד הזה איבד זמן, שכירי חרב אלה החלו להילחם על המרבה במחיר, המבקשים לחזור הגיהינום ומענים את אויביהם ללא רחמים לנצח.  
+"</string>
+    <string name="almanac_seraphim">"שרפים פועלים ללא לאות, במסירות שלהם לתפילה על גבול הטירוף. לעתים קרובות, הם נחשבים בוער, לוהט וכך גם הצורך שלהם ברזולוציה דתי. ב Payens Hugues דה, הם מצאו מנהיג מתאים באופן ייחודי כדי לשים את התעשייה שלהם למטרה טובה, לשלוח אותם על סדרה אינסופית של מוות הנכנס משימות, תמיד מבטיחים כי בקרוב הוא יהיה לספק להם שקט והם מחפשים נואשות כל כך. 
+"</string>
+    <string name="almanac_life_golem">"פולקלור גורסת כי רבי יהודה ליווא בן בצלאל יצר את הגולם 1 להגן על יהודי פראג נגד הפוגרומים הגטו. משהבין כי הוא יצר מפלצת שלא ניתן לשלוט, ר 'לייב נאלץ להניח את הגולם לפני התפרצות אלימה יותר ויותר שלה איים מוות נוסף של חפים מפשע הגויים. כוח כזה, והרס מופקרת כזאת של עמו, לא נעלמה מעיניו של Payens Hugues דה. הוא קם לתחייה הגולם היהודית שלו האבירים הטמפלרים, יצירת הגולם הצלבנית: תפיסה עמום, בלתי מוסרי, וגם בלתי ניתן לעצירה כמעט.
+"</string>
+    <string name="almanac_angel">"רחב כנפיים וגם חדורי כוח קצת יותר חזק לשקול כל זכות, אחר האלוהי, מלאכים בעלי כוח על אנושי ואת המיקוד הצר: הם לא יהססו להיפטר אלה עומדים בדרכה של איחוד עם האל האמיתי. כמובן, שהוא \"עומד בצורה\" תלוי פרשנות משלהם, ורבים חפים מפשע נפלו בידי אלה לוחמים מכונפים.
+"</string>
+    <string name="almanac_energy_cannon">"קנון אנרגיה יורה צרורות של אנרגיה טהורה, אפילו היסודות יותר חשמל, הפחתת חי או מת דבר למסה של פסולת חומר דומם. 
+"</string>
+    <string name="almanac_angel_statue">"הנה כוחה של אנג'ל: סמל הכוח, כובד הראש, וציות.
+"</string>
+    <string name="almanac_life_pillar">"יש יצורים על כדור הארץ מסוגלים לשגשג בחום caldronous. יש תאים שצריכים אור אלה משתוקקים החושך ישנם צמחים נשימה של בעלי חיים אחרים גזים לנשוף. כזו היא עמוד התווך החיים, מעיין של אנרגיית החיים היה מביא על המוות. 
+"</string>
+    <string name="almanac_holy_water_emitter">"כמו כלי נשק כל כך הרבה מלחמה, הקדוש באמת אין מה לחשוש מפני פולט מים הקודש. כמו מלחמות כה רבות, זה לא יהיה faught ידי הקודש.  
+"</string>
+
+    <!-- DEATH -->
+    <string name="almanac_race_death">"ב האיטי Voodou, veve הוא סמל הטקס משמש כדי לייצג את הרוחות החזקות, המכונה לואה. לואה החשוב ביותר, Damballa, ה 'סקיי והיוצר של כל החיים, מיוצג על ידי שני נחשים. כמו נחש, Damballa לא יכול לדבר. הוא מבטא את עצמו מדבר דרך האש. Bondyè, יוצר לא מוכר כל, אי אפשר דיבר. הוא מבטא את עצמו דרך Damballa. אבל כמה דרכים של Damalla הם תעלומה לאיש, דרכים של Bondyè הם תעלומה Damballa. כאשר הנפקות עוקבים שלו לא מתאים לו, Damballa שורף כפרים שלמים. כאשר Damballa לא מתאים Bondyè, אין לדעת את התוצאות. זה יצור לידיעה תחליט להביא גיהינום לכדור הארץ, שום כוח בעולם לא יוכל לעצור אותו. המתים יקומו ולעשות כמצוותו. המסתורין יוחלף האמת מסנוורת.   
+"</string>
+    <string name="almanac_zombie">"זומבי, מת כבר, חי ללא אושר או פחד. שלו היא החיים של המטרה. קיום נצחי, חיפש על ידי כל אחד מן פונסה דה לאון במערב, כדי הברהמינים של המזרח, הוא הקללה של זומבי, משוטטת לנצח במחזור בלתי פוסק של כאב בלתי נסבל. הוא, בובות של Damballa תוכן רק בגיהינום עלי אדמות הגיע להיות בבית שלו. 
+"</string>
+    <string name="almanac_zombie_horseman">"Like a headless horseman unleashed upon the night, the Zombie Rider moves tirelessly over the cracked soil of a scorched Earth. Inside him there are no thoughts, no dreams. There is not even a call for vengeance. His life is far more simple. Like a plant reaches toward the sun, the Zombie Rider roams the planet, willed to destroy everything in his path such that he may one day be restored. 
+"</string>
+    <string name="almanac_succubus">"Unlike so many of the vile creatures brought to war here, the Succubus can appear as though a delicate beauty. By the time her nubile form has blackened in the eyes of her beholder, it is too late. They will see her true form for a moment, the reptilian skin of a soulless instrument whose pleasure arises in pain, and then they will be eliminated. 
+"</string>
+    <string name="almanac_undead_golem">"A composition of all that is ugly in the world, all that is tormented and blistered, the Undead Golem combines the most useless, most toxic, most downtrodden, and most reviled waste into one reanimated being. Like a living Voodoo doll, Damballa has taken disparate parts and formed them into the Undead Golem. Barely sentient, but profoundly destructive, the Undead Golem betrays only the merest vestige of control to its creator. Beyond that, it is a machine, brought into life to kill, and only to kill.
+"</string>
+    <string name="almanac_fallen_angel">"Fallen Angels once lived cradled in a blanket of boundless love and eternal tranquility. And they rejected it, consumed with a desire for power. Long since cast out of the Kingdom of Heaven, Fallen Angels will exact swift justice on any creature preventing their ascension to the Throne of a doomed Earth – especially those foolish enough to compare them to the God which they take as their sworn enemy.  
+"</string>
+    <string name="almanac_poison_cannon">"The Poison Cannon spews its noxious effluvia out into the world, an endless smokestack of harmful gases and waste oils, that few can withstand. The air burns black while the Poison Cannon works. 
+"</string>
+    <string name="almanac_gargoyle_statue">"Watchful and ready, a Gargoyal remains perched, always hanging on the edge of flight and fight.
+"</string>
+    <string name="almanac_undead_pillar">"There is something inside the heart of the undead, or inside what remains of their soul, that keeps them upright and moving, yet not alive. Whatever this force is, it is powerfully transformative, and likely to poison whatever living creatures come into contact with it.
+"</string>
+    <string name="almanac_toxic_gas_emitter">"There are some substances so antithetical to life that their toxicity crosses all manner of creature and all worlds of origin. The Toxic Gas Emitter releases such substances on the enemy.
+"</string>
+
+    <!-- COMBO TOWERS -->
+    <string name="almanac_flame_whip">"A fiery tendril emerges from the Flame Whip like a burning lasso, stinging opponents with a lash of flame, or encircling them in ring of fire.
+"</string>
+    <string name="almanac_water_whip">"The Water Whip exists somewhere between liquid and solid. Though fluid in movement, those struck by its snapping, violent strike will surely by left with a scarring memory of its solid state. Further proof that the surface of liquid water is like steel given the right circumstances. 
+"</string>
+    <string name="almanac_tentical_whip">"Like a giant octopus, or a fully realized version of the mythological Kraken, the Tentical Whip possesses one thick, muscular rope of a tentical, able to strike its prey why surprising accuracy and unparalled speed.
+"</string>
+    <string name="almanac_flame_crystallizer">"A flame is simply a visible cue that there is fire. It is a trick of the light, a ghost removed from the essense. The Flame Crystallizer harnesses fire's heat, it conjures it from thin air, with no flame required.
+"</string>
+    <string name="almanac_ice_crystallizer">"Earth's air is a mixture of many things, but even in the harshest desert, there is a trace of moisture. The Ice Crystallizer takes hold of this moisture and creates instant ice. This may not sound feasome until one pictures ice forming from the inside out, veins, arteries, and organs not excluded. 
+"</string>
+    <string name="almanac_earth_crystallizer">"From the shining lights of Heaven, to the darkest corners of Hell, there is a magic in the very concept of solid ground, of existence. Where does it come from? How does this material come into being? The Earth Crystallizer provides no answers, but it is surely quite an object.
+"</string>
+    <string name="almanac_lightning_blade">"Lightning cuts through the sky, cleaving the night into two halves, seperated by a white hot band of destructive electricity. The Lightning Blade takes that electricity and contains its power in the blade of a sword. Contains its power, but for how long?
+"</string>
+    <string name="almanac_ice_blade">"A cut rips through flesh with a bolt of hot pain, tearing muscle close to bone. A blade made of ice will not lessen that pain. Its cooled core will not prevent the scars of war. The Ice Blade is the worst of two worlds colliding, and its foe best take notice. 
+"</string>
+    <string name="almanac_flame_blade">"The Flame Blade battles in the same heat under which it once emerged from the forge. Glowing hot, with an searing edge able to melt even the strongest of armor, the Flame Blade's effectiveness is limited only when dealing with creatures with the utmost resistence to burning.
+"</string>
+    <string name="almanac_earth_ballista">"A timeless weapon, the ballista has been repurposed by Gaia for the sieges yet to come. With missiles especially designed to withstand the strongest of combatants, the Earth Ballista is built using the technology of the ancient Greeks and Romans, but the materials of a God. 
+"</string>
+    <string name="almanac_ice_ballista">"The Ice Ballista takes slow, inert ice and propels it to tremendous speeds. Coupled with precisely engineered stays and springs, the bolts fired by the Ice Ballista are defended by few.
+"</string>
+    <string name="almanac_flame_ballista">"Many an ancient city fell to an onslaught by the ballista corps. Agni has called upon this famed weapon because it is so easily bolstered with the addition of fire. The Flame Ballista combines pounding force with the destructiveness of flame in a weapon for the ages.
+"</string>
+
+    <!-- COMBO CREATURES -->
+    <string name="almanac_elf_wizard">"The noble Wizards have long wrestled to bring the World into harmony, using their wisdom (and a healthy dash of magic) to suppress the creatures that would do their brethren harm. While generally peaceable and unlikely to start confrontations, Wizards are known for their bitterness, some holding grudges that have lasted for generations of men. Built frail and slight, a Wizard is like a clever rouse, a Trojan horse in the shape of a man. Though unable to wrestle even a small child to the ground, a strong Wizard could force an entire city onto its knees in the blink of an eye.
+"</string>
+    <string name="almanac_human_mage">"One of the most powerful magic users known to man or beast, Mages control the spells of which mortal men can only dream. Unlike Wizards, who are bound to an oath and a code, Mages use their powers freely, selling their services to the highest bidders or striking out on their own to plunder riches and grasp for control of a world turned against them. Mages are bilious and twisted, but should not be discounted: they are extremely dangerous users of the dark arts and have long ago forgotten the meaning of the word fear.
+"</string>
+    <string name="almanac_human_necromancer">"Providing the most direct link between the land of the living and the land of the dead, Necromancers are as skilled as they are tortured, imprisoned with the very knowledge they have spent their lives honing. Unable to fully inhabit either world, Necromancers exist in a desperate schism, conjuring spells and creatures in a hopeless attempt to fight off both the demons they face without, and the demons they face within. The living love. The dead rest. But the necromancer does neither, slowly syphoning off the last pained breaths of a twisted mortal coil. 
+"</string>
+    <string name="almanac_troll">"Nature is a wonderful artist, shaping its creatures to reflect both their place in the world and their likely means of interacting with it. This being true, the Troll's wretched, sunken face, pockmarked skin, and crooked spines reflects their station: gatekeepers and bottom-dwellers, shiftless, craven, and without remorse. The well-bred Troll will learn not only how to eek out its living on the backs of others, but will develop an uncanny sense of the moment, seizing power when the balances tip ever so slightly. Disgusting to behold, olfactious, and shifty, they will use any available means to gain what they want, even preying on other's revulsion as to the their very existence.
+"</string>
+    <string name="almanac_dwarf">"There are few who are as aware of their bodies, as in tune with its use as a weapon that has both strengths and weaknesses, as the pugnacious Dwarf clans. Dwarves are squatly built, and though powerful for their size, are not as strong as the animals and adversaries they routinely dispatch. Experts in close combat, and unafraid to reduce the battle to its lowest common denominator, a Dwarf is unlikely to retreat when it knows that tireless industry will likely produce a kill. Able to withstand great changes in both heat and cold, resilient, and possessed of great stamina, the man who takes the Dwarves' small stature lightly might not be a man, at least a living one, for long. 
+"</string>
+    <string name="almanac_halfling">"Related to the ancient humans, Halfings have evolved as a crafty race of thieves, charlatans, and deceptively skilled combatants. Though limited in strength, and not known for their outright speed, Halflings are quick, cunning, and vicious, using their tiny stature to hide in the shadows before striking with lethal agility. Halflings can be easily overpowered in a fair fight. Consequently, Halflings rarely fight fair. 
+"</string>
+    <string name="almanac_kobold">"A forgotten branch of the evolutionary ladder, the Kobold is part human and part lizard, yet keeps no allegiance with either species. Kobolds are known to build traps, ambushes, and other small machines of war in order to leverage their superior intellect against creatures of greater size and strength. Rarely seen, Kobolds are thought to be invisible by many. While this may be true, their knotted muscles, short stabbing blades, and evilly complex creations attest to their existence.
+"</string>
+    <string name="almanac_gnome">"Perhaps the smallest of all creatures, far less is known about Gnomes than other earthly dwellers. Unlike magic users and the undead, the Gnomes do not inhabit foreign worlds or hide in the present using tricks and spells. They are expert cave dwellers, rangers, and surprisingly good swimmers. They live on mountainsides and in treetops. Their engineering skills and the creation of their tiny, perfect machines is the stuff of legend. They are the ultimate survivors. Gnomes are rarely seen, and create no aura of danger around their movements. But do not cross them unless you have answers: how do you strike a foe that can't be found? How do you fight an enemy that's won before the battle's even begun?
+"</string>
+    <string name="almanac_ghoul">"אחד היצורים שטניים ביותר של הלילה, אוכלי הנבלות הם השריד האחרון של הנשמה הארצי מפנה אל ארץ המתים. כמו זיכרון של חלום בלהות, ול קיים ואמיתי, מסוגל לפגוע משתקת פחד בליבם של האדם. ובכל זאת, ברגע אחד, זה מרחף זיכרון, נישא למקום אחר וזמן כמו חול בסערה הרוח. ר 'ול אינו מחויב באותו מובן של שניות, דקות, ושנים המשפיעה ביותר היה עושה נזק: זה רעיון שקיים מעבר דאגות טריוויאליות אלו, משיק לקשת הזמן, חיסל את הטבעות אבל איכפת לו \" לא הד. 
+"</string>
+    <string name="almanac_human_witch">"בעולם של יצורים קסומים, מכשפות לכבוש את תחנת נחות, מזמן מכירת חלק הנשמות הארציות שלהם תמורת שמץ של כוחות על טבעיים. אם כי לא מוכשר כמו יצורים אחרים, לא חזקה במיוחד מבחינה פיזית או קסם, מכשפות יש מה להפסיד, והם נאלצו להילחם באמצעות משיכה חזקה: היא מכשפה מוזר שאין לו קיבעון שלה, מחוברת פעם אחת, היא כמעט לא יכול לחשוב על שום דבר אחר. היזהר מכשפות, כמו מוות רק יכול לעקור אותם מן המשימות הייחודיות שלהם.
+"</string>
+    <string name="almanac_female_necromancer">"מתן קישור ישיר ביותר בין ארץ החיים ובין ארץ המתים, אוב מיומנים כמו שהם עונו, נכלאו עם ידע מאוד הם מבלים את חייהם השחזה. לא ניתן לאכלס באופן מלא או בעולם, אוב קיים קרע נואש, קסמים לחשים ויצורים בניסיון נואש להדוף את שני השדים הם מתמודדים בלי, והשדים הם מתמודדים מבפנים. אוהבת לחיות. שאר המתים. אבל האם לא אוב, לאט syphoning את את נשימות הכואבות האחרונות של סליל חיים מעוותת. 
+"</string>
+    <string name="almanac_female_elf_mage">"אחד המשתמשים הקסם החזקים ביותר הידועים לאדם או לחיה, Mages לשלוט על התקפי מהם גברים בני תמותה יכולים רק לחלום עליהם. שלא כמו המכשפים, אשר חייב שבועה ואת הקוד, Mages להשתמש בכוחות שלהם באופן חופשי, למכור את שירותיהם המציעים הגבוהים ביותר או מכה על שלהם לעושר ביזה לתפוס על השליטה בעולם פנו נגדם. המגים הם מרה ומעוותים, אבל גם אי אפשר להתעלם: הם משתמשים מסוכנים מאוד של כוחות האופל ואת שכחו מזמן את המשמעות של המילה פחד.
+"</string>
+
+</resources>

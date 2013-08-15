@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Catapult glace"</string>
+	<string name="water_pillar">"Pilier de l'eau"</string>
+	<string name="water_emitter">"Emetteur d'eau"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Foudre Cannon"</string>
+	<string name="griffin_statue">"Griffin Statue"</string>
+	<string name="lightning_pillar">"Pilier de foudre"</string>
+	<string name="lightning_emitter">"Emetteur de foudre"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Rocher Cannon"</string>
+	<string name="stone_catapult">"Catapult Pierre"</string>
+	<string name="earth_pillar">"Pilier de la Terre"</string>
+	<string name="dirt_emitter">"Emetteur Dirt"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flamme Cannon"</string>
+	<string name="flame_catapult">"Catapult flamme"</string>
+	<string name="fire_pillar">"Pilier d'incendie"</string>
+	<string name="fire_emitter">"Emetteur incendie"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"L'énergie Cannon"</string>
+	<string name="angel_statue">"Statue d'ange"</string>
+	<string name="life_pillar">"Pilier de la vie"</string>
+	<string name="holy_water_emitter">"Emetteur eau bénite"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Cannon Poison"</string>
+	<string name="gargoyle_statue">"Statue Gargouille"</string>
+	<string name="undead_pillar">"Ce que vous voyez maintenant, c'est votre carte, faites glisser votre doigt sur la carte pour la déplacer. Vous remarquerez les obstacles tels que des rochers et des arbres qui vous empêchent de construire des tours. Vous noterez également une zone d'un bleu étincelant, c'est là que les créatures se reproduire. A un autre point sur la carte, il y aura une zone rouge pétillant, c'est là que les créatures tentent de se déplacer aussi. Si ils atteignent la zone rouge, vous perdez une vie, quand votre vie atteint 0, le jeu est terminé. Prenez le temps de voir le conseil d'administration et d'identifier chacun des éléments clés maintenant.Pilier Undead"</string>
+	<string name="toxic_gas_emitter">""</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Fouet de la flamme"</string>
+	<string name="water_whip">""</string>
+	<string name="tentical_whip">"Fouet Tentical"</string>
+	<string name="flame_crystallizer">"Flamme Crystallizer"</string>
+	<string name="ice_crystallizer">"Ice Crystallizer"</string>
+	<string name="earth_crystallizer">""</string>
+	<string name="lightning_blade">"Lame de foudre"</string>
+	<string name="ice_blade">"Lame de glace"</string>
+	<string name="flame_blade">"Lame de flamme"</string>
+	<string name="earth_ballista">"Terre Ballista"</string>
+	<string name="ice_ballista">"Ice Ballista"</string>
+	<string name="flame_ballista">"Flamme Ballista"</string>
+	
+</resources>

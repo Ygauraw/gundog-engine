@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"Frozen Vikingo"</string>
+    <string name="frozen_soldier_horseman">"Jinete soldado congelado"</string>
+    <string name="polar_bear">"Grizzly Ártico"</string>
+    <string name="ice_golem">"Ice Golem"</string>
+    <string name="drake">"Hailstorm Drake"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"Archer"</string>
+    <string name="human_archer_horseman">"Montado Archer"</string>
+    <string name="panda_bear">"Panda Gigante"</string>
+    <string name="lightning_golem">"Lightning Golem"</string>
+    <string name="dragon">"Dragon"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"Elvish Archer"</string>
+    <string name="elvish_archer_horseman">"Jinete Arquero Elfico"</string>
+    <string name="grizzly_bear">"Oso pardo"</string>
+    <string name="earth_golem">"Tierra Golem"</string>
+    <string name="eagle">"War Eagle"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"Momia"</string>
+    <string name="mummy_horseman">"Rider no-muertos"</string>
+    <string name="fiery_bear">"Burning Oso"</string>
+    <string name="fire_golem">"Hell spawn"</string>
+    <string name="falcon">"Falcone"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"Fanático Religioso"</string>
+    <string name="zealot_horseman">"Caballero Mercenario"</string>
+    <string name="seraphim">"Serafines"</string>
+    <string name="life_golem">"Golem cruzado"</string>
+    <string name="angel">"Angel"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"Zombi"</string>
+    <string name="zombie_horseman">"Zombie Rider"</string>
+    <string name="succubus">"Succubus"</string>
+    <string name="undead_golem">"Undead Golem"</string>
+    <string name="fallen_angel">"los ángeles caídos"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"Hechicero elfo"</string>
+    <string name="human_mage">"No-Muerto Mago"</string>
+    <string name="human_necromancer">"Nigromante Humanos"</string>
+    <string name="troll">"Trolle"</string>
+    <string name="dwarf">"DrawF"</string>
+    <string name="hobbit">"Hobbit"</string>
+    <string name="kobold">"Kobold"</string>
+    <string name="gnome">"Gnomo"</string>
+    <string name="ghoul">"Demonio necrófago"</string>
+    <string name="human_witch">"Bruja Humanos"</string>
+    <string name="female_necromancer">"Nigromante Mujer"</string>
+    <string name="female_elf_mage">"Mujer Mago Elfo"</string>
+
+</resources>

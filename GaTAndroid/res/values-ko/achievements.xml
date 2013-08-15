@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"Skaði의 냉동 야만인과 같은 두 WINS가 여는"</string>
+    <string name="achievement_water_catapult">"Skaði의 냉동 야만인과 같은 네 WINS가 여는"</string>
+    <string name="achievement_polar_bear">"Skaði의 냉동 야만인 등 6 WINS가 여는"</string>
+    <string name="achievement_ice_golem">"Skaði의 냉동 야만인 등 8 WINS가 여는"</string>
+    <string name="achievement_water_pillar">"Skaði의 냉동 야만인 등 10 WINS가 여는"</string>
+    <string name="achievement_drake">"Skaði의 냉동 야만인 등 12 WINS가 여는"</string>
+    <string name="achievement_water_emitter">"Skaði의 냉동 야만인 등 16 WINS가 여는"</string>
+    <string name="achievement_race_ice">"모든 Skaði의 냉동 야만인, 생물과 타워를 잠금 해제"</string>
+    <string name="achievement_campaign_race_ice_10">"Skaði의 냉동 야만인과 같은 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_ice_100">"Skaði의 냉동 야만인과 같은 매체의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_ice_1000">"Skaði의 냉동 야만인 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_ice_10000">"Skaði의 냉동 야만인 같은 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_ice_5">"Skaði의 냉동 야만인 같은 전투 모드 5이기는"</string>
+    <string name="achievement_battle_race_ice_25">"Skaði의 냉동 야만인 같은 배틀 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_ice_100">"Skaði의 냉동 야만인 같은 배틀 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 Skaði의 냉동 야만인으로 배틀 모드에서 승리"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"이 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_griffin_statue">"4 WINS Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_panda_bear">"6 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_lightning_golem">"8 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_lightning_pillar">"10 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_dragon">"12 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_lightning_emitter">"16 좋잖 Quetzalcoatl의 전사 부족 여는로"</string>
+    <string name="achievement_race_wind">"모든 Quetzalcoatl의 전사 부족 생물과 타워를 잠금 해제"</string>
+    <string name="achievement_campaign_race_wind_10">"Quetzalcoatl의 전사 트라 이브 등 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_wind_100">"Quetzalcoatl의 전사 트라 이브 등 매체의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_wind_1000">"Quetzalcoatl의 전사 트라 이브와 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_wind_10000">"Quetzalcoatl의 전사 트라 이브 등 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_wind_5">"Quetzalcoatl의 전사 트라 이브 등 배틀 모드 5이기는"</string>
+    <string name="achievement_battle_race_wind_25">"Quetzalcoatl의 전사 트라 이브 등 배틀 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_wind_100">"Quetzalcoatl의 전사 트라 이브 등 배틀 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_wind_1000">"Quetzalcoatl의 전사 트라 이브 등 배틀 모드에서 1000이기는"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"귀족의 군인 가이아의 많은 여는으로 2 승리"</string>
+    <string name="achievement_stone_catapult">"4 WINS 노블 병사 가이아의 많은 여는로"</string>
+    <string name="achievement_grizzly_bear">"귀족의 군인 가이아의 많은 여는으로 6 승리"</string>
+    <string name="achievement_earth_golem">"8이기는 노블 병사 가이아의 많은 여는로"</string>
+    <string name="achievement_earth_pillar">"10이기는 노블 병사 가이아의 많은 여는로"</string>
+    <string name="achievement_eagle">"12이기는 노블 병사 가이아의 많은 여는로"</string>
+    <string name="achievement_dirt_emitter">"귀족의 군인 가이아의 많은 여는로 16 승리"</string>
+    <string name="achievement_race_earth">"노블 병사 생물과 타워의 모든 가이아의 로트를 잠금 해제"</string>
+    <string name="achievement_campaign_race_earth_10">"귀족의 군인 가이아의 무량 등 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_earth_100">"귀족의 군인 가이아의 무량 등 매체의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_earth_1000">"귀족의 군인 가이아의 로트와 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_earth_10000">"귀족의 군인 가이아의 무량 등 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_earth_5">"귀족의 군인 가이아의 로트와 같은 전투 모드 5이기는"</string>
+    <string name="achievement_battle_race_earth_25">"귀족의 군인 가이아의 로트 등 배틀 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_earth_100">"귀족의 군인 가이아의 로트 등 배틀 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 노블 병사 가이아의 로트로 배틀 모드에서 승리"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"제물로 바쳐진 여는 중 Agni의 군단 등이이기는"</string>
+    <string name="achievement_flame_catapult">"제물로 바쳐진 여는 중 Agni의 군단 등 4이기는"</string>
+    <string name="achievement_fiery_bear">"제물로 바쳐진 여는 중 Agni의 군단 등 6이기는"</string>
+    <string name="achievement_fire_golem">"제물로 바쳐진 여는 중 Agni의 군단 등 8이기는"</string>
+    <string name="achievement_fire_pillar">"제물로 바쳐진 여는 중 Agni의 군단 등 10이기는"</string>
+    <string name="achievement_falcon">"제물로 바쳐진 여는 중 Agni의 군단 등 12이기는"</string>
+    <string name="achievement_fire_emitter">"제물로 바쳐진 여는 중 Agni의 군단 등 16이기는"</string>
+    <string name="achievement_race_fire">"제물로 바쳐진 동물과 타워의 모든 Agni의 군단을 잠금 해제"</string>
+    <string name="achievement_campaign_race_fire_10">"제물로 바쳐진의 Agni의 군단 등 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_fire_100">"제물로 바쳐진의 Agni의 군단과 같은 매체의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_fire_1000">"제물로 바쳐진의 Agni의 군단과 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_fire_10000">"제물로 바쳐진의 Agni의 군단 등 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_fire_5">"제물로 바쳐진의 Agni의 군단 등 배틀 모드 5이기는"</string>
+    <string name="achievement_battle_race_fire_25">"제물로 바쳐진의 Agni의 군단 등 배틀 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_fire_100">"제물로 바쳐진의 Agni의 군단 등 배틀 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 제물로 바쳐진의 Agni의 군단으로 배틀 모드에서 승리"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"이 좋잖 Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_angel_statue">"4 WINS Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_seraphim">"Hugues 드 Payens '성령 기사단은 여는 등 여섯이기는"</string>
+    <string name="achievement_life_golem">"8 좋잖 Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_life_pillar">"10 좋잖 Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_angel">"12 좋잖 Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_holy_water_emitter">"16 좋잖 Hugues 드 Payens '성령 기사단은 여는로"</string>
+    <string name="achievement_race_life">"모든 Hugues 드 Payens '성령 기사단 생물과 타워를 잠금 해제"</string>
+    <string name="achievement_campaign_race_life_10">"Hugues 드 Payens '성령 기사단과 같은 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_life_100">"Hugues 드 Payens '성령 기사단과 같은 매체의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_life_1000">"Hugues 드 Payens '성령 기사단과 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_life_10000">"Hugues 드 Payens '성령 기사단 등 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_life_5">"Hugues 드 Payens '성령 기사단 등의 전투 모드 5이기는"</string>
+    <string name="achievement_battle_race_life_25">"Hugues 드 Payens '성령 기사단과 같은 배틀 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_life_100">"Hugues 드 Payens '성령 기사단과 같은 배틀 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_life_1000">"1000 Hugues 드 Payens '성령 기사단으로 배틀 모드에서 승리"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"여는 저주의 Damballa의 군대로서이이기는"</string>
+    <string name="achievement_gargoyle_statue">"여는 저주의 Damballa의 육군과 같은 네이기는"</string>
+    <string name="achievement_succubus">"여는 저주의 Damballa의 육군과 같은 여섯이기는"</string>
+    <string name="achievement_undead_golem">"여는 저주의 Damballa의 군대로서 8이​​기는"</string>
+    <string name="achievement_undead_pillar">"여는 저주의 Damballa의 군대로서 10이기는"</string>
+    <string name="achievement_fallen_angel">"여는 저주의 Damballa의 군대로서 12이기는"</string>
+    <string name="achievement_toxic_gas_emitter">"여는 저주의 Damballa의 군대로서 16이기는"</string>
+    <string name="achievement_race_death">"역인 생물과 타워의 모든 Damballa의 군대를 잠금 해제"</string>
+    <string name="achievement_campaign_race_death_10">"저주의 Damballa의 군대와 같은 간편한의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_death_100">"저주의 Damballa의 군대와 같은 매체에서 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_death_1000">"저주의 Damballa의 군대와 같은 하드에있는 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_campaign_race_death_10000">"저주의 Damballa의 군대와 같은 전문가의 모든 캠페인 수준에서 5 별"</string>
+    <string name="achievement_battle_race_death_5">"저주의 Damballa의 육군 등 전투 모드 5이기는"</string>
+    <string name="achievement_battle_race_death_25">"저주의 Damballa의 육군 등 전투 모드에서 25이기는"</string>
+    <string name="achievement_battle_race_death_100">"저주의 Damballa의 육군 등 전투 모드에서 100이기는"</string>
+    <string name="achievement_battle_race_death_1000">"1000 저주의 Damballa의 육군으로 배틀 모드에서 승리"</string>
+
+</resources>

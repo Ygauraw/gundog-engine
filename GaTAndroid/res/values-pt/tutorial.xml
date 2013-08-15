@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Bem-vindo ao nível de tutorial. Aqui vamos ensinar como usar todos os recursos em Deuses e Torres. Você vai notar uma barra de rolagem do lado direito de alguns desses popups como os avanços tutorial. Não se esqueça de rolar para baixo para obter todas as informações."</string>
+    <string name="tutorial_game_area">"O que se vê agora é o seu conselho, arraste o dedo ao redor da mesa para movê-lo. Você vai notar obstáculos como pedras e árvores que impedem a construção de torres. Você também vai notar uma área azul cintilante, este é o lugar onde criaturas desovar. Em algum outro ponto no mapa, haverá uma área de espumante tinto, este é o lugar onde as criaturas estão tentando se mover também. Se eles tentam atingir a área vermelha, você perde uma vida, quando sua vida chegar a 0, o jogo acaba. Tire algum tempo para ver o quadro e identificar cada uma das características-chave agora."</string>
+    <string name="tutorial_top_menu">"No topo da tela há informação chave que permite que você saiba sua vida atual, quanto dinheiro você tem na mão, quantas ondas se passaram, a renda quanto você vai receber na próxima onda, e também o tempo restante até o próxima onda."</string>
+    <string name="tutorial_top_menu_life">"Este é o quanto a vida lhe restam. Quando chegar a 0, você perde."</string>
+    <string name="tutorial_top_menu_gold">"Este é o quanto de ouro você tem que comprar torres e criaturas."</string>
+    <string name="tutorial_top_menu_income">"No lado direito esta é a renda quanto você vai receber na próxima onda, junto com o tempo até a próxima onda."</string>
+    <string name="tutorial_bottom_menu">"Na parte inferior da tela, você vai notar vários botões. Estes botões permitem que você compre torres, criaturas comprar, especiais de uso, opções de mudança, permitem atacar e pausar / retomar o jogo."</string>
+    <string name="tutorial_bottom_menu_tower">"Isso traz o menu Towers. Ele mostra todas as torres que você pode usar, junto com as torres você ainda não desbloqueados."</string>
+    <string name="tutorial_bottom_menu_creature">"Isso traz o menu Criaturas. Ele mostra todas as criaturas que você pode usar, junto com as criaturas que você ainda não desbloqueados."</string>
+    <string name="tutorial_bottom_menu_special">"Isso traz o menu Specials. Ele mostra todas as promoções especiais que você pode usar."</string>
+    <string name="tutorial_bottom_menu_option">"Isso traz no menu Opções. Você pode desligar a música e mudar a visão do jogo a partir daqui."</string>
+    <string name="tutorial_bottom_menu_attacking">"Isso permite atacar, vamos discutir isso mais tarde."</string>
+    <string name="tutorial_bottom_menu_pause">"Isso permite que você pause o jogo e retomá-lo quando estiver pronto."</string>
+    <string name="tutorial_buying_tower">"O inimigo convocou criaturas, por isso, devemos construir algumas torres para defender-nos. Clique no botão torre e selecione uma torre para construir."</string>
+    <string name="tutorial_buying_tower_pick">"Clique na imagem da torre você quer comprar. Você vai ver o custo da torre próxima à sua imagem. Na parte inferior direita da tela, o dano torres e velocidade de ataque aparecem quando você seleciona-lo."</string>
+    <string name="tutorial_buying_tower_selected">"Agora que você tenha selecionado uma torre você deve escolher um local na tela para construí-lo. Você vai notar que a torre aparece na tela e tem uma aura faixa azul que mostra o quão longe a torre pode atacar. Se você colocar uma torre em um local que você não quer isso, basta clicar sobre a torre de novo e ele vai desaparecer. Quando você estiver pronto para comprar a torre, selecione o botão de compra no canto inferior esquerdo da tela. Para cancelar construindo torres, pressione o botão Cancelar."</string>
+    <string name="tutorial_buying_tower_purchase">"Este botão é utilizado para confirmar compras e vai construir todas as torres que você colocou na tela. Torres que são colocados em locais inválidos como em rochas, árvores ou criaturas que não será construído. Se você tentar e construir uma torre para bloquear o caminho das criaturas, não vai ser construído."</string>
+    <string name="tutorial_buying_tower_cancel">"Se você decidir que não querem mais comprar torres, pressionar este botão. Todas as torres pendentes sobre o conselho vai ser removido."</string>
+    <string name="tutorial_build_maze">"Grande trabalho, agora como criaturas mais vir, vamos precisar de mais torres. Construa mais 10 torres de agora. Certifique-se de colocá-los no caminho das criaturas para retardar o seu movimento para o ponto de saída. Construindo um labirinto permitirá suas torres para atacar as criaturas mais de uma vez, e aumentar a distância que as criaturas precisam viajar."</string>
+    <string name="tutorial_upgrade_tower">"Conforme o jogo avança você vai ficar sem lugares para colocar as torres, as criaturas no entanto continuará a vir, e ficará mais forte. Neste ponto, você deve iniciar a atualização de suas torres. Selecione uma torre para abrir o menu de atualização."</string>
+    <string name="tutorial_upgrade_tower_selected">"Ótimo, agora neste menu você vai ver uma foto da torre e também um botão para vender na torre."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Clique no ícone da torre para comprar a atualização. O custo é exibido ao lado da torre."</string>
+    <string name="tutorial_upgrade_tower_sell">"Ao clicar neste botão irá vender a torre, retirando-o do mapa."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Se você decidir que não quer mais atualizar ou vender a torre clique neste botão no canto inferior esquerdo da tela."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Longo pressione o ícone de torre para atualizar a torre quantas vezes seu dinheiro permite."</string>
+    <string name="tutorial_side_buttons">"Ao jogar em Batalha ou o modo Online, você verá botões no lado da tela. Estes permitem-lhe ver a placa inimigos. Isto pode ser útil ao decidir que criaturas para comprar. O jogo vai te dizer o que conselho você está olhando com um pop-up breve no centro inferior da tela. Você não pode construir torres na placa inimigos. Tire algum tempo para ver a placa inimigos."</string>
+    <string name="tutorial_side_buttons_pic">"Este é um botão lateral que irá levá-lo para ver a placa inimigos."</string>
+    <string name="tutorial_buying_creature">"Você vai notar que o inimigo não adquiriu quaisquer torres, é porque você ainda não convocou qualquer criatura para atacar ainda. Pressione o botão criatura para abrir o menu criatura. Clicando em uma criatura chama-lo se você tem dinheiro suficiente. Vá em frente e chamar algumas criaturas e vê-los aparecer no quadro de inimigos."</string>
+    <string name="tutorial_buying_creature_purchase">"Clique no ícone da criatura para comprá-lo. Avançar para a criatura que você vai ver quanto custa. Também no canto inferior direito da tela você verá a saúde criaturas ea velocidade de movimento depois de selecioná-lo."</string>
+    <string name="tutorial_buying_creature_cancel">"Se você não quiser comprar criaturas, selecione o botão Cancelar no canto inferior esquerdo da tela."</string>
+    <string name="tutorial_buying_creature_long_press">"Mantenha pressionado o ícone criatura para ativar / desativar auto-compra. Com auto-compra habilitado você vai comprar a criatura a cada segundo se você tiver bastante ouro."</string>
+    <string name="tutorial_attacking">"Pode haver momentos em que o inimigo construiu um labirinto difícil que as suas criaturas não são capazes de percorrer. Isto é, quando a atacar pode ser útil. Com criaturas atacantes habilitados tentará mover-se para a saída e irá atacar qualquer torres em seu caminho. Lembre-se que quando você liga o atacante, que lentamente perde ouro, se você ficar sem dinheiro, atacando será automaticamente desativado. Tente ligar atacar agora."</string>
+    <string name="tutorial_attacking_button">"Selecione esta opção para habilitar o atacante."</string>
+    <string name="tutorial_attacking_move">"Selecione esta opção para desabilitar o atacante."</string>
+    <string name="tutorial_specials">"Às vezes, as torres não são suficientes para parar as criaturas inimigas, ou suas criaturas não consigo fazê-lo através das torres inimigas. Usando especiais fornece um impulso para ajudar você a ganhar. Tente usar um especial agora."</string>
+    <string name="tutorial_specials_damage">"Isso danos especiais todas as criaturas em sua placa"</string>
+    <string name="tutorial_specials_heal">"Este especial sara todas as tuas criaturas na placa inimigos"</string>
+    <string name="tutorial_specials_kill">"Este especial mata várias criaturas aleatórias em sua placa"</string>
+    <string name="tutorial_specials_slow">"Este especial retarda todas as criaturas em sua placa por um tempo curto"</string>
+    <string name="tutorial_specials_speed">"Isso acelera especiais até suas criaturas para um curto período de tempo"</string>
+    <string name="tutorial_specials_stun">"Este especial atordoa todas as criaturas em sua placa por um tempo curto"</string>
+    <string name="tutorial_options_menu">"Agora vamos olhar para o menu de opções. Você vai notar vários botões que permitem alterar o jogo vista, play / pause a música, e devolver a visão de jogo para as configurações padrão."</string>
+    <string name="tutorial_options_menu_zoomin">"Use-o para ampliar"</string>
+    <string name="tutorial_options_menu_zoomout">"Use isso para diminuir o zoom"</string>
+    <string name="tutorial_options_menu_rotateup">"Utilize esta opção para girar a visão para cima"</string>
+    <string name="tutorial_options_menu_rotatedown">"Utilize esta opção para girar a vista para baixo"</string>
+    <string name="tutorial_options_menu_default">"Use isso para voltar a visão para seu local padrão"</string>
+    <string name="tutorial_options_menu_play">"Utilize esta opção para habilitar a música"</string>
+    <string name="tutorial_options_menu_pause">"Use-o para desativar a música"</string>
+    <string name="tutorial_upgrading">"Como você joga Deuses e torres que você vai ganhar experiência, essa experiência pode ser usado para atualizar sua vida partida / Gold, bônus raça, habilidades da criatura, e habilidades Torre. Cada raça tem bônus especiais que se aplicam a todas as criaturas e torres de que raça, atualizando-os beneficia todas as criaturas / torres desse tipo. Torre / Criatura atualizações afetam apenas a torre / criatura e aumentar o seu poder para cada jogo que você joga. Se você esquecer o que uma estatística é apenas longa pressione o ícone de status no menu de atualização e ele vai dizer."</string>
+    <string name="tutorial_completion">"Parabéns, você completou o tutorial. Jogue a campanha para destravar mais criaturas e torres. Conclua realizações para ganhar experiência extra e ganhar especiais para usar no jogo. As realizações mais você desbloquear, mais experiência que você começa de jogar."</string>
+    <string name="tutorial_continue">"Continue ..."</string>
+
+</resources>

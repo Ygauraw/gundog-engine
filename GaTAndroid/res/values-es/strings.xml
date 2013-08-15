@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">"Dioses y Torres"</string>
+    <string name="app_description">"Dioses y Torres, un juego 3D de torre de defensa contra la IA o en PvP."</string>
+    <string name="motto">"Fight To Win!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Continuar partida"</string>
+    <string name="main_newGame">"Nuevo Juego"</string>
+    <string name="main_store">"almace"</string>
+    <string name="main_upgrade">"Mejorar"</string>
+    <string name="main_achievements">"Logros"</string>
+    <string name="main_almanac">"Almanaque"</string>
+    <string name="main_options">"Opciones"</string>
+    <string name="main_credits">"Créditos"</string>
+    <string name="main_exit">"Salida"</string>
+    <string name="main_back">"espalda || columna vertebral"</string>
+    <string name="main_retry">"Reintentar"</string>
+    <string name="main_downloading">"Descarga de datos del juego, por favor espere ..."</string>
+    <string name="main_download_failed">"Error al descargar los datos requeridos, por favor, salir y reiniciar el juego para volver a intentarlo, desde donde lo dejó."</string>
+    <string name="main_external_storage">"Por favor, instale una memoria externa por lo que la aplicación se puede descargar / utilizar los datos requeridos"</string>
+    <string name="main_latest_version">"Una nueva versión de los dioses y Torres está disponible o no es capaz de conectar con el servidor del juego."</string>
+    <string name="main_no_news">"No hay noticias"</string>
+    <string name="main_news_server_down">"El servidor de noticias es hacia abajo, o si hubo un error al recuperar las últimas noticias del juego."</string>
+    <string name="main_version">"Version (Versión)"</string>
+    <string name="main_graphics">"Hubo un error al cargar los datos del modelo, debido al uso excesivo de memoria. Valores de los gráficos se bajó y la aplicación de salir es. Por favor, reinicie e intente ejecutar el juego con la textura de calidad reducida y / o calidad de la malla, que puede configurar en el menú Opciones de la primera vez que arranque el juego."</string>
+	<string name="main_rate_dialog">"Si te gusta usar %s , por favor toma el tiempo para votar. Gracias por tu apoyo."</string>
+    <string name="main_rate_now">"Nota %s"</string>
+    <string name="main_rate_later">"Recordármelo más tarde"</string>
+    <string name="main_rate_never">"No, gracias. Yo... debo ir a casa"</string>
+    
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"adquirir"</string>
+    <string name="purchase_cancel">"Anular"</string>
+    <string name="purchase_reduced_ads">"Quitar anuncios intrusos"</string>
+    <string name="purchase_reduced_ads_description">"Elimina las ADS en la parte superior de todos los menús y los antes y después de los partidos."</string>
+    <string name="purchase_all_races">"Desbloquear todas las razas"</string>
+    <string name="purchase_all_races_description">"Desbloquea todas las carreras que le dan acceso a 25 nuevas criaturas y 20 torres nuevas."</string>
+    <string name="purchase_multiple_races">"Desbloquear las combinaciones de carreras"</string>
+    <string name="purchase_multiple_races_description">"Desbloquea la habilidad de jugar como más de una raza a la vez que le da acceso a 12 nuevas criaturas y 12 torres nuevas."</string>
+    <string name="purchase_special_100">"Compra del 100 de cada especialidad"</string>
+    <string name="purchase_special_100_description">"Te da 100 de cada una de las carreras especiales"</string>
+    <string name="purchase_upgrade_abilities">"Actualiza todas las habilidades de los jugadores y la raza"</string>
+    <string name="purchase_upgrade_abilities_description">"Aumenta el nivel de antes del 1 de todas las estadísticas de jugador y estadísticas de la raza"</string>
+    <string name="purchase_upgrade_all">"Actualiza todas las torres / criatura de todas las razas"</string>
+    <string name="purchase_upgrade_all_description">"Aumenta el nivel de cada habilidad para cada criatura / torre por un"</string>
+    <string name="purchase_upgrade_onerace">"Actualiza todas las torres / criatura por "</string>
+    <string name="purchase_upgrade_onerace_description">"Aumenta el nivel de cada habilidad para todas las criaturas y torres en una carrera por un"</string>
+    <string name="purchase_double_experience">"El doble de su experiencia"</string>
+    <string name="purchase_double_experience_description">"Al instante le da 2 veces su nivel de experiencia actual en cada carrera."</string>
+    <string name="purchase_billing_not_supported_title">"No se puede hacer compras"</string>
+    <string name="purchase_billing_not_supported_message">"El servicio de facturación del mercado no está disponible en este momento. Usted puede seguir usando esta aplicación, pero usted no tendra la abilidad de hacer las compras."</string>
+    <string name="purchase_cannot_connect_title">"No se puede conectar con el servicio de facturación"</string>
+    <string name="purchase_cannot_connect_message">"Esta aplicación no puede conectar con el servicio de facturación. Usted puede seguir usando esta aplicación, pero usted no será capaz de hacer las compras."</string>
+    <string name="purchase_restoring_transactions">"Restauración de las transacciones"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Sitio web"</string>
+    <string name="credits_production">"Producido por"</string>
+    <string name="credits_production_name">"Perro de caza Estudios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"Programación"</string>
+    <string name="credits_programming_name">"Joe Leyes"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"Modelos en 3D y texturas"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Juego Almanaque"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"Pixel Art 2D"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Musica"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Diseño Web"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Camion Remolque"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Traducciones"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (Corea)"</string>
+    <string name="credits_special_thanks">"Gracias especiales"</string>
+    <string name="credits_special_thanks_names">"Equipo de Pelotón impresionante y segundo la Compañía Delta 2-35in"</string>
+    <string name="credits_inmemoryof">"En memoria del sargento Kevin White. Ido, pero no olvidado."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"USTED"</string>
+    <string name="game_enemy">"ENEMIGO"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"De hecho,"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"ACTUALIZACIÓN A nivel de las criaturas"</string>
+    <string name="game_max_upgrade">"COMPRA DE ACTUALIZACIÓN DE MAX"</string>
+    <string name="game_enable_auto_purchase">"HABILITACIÓN DE COMPRA AUTO"</string>
+    <string name="game_disable_auto_purchase">"DESACTIVACIÓN compra de automóviles"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Error al cargar"</string>
+    <string name="manager_playerReset">"Jugador y Reset Game Data"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"HAS GANADO"</string>
+    <string name="results_lost">"HA PERDIDO"</string>
+    <string name="results_disconnected">"Desconectado"</string>
+    <string name="results_you">"USTED"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"Continuar"</string>
+    <string name="results_length">"Extensión"</string>
+    <string name="results_waves">"Waves"</string>
+    <string name="results_base_xp">"Base XP"</string>
+    <string name="results_total_xp">"Total de XP por carrera"</string>
+    <string name="results_campaign">"Campaña"</string>
+    <string name="results_rewards">"Recompensas"</string>
+    <string name="results_main">"Principal"</string>
+    <string name="results_life">"Vida"</string>
+    <string name="results_income">"Ingreso"</string>
+    <string name="results_offense">"por la ofensa."</string>
+    <string name="results_defense">"Defensa"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Logro de Bono"</string>
+    <string name="results_win_bonus">"Gana Bono"</string>
+    <string name="results_length_bonus">"Longitud de Bono"</string>
+    <string name="results_life_bonus">"Vida Bono"</string>
+    <string name="results_multiple_race_factor">"Factor de Carrera Múltiples"</string>
+    <string name="results_free_version">"No se gana experiencia en la versión gratuita de Dios y Torres"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"¿Seguro de que desea restablecer todos los datos de los jugadores?"</string>
+    <string name="options_assetClear">"¿Está seguro que desea borrar todos los activos de descarga?"</string>
+    <string name="options_reset">"Reiniciar"</string>
+    <string name="options_assets">"Eliminar los Datos del Juego"</string>
+    <string name="options_clear">"Liquidación de operaciones"</string>
+    <string name="options_clearing">"Todos los activos están siendo eliminados de descarga, la aplicación está saliendo ..."</string>
+    <string name="options_soundOn">"Sonido activado"</string>
+    <string name="options_soundOff">"Sonido apagado"</string>
+    <string name="options_cancel">"Anular"</string>
+    <string name="options_textureQuality">"Textura de Calidad"</string>
+    <string name="options_meshQuality">"Malla de Calidad"</string>
+    <string name="options_engineSpeed">"GameEngine velocidad"</string>
+    <string name="options_high">"totalmente en"</string>
+    <string name="options_medium">"Medio"</string>
+    <string name="options_low">"Bajo"</string>
+    <string name="options_fast">"Rápido:"</string>
+    <string name="options_normal">"'NORMAL'"</string>
+    <string name="options_slow">"Despacio"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Los oponentes de nivel"</string>
+    <string name="newgame_yourRace">"Su carrera (s)"</string>
+    <string name="newgame_opponentsRace">"Los opositores Carrera (s)"</string>
+    <string name="newgame_waves">"Max Waves"</string>
+    <string name="newgame_invalid_text">"Nivel de equipo no válido o recuento de onda, por favor, poner en un número&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Nivel de los ordenadores debe ser al menos"</string>
+    <string name="newgame_startGame">"Iniciar Juego"</string>
+    <string name="newgame_minHumanRaces">"Usted debe seleccionar al menos una carrera por ti mismo"</string>
+    <string name="newgame_minComputerRaces">"Usted debe seleccionar al menos una carrera por el equipo"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Rápido:"</string>
+    <string name="newgame_normal">"'NORMAL'"</string>
+    <string name="newgame_slow">"Despacio"</string>
+    <string name="newgame_difficulty">"Dificultad."</string>
+    <string name="newgame_easy">"easy"</string>
+    <string name="newgame_medium">"Medio"</string>
+    <string name="newgame_hard">"Dificil"</string>
+    <string name="newgame_expert">"Experto"</string>
+    <string name="newgame_type">"GameType"</string>
+    <string name="newgame_tutorial">"Tutorial"</string>
+    <string name="newgame_campaign">"Campaña"</string>
+    <string name="newgame_defense">"Defensa de Formación"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Juego en línea"</string>
+    <string name="newgame_findGame">"Buscar Juego"</string>
+    <string name="newgame_searching">"búsquedas"</string>
+    <string name="newgame_random">"Random - Azar"</string>
+    <string name="newgame_onlineError">"Usted es incapaz de unirse a un juego en línea"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP (eXtreme Programming)"</string>
+    <string name="upgrade_creatures">"Criaturas"</string>
+    <string name="upgrade_towers">"Torres"</string>
+    <string name="upgrade_specials">"Especiales"</string>
+    <string name="upgrade_notEnoughXP">"Usted no tiene la experiencia suficiente para"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Legión de Agni de los sacrificados"</string>
+    <string name="race_ice">"Los salvajes congelados Skadi"</string>
+    <string name="race_earth">"Gaia muchos soldados nobles"</string>
+    <string name="race_wind">"Quetzalcóatl Guerrero Tribu"</string>
+    <string name="race_life">"Hugues de Payens 'Santo Caballeros Templarios"</string>
+    <string name="race_death">"Damballa Ejército de los Condenados"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP (eXtreme Programming)"</string>
+    <string name="achievements_longestGame">"Juego más largo"</string>
+    <string name="achievements_shortestGame">"JUEGO CORTO"</string>
+    <string name="achievements_highestScore">"MAYOR PUNTAJE"</string>
+    <string name="achievements_highestLevelBeaten">"MÁS ALTO NIVEL GOLPEADO"</string>
+    <string name="achievements_wins">"GANA LA BATALLA"</string>
+    <string name="achievements_losses">"PÉRDIDAS DE BATALLA"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"A partir del oro"</string>
+    <string name="stat_life">"A partir Vida"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"c"</string>
+    <string name="stat_income">"Ingreso"</string>
+    <string name="stat_air">"Aire"</string>
+    <string name="stat_ground">"MASA / TIERRA"</string>
+    <string name="stat_attack_range">"Ataque de la gama"</string>
+    <string name="stat_health">"sano || saludable"</string>
+    <string name="stat_speed">"Velocidades"</string>
+    <string name="stat_defense">"Defensa"</string>
+    <string name="stat_damage">"daño."</string>
+    <string name="stat_attack_rate">"tasa de ataque"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage Radio"</string>
+    <string name="stat_splash_strength_fade">"Splash fundido Fuerza"</string>
+    <string name="stat_creature_damage_modifier">"Criatura bonus de daño"</string>
+    <string name="stat_slow_duration">"Duración lenta"</string>
+    <string name="stat_slow_factor">"Tasa de lento"</string>
+    <string name="stat_creature_evade_percentage">"Probabilidad de eludir"</string>
+    <string name="stat_stun_duration">"La duración del aturdimiento"</string>
+    <string name="stat_tower_attack_rate_modifier">"Ataque Torre de bonus de velocidad"</string>
+    <string name="stat_creature_speed_modifier">"Movimiento Criatura bonus de velocidad"</string>
+    <string name="stat_tower_damage_modifier">"Torre de bonus de daño"</string>
+    <string name="stat_tower_defense_modifier">"Torre de Defensa de Bono"</string>
+    <string name="stat_creature_defense_modifier">"Criatura Bono de Defensa"</string>
+    <string name="stat_drain_duration">"Escurrir Duración"</string>
+    <string name="stat_drain_percentage">"Escurrir Porcentaje"</string>
+    <string name="stat_heal_percentage">"Heal Porcentaje"</string>
+    <string name="stat_kill_percentage">"Probabilidad muerte instantánea"</string>
+    <string name="stat_creature_health_modifier">"Criatura Bono de la Salud"</string>
+    <string name="stat_resurrect_percentage">"Probabilidad resurrección"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"El daño a todas las criaturas enemigas"</string>
+    <string name="special_heal">"Curar todas tus criaturas"</string>
+    <string name="special_kill">"Mata a 25% de las criaturas enemigas en su tablero"</string>
+    <string name="special_slow">"Reduzca la velocidad a todas las criaturas enemigas"</string>
+    <string name="special_speed">"Acelerar todas sus criaturas"</string>
+    <string name="special_stun">"Stun todas las criaturas enemigas"</string>
+
+</resources>

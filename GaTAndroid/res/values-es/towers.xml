@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Hielo Catapult"</string>
+	<string name="water_pillar">"Agua del Pilar"</string>
+	<string name="water_emitter">"El agua del emisor"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Lightning Cannon"</string>
+	<string name="griffin_statue">"Griffin Estatua"</string>
+	<string name="lightning_pillar">"Rayo del Pilar"</string>
+	<string name="lightning_emitter">"Rayo Emisor"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Roca Cannon"</string>
+	<string name="stone_catapult">"Piedra Catapult"</string>
+	<string name="earth_pillar">"Tierra del Pilar"</string>
+	<string name="dirt_emitter">"La suciedad del emisor"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Llama Cannon"</string>
+	<string name="flame_catapult">"Llama Catapult"</string>
+	<string name="fire_pillar">"Fuego Pilar"</string>
+	<string name="fire_emitter">"Fuego Emisor"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energía Cannon"</string>
+	<string name="angel_statue">"Ángel Estatua"</string>
+	<string name="life_pillar">"Vida Pilar"</string>
+	<string name="holy_water_emitter">"Emisor de Agua Bendita"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Veneno Cannon"</string>
+	<string name="gargoyle_statue">"Gárgola estatua"</string>
+	<string name="undead_pillar">"Pilar muertos vivientes"</string>
+	<string name="toxic_gas_emitter">"Emisor de gases tóxicos"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Llama Látigo"</string>
+	<string name="water_whip">"Látigo de Agua"</string>
+	<string name="tentical_whip">"Látigo Tentical"</string>
+	<string name="flame_crystallizer">"Llama Cristalizador"</string>
+	<string name="ice_crystallizer">"Hielo Cristalizador"</string>
+	<string name="earth_crystallizer">"Tierra Cristalizador"</string>
+	<string name="lightning_blade">"Rayo hoja"</string>
+	<string name="ice_blade">"Hoja de Hielo"</string>
+	<string name="flame_blade">"Llama la hoja"</string>
+	<string name="earth_ballista">"Tierra Ballista"</string>
+	<string name="ice_ballista">"Hielo Ballesta"</string>
+	<string name="flame_ballista">"Llama Ballesta"</string>
+	
+</resources>

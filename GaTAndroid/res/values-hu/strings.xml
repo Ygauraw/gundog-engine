@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Gods and Towers"</string>
+    <string name="app_description">"Istenek és tornyok, egy 3D-s torony honvédelmi játék AI ellen vagy PVP."</string>
+    <string name="motto">"Harcolj a győzelemhez!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Resume Game"</string>
+    <string name="main_newGame">"Új játék"</string>
+    <string name="main_store">"tárolja"</string>
+    <string name="main_upgrade">"Frissítés"</string>
+    <string name="main_achievements">"Eredmények"</string>
+    <string name="main_almanac">"Évkönyv"</string>
+    <string name="main_options">"Opciók"</string>
+    <string name="main_credits">"Közreműködők"</string>
+    <string name="main_exit">"Kilépés"</string>
+    <string name="main_back">"Vissza"</string>
+    <string name="main_retry">"Újra"</string>
+    <string name="main_downloading">"Játék letöltése adatokat, kérjük várjon ..."</string>
+    <string name="main_download_failed">"Nem sikerült letölteni a szükséges adatokat, kérjük, lépjen ki és indítsa újra a játékot, hogy próbálja meg újra, ahol abbahagyta."</string>
+    <string name="main_external_storage">"Kérjük, csatold külső tároló, így az alkalmazás letölthető / használni kívánt adatok"</string>
+    <string name="main_latest_version">"Egy új verziója Gods and Towers áll rendelkezésre, vagy nem tud kapcsolódni a játék szerver."</string>
+    <string name="main_no_news">"Nem Hírek"</string>
+    <string name="main_news_server_down">"A hír szerver leállt, vagy hiba történt visszakeresésére a játék legújabb híreket."</string>
+    <string name="main_version">"verzió:"</string>
+    <string name="main_graphics">"Hiba történt a terhelés miatt a modell adatai túlzott memória használat. Grafikai beállítások csökkenéséhez és az alkalmazás kilép. Kérjük, indítsa újra, és próbálja meg futtatni a játékot csökkentett textúra minőség és / vagy a Mesh minőség, amellyel beállíthatjuk a Beállítások menüben, amikor első indításkor a játék."</string>
+    <string name="main_rate_dialog">" Ha szívesen használja, %s, kérjük, vegye az időt mérték meg. Köszönjük a támogatást."</string>
+    <string name="main_rate_now">"arány %s"</string>
+    <string name="main_rate_later">"Emlékeztessen később"</string>
+    <string name="main_rate_never">"Nem, köszönöm"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Vásárlás "</string>
+    <string name="purchase_cancel">"Törlés"</string>
+    <string name="purchase_reduced_ads">"Vegye tolakodó ADS"</string>
+    <string name="purchase_reduced_ads_description">"Megszünteti az ADS tetején a menü és a játék előtt és után."</string>
+    <string name="purchase_all_races">"Nyisd meg az összes Versenyek"</string>
+    <string name="purchase_all_races_description">"Feloldja az összes versenyen is hozzáférést biztosít a 25 új teremtmények, és 20 új tornyok."</string>
+    <string name="purchase_multiple_races">"Kinyit Race kombinációk"</string>
+    <string name="purchase_multiple_races_description">"Feloldja az le tud játszani, mert több mint egy futamon egyszerre is hozzáférést biztosít a 12 új teremtmények, és 12 új tornyok."</string>
+    <string name="purchase_special_100">"Szerezz 100 egyes speciális"</string>
+    <string name="purchase_special_100_description">"Ad 100 minden egyes futam extrák"</string>
+    <string name="purchase_upgrade_abilities">"Upgrade minden játékos és faji képességek"</string>
+    <string name="purchase_upgrade_abilities_description">"Erősíti a szinten 1 minden játékos statisztika és faji statisztika"</string>
+    <string name="purchase_upgrade_all">"Frissítés minden torony / lényt minden versenyen"</string>
+    <string name="purchase_upgrade_all_description">"Erősíti a képesség minden szintje minden teremtmény / torony 1"</string>
+    <string name="purchase_upgrade_onerace">"Frissítés minden torony / lény számára "</string>
+    <string name="purchase_upgrade_onerace_description">"Növeli a szintet minden képessége minden teremtmény / tornyok egy futamon 1"</string>
+    <string name="purchase_double_experience">"Dupla élmény"</string>
+    <string name="purchase_double_experience_description">"Azonnal adja 2X a jelenlegi gyakorlata az egyes versenyeken."</string>
+    <string name="purchase_billing_not_supported_title">"Nem vásárol"</string>
+    <string name="purchase_billing_not_supported_message">"A számlázási szolgáltatás nem elérhető. Ön továbbra is használja ezt app, de nem fogja tudni, hogy vásárol."</string>
+    <string name="purchase_cannot_connect_title">"Nem lehet kapcsolódni a szolgáltató számlázási"</string>
+    <string name="purchase_cannot_connect_message">"Ez az alkalmazás nem tud csatlakozni a számlázási szolgáltatást. Ön továbbra is használja ezt app, de nem fogja tudni, hogy vásárol."</string>
+    <string name="purchase_restoring_transactions">"Tranzakciók helyreállítása"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Weboldal"</string>
+    <string name="credits_production">"Készítette"</string>
+    <string name="credits_production_name">"Vadászkutya Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"P"</string>
+    <string name="credits_programming_name">"Joe törvények"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D modellek és Textúrák"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Játék Almanach"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"Pixel Art 2D"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Zene"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Utánfutó"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Fordítás"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (koreai)"</string>
+    <string name="credits_special_thanks">"Külön köszönet"</string>
+    <string name="credits_special_thanks_names">"Félelmetes csapat és 2. Delta Platoon Company 2-35IN"</string>
+    <string name="credits_inmemoryof">"In Memory őrmester Kevin White. Elment, de nem felejtettem el."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"ÖN"</string>
+    <string name="game_enemy">"ENEMY"</string>
+    <string name="game_wave">"Google Wave"</string>
+    <string name="game_in">"-ben"</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Frissítés Creature SZINT"</string>
+    <string name="game_max_upgrade">"BESZERZÉSI MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"KEDVEZŐ AUTO BESZERZÉSI"</string>
+    <string name="game_disable_auto_purchase">"TILTÁSA AUTO BESZERZÉSI"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Nem sikerült betöltése"</string>
+    <string name="manager_playerReset">"Lejátszót és játékkonzolt adatok visszaállítása"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"Ön nyert"</string>
+    <string name="results_lost">"Ön vesztett"</string>
+    <string name="results_disconnected">"LEVÁLT"</string>
+    <string name="results_you">"ÖN"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"folytat"</string>
+    <string name="results_length">"Hossz"</string>
+    <string name="results_waves">"Üzenetláncok"</string>
+    <string name="results_base_xp">"Alap XP"</string>
+    <string name="results_total_xp">"Teljes XP per versenyen"</string>
+    <string name="results_campaign">"Kampány"</string>
+    <string name="results_rewards">"Jutalmak"</string>
+    <string name="results_main">"fő"</string>
+    <string name="results_life">"Élettörténet"</string>
+    <string name="results_income">"Bejövő áruk"</string>
+    <string name="results_offense">"Támadás"</string>
+    <string name="results_defense">"Védelem"</string>
+    <string name="results_wave">"Google Wave"</string>
+    <string name="results_achievement_bonus">"Bónusz Achievement"</string>
+    <string name="results_win_bonus">"Nyerj bónusz"</string>
+    <string name="results_length_bonus">"Hossz bónusz"</string>
+    <string name="results_life_bonus">"Élet bónusz"</string>
+    <string name="results_multiple_race_factor">"Több Race Factor"</string>
+    <string name="results_free_version">"Nem keresnek tapasztalattal rendelkezik a szabad változat Gods and Towers"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Biztos benne, hogy vissza kívánja állítani az összes játékos adatokat?"</string>
+    <string name="options_assetClear">"Biztos benne, hogy törli az összes letöltés vagyon?"</string>
+    <string name="options_reset">"Reset"</string>
+    <string name="options_assets">"Game Data törlése"</string>
+    <string name="options_clear">"Töröl"</string>
+    <string name="options_clearing">"Minden letöltés vagyon megszüntetése folyamatban van, az alkalmazás kilép ..."</string>
+    <string name="options_soundOn">"Hang On"</string>
+    <string name="options_soundOff">"Nyíltan beszél"</string>
+    <string name="options_cancel">"Törlés"</string>
+    <string name="options_textureQuality">"Texture Quality"</string>
+    <string name="options_meshQuality">"Mesh Quality"</string>
+    <string name="options_engineSpeed">"GameEngine Speed"</string>
+    <string name="options_high">"Nagy"</string>
+    <string name="options_medium">"Közepes"</string>
+    <string name="options_low">"Alacsony"</string>
+    <string name="options_fast">"Gyors"</string>
+    <string name="options_normal">"Normális"</string>
+    <string name="options_slow">"Lassíts"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Ellenfelek szint"</string>
+    <string name="newgame_yourRace">"A verseny (ek)"</string>
+    <string name="newgame_opponentsRace">"Ellenfelek verseny (ek)"</string>
+    <string name="newgame_waves">"Max Waves"</string>
+    <string name="newgame_invalid_text">"Érvénytelen számítógép szinten vagy hullám száma, írja be a szám&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Számítógépek szinten legalább"</string>
+    <string name="newgame_startGame">"Játék indítása"</string>
+    <string name="newgame_minHumanRaces">"Ki kell választani legalább 1 versenyen magadnak"</string>
+    <string name="newgame_minComputerRaces">"Ki kell választani legalább 1 versenyen a számítógép"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Gyors"</string>
+    <string name="newgame_normal">"Normális"</string>
+    <string name="newgame_slow">"Lassíts"</string>
+    <string name="newgame_difficulty">"nehézség"</string>
+    <string name="newgame_easy">"Egyszerű"</string>
+    <string name="newgame_medium">"Közepes"</string>
+    <string name="newgame_hard">"Kemény"</string>
+    <string name="newgame_expert">"Szakértő"</string>
+    <string name="newgame_type">"Játéktípus"</string>
+    <string name="newgame_tutorial">"Tutorial"</string>
+    <string name="newgame_campaign">"Kampány"</string>
+    <string name="newgame_defense">"Védelmi Képzési"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Online játék"</string>
+    <string name="newgame_findGame">"Find Game"</string>
+    <string name="newgame_searching">"Keresés..."</string>
+    <string name="newgame_random">"RANDOM"</string>
+    <string name="newgame_onlineError">"Ön nem tud csatlakozni egy online játék"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"XP"</string>
+    <string name="upgrade_creatures">"Lények"</string>
+    <string name="upgrade_towers">"Towers"</string>
+    <string name="upgrade_specials">"Akciós"</string>
+    <string name="upgrade_notEnoughXP">"Ön nincs elég tapasztalat"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni a Legion of a feláldozott"</string>
+    <string name="race_ice">"Skaði fagyott Savages"</string>
+    <string name="race_earth">"Gaia Rengeteg Noble Soldiers"</string>
+    <string name="race_wind">"Quetzalcoatl a harcos törzs"</string>
+    <string name="race_life">"Hugues de Payens \"Szent lovagok"</string>
+    <string name="race_death">"Damballa Army of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"XP"</string>
+    <string name="achievements_longestGame">"LEGHOSSZABB JÁTÉK"</string>
+    <string name="achievements_shortestGame">"Legrövidebb JÁTÉK"</string>
+    <string name="achievements_highestScore">"Legmagasabb pontszám"</string>
+    <string name="achievements_highestLevelBeaten">"LEGMAGASABB verték"</string>
+    <string name="achievements_wins">"BATTLE WINS"</string>
+    <string name="achievements_losses">"BATTLE VESZTESÉGEK"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Arany indítása"</string>
+    <string name="stat_life">"Kezdő élet"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"cost"</string>
+    <string name="stat_income">"Bejövő áruk"</string>
+    <string name="stat_air">"Levegő"</string>
+    <string name="stat_ground">"Föld"</string>
+    <string name="stat_attack_range">"Támadás tartomány"</string>
+    <string name="stat_health">"Egészség"</string>
+    <string name="stat_speed">"Sebesség"</string>
+    <string name="stat_defense">"Védelem"</string>
+    <string name="stat_damage">"Kár"</string>
+    <string name="stat_attack_rate">"Attack Rate"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage Sugár"</string>
+    <string name="stat_splash_strength_fade">"Splash Erő Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature sebzés bónusz"</string>
+    <string name="stat_slow_duration">"Lassú időtartama"</string>
+    <string name="stat_slow_factor">"Lassú"</string>
+    <string name="stat_creature_evade_percentage">"Kitérés esélye"</string>
+    <string name="stat_stun_duration">"Időtartam Stun"</string>
+    <string name="stat_tower_attack_rate_modifier">"Torony Attack Speed ​​bónusz"</string>
+    <string name="stat_creature_speed_modifier">"Creature Mozgási sebesség bónusz"</string>
+    <string name="stat_tower_damage_modifier">"Torony sebzés bónusz"</string>
+    <string name="stat_tower_defense_modifier">"Bónusz Tower Defense"</string>
+    <string name="stat_creature_defense_modifier">"Creature védelmi bónusz"</string>
+    <string name="stat_drain_duration">"Időtartam Drain"</string>
+    <string name="stat_drain_percentage">"Drain százalékos"</string>
+    <string name="stat_heal_percentage">"Heal százalékos"</string>
+    <string name="stat_kill_percentage">"Azonnali Ölj Chance"</string>
+    <string name="stat_creature_health_modifier">"Creature Egészségügyi bónusz"</string>
+    <string name="stat_resurrect_percentage">"Feltámadás Chance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Károsíthatja az összes ellenséges lények"</string>
+    <string name="special_heal">"Heal minden teremtmény"</string>
+    <string name="special_kill">"Ölj meg 25%-át az ellenséges lények a fedélzeten"</string>
+    <string name="special_slow">"Lassú minden ellenséges lények"</string>
+    <string name="special_speed">"Fel kell gyorsítani az összes teremtmény"</string>
+    <string name="special_stun">"Stun minden ellenséges lények"</string>
+
+</resources>

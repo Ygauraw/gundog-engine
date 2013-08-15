@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"바이킹 냉동"</string>
+    <string name="frozen_soldier_horseman">"냉동 군인의 기병"</string>
+    <string name="polar_bear">"북극 그리즐리"</string>
+    <string name="ice_golem">"얼음 골룸"</string>
+    <string name="drake">"우박 드레 이크"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"궁수"</string>
+    <string name="human_archer_horseman">"마운트 궁수"</string>
+    <string name="panda_bear">"자이언트 팬더"</string>
+    <string name="lightning_golem">"번개 골룸"</string>
+    <string name="dragon">"용"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"엘프 궁수"</string>
+    <string name="elvish_archer_horseman">"엘프 궁수 기병"</string>
+    <string name="grizzly_bear">"회색곰"</string>
+    <string name="earth_golem">"지구 골룸"</string>
+    <string name="eagle">"전쟁 이글"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"미라"</string>
+    <string name="mummy_horseman">"언데드 라이더"</string>
+    <string name="fiery_bear">"베어 굽기"</string>
+    <string name="fire_golem">"지옥 알을 낳다"</string>
+    <string name="falcon">"매"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"종교적 열광자"</string>
+    <string name="zealot_horseman">"용병 기사"</string>
+    <string name="seraphim">"Seraphim"</string>
+    <string name="life_golem">"골룸 십자군"</string>
+    <string name="angel">"천사"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"무기력한사람"</string>
+    <string name="zombie_horseman">"좀비 라이더"</string>
+    <string name="succubus">"Succubus"</string>
+    <string name="undead_golem">"언데드의 골룸"</string>
+    <string name="fallen_angel">"타락 천사"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"엘프 마법사"</string>
+    <string name="human_mage">"인간의 마술사"</string>
+    <string name="human_necromancer">"인간의 사악"</string>
+    <string name="troll">"견지 낚시질"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"호빗"</string>
+    <string name="kobold">"Kobold"</string>
+    <string name="gnome">"금언"</string>
+    <string name="ghoul">"악귀"</string>
+    <string name="human_witch">"인간 마녀"</string>
+    <string name="female_necromancer">"여자 점쟁이"</string>
+    <string name="female_elf_mage">"여자 엘프 마술사"</string>
+
+</resources>

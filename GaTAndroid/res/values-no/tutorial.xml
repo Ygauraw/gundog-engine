@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Velkommen til opplæringen nivå. Her vil vi lære deg hvordan du bruker alle funksjonene i Gods og tårn. Du vil merke en scrollbar på høyre side av noen av disse popups som opplæringen utvikler seg. Ikke glem å bla ned for å få all informasjonen."</string>
+    <string name="tutorial_game_area">"Det du ser nå er brettet ditt, dra fingeren rundt på brettet for å flytte den rundt. Du vil merke hindringer som steiner og trær som hindrer deg fra å bygge tårn. Du vil også merke en glitrende blå området, dette er hvor skapninger gyte. På et annet punkt på kartet vil det være en glitrende rød område, dette er hvor skapninger prøver å flytte også. Hvis de når det røde området, mister du et liv, når livet når 0, er spillet over. Ta deg tid til å vise styret og identifisere hver enkelt av de viktigste funksjonene nå."</string>
+    <string name="tutorial_top_menu">"På toppen av skjermen er det viktig informasjon som gjør at du kjenner din nåværende liv, hvor mye penger du har på hånden, hvor mange bølger gått, hvor mye inntekt du får på neste bølge, og også den tiden som gjenstår før neste bølge."</string>
+    <string name="tutorial_top_menu_life">"Dette er hvor mye liv du har igjen. Når den når 0, taper du."</string>
+    <string name="tutorial_top_menu_gold">"Dette er hvor mye gull du må kjøpe tårn og skapninger."</string>
+    <string name="tutorial_top_menu_income">"På høyre side er dette hvor mye inntekt du får på neste bølge, sammen med den tiden frem til neste bølge."</string>
+    <string name="tutorial_bottom_menu">"Nederst på skjermen vil du se flere knapper. Disse knappene kan du kjøpe tårn, Kjøpe skapninger, bruk spesialiteter, endre, aktivere angripe og pause / gjenoppta spillet."</string>
+    <string name="tutorial_bottom_menu_tower">"Dette bringer opp Towers menyen. Den viser deg alle tårnene du kan bruke sammen med tårn du ennå ikke har låst opp."</string>
+    <string name="tutorial_bottom_menu_creature">"Dette bringer opp Creatures menyen. Den viser deg alle skapningene du kan bruke sammen med skapninger du ennå ikke har låst opp."</string>
+    <string name="tutorial_bottom_menu_special">"Dette bringer opp Tilbud menyen. Den viser deg alle Specials du kan bruke."</string>
+    <string name="tutorial_bottom_menu_option">"Dette bringer opp menyen. Du kan slå av musikken og endre visningen av spillet herfra."</string>
+    <string name="tutorial_bottom_menu_attacking">"Dette gjør angripe, vil vi diskutere dette mer senere."</string>
+    <string name="tutorial_bottom_menu_pause">"Dette tillater deg å pause spillet og gjenoppta den når du er klar."</string>
+    <string name="tutorial_buying_tower">"Fienden innkalte skapninger, så vi bør bygge noen tårn for å forsvare oss selv. Klikk på tårnet knappen og velg et tårn for å bygge."</string>
+    <string name="tutorial_buying_tower_pick">"Klikk på bildet av tårnet du ønsker å kjøpe. Du vil se kostnaden av tårnet ved siden av bildet sitt. I den nederst til høyre på skjermen tårnene skader og angrep hastighet vises når du velger det."</string>
+    <string name="tutorial_buying_tower_selected">"Nå som du har valgt et tårn du må velge et sted på skjermen for å bygge den. Du vil merke at tårnet vises på skjermen, og har et blått område aura som viser deg hvor langt tårnet kan angripe. Hvis du plasserer et tårn på et sted du ikke ønsker det, klikker du bare på tårnet igjen og det vil forsvinne. Når du er klar til å kjøpe tårnet, velger kjøpet knappen nederst i venstre hjørne av skjermen. Hvis du vil avbryte bygge tårn, trykk på avbryt-knappen."</string>
+    <string name="tutorial_buying_tower_purchase">"Denne knappen brukes til å bekrefte kjøp, og vil bygge alle tårnene du plassert på skjermen. Tårn som er plassert ved ugyldige steder som på steiner, trær eller skapninger vil ikke bli bygget. Hvis du prøver og bygge et tårn for å blokkere veien av skapningene, vil det ikke bli bygget."</string>
+    <string name="tutorial_buying_tower_cancel">"Hvis du bestemmer at du ikke lenger ønsker å kjøpe tårn, trykk på denne knappen. Alle venter tårn på brettet vil bli fjernet."</string>
+    <string name="tutorial_build_maze">"Flott jobb, nå som flere skapninger kommer, vil vi trenger flere tårn. Bygg 10 flere tårn nå. Sørg for at du plasserer dem i veien for skapninger å bremse sin bevegelse til avkjørselen punktet. Konstruere en labyrint vil gjøre tårnene til å angripe skapninger mer enn én gang, og øke avstanden som skapninger trenger å reise."</string>
+    <string name="tutorial_upgrade_tower">"Etter hvert som spillet skrider frem, vil du gå tom for steder å sette tårnene, skapninger imidlertid vil fortsette å komme, og vil bli sterkere. På dette punktet bør du begynne å oppgradere tårnene dine. Velg et tårn for å få opp oppgraderingen menyen."</string>
+    <string name="tutorial_upgrade_tower_selected">"Flott, nå i denne menyen vil du se et bilde av tårnet, og også en knapp for å selge tårnet."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klikk på tårnet ikonet for å kjøpe oppgraderingen. Kostnaden vises ved siden av tårnet."</string>
+    <string name="tutorial_upgrade_tower_sell">"Klikker du på denne knappen vil selge tårnet, fjerne det fra kartet."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Hvis du bestemmer at du ikke lenger ønsker å oppgradere eller selge tårnet klikk på denne knappen nederst i venstre hjørne av skjermen."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Langt trykk tårnet ikonet for å oppgradere tårnet så mange ganger pengene dine tillater."</string>
+    <string name="tutorial_side_buttons">"Når du spiller på Battle eller tilkoblet modus, vil du se knappene på siden av skjermen. Disse lar deg se fiender styret. Dette kan være nyttig når du skal avgjøre hvilke skapninger å kjøpe. Spillet vil fortelle deg hva styret du ser på med en kort popup nederst midt på skjermen. Du kan ikke bygge tårnene på fiender bord. Ta deg tid til se fiender styret."</string>
+    <string name="tutorial_side_buttons_pic">"Dette er en side knapp som tar deg til å se fiender styret."</string>
+    <string name="tutorial_buying_creature">"Du vil merke at fienden har ikke kjøpt noen tårn, er dette fordi du ikke har innkalt noen skapninger å angripe ennå. Trykk på skapningen knappen for å få opp din skapning menyen. Ved å klikke på en skapning innkaller den hvis du har nok penger. Gå videre og innkalle noen skapninger og se dem vises på fiender bord."</string>
+    <string name="tutorial_buying_creature_purchase">"Klikk på skapningen ikonet for å kjøpe den. Ved siden av skapningen vil du se hvor mye det koster. Også nederst i høyre hjørne av skjermen vil du se skapninger helse og bevegelse fart etter at du velger det."</string>
+    <string name="tutorial_buying_creature_cancel">"Hvis du ikke lenger ønsker å kjøpe skapninger, velg avbryt-knappen nederst i venstre hjørne av skjermen."</string>
+    <string name="tutorial_buying_creature_long_press">"Langt trykk skapningen ikonet for å aktivere / deaktivere auto-kjøp. Med auto-kjøp aktivert, vil du kjøpe den skapningen hvert sekund hvis du har nok gull."</string>
+    <string name="tutorial_attacking">"Det kan være tider når fienden har bygget en vanskelig labyrint som skapningene dine ikke klarer å bevege seg gjennom. Dette er når angripe kan være nyttig. Med angripe aktiverte skapninger vil forsøke å flytte til avkjørselen og vil angripe eventuelle tårnene i deres vei. Husk at når du slår på å angripe, du sakte mister gull, hvis du går tom for penger, vil angripe automatisk bli deaktivert. Prøv å slå på å angripe nå."</string>
+    <string name="tutorial_attacking_button">"Velg dette for å aktivere angripe."</string>
+    <string name="tutorial_attacking_move">"Velg dette for å deaktivere angripe."</string>
+    <string name="tutorial_specials">"Noen ganger tårnene er ikke nok til å stoppe fiendtlige skapninger, eller skapningene dine kan ikke synes å gjøre det gjennom fiendens tårnene. Bruke specials gir et løft for å hjelpe deg å vinne. Prøv å bruke en spesiell nå."</string>
+    <string name="tutorial_specials_damage">"Dette spesielle skader alle skapninger på brettet ditt"</string>
+    <string name="tutorial_specials_heal">"Denne spesielle leger alle dine skapninger på fiender ombord"</string>
+    <string name="tutorial_specials_kill">"Denne spesielle dreper flere tilfeldige skapninger ombord din"</string>
+    <string name="tutorial_specials_slow">"Denne spesielle bremser alle skapninger på brettet ditt for en kort tid"</string>
+    <string name="tutorial_specials_speed">"Dette spesielle hastigheter opp skapningene dine for en kort tid"</string>
+    <string name="tutorial_specials_stun">"Denne spesielle lammer alle skapninger på brettet ditt for en kort tid"</string>
+    <string name="tutorial_options_menu">"Nå kan se på innstillingsmenyen. Du vil merke flere knapper som lar deg endre spillet visningen, spill av / pause musikken, og returnere spillet utsikt til standardinnstillingene."</string>
+    <string name="tutorial_options_menu_zoomin">"Bruk denne for å zoome inn"</string>
+    <string name="tutorial_options_menu_zoomout">"Bruk denne til å zoome ut"</string>
+    <string name="tutorial_options_menu_rotateup">"Bruk denne til å rotere visningen opp"</string>
+    <string name="tutorial_options_menu_rotatedown">"Bruk denne til å rotere visningen ned"</string>
+    <string name="tutorial_options_menu_default">"Bruk denne til å gå tilbake til visningen til standardplasseringen"</string>
+    <string name="tutorial_options_menu_play">"Bruk dette for å aktivere musikken"</string>
+    <string name="tutorial_options_menu_pause">"Bruk denne til å deaktivere musikk"</string>
+    <string name="tutorial_upgrading">"Når du spiller Gods og tårn vil du tjene erfaring, kan denne erfaringen brukes til å oppgradere din start Life / Gold, Race bonuser, skapning evner, og Tower evner. Hver rase har spesielle bonuser som gjelder for alle skapninger og tårn av at rase, oppgradere dem til nytte for alle skapninger / tårn av denne typen. Tower / Creature oppgraderinger kun påvirke tårn / skapningen og øke sin makt for hver kamp du spiller. Hvis du glemmer hva en stat er bare trykk lenge på STAT-ikonet i oppgraderingen menyen og den vil fortelle deg."</string>
+    <string name="tutorial_completion">"Gratulerer, du har fullført opplæringen. Spill kampanje for å låse opp flere skapninger og tårn. Komplett prestasjoner å tjene ekstra erfaring og få tilbud til bruk i spillet. Jo flere prestasjoner du har låst opp, jo mer erfaring får du fra å spille."</string>
+    <string name="tutorial_continue">"Fortsett ..."</string>
+
+</resources>

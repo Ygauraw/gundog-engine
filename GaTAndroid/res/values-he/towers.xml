@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice קנון"</string>
+	<string name="water_catapult">"הקרח בליסטרה"</string>
+	<string name="water_pillar">"עמוד מים"</string>
+	<string name="water_emitter">"מים פולט"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"ברק קנון"</string>
+	<string name="griffin_statue">"גריפין פסל"</string>
+	<string name="lightning_pillar">"ברק עמוד"</string>
+	<string name="lightning_emitter">"ברק פולט"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"רוק קנון"</string>
+	<string name="stone_catapult">"אבן בליסטרה"</string>
+	<string name="earth_pillar">"כדור הארץ עמוד"</string>
+	<string name="dirt_emitter">"עפר פולט"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"הלהבה קנון"</string>
+	<string name="flame_catapult">"הלהבה בליסטרה"</string>
+	<string name="fire_pillar">"עמוד האש"</string>
+	<string name="fire_emitter">"פולט אש"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"אנרגיה קנון"</string>
+	<string name="angel_statue">"פסל מלאך"</string>
+	<string name="life_pillar">"החיים עמוד"</string>
+	<string name="holy_water_emitter">"מים קדושים פולט"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"רעל קנון"</string>
+	<string name="gargoyle_statue">"פסל מפלצת"</string>
+	<string name="undead_pillar">"מתים עמוד"</string>
+	<string name="toxic_gas_emitter">"פולט גז רעיל"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"הלהבה Whip"</string>
+	<string name="water_whip">"מים מקציפים"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"הלהבה Crystallizer"</string>
+	<string name="ice_crystallizer">"Ice Crystallizer"</string>
+	<string name="earth_crystallizer">"כדור הארץ Crystallizer"</string>
+	<string name="lightning_blade">"ברק Blade"</string>
+	<string name="ice_blade">"Ice Blade"</string>
+	<string name="flame_blade">"הלהבה Blade"</string>
+	<string name="earth_ballista">"כדור הארץ בליסטרה"</string>
+	<string name="ice_ballista">"הקרח בליסטרה"</string>
+	<string name="flame_ballista">"הלהבה בליסטרה"</string>
+	
+</resources>

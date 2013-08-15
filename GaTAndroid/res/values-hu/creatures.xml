@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Ice -->
+    <string name="frozen_soldier">"Fagyasztott Viking"</string>
+    <string name="frozen_soldier_horseman">"Fagyasztott lovas katona"</string>
+    <string name="polar_bear">"Arctic Grizzly"</string>
+    <string name="ice_golem">"Ice Golem"</string>
+    <string name="drake">"Jégvihar Drake"</string>
+    
+    <!-- Wind -->
+    <string name="human_archer">"Archer."</string>
+    <string name="human_archer_horseman">"Lovasíjász"</string>
+    <string name="panda_bear">"Óriáspanda"</string>
+    <string name="lightning_golem">"Villám Gólem"</string>
+    <string name="dragon">"Sárkány"</string>
+    
+    <!-- Earth -->
+    <string name="elvish_archer">"Tünde íjász"</string>
+    <string name="elvish_archer_horseman">"Lovas íjász tünde"</string>
+    <string name="grizzly_bear">"Grizzly Bear"</string>
+    <string name="earth_golem">"Föld Gólem"</string>
+    <string name="eagle">"War Eagle"</string>
+    
+    <!-- Fire -->
+    <string name="mummy">"Múmia"</string>
+    <string name="mummy_horseman">"Undead Rider"</string>
+    <string name="fiery_bear">"Égő Bear"</string>
+    <string name="fire_golem">"Pokol Spawn"</string>
+    <string name="falcon">"Sólyom"</string>
+    
+    <!-- Life -->
+    <string name="zealot">"Vallási Zealot"</string>
+    <string name="zealot_horseman">"Zsoldos Knight"</string>
+    <string name="seraphim">"Seraphim"</string>
+    <string name="life_golem">"Gólem Crusader"</string>
+    <string name="angel">"Angyal"</string>
+    
+    <!-- Undead -->
+    <string name="zombie">"Zombie"</string>
+    <string name="zombie_horseman">"Zombie Rider"</string>
+    <string name="succubus">"Succubus"</string>
+    <string name="undead_golem">"Undead Gólem"</string>
+    <string name="fallen_angel">"Fallen Angel"</string>
+    
+    <!-- Combo -->
+    <string name="elf_wizard">"Elf varázsló"</string>
+    <string name="human_mage">"Human Mage"</string>
+    <string name="human_necromancer">"Emberi Nekromanta"</string>
+    <string name="troll">"Manó"</string>
+    <string name="dwarf">"Drawf"</string>
+    <string name="hobbit">"Hobbit"</string>
+    <string name="kobold">"Kobold"</string>
+    <string name="gnome">"Törpe"</string>
+    <string name="ghoul">"Vámpír"</string>
+    <string name="human_witch">"Emberi Witch"</string>
+    <string name="female_necromancer">"Nő Nekromanta"</string>
+    <string name="female_elf_mage">"Nő Elf Mage"</string>
+
+</resources>

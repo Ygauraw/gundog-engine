@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Welkom bij de handleiding niveau. Hier zullen we je leren hoe je alle functies in de Goden en Towers te gebruiken. U ziet een schuifbalk aan de rechterkant van sommige van deze pop-ups als de tutorial vordert. Vergeet niet naar beneden scrollen om alle informatie te krijgen."</string>
+    <string name="tutorial_game_area">"Wat je ziet nu je board, sleept u uw vinger over het bord om ze te verplaatsen. U zult merken obstakels zoals rotsen en bomen die voorkomen dat u het bouwen van torens. U zal ook merken een sprankelende blauwe gebied, dit is waar te paaien wezens. Op een ander punt op de kaart zal er een sprankelende rode gebied, dit is waar wezens proberen te bewegen. Als ze bij het rode gebied, je een leven verliest, als je leven 0 bereikt, is het spel afgelopen. Neem de tijd om het bestuur te bekijken en nu met een lijst van de belangrijkste functies."</string>
+    <string name="tutorial_top_menu">"Aan de bovenkant van het scherm bevindt zich de belangrijkste informatie waarmee u weet dat uw huidige leven, hoeveel geld je hebt bij de hand, hoeveel golven voorbij zijn gegaan, hoeveel inkomen ontvangt u op de volgende golf, en ook de tijd die resteert tot de volgende golf."</string>
+    <string name="tutorial_top_menu_life">"Dit is hoeveel leven je nog over hebt. Als het 0 bereikt, verlies je."</string>
+    <string name="tutorial_top_menu_gold">"Dit is hoeveel goud je moet torens en wezens te kopen."</string>
+    <string name="tutorial_top_menu_income">"Aan de rechterkant dit is hoeveel inkomen ontvangt u op de volgende golf, samen met de tijd tot de volgende golf."</string>
+    <string name="tutorial_bottom_menu">"Aan de onderkant van het scherm ziet u verschillende knoppen. Met deze knoppen kun je torens, kopen wezens, gebruik specials, opties wijzigen, kunnen aanvallen, en pauzeren kopen / het spel te hervatten."</string>
+    <string name="tutorial_bottom_menu_tower">"Dit brengt de torens menu. Het toont je alle torens kunt u, gebruiken samen met torens je nog niet hebt ontgrendeld."</string>
+    <string name="tutorial_bottom_menu_creature">"Dit brengt het Creatures-menu. Het toont u alle wezens die je kunt gebruiken samen met wezens die je nog niet hebt ontgrendeld."</string>
+    <string name="tutorial_bottom_menu_special">"Dit brengt de Specials menu. Het toont u alle Specials die u kunt gebruiken."</string>
+    <string name="tutorial_bottom_menu_option">"Dit brengt ons op het menu Opties. U kunt uitschakelen muziek en de weergave van het spel van hier."</string>
+    <string name="tutorial_bottom_menu_attacking">"Hierdoor kunnen aanvallen, zullen we bespreken later meer."</string>
+    <string name="tutorial_bottom_menu_pause">"Hiermee kunt u het spel te pauzeren en hervatten wanneer u klaar bent."</string>
+    <string name="tutorial_buying_tower">"De vijand opgeroepen wezens, dus moeten we bouwen een aantal torens om onszelf te verdedigen. Klik op de toren en selecteer een toren te bouwen."</string>
+    <string name="tutorial_buying_tower_pick">"Klik op de foto van de toren die u wilt kopen. U ziet de kosten van de toren naast de afbeelding. In de rechterbenedenhoek van het scherm de torens schade en aanval snelheid wordt weergegeven wanneer u deze selecteert."</string>
+    <string name="tutorial_buying_tower_selected">"Nu u een toren geselecteerd, moet u een locatie op het scherm om het te bouwen. U zult merken dat de toren op het scherm en heeft een blauwe bereik aura dat u toont hoe ver de toren aan te vallen kan. Als u een toren op een plek die u niet wilt, gewoon weer op de toren en het zal verdwijnen. Wanneer u klaar bent om de toren te kopen, selecteert u de aankoop knop op de linker onderhoek van het scherm. Aan de opbouw van torens te annuleren, drukt u op de knop Annuleren."</string>
+    <string name="tutorial_buying_tower_purchase">"Deze knop wordt gebruikt om aankopen te bevestigen en bouwt al de torens op het scherm geplaatst. Torens die zijn geplaatst op ongeldige locaties, zoals op de rotsen, bomen of dieren zullen niet worden gebouwd. Als je probeert op te bouwen een toren aan het pad van de schepselen te blokkeren, zal het niet worden gebouwd."</string>
+    <string name="tutorial_buying_tower_cancel">"Als u besluit dat u niet meer wilt torens te kopen, op deze knop. Alle in afwachting van torens op het bord worden verwijderd."</string>
+    <string name="tutorial_build_maze">"Goed gedaan, nu als meer wezens komen, zullen we meer torens. Maak nu nog 10 torens. Zorg ervoor dat u ze in het pad van de dieren om op het verkeer te vertragen naar de uitgang. De bouw van een doolhof in staat zal stellen uw torens om wezens aan te vallen meer dan eens, en vergroot de afstand die dieren nodig hebben om te reizen."</string>
+    <string name="tutorial_upgrade_tower">"Naarmate het spel vordert zul je opraken van de plaatsen om te zetten torens, wezens echter zullen blijven komen, en zal sterker worden. Op dit punt moet je beginnen met het upgraden van uw torens. Selecteer een toren om het upgrade menu."</string>
+    <string name="tutorial_upgrade_tower_selected">"Geweldig, nu in dit menu ziet u een foto van de toren en ook een knop om de toren te verkopen."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klik op het torentje om de upgrade aan te schaffen. De kosten naast de toren weergegeven."</string>
+    <string name="tutorial_upgrade_tower_sell">"Klik op deze knop zal de verkoop van de toren, het verwijderen van de kaart."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Als u besluit dat u niet meer wilt upgraden of de toren te verkopen klik op deze knop op de linker onderhoek van het scherm."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Druk lang op het torentje aan de toren te upgraden zo vaak als je geld geeft."</string>
+    <string name="tutorial_side_buttons">"Bij het afspelen in Battle of online modus, ziet u de knoppen aan de zijkant van het scherm. Hiermee kunt u de vijanden raad van bestuur te geven. Dit kan nuttig zijn bij de beslissing welke dieren aan te schaffen. Het spel zal je vertellen wat board dat je zoekt bij met een korte pop-up onderaan in het midden van het scherm. U kunt niet bouwen torens op de vijanden boord. Neem de tijd om de vijanden raad van bestuur te geven."</string>
+    <string name="tutorial_side_buttons_pic">"Dit is een kant knop brengt u naar de vijanden bord te zien."</string>
+    <string name="tutorial_buying_creature">"U zult merken de vijand heeft geen torens gekocht, dit is omdat u niet opgeroepen geen wezens om nog aan te vallen. Druk op de schepsel knop om je wezen menu. Door te klikken op een schepsel roept het als je genoeg geld hebt. Ga je gang en op te roepen een aantal wezens en bekijk ze op de vijanden boord."</string>
+    <string name="tutorial_buying_creature_purchase">"Klik op het schepsel pictogram om het te kopen. Naast het wezen dat je zult zien hoeveel het kost. Ook op de rechterbenedenhoek van het scherm ziet u de dieren gezondheid en beweging snelheid nadat u deze selecteert."</string>
+    <string name="tutorial_buying_creature_cancel">"Als u niet langer wilt wezens te kopen, selecteert u de knop Annuleren in de linker onderhoek van het scherm."</string>
+    <string name="tutorial_buying_creature_long_press">"Druk lang op het schepsel pictogram om aan / uit auto-aankoop. Met auto-aankoop ingeschakeld zul je het beest te kopen elke seconde als je genoeg goud."</string>
+    <string name="tutorial_attacking">"Er kunnen momenten zijn dat de vijand heeft een moeilijk doolhof dat je wezens niet in staat zijn om door gebouwd. Dit is bij een aanval nuttig zijn. Met aanvallende enabled wezens zal proberen om naar de uitgang en zal elke torens vallen op hun pad. Vergeet niet dat wanneer u op het aanvallen, langzaam je goud te verliezen, als je geen geld meer zal aanvallen automatisch worden uitgeschakeld. Probeer te draaien op het aanvallen van nu."</string>
+    <string name="tutorial_attacking_button">"Selecteer deze om te vallen."</string>
+    <string name="tutorial_attacking_move">"Selecteer deze optie om uit te schakelen aanvallen."</string>
+    <string name="tutorial_specials">"Soms is je torens zijn niet genoeg om de vijandelijke wezens te stoppen, of je wezens kan niet lijken te maken door middel van de vijand torens. Met behulp van specials geeft een boost om u te helpen winnen. Probeer het gebruik van een speciale nu."</string>
+    <string name="tutorial_specials_damage">"Deze speciale schade alle schepselen op uw bord"</string>
+    <string name="tutorial_specials_heal">"Deze speciale geneest al uw schepselen op de vijanden boord"</string>
+    <string name="tutorial_specials_kill">"Deze speciale doodt een aantal willekeurige wezens op je bord"</string>
+    <string name="tutorial_specials_slow">"Deze speciale vertraagt ​​alle schepselen op je board voor een korte tijd"</string>
+    <string name="tutorial_specials_speed">"Deze speciale versnelt uw schepselen voor een korte tijd"</string>
+    <string name="tutorial_specials_stun">"Deze speciale verdooft alle schepselen op je board voor een korte tijd"</string>
+    <string name="tutorial_options_menu">"Laten we nu eens kijken naar het options menu. Ziet u verschillende knoppen waarmee u om het spel te bekijken, afspelen / pauzeren van de muziek te veranderen, en het spel zicht terug te keren naar de standaardinstellingen."</string>
+    <string name="tutorial_options_menu_zoomin">"Gebruik deze om in te zoomen"</string>
+    <string name="tutorial_options_menu_zoomout">"Gebruik deze om uit te zoomen"</string>
+    <string name="tutorial_options_menu_rotateup">"Gebruik dit om het beeld te draaien tot"</string>
+    <string name="tutorial_options_menu_rotatedown">"Gebruik dit om het beeld te draaien naar beneden"</string>
+    <string name="tutorial_options_menu_default">"Gebruik deze om de weergave terug te keren naar de standaardlocatie"</string>
+    <string name="tutorial_options_menu_play">"Gebruik deze om muziek te kunnen"</string>
+    <string name="tutorial_options_menu_pause">"Gebruik deze functie om muziek uit te schakelen"</string>
+    <string name="tutorial_upgrading">"Als je speelt Gods and Towers verdien je ervaring, kan deze ervaring worden gebruikt om uw start-Life / Gold, Race bonussen, Creature vaardigheden en Tower vaardigheden te upgraden. Elk ras heeft speciale bonussen die gelden voor alle wezens en torens van dat ras, upgrading hen ten goede komt alle schepselen / torens van dat type. Tower / Creature upgrades alleen van invloed op de toren / schepsel en hun vermogen voor elk spel dat je speelt. Als u vergeten bent wat een stat is slechts op lange druk op de stat-pictogram in het upgrade menu en het zal u vertellen."</string>
+    <string name="tutorial_completion">"Gefeliciteerd, je hebt de oefening voltooid. Speel de campagne om meer wezens en torens vrij te spelen. Compleet prestaties om extra ervaring op te verdienen en specials om te gebruiken in het spel. Hoe meer successen je vrijspeelt, hoe meer ervaring je krijgt van het spelen."</string>
+    <string name="tutorial_continue">"Doorgaan"</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="tutorial_intro">"Välkommen till handledningen nivån. Här kommer vi att lära dig hur man använder alla funktioner på gudar och torn. Du kommer att märka en rullningslist på höger sida av några av dessa popups som handledningen fortskrider. Glöm inte att rulla ner för att få all information."</string>
+    <string name="tutorial_game_area">"Det du ser nu är din bräda, dra fingret runt bordet för att flytta runt. Du kommer att märka hinder som stenar och träd som hindrar dig från att bygga torn. Du kommer också att märka en glittrande blå området, det är där varelser leka. Vid någon annan punkt på kartan kommer det att finnas ett mousserande rött område, det är där varelser försöker gå för. Om de når det röda området, förlorar du ett liv, när ditt liv når 0, är ​​spelet över. Ta dig tid att se styrelsen och identifiera vart och ett av de viktigaste funktionerna nu."</string>
+    <string name="tutorial_top_menu">"På toppen av skärmen finns viktig information som låter dig veta ditt nuvarande liv, hur mycket pengar du har på handen, hur många vågor har gått, hur mycket inkomst du får på nästa våg, och även den tid som återstår tills nästa våg."</string>
+    <string name="tutorial_top_menu_life">"Det är hur mycket liv du har kvar. När den når 0 förlorar du."</string>
+    <string name="tutorial_top_menu_gold">"Det är hur mycket guld du måste köpa torn och varelser."</string>
+    <string name="tutorial_top_menu_income">"På höger sida detta är hur mycket inkomst du får på nästa våg, tillsammans med tiden fram till nästa våg."</string>
+    <string name="tutorial_bottom_menu">"Längst ner på skärmen kommer du att märka flera knappar. Dessa knappar kan du köpa torn, varelser köpa, specialerbjudanden användning, optioner förändring, gör attackera och pausa / återuppta spelet."</string>
+    <string name="tutorial_bottom_menu_tower">"Detta leder fram Towers menyn. Det visar alla torn du kan använda tillsammans med torn du ännu inte har låst upp."</string>
+    <string name="tutorial_bottom_menu_creature">"Detta leder fram Creatures menyn. Det visar dig alla de varelser du kan använda tillsammans med varelser du ännu inte har låst upp."</string>
+    <string name="tutorial_bottom_menu_special">"Detta leder fram Specials menyn. Det visar alla specialerbjudanden du kan använda."</string>
+    <string name="tutorial_bottom_menu_option">"Detta leder fram menyn. Du kan stänga av musiken och ändra synen på spelet härifrån."</string>
+    <string name="tutorial_bottom_menu_attacking">"Detta möjliggör attackerar, kommer vi att diskutera detta mer senare."</string>
+    <string name="tutorial_bottom_menu_pause">"Här kan du pausa spelet och återuppta den när du är klar."</string>
+    <string name="tutorial_buying_tower">"Fienden kallade varelser, så vi bör bygga några torn för att försvara oss. Klicka på tornet knappen och välj ett torn för att bygga."</string>
+    <string name="tutorial_buying_tower_pick">"Klicka på bilden av tornet du vill köpa. Du kommer att se kostnaden för tornet bredvid bild. I nedre högra hörnet av skärmen tornen skador och attack hastighet visas när du markerar den."</string>
+    <string name="tutorial_buying_tower_selected">"Nu när du har valt ett torn måste du välja en plats på skärmen för att bygga det. Du kommer att märka att tornet visas på skärmen och har en blå rad aura som visar hur långt tornet kan attackera. Om du placerar ett torn på en plats du inte vill ha den, klickar du bara på tornet igen och det kommer att försvinna. När du är redo att köpa tornet, välj köp-knappen längst ned till vänster på skärmen. Om du vill avbryta bygga torn, tryck på knappen Avbryt."</string>
+    <string name="tutorial_buying_tower_purchase">"Denna knapp används för att bekräfta inköp och kommer att bygga alla torn du placerade på skärmen. Torn som är placerade vid ogiltiga platser som på stenar, träd eller varelser kommer inte att byggas. Om du försöker och bygga ett torn för att blockera vägen för varelser, kommer det inte byggas."</string>
+    <string name="tutorial_buying_tower_cancel">"Om du bestämmer dig för att du inte längre vill köpa torn, tryck på denna knapp. Alla väntande torn på spelplanen kommer att tas bort."</string>
+    <string name="tutorial_build_maze">"Bra jobb, nu som fler varelser kommer, kommer vi att behöva fler torn. Bygg 10 mer torn nu. Se till att du placerar dem i väg varelser att bromsa deras rörelse till utförselstället. Konstruera en labyrint gör det möjligt för dina torn för att attackera varelser mer än en gång, och öka avståndet som varelser behöver resa."</string>
+    <string name="tutorial_upgrade_tower">"Under spelets gång kommer du att få slut på ställen att sätta torn, varelser kommer dock att fortsätta att komma, och kommer att få starkare. Vid det här laget bör du börja uppgradera dina torn. Välj ett torn för att få upp uppgraderingen menyn."</string>
+    <string name="tutorial_upgrade_tower_selected">"Great, nu i den här menyn ser du en bild av tornet och även en knapp för att sälja tornet."</string>
+    <string name="tutorial_upgrade_tower_purchase">"Klicka på tornet ikonen för att köpa uppgraderingen. Kostnaden visas bredvid tornet."</string>
+    <string name="tutorial_upgrade_tower_sell">"Om du klickar på den här knappen kommer att sälja tornet, ta bort den från kartan."</string>
+    <string name="tutorial_upgrade_tower_cancel">"Om du bestämmer dig för att du inte längre vill uppgradera eller sälja tornet klicka på knappen längst ner till vänster på skärmen."</string>
+    <string name="tutorial_upgrade_tower_long_press">"Lång tryck tornet ikonen att uppgradera tornet så många gånger som dina pengar tillåter."</string>
+    <string name="tutorial_side_buttons">"När du spelar i Battle eller online, kommer du att se knapparna på sidan av skärmen. Dessa tillåter dig att se fiender styrelsen. Detta kan vara användbart vid beslut om vilka varelser att köpa. Spelet kommer att berätta vad styrelsen du tittar på med en kort popup längst ner i mitten av skärmen. Du kan inte bygga torn på fiender ombord. Ta dig tid att se fiender styrelsen."</string>
+    <string name="tutorial_side_buttons_pic">"Detta är en sida knapp som tar dig se fiender styrelsen."</string>
+    <string name="tutorial_buying_creature">"Du kommer att märka att fienden inte har köpt några torn, detta eftersom du inte har kallats några varelser att anfalla ännu. Tryck på varelsen för att få upp din varelse menyn. Om du klickar på en varelse kallar det om du har tillräckligt med pengar. Gå vidare och kalla en del varelser och se dem visas på fiender ombord."</string>
+    <string name="tutorial_buying_creature_purchase">"Klicka på varelsen ikonen för att köpa den. Bredvid varelsen ser du hur mycket det kostar. Också i det nedre högra hörnet på skärmen ser du varelserna hälsa och rörelsehastighet när du har valt det."</string>
+    <string name="tutorial_buying_creature_cancel">"Om du inte längre vill köpa varelser, välj Avbryt knappen längst ner till vänster på skärmen."</string>
+    <string name="tutorial_buying_creature_long_press">"Lång tryck varelsen ikonen för att aktivera / inaktivera automatisk köp. Med Auto-köp aktiverat kommer du att köpa varelsen varje sekund om du har tillräckligt med guld."</string>
+    <string name="tutorial_attacking">"Det kan finnas tillfällen då fienden har konstruerat en svår labyrint att dina varelser inte kan gå igenom. Det är när attackerar kan vara användbara. Med attackera aktiverade varelser kommer att försöka flytta till utgången och kommer att attackera alla torn i deras väg. Kom ihåg att när du slår på attackera, du sakta förlorar guld, om du får slut på pengar, kommer att anfalla automatiskt inaktiveras. Prova att slå på anfallande nu."</string>
+    <string name="tutorial_attacking_button">"Välj detta för att aktivera attackera."</string>
+    <string name="tutorial_attacking_move">"Välj detta för att inaktivera attackera."</string>
+    <string name="tutorial_specials">"Ibland dina torn inte är tillräckligt för att stoppa fienden varelser, eller dina varelser verkar inte kunna göra det genom fiendens torn. Använda erbjudanden ger ett lyft för att hjälpa dig att vinna. Försök att använda en speciell nu."</string>
+    <string name="tutorial_specials_damage">"Detta speciella skador alla varelser på din styrelse"</string>
+    <string name="tutorial_specials_heal">"Denna speciella läker alla dina varelser på fiender ombord"</string>
+    <string name="tutorial_specials_kill">"Denna speciella dödar flera slumpmässiga varelser på din styrelse"</string>
+    <string name="tutorial_specials_slow">"Denna speciella bromsar alla varelser på din ombord för en kort tid"</string>
+    <string name="tutorial_specials_speed">"Detta speciella hastigheter upp dina varelser för en kort tid"</string>
+    <string name="tutorial_specials_stun">"Denna speciella bedövar alla varelser på din ombord för en kort tid"</string>
+    <string name="tutorial_options_menu">"Nu kan titta på alternativmenyn. Du kommer att märka flera knappar som gör att du kan ändra spelets visa, spela / pausa musiken, och returnera spelet för att standardinställningarna."</string>
+    <string name="tutorial_options_menu_zoomin">"Använd detta för att zooma in"</string>
+    <string name="tutorial_options_menu_zoomout">"Använd detta för att zooma ut"</string>
+    <string name="tutorial_options_menu_rotateup">"Använd detta för att rotera vyn upp"</string>
+    <string name="tutorial_options_menu_rotatedown">"Använd detta för att rotera vyn ner"</string>
+    <string name="tutorial_options_menu_default">"Använd denna för att återgå i syfte att standardplatsen"</string>
+    <string name="tutorial_options_menu_play">"Använd detta för att aktivera musiken"</string>
+    <string name="tutorial_options_menu_pause">"Använd detta för att inaktivera musiken"</string>
+    <string name="tutorial_upgrading">"När du spelar Gods and Towers kommer du att tjäna erfarenhet kan denna erfarenhet kan användas för att uppgradera din börjar livet / Guld, bonus Race, förmågor varelse och Tower förmågor. Varje ras har speciella bonusar som gäller för alla varelser och torn i den ras, uppgradera dem gynnar alla varelser / torn av denna typ. Tower / Creature uppgraderingar påverkar bara tornet / varelse och öka sin makt för varje spel du spelar. Om du glömmer vad en stat är bara lång tryck stat ikonen i uppgraderingen menyn och det kommer att berätta."</string>
+    <string name="tutorial_completion">"Grattis, du har slutfört guiden. Spela kampanj för att låsa upp fler varelser och torn. Komplett resultat att tjäna extra erfarenhet och få specialerbjudanden att använda i spelet. Ju fler framgångar du låser upp, desto mer erfarenhet du får från att spela."</string>
+    <string name="tutorial_continue">"Fortsätt"</string>
+
+</resources>

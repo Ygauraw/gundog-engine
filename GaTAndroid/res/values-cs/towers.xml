@@ -1,0 +1,52 @@
+<resources>
+	<!-- Ice -->
+	<string name="water_cannon">"Ice Cannon"</string>
+	<string name="water_catapult">"Ice Katapult"</string>
+	<string name="water_pillar">"Voda pilíř"</string>
+	<string name="water_emitter">"Voda Vysílač"</string>
+
+	<!-- Wind -->
+	<string name="lightning_cannon">"Blesk Cannon"</string>
+	<string name="griffin_statue">"Griffin Socha"</string>
+	<string name="lightning_pillar">"Blesk pilíř"</string>
+	<string name="lightning_emitter">"Blesk Vysílač"</string>
+
+	<!-- Earth -->
+	<string name="rock_cannon">"Cannon rock"</string>
+	<string name="stone_catapult">"Kámen Katapult"</string>
+	<string name="earth_pillar">"Země pilíř"</string>
+	<string name="dirt_emitter">"Špína Vysílač"</string>
+
+	<!-- Fire -->
+	<string name="flame_cannon">"Flame Cannon"</string>
+	<string name="flame_catapult">"Flame Katapult"</string>
+	<string name="fire_pillar">"Požární pilíř"</string>
+	<string name="fire_emitter">"Požární Vysílač"</string>
+
+	<!-- Life -->
+	<string name="energy_cannon">"Energie Cannon"</string>
+	<string name="angel_statue">"Socha anděla"</string>
+	<string name="life_pillar">"Život pilíř"</string>
+	<string name="holy_water_emitter">"Svěcená voda Vysílač"</string>
+
+	<!-- Undead -->
+	<string name="poison_cannon">"Jed Cannon"</string>
+	<string name="gargoyle_statue">"Socha chrlič"</string>
+	<string name="undead_pillar">"Undead pilíř"</string>
+	<string name="toxic_gas_emitter">"Jedovatý plyn Vysílač"</string>
+
+	<!-- Combo -->
+	<string name="flame_whip">"Flame Whip"</string>
+	<string name="water_whip">"Voda Whip"</string>
+	<string name="tentical_whip">"Tentical Whip"</string>
+	<string name="flame_crystallizer">"Flame krystalizátor"</string>
+	<string name="ice_crystallizer">"Ice krystalizátor"</string>
+	<string name="earth_crystallizer">"Země krystalizátor"</string>
+	<string name="lightning_blade">"Blesk čepele"</string>
+	<string name="ice_blade">"Ice čepele"</string>
+	<string name="flame_blade">"Flame čepele"</string>
+	<string name="earth_ballista">"Země Balista"</string>
+	<string name="ice_ballista">"Ice Balista"</string>
+	<string name="flame_ballista">"Flame Balista"</string>
+	
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+
+    <!-- Skaði\'s Frozen Savages -->
+    <string name="achievement_frozen_soldier_horseman">"2 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_water_catapult">"4 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_polar_bear">"6 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_ice_golem">"8 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_water_pillar">"10 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_drake">"12 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_water_emitter">"16 Siege als gefrorene Savages Skadi entriegelt"</string>
+    <string name="achievement_race_ice">"Schalte alle Skadi Gefrorene Wilden Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_ice_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Gefrorene Savages Skadi"</string>
+    <string name="achievement_campaign_race_ice_100">"5 Sterne in allen Kampagnen-Levels auf Medium als gefrorene Savages Skadi"</string>
+    <string name="achievement_campaign_race_ice_1000">"5 Sterne in allen Ebenen der Kampagne im Schwierigkeitsgrad als gefrorene Savages Skadi"</string>
+    <string name="achievement_campaign_race_ice_10000">"5 Sterne in allen Ebenen der Kampagne auf Expert als gefrorene Savages Skadi"</string>
+    <string name="achievement_battle_race_ice_5">"5 Siege in Battle Mode als gefrorene Savages Skadi"</string>
+    <string name="achievement_battle_race_ice_25">"25 Siege in Battle Mode als gefrorene Savages Skadi"</string>
+    <string name="achievement_battle_race_ice_100">"100 Siege in Battle Mode als gefrorene Savages Skadi"</string>
+    <string name="achievement_battle_race_ice_1000">"1000 gewinnt im Battle Mode als gefrorene Savages Skadi"</string>
+    <!-- Quetzalcoatl\'s Warrior Tribe -->
+    <string name="achievement_human_archer_horseman">"2 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_griffin_statue">"4 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_panda_bear">"6 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_lightning_golem">"8 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_lightning_pillar">"10 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_dragon">"12 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_lightning_emitter">"16 Siege als Quetzalcoatls Kriegerstammes entriegelt"</string>
+    <string name="achievement_race_wind">"Schalte alle Quetzalcoatls Kriegerstammes Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_wind_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_campaign_race_wind_100">"5 Sterne in allen Kampagnen-Levels auf Medium als Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_campaign_race_wind_1000">"5 Sterne in allen Kampagnen-Levels auf Hard as Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_campaign_race_wind_10000">"5 Sterne in allen Ebenen der Kampagne auf Expert als Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_battle_race_wind_5">"5 Siege in Battle Mode als Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_battle_race_wind_25">"25 Siege in Battle Mode als Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_battle_race_wind_100">"100 Siege in Battle Mode als Quetzalcoatls Kriegerstammes"</string>
+    <string name="achievement_battle_race_wind_1000">"1000 Siege in Battle Mode als Quetzalcoatls Kriegerstammes"</string>
+    <!-- Gaia\'s Lot of Noble Soldiers -->
+    <string name="achievement_elvish_archer_horseman">"2 gewinnt als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_stone_catapult">"4 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_grizzly_bear">"6 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_earth_golem">"8 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_earth_pillar">"10 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_eagle">"12 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_dirt_emitter">"16 Siege als Gaias Lot von Noble Soldiers entriegelt"</string>
+    <string name="achievement_race_earth">"Schalte alle Gaias Lot von Noble Soldiers Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_earth_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_100">"5 Sterne in allen Kampagnen-Levels auf Medium als Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_1000">"5 Sterne in allen Kampagnen-Levels auf Hard as Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_campaign_race_earth_10000">"5 Sterne in allen Ebenen der Kampagne auf Expert als Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_5">"5 Siege in Battle Mode als Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_25">"25 Siege in Battle Mode als Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_100">"100 Siege in Battle Mode als Gaias Lot von Noble Soldiers"</string>
+    <string name="achievement_battle_race_earth_1000">"1000 gewinnt im Battle Mode als Gaias Lot von Noble Soldiers"</string>
+    <!-- Agni\'s Legion of the Sacrificed -->
+    <string name="achievement_mummy_horseman">"2 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_flame_catapult">"4 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_fiery_bear">"6 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_fire_golem">"8 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_fire_pillar">"10 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_falcon">"12 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_fire_emitter">"16 Siege als Agni Legion des geopferten entriegelt"</string>
+    <string name="achievement_race_fire">"Schalte alle Agnis Legion des geopferten Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_fire_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Agnis Legion des geopferten"</string>
+    <string name="achievement_campaign_race_fire_100">"5 Sterne in allen Kampagnen-Levels auf Mittel wie Agni Legion des geopferten"</string>
+    <string name="achievement_campaign_race_fire_1000">"5 Sterne in allen Kampagnen-Levels auf Hard as Agnis Legion des geopferten"</string>
+    <string name="achievement_campaign_race_fire_10000">"5 Sterne in allen Ebenen der Kampagne auf Expert als Agni Legion des geopferten"</string>
+    <string name="achievement_battle_race_fire_5">"5 Siege in Battle Mode als Agni Legion des geopferten"</string>
+    <string name="achievement_battle_race_fire_25">"25 Siege in Battle Mode als Agni Legion des geopferten"</string>
+    <string name="achievement_battle_race_fire_100">"100 Siege in Battle Mode als Agni Legion des geopferten"</string>
+    <string name="achievement_battle_race_fire_1000">"1000 gewinnt im Battle Mode als Agni Legion des geopferten"</string>
+    <!-- Hugues de Payens\' Holy Knights Templar -->
+    <string name="achievement_zealot_horseman">"2 Siege wie Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_angel_statue">"4 Siege wie Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_seraphim">"6 Siege wie Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_life_golem">"8 Siege wie Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_life_pillar">"10 Siege als Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_angel">"12 Siege als Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_holy_water_emitter">"16 Siege als Hugues de Payens 'Holy Knights Templar entriegelt"</string>
+    <string name="achievement_race_life">"Schalte alle Hugues de Payens 'Holy Knights Templar Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_life_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_100">"5 Sterne in allen Kampagnen-Levels auf Mittel wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_1000">"5 Sterne in allen Kampagnen-Levels auf Hart wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_campaign_race_life_10000">"5 Sterne in allen Kampagnen-Levels auf Experten wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_5">"5 Siege in Battle Mode wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_25">"25 Siege in Battle Mode wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_100">"100 Siege in Battle Mode wie Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="achievement_battle_race_life_1000">"1000 gewinnt im Battle Mode wie Hugues de Payens 'Holy Knights Templar"</string>
+    <!-- Damballa\'s Army of the Damned -->
+    <string name="achievement_zombie_horseman">"2 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_gargoyle_statue">"4 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_succubus">"6 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_undead_golem">"8 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_undead_pillar">"10 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_fallen_angel">"12 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_toxic_gas_emitter">"16 Siege als Damballa die Armee der Verdammten entriegelt"</string>
+    <string name="achievement_race_death">"Schalte alle Damballa die Armee der Verdammten Kreaturen und Türme"</string>
+    <string name="achievement_campaign_race_death_10">"5 Sterne in allen Kampagnen-Levels auf Easy as Damballa die Armee der Verdammten"</string>
+    <string name="achievement_campaign_race_death_100">"5 Sterne in allen Kampagnen-Levels auf Medium als Damballa die Armee der Verdammten"</string>
+    <string name="achievement_campaign_race_death_1000">"5 Sterne in allen Kampagnen-Levels auf Hard as Damballa die Armee der Verdammten"</string>
+    <string name="achievement_campaign_race_death_10000">"5 Sterne in allen Ebenen der Kampagne auf Expert als Damballa die Armee der Verdammten"</string>
+    <string name="achievement_battle_race_death_5">"5 Siege in Battle Mode als Damballa die Armee der Verdammten"</string>
+    <string name="achievement_battle_race_death_25">"25 Siege in Battle Mode als Damballa die Armee der Verdammten"</string>
+    <string name="achievement_battle_race_death_100">"100 Siege in Battle Mode als Damballa die Armee der Verdammten"</string>
+    <string name="achievement_battle_race_death_1000">"1000 gewinnt im Battle Mode als Damballa die Armee der Verdammten"</string>
+
+</resources>

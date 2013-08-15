@@ -1,0 +1,250 @@
+<resources>
+
+    <string name="app_name">"Goden en Towers"</string>
+    <string name="app_description">"Goden en Towers, een 3D Tower Defense game tegen de AI of PVP."</string>
+    <string name="motto">"Vechten om te winnen!"</string>
+
+    <!-- Main Menu -->
+    <string name="main_resume">"Resume Game"</string>
+    <string name="main_newGame">"Nieuw spel"</string>
+    <string name="main_store">"Winkel"</string>
+    <string name="main_upgrade">"Upgrade"</string>
+    <string name="main_achievements">"Achievements"</string>
+    <string name="main_almanac">"Almanak"</string>
+    <string name="main_options">"Opties"</string>
+    <string name="main_credits">"Crediteringen"</string>
+    <string name="main_exit">"Afsluiten"</string>
+    <string name="main_back">"Terug"</string>
+    <string name="main_retry">"Probeer opnieuw"</string>
+    <string name="main_downloading">"Het downloaden van spelgegevens, even geduld ..."</string>
+    <string name="main_download_failed">"Kan de vereiste gegevens te downloaden, dan kunt u afsluiten en opnieuw het spel om opnieuw te proberen waar het was gebleven."</string>
+    <string name="main_external_storage">"Monteer de externe opslag, zodat de applicatie kan downloaden / gebruiken vereiste gegevens"</string>
+    <string name="main_latest_version">"Een nieuwe versie van Goden en Towers beschikbaar is of u niet in staat om verbinding te maken met de game server."</string>
+    <string name="main_no_news">"Geen nieuws"</string>
+    <string name="main_news_server_down">"Het nieuws server down is, of er is een fout opgetreden ophalen van de nieuwste game nieuws."</string>
+    <string name="main_version">"versie"</string>
+    <string name="main_graphics">"Er is een fout opgetreden laden model gegevens als gevolg van overmatig geheugengebruik. Grafische instellingen worden verlaagd en de aanvraag wordt verlaten. Gelieve opnieuw opstarten en het spel te starten met een beperkte Texture Quality en / of Mesh kwaliteit, probeer die u kunt instellen in het menu Opties wanneer u voor het eerst opstart van het spel."</string>
+    <string name="main_rate_dialog">"Als u genieten van het gebruik, %s, neem dan de tijd nemen om het te beoordelen. Dank u voor uw steun."</string>
+    <string name="main_rate_now">"tarief %s"</string>
+    <string name="main_rate_later">"Herinner mij later"</string>
+    <string name="main_rate_never">"Nee, bedankt"</string>
+
+    <!-- Purchase -->
+    <string name="purchase_money">"$ $"</string>
+    <string name="purchase_purchase">"Kopen"</string>
+    <string name="purchase_cancel">"Annuleren"</string>
+    <string name="purchase_reduced_ads">"Verwijder opdringerige advertenties"</string>
+    <string name="purchase_reduced_ads_description">"Elimineert de ADS op de top van alle menu's en degenen die vóór en na de wedstrijden."</string>
+    <string name="purchase_all_races">"Alles ontgrendelen Races"</string>
+    <string name="purchase_all_races_description">"Ontgrendelt alle rassen waardoor u toegang tot 25 nieuwe wezens en 20 nieuwe torens."</string>
+    <string name="purchase_multiple_races">"Unlock Race Combinaties"</string>
+    <string name="purchase_multiple_races_description">"Ontgrendelt de mogelijkheid om als meer dan een wedstrijd te spelen in een keer geeft u toegang tot 12 nieuwe wezens en 12 nieuwe torens."</string>
+    <string name="purchase_special_100">"Aankoop 100 van elke speciale"</string>
+    <string name="purchase_special_100_description">"Geeft u 100 van elk van de race specials"</string>
+    <string name="purchase_upgrade_abilities">"Upgrade alle spelers en race capaciteiten"</string>
+    <string name="purchase_upgrade_abilities_description">"Verhoogt het niveau van 1 van de speler alle statistieken en race stats"</string>
+    <string name="purchase_upgrade_all">"Upgrade elke toren / schepsel voor alle rassen"</string>
+    <string name="purchase_upgrade_all_description">"Verhoogt het niveau van elke mogelijkheid voor elk schepsel / toren door een"</string>
+    <string name="purchase_upgrade_onerace">"Upgrade elke toren / schepsel voor "</string>
+    <string name="purchase_upgrade_onerace_description">"Verhoogt het niveau van elke mogelijkheid voor alle schepselen / flats in een wedstrijd met 1"</string>
+    <string name="purchase_double_experience">"Verdubbel uw ervaring"</string>
+    <string name="purchase_double_experience_description">"Direct geeft je 2x je huidige ervaring niveau in elke race."</string>
+    <string name="purchase_billing_not_supported_title">"Kan geen aankopen doen"</string>
+    <string name="purchase_billing_not_supported_message">"De facturering service is niet beschikbaar op dit moment. U kunt doorgaan met deze app te gebruiken, maar je zult niet in staat zijn om aankopen te doen."</string>
+    <string name="purchase_cannot_connect_title">"Kan geen verbinding maken met de billing service"</string>
+    <string name="purchase_cannot_connect_message">"Deze app kan geen verbinding met de billing service. U kunt doorgaan met deze app te gebruiken, maar je zult niet in staat zijn om aankopen te doen."</string>
+    <string name="purchase_restoring_transactions">"Herstel van transacties"</string>
+
+    <!-- Credits -->
+    <string name="credits_url">"Website"</string>
+    <string name="credits_production">"Produced By"</string>
+    <string name="credits_production_name">"Gundog Studios"</string>
+    <string name="credits_production_website">"http://www.gundogstudios.com"</string>
+    <string name="credits_programming">"programmeren"</string>
+    <string name="credits_programming_name">"Joe Wetten"</string>
+    <string name="credits_programming_website">"http://www.joelaws.com"</string>
+    <string name="credits_models">"3D-modellen en texturen"</string>
+    <string name="credits_models_name">"Tucho Fernández Calo"</string>
+    <string name="credits_models_website">"http://www.artbytucho.com"</string>
+    <string name="credits_story">"Game Almanak"</string>
+    <string name="credits_story_name">"Jordy Clements"</string>
+    <string name="credits_story_website">"http://jordyclements.com/"</string>
+    <string name="credits_pixelart">"2D-Pixel Art"</string>
+    <string name="credits_pixelart_name">"Paul Calvert"</string>
+    <string name="credits_pixelart_website">"http://www.krop.com/paulcalvert/~~V # /"</string>
+    <string name="credits_music">"Muziek"</string>
+    <string name="credits_music_name">"Neil Johnston"</string>
+    <string name="credits_music_website">"http://www.storevanmusic.com/Store_Van_Music_2011/Neil_Johnston.html~~V"</string>
+    <string name="credits_website">"Webdesign"</string>
+    <string name="credits_website_name">"Katherine Lewis"</string>
+    <string name="credits_website_website">"http://www.eastofnorth.com/"</string>
+    <string name="credits_trailer">"Aanhangwagen"</string>
+    <string name="credits_trailer_name">"Eamon Urtone"</string>
+    <string name="credits_trailer_website">"http://vimeo.com/eamonurtone"</string>
+    <string name="credits_translations">"Vertaling"</string>
+    <string name="credits_translations_names">"Seung-Eun Lee (Korea)"</string>
+    <string name="credits_special_thanks">"Speciale dank"</string>
+    <string name="credits_special_thanks_names">"Team Awesome en 2e Peloton Delta Company 2-35DAT"</string>
+    <string name="credits_inmemoryof">"In Memory of SGT Kevin White. Gone, maar niet vergeten."</string>
+
+    <!-- InGame -->
+    <string name="game_you">"U"</string>
+    <string name="game_enemy">"Vijand"</string>
+    <string name="game_wave">"Wave"</string>
+    <string name="game_in">"Indien u moeilijkheden ondervindt i.v.m de "</string>
+    <string name="game_seconds">"s"</string>
+    <string name="game_plus">"+"</string>
+    <string name="game_creature_level">"Upgraden naar SCHEPSEL NIVEAU"</string>
+    <string name="game_max_upgrade">"AANKOOP MAX UPGRADE"</string>
+    <string name="game_enable_auto_purchase">"INSCHAKELEN AUTO INKOOP"</string>
+    <string name="game_disable_auto_purchase">"UITSCHAKELEN AUTO INKOOP"</string>
+
+    <!-- GameManager -->
+    <string name="manager_failedToLoad">"Mislukt laden"</string>
+    <string name="manager_playerReset">"Speler en een spelcomputer gegevens Reset"</string>
+
+    <!-- ResultsActivity -->
+    <string name="results_won">"U heeft gewonnen"</string>
+    <string name="results_lost">"You Lost"</string>
+    <string name="results_disconnected">"Verbinding verbroken"</string>
+    <string name="results_you">"U"</string>
+    <string name="results_ai">"AI"</string>
+    <string name="results_continue">"Doorgaan"</string>
+    <string name="results_length">"Lengte"</string>
+    <string name="results_waves">"Waves"</string>
+    <string name="results_base_xp">"Base XP"</string>
+    <string name="results_total_xp">"Totaal aantal XP per wedstrijd"</string>
+    <string name="results_campaign">"Acties"</string>
+    <string name="results_rewards">"Beloningen"</string>
+    <string name="results_main">"Hoofdpagina"</string>
+    <string name="results_life">"Leven"</string>
+    <string name="results_income">"Inkomen"</string>
+    <string name="results_offense">"Overtreding"</string>
+    <string name="results_defense">"Defensie +"</string>
+    <string name="results_wave">"Wave"</string>
+    <string name="results_achievement_bonus">"Prestatie Bonus"</string>
+    <string name="results_win_bonus">"Win Bonus"</string>
+    <string name="results_length_bonus">"Lengte Bonus"</string>
+    <string name="results_life_bonus">"Life Bonus"</string>
+    <string name="results_multiple_race_factor">"Meerdere Race Factor"</string>
+    <string name="results_free_version">"Je hoeft niet te verdienen ervaring in de gratis versie van Goden en Towers"</string>
+
+    <!-- Options Menu -->
+    <string name="options_resetPlayer">"Weet je zeker dat je alle gegevens van de spelers opnieuw in te stellen?"</string>
+    <string name="options_assetClear">"Weet je zeker dat je alle download activa wissen?"</string>
+    <string name="options_reset">"Terugzetten"</string>
+    <string name="options_assets">"Verwijder Gegevens van enkele spelen"</string>
+    <string name="options_clear">"Wissen"</string>
+    <string name="options_clearing">"Alle downloaden activa worden verwijderd, wordt de toepassing verlaten ..."</string>
+    <string name="options_soundOn">"Geluid Op"</string>
+    <string name="options_soundOff">"Overdrijven"</string>
+    <string name="options_cancel">"Annuleren"</string>
+    <string name="options_textureQuality">"Texture Quality"</string>
+    <string name="options_meshQuality">"Mesh kwaliteit"</string>
+    <string name="options_engineSpeed">"GameEngine Speed"</string>
+    <string name="options_high">"Hoog"</string>
+    <string name="options_medium">"Middel"</string>
+    <string name="options_low">"Laag"</string>
+    <string name="options_fast">"Snel"</string>
+    <string name="options_normal">"Normaal"</string>
+    <string name="options_slow">"Langzaam"</string>
+
+    <!-- NewGame Menu -->
+    <string name="newgame_opponentsLevel">"Tegenstanders Level"</string>
+    <string name="newgame_yourRace">"Uw Race (s)"</string>
+    <string name="newgame_opponentsRace">"Tegenstanders Race (s)"</string>
+    <string name="newgame_waves">"Max Waves"</string>
+    <string name="newgame_invalid_text">"Ongeldige computer niveau of golftelling, dan kunt u in een aantal&gt; 0"</string>
+    <string name="newgame_computersRaceLevel">"Computers niveau ten minste"</string>
+    <string name="newgame_startGame">"Start Game"</string>
+    <string name="newgame_minHumanRaces">"U moet ten minste 1 race voor jezelf"</string>
+    <string name="newgame_minComputerRaces">"U moet ten minste 1 race voor de computer"</string>
+    <string name="newgame_speed">"GameSpeed"</string>
+    <string name="newgame_fast">"Snel"</string>
+    <string name="newgame_normal">"Normaal"</string>
+    <string name="newgame_slow">"Langzaam"</string>
+    <string name="newgame_difficulty">"moeilijkheidsgraad"</string>
+    <string name="newgame_easy">"Simpel ..."</string>
+    <string name="newgame_medium">"Middel"</string>
+    <string name="newgame_hard">"Hard"</string>
+    <string name="newgame_expert">"Expert:"</string>
+    <string name="newgame_type">"Gametype"</string>
+    <string name="newgame_tutorial">"Training"</string>
+    <string name="newgame_campaign">"Acties"</string>
+    <string name="newgame_defense">"Defensie Training"</string>
+    <string name="newgame_battle">"Battle Mode"</string>
+    <string name="newgame_online">"Online Game"</string>
+    <string name="newgame_findGame">"Zoek Game"</string>
+    <string name="newgame_searching">"Wordt doorzocht..."</string>
+    <string name="newgame_random">"WILLEKEURIG"</string>
+    <string name="newgame_onlineError">"U bent niet in staat om een ​​online spel mee"</string>
+
+    <!-- Upgrade Menu -->
+    <string name="upgrade_XP">"Xp"</string>
+    <string name="upgrade_creatures">"Creatures"</string>
+    <string name="upgrade_towers">"Towers"</string>
+    <string name="upgrade_specials">"Specials"</string>
+    <string name="upgrade_notEnoughXP">"U heeft niet genoeg ervaring voor"</string>
+
+    <!-- Races -->
+    <string name="race_fire">"Agni de Legioen van de geofferde"</string>
+    <string name="race_ice">"Bevroren Savages Skadi's"</string>
+    <string name="race_earth">"Gaia's Lot van Noble Soldiers"</string>
+    <string name="race_wind">"Quetzalcoatl's Warrior Tribe"</string>
+    <string name="race_life">"Hugues de Payens 'Holy Knights Templar"</string>
+    <string name="race_death">"Damballa's Army of the Damned"</string>
+
+    <!-- Achievements Menu -->
+    <string name="achievements_XP">"Xp"</string>
+    <string name="achievements_longestGame">"Langste partij"</string>
+    <string name="achievements_shortestGame">"KORTSTE GAME"</string>
+    <string name="achievements_highestScore">"Hoogste score"</string>
+    <string name="achievements_highestLevelBeaten">"GESLAGEN HOOGSTE NIVEAU"</string>
+    <string name="achievements_wins">"BATTLE WINS"</string>
+    <string name="achievements_losses">"BATTLE VERLIEZEN"</string>
+
+    <!-- BasePlayer -->
+    <string name="stat_gold">"Vanaf Gold"</string>
+    <string name="stat_life">"Vanaf Life"</string>
+
+    <!-- BaseCreature/BaseTower -->
+    <string name="stat_cost">"Kosten"</string>
+    <string name="stat_income">"Inkomen"</string>
+    <string name="stat_air">"Lucht"</string>
+    <string name="stat_ground">"Grond"</string>
+    <string name="stat_attack_range">"Attack Range"</string>
+    <string name="stat_health">"Gezondheid"</string>
+    <string name="stat_speed">"Snelheid"</string>
+    <string name="stat_defense">"Defensie +"</string>
+    <string name="stat_damage">"Schade"</string>
+    <string name="stat_attack_rate">"Attack Rate"</string>
+
+    <!-- BaseRace -->
+    <string name="stat_splash_radius">"Splash Damage in een straal van"</string>
+    <string name="stat_splash_strength_fade">"Splash Sterkte Fade"</string>
+    <string name="stat_creature_damage_modifier">"Creature schade bonus"</string>
+    <string name="stat_slow_duration">"Slow Duur"</string>
+    <string name="stat_slow_factor">"Langzaam"</string>
+    <string name="stat_creature_evade_percentage">"Ontwijk Chance"</string>
+    <string name="stat_stun_duration">"Stun Duur"</string>
+    <string name="stat_tower_attack_rate_modifier">"Tower Attack Speed ​​Bonus"</string>
+    <string name="stat_creature_speed_modifier">"Creature Movement Speed ​​Bonus"</string>
+    <string name="stat_tower_damage_modifier">"Tower schade bonus"</string>
+    <string name="stat_tower_defense_modifier">"Tower Defense Bonus"</string>
+    <string name="stat_creature_defense_modifier">"Creature Defense Bonus"</string>
+    <string name="stat_drain_duration">"Tap Duur"</string>
+    <string name="stat_drain_percentage">"Tap Percentage"</string>
+    <string name="stat_heal_percentage">"Heal Percentage"</string>
+    <string name="stat_kill_percentage">"Instant Kill Chance"</string>
+    <string name="stat_creature_health_modifier">"Creature Health Bonus"</string>
+    <string name="stat_resurrect_percentage">"Resurrection Chance"</string>
+
+    <!-- Special Strings -->
+    <string name="special_damage">"Schade alle vijandelijke wezens"</string>
+    <string name="special_heal">"Genees al uw schepselen"</string>
+    <string name="special_kill">"Dood 25% van de vijandelijke wezens op je bord"</string>
+    <string name="special_slow">"Langzaam alle vijandelijke wezens"</string>
+    <string name="special_speed">"Versnel al uw schepselen"</string>
+    <string name="special_stun">"Stun alle vijandelijke wezens"</string>
+
+</resources>
